@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ccb258bf",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:metal_device"
+		}]
+	}]
+}

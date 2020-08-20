@@ -1,0 +1,12 @@
+{
+	x: -3.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "4f5a6611",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator 1 6"
+		}],
+		ignore_nbt: 1b
+	}]
+}

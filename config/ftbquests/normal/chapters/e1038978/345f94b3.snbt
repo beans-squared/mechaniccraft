@@ -1,0 +1,10 @@
+{
+	title: "High-Voltage Coil Block",
+	icon: "immersiveengineering:metal_decoration0 1 2",
+	x: 9.0d,
+	y: 7.5d,
+	dependencies: [
+		"971e4032",
+		"73036e21"
+	]
+}

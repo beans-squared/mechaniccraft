@@ -1,0 +1,19 @@
+{
+	title: "Science Packs",
+	icon: "contenttweaker:red_science_pack",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Science packs are used to complete research, which unlocks more advanced machines and gadgets.",
+		"",
+		"You'll want to start automating production of these as soon as you can."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "d951ac3f",
+		type: "checkmark"
+	}]
+}

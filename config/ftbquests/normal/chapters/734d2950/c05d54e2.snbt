@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f4b058c6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 5,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:drill"
+		}],
+		ignore_nbt: 1b
+	}]
+}

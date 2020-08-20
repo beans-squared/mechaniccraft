@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "3876b359",
+		type: "item",
+		items: [{
+			item: "techreborn:diesel_generator"
+		}]
+	}]
+}

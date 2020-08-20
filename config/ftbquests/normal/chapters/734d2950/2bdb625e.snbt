@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "6cca894c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_slaughter_factory"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "processors",
+	x: 3.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "ef8f3fe7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor 1 3"
+		}]
+	}]
+}

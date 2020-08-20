@@ -1,0 +1,10 @@
+{
+	title: "starting",
+	icon: "engineersdecor:sign_factoryarea",
+	description: [
+		"Start here!"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

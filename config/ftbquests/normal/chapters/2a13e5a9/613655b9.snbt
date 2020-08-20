@@ -1,0 +1,12 @@
+{
+	title: "interfaces",
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "3fb364e4",
+		type: "item",
+		items: [{
+			item: "refinedstorage:interface"
+		}]
+	}]
+}

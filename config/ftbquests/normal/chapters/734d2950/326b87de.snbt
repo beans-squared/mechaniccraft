@@ -1,0 +1,23 @@
+{
+	title: "Mineral Melting",
+	icon: "engineersdecor:small_mineral_smelter",
+	x: 8.0d,
+	y: 3.0d,
+	description: "Turn stone into lava.",
+	dependencies: [
+		"df1d94a3"
+	],
+	tasks: [{
+		uid: "f4ee6227",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "7194ddb2",
+		type: "custom",
+		title: "Unlock: Small Mineral Smelting Furnace",
+		icon: "engineersdecor:small_mineral_smelter"
+	}]
+}

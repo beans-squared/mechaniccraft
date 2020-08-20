@@ -1,0 +1,22 @@
+{
+	title: "Passive Fluidics",
+	x: 5.0d,
+	y: 4.0d,
+	dependencies: [
+		"61e4520f"
+	],
+	tasks: [{
+		uid: "b11e7c54",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0 1 6"
+		}]
+	},
+	{
+		uid: "cd9ce82e",
+		type: "item",
+		items: [{
+			item: "engineersdecor:passive_fluid_accumulator"
+		}]
+	}]
+}

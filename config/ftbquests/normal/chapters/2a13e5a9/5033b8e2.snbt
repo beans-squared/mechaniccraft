@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: 5.0d,
+	dependencies: [
+		"38868d10"
+	],
+	tasks: [{
+		uid: "d8d1c72c",
+		type: "item",
+		items: [{
+			item: "immersivetech:valve 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Gears",
+	icon: "teslacorelib:gear_iron",
+	x: 1.0d,
+	y: 2.5d,
+	text: [
+		"Used in many crafting recipes."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "bee067c6",
+		type: "checkmark"
+	}]
+}

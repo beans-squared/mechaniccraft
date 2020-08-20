@@ -1,0 +1,9 @@
+{
+	title: "Electrum Cable",
+	icon: "techreborn:cable 1 2",
+	x: 1.0d,
+	y: 4.0d,
+	dependencies: [
+		"75aa2b9e"
+	]
+}

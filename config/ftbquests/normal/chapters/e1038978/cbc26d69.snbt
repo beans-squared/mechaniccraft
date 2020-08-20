@@ -1,0 +1,12 @@
+{
+	title: "neutron reflectors",
+	x: 14.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "3dd171ef",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 26"
+		}]
+	}]
+}

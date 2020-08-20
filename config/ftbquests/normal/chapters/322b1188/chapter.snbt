@@ -1,0 +1,15 @@
+{
+	title: "Utility",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:skyhook"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

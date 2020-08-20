@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "bcfda4b7",
+		type: "item",
+		items: [{
+			item: "techreborn:wind_mill"
+		}]
+	}]
+}

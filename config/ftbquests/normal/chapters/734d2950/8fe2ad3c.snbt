@@ -1,0 +1,11 @@
+{
+	x: 10.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "d82f90cb",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_fermenter"
+		}]
+	}]
+}

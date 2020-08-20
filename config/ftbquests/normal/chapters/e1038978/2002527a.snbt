@@ -1,0 +1,16 @@
+{
+	x: 16.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "2ca24e73",
+		type: "item",
+		items: [{
+			id: "techreborn:lithiumbattery",
+			tag: {
+				energy: 400000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

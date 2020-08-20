@@ -1,0 +1,11 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5af7f9eb",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_grinder"
+		}]
+	}]
+}

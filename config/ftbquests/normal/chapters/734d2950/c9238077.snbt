@@ -1,0 +1,11 @@
+{
+	x: 8.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "043e4e6e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:sludge_refiner"
+		}]
+	}]
+}

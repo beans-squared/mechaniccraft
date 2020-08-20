@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 5.0d,
+	dependencies: [
+		"7cb306a7"
+	],
+	tasks: [{
+		uid: "5bdf3df9",
+		type: "item",
+		items: [{
+			item: "immersivetech:metal_barrel 1 2"
+		}]
+	}]
+}

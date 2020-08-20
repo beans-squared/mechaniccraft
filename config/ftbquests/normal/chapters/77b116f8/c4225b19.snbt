@@ -1,0 +1,15 @@
+{
+	title: "Thermodynamics III",
+	icon: "mekanismgenerators:generator",
+	x: 0.0d,
+	y: 1.0d,
+	description: "Generate power using heat.",
+	tasks: [{
+		uid: "9daa29f3",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:generator"
+		}],
+		ignore_nbt: 1b
+	}]
+}

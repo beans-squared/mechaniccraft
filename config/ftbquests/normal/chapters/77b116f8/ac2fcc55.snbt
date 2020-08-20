@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "623cd275",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:protein_generator"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	title: "coolant cells",
+	x: 11.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "4a10bc3f",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 8"
+		}]
+	}]
+}

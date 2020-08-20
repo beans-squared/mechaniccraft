@@ -1,0 +1,12 @@
+{
+	title: "heating coils",
+	x: 12.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d7133896",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 13"
+		}]
+	}]
+}

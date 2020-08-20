@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "b040db12",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:metal_device 1 1"
+		}]
+	}]
+}

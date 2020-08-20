@@ -1,0 +1,13 @@
+{
+	title: "Coal Coke",
+	icon: "immersiveengineering:material 1 6",
+	x: 7.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "45252820",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 6"
+		}]
+	}]
+}

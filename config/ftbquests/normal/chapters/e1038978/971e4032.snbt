@@ -1,0 +1,10 @@
+{
+	title: "Electrum Coil Block",
+	icon: "immersiveengineering:metal_decoration0 1 1",
+	x: 9.0d,
+	y: 6.5d,
+	dependencies: [
+		"75aa2b9e",
+		"681a0593"
+	]
+}

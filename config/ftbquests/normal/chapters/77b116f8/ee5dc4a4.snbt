@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "9a208ce3",
+		type: "item",
+		items: [{
+			item: "techreborn:semi_fluid_generator"
+		}]
+	}]
+}

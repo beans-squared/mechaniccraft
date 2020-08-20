@@ -1,0 +1,17 @@
+{
+	title: "crystals",
+	x: 15.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "ee69f527",
+		type: "item",
+		items: [{
+			id: "techreborn:energycrystal",
+			tag: {
+				energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

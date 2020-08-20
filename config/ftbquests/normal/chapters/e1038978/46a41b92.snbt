@@ -1,0 +1,11 @@
+{
+	x: 12.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "d1b4b797",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:soot_covered_redstone"
+		}]
+	}]
+}

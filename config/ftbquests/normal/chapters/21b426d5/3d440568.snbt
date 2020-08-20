@@ -1,0 +1,16 @@
+{
+	title: "README",
+	icon: "teslacorelib:gear_iron",
+	x: 0.0d,
+	y: 0.0d,
+	description: "ME ME ME MEEEEEEEEEEEEEEE",
+	text: [
+		"Welcome to MechanicCraft!",
+		"",
+		"All the items listed below are available to you immediately. It is recommended you read each description, to ensure you are not lost!"
+	],
+	tasks: [{
+		uid: "919ff9fd",
+		type: "checkmark"
+	}]
+}

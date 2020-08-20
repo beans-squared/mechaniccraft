@@ -1,0 +1,18 @@
+{
+	title: "Electrical Smelting I",
+	icon: "engineersdecor:small_electrical_furnace",
+	x: 6.5d,
+	y: 3.0d,
+	description: "Automated fueless smelting.",
+	dependencies: [
+		"24c3b79d",
+		"df1d94a3"
+	],
+	tasks: [{
+		uid: "3b23cf29",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_electrical_furnace"
+		}]
+	}]
+}

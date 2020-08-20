@@ -1,0 +1,12 @@
+{
+	title: "upgrades",
+	x: 8.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "14fa23b3",
+		type: "item",
+		items: [{
+			item: "refinedstorage:upgrade 1 1"
+		}]
+	}]
+}

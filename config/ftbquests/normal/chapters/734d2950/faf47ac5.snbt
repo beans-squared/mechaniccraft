@@ -1,0 +1,11 @@
+{
+	x: 13.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "ea8e8ec9",
+		type: "item",
+		items: [{
+			item: "techreborn:fusion_control_computer"
+		}]
+	}]
+}

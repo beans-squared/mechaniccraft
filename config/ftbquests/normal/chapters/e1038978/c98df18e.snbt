@@ -1,0 +1,12 @@
+{
+	title: "storage parts",
+	x: 2.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "19278afa",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_part"
+		}]
+	}]
+}

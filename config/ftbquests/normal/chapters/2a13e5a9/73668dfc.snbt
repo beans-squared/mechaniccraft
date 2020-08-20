@@ -1,0 +1,14 @@
+{
+	x: 13.5d,
+	y: 5.0d,
+	dependencies: [
+		"fe9c3756"
+	],
+	tasks: [{
+		uid: "4117c487",
+		type: "item",
+		items: [{
+			item: "engineersdecor:factory_placer"
+		}]
+	}]
+}

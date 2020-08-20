@@ -1,0 +1,9 @@
+{
+	title: "Insulated Electrum Cable",
+	icon: "techreborn:cable 1 6",
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"973837c9"
+	]
+}

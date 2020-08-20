@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "af63b09b",
+		type: "item",
+		items: [{
+			item: "refinedstorage:silicon"
+		}]
+	}]
+}

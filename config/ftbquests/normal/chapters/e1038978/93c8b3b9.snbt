@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "e28165bf",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor_binding"
+		}]
+	}]
+}

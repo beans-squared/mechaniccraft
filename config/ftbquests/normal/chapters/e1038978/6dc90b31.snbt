@@ -1,0 +1,9 @@
+{
+	title: "Motor",
+	icon: "magneticraft:crafting 1 2",
+	x: 13.0d,
+	y: 4.5d,
+	dependencies: [
+		"0a859207"
+	]
+}

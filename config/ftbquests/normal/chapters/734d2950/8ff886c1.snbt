@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "9d770253",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:latex_processing_unit"
+		}]
+	}]
+}

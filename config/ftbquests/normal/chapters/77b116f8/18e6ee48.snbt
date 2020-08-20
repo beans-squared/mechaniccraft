@@ -1,0 +1,14 @@
+{
+	title: "Lightning Rod II",
+	icon: "techreborn:lightning_rod",
+	x: 3.0d,
+	y: -0.5d,
+	description: "Harness the power of thunderstorms.",
+	tasks: [{
+		uid: "31475bf1",
+		type: "item",
+		items: [{
+			item: "techreborn:lightning_rod"
+		}]
+	}]
+}

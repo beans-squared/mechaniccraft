@@ -1,0 +1,7 @@
+{
+	title: "Intermediate Products",
+	icon: "techreborn:part 1 40",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare"
+}

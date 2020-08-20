@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	dependencies: [
+		"72b2c27e"
+	],
+	tasks: [{
+		uid: "797280fe",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_fluid_funnel"
+		}]
+	}]
+}

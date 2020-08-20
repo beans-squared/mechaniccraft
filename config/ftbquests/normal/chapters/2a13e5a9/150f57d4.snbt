@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	dependencies: [
+		"61e4520f"
+	],
+	tasks: [{
+		uid: "bded6f73",
+		type: "item",
+		items: [{
+			item: "engineersdecor:straight_pipe_valve"
+		}]
+	}]
+}

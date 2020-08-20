@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f4a7af38",
+		type: "item",
+		items: [{
+			item: "refinedstorage:relay"
+		}]
+	}]
+}

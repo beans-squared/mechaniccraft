@@ -1,0 +1,10 @@
+{
+	title: "Electric Engine",
+	icon: "magneticraft:electric_engine",
+	x: 13.0d,
+	y: 5.5d,
+	dependencies: [
+		"6dc90b31",
+		"e073145b"
+	]
+}

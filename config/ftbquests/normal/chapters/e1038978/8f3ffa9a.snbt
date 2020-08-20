@@ -1,0 +1,11 @@
+{
+	x: 18.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "56a5340c",
+		type: "item",
+		items: [{
+			item: "techreborn:part 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Logistics",
+	icon: "magneticraft:conveyor_belt",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare"
+}

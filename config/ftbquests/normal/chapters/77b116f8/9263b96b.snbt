@@ -1,0 +1,35 @@
+{
+	title: "Steam Power II",
+	icon: "magneticraft:steam_boiler",
+	x: -1.5d,
+	y: -0.5d,
+	description: "Bigger and better steam power.",
+	dependencies: [
+		"5e493bc8"
+	],
+	tasks: [{
+		uid: "aaf799d0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "99c36b08",
+		type: "custom",
+		title: "Unlock: Steam Turbine",
+		icon: "magneticraft:steam_turbine"
+	},
+	{
+		uid: "810277b0",
+		type: "custom",
+		title: "Unlock: Bigger Combustion Chamber",
+		icon: "magneticraft:big_combustion_chamber"
+	},
+	{
+		uid: "eecf4c3c",
+		type: "custom",
+		title: "Unlock: Bigger Steam Boiler",
+		icon: "magneticraft:big_steam_boiler"
+	}]
+}

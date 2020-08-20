@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 5.0d,
+	dependencies: [
+		"fe9c3756"
+	],
+	tasks: [{
+		uid: "afe4a1a1",
+		type: "item",
+		items: [{
+			item: "engineersdecor:factory_dropper"
+		}]
+	}]
+}

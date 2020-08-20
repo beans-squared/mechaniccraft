@@ -1,0 +1,24 @@
+{
+	title: "Sluicing",
+	icon: "magneticraft:sluice_box",
+	x: 4.5d,
+	y: 3.0d,
+	description: "Filter your ore bits.",
+	dependencies: [
+		"672ee63e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "79eaa374",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "df0bdf7d",
+		type: "custom",
+		title: "Unlock: Sluice Box",
+		icon: "magneticraft:sluice_box"
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Primitive Ore Processing",
+	icon: "magneticraft:crushing_table",
+	x: 4.5d,
+	y: 1.5d,
+	description: "Smash your ores to bits, because why not?",
+	tasks: [{
+		uid: "ef0818c9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "1f7c11c6",
+		type: "custom",
+		title: "Unlock: Crushing Table",
+		icon: "magneticraft:crushing_table"
+	},
+	{
+		uid: "24e0048c",
+		type: "custom",
+		title: "Unlock: Hammers",
+		icon: "magneticraft:stone_hammer"
+	}]
+}

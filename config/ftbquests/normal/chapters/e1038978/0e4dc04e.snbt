@@ -1,0 +1,12 @@
+{
+	title: "artificial dyes",
+	x: 8.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "727a4e01",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:artificial_dye"
+		}]
+	}]
+}

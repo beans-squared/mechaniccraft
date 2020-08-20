@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -7.0d,
+	tasks: [{
+		uid: "41a5234b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:block_destroyer"
+		}]
+	}]
+}

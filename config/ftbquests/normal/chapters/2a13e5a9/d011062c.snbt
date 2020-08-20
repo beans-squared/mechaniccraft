@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 5.0d,
+	dependencies: [
+		"150f57d4"
+	],
+	tasks: [{
+		uid: "72ffd7af",
+		type: "item",
+		items: [{
+			item: "engineersdecor:straight_pipe_valve_redstone"
+		}]
+	},
+	{
+		uid: "6500cb33",
+		type: "item",
+		items: [{
+			item: "engineersdecor:straight_pipe_valve_redstone_analog"
+		}]
+	}]
+}

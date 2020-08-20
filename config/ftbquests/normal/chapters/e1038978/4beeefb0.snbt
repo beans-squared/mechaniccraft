@@ -1,0 +1,12 @@
+{
+	title: "machine casings",
+	x: 9.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "2e7c4053",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing"
+		}]
+	}]
+}

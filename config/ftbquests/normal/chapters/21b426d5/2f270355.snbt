@@ -1,0 +1,17 @@
+{
+	title: "Metal Rods",
+	icon: "immersiveengineering:material 1 1",
+	x: 2.0d,
+	y: 2.5d,
+	text: [
+		"While not as widely seen as plates, they are still an important crafting component."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "9269e90b",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "6f6e77c3",
+		type: "item",
+		items: [{
+			item: "refinedstorage:quartz_enriched_iron"
+		}]
+	}]
+}

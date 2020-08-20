@@ -1,0 +1,12 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "cb5521a2",
+		type: "item",
+		items: [{
+			id: "techreborn:industrial_blast_furnace",
+			tag: {}
+		}]
+	}]
+}

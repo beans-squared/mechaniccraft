@@ -1,0 +1,26 @@
+{
+	title: "Diesel Power",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "biodiesel",
+			Amount: 1000
+		}
+	},
+	x: 1.5d,
+	y: -2.0d,
+	description: "Generate power using diesel fluids.",
+	tasks: [{
+		uid: "6a3ed58a",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "biodiesel",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

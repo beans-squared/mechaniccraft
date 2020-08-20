@@ -1,0 +1,19 @@
+{
+	title: "Inserters",
+	icon: "magneticraft:inserter",
+	x: -1.0d,
+	y: 1.5d,
+	text: [
+		"Inserters are mechanical arms used to move items between machines, conveyor belts and storage devices, such as chests.",
+		"",
+		"They are part of the core of automation in MechanicCraft."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "3dfc0643",
+		type: "checkmark"
+	}]
+}

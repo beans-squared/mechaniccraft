@@ -1,0 +1,7 @@
+{
+	title: "Production",
+	icon: "engineersdecor:small_electrical_furnace",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare"
+}

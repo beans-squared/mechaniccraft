@@ -1,0 +1,17 @@
+{
+	title: "Copper Wire",
+	icon: "immersiveengineering:material 1 20",
+	x: -2.0d,
+	y: 3.5d,
+	text: [
+		"Used in circuits and power stuf."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "8a0a0490",
+		type: "checkmark"
+	}]
+}

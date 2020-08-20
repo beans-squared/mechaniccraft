@@ -1,0 +1,11 @@
+{
+	x: 16.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "fe216b42",
+		type: "item",
+		items: [{
+			item: "techreborn:lv_transformer"
+		}]
+	}]
+}

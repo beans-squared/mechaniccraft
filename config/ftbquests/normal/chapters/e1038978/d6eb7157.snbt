@@ -1,0 +1,12 @@
+{
+	title: "raw processors",
+	x: 2.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "dd3d0b6d",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor"
+		}]
+	}]
+}

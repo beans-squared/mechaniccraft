@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "67ed26a1",
+		type: "item",
+		items: [{
+			item: "techreborn:dragon_egg_syphon"
+		}]
+	}]
+}

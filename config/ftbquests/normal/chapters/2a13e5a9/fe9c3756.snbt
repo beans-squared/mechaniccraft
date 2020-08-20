@@ -1,0 +1,15 @@
+{
+	x: 14.5d,
+	y: 4.0d,
+	dependencies: [
+		"fba687a3",
+		"57d4381b"
+	],
+	tasks: [{
+		uid: "76caac0a",
+		type: "item",
+		items: [{
+			item: "engineersdecor:factory_hopper"
+		}]
+	}]
+}

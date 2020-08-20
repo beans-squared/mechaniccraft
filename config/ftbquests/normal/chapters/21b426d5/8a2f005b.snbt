@@ -1,0 +1,22 @@
+{
+	title: "Conveyor Belts",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"Conveyor belts are used to transfer materials from place to place. They are at the heart of automation in MechanicCraft."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "db12710e",
+		type: "checkmark"
+	}]
+}
