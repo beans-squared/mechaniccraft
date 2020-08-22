@@ -1,0 +1,7 @@
+{
+	title: "main",
+	icon: "contenttweaker:red_science_pack",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare"
+}

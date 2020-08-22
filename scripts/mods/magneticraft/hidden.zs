@@ -17,8 +17,6 @@ removeAndHide(<magneticraft:light_plates:3>);
 removeAndHide(<magneticraft:light_plates:5>);
 removeAndHide(<magneticraft:light_plates:6>);
 
-# removeAndHide(<magneticraft:copper_coil>);
-
 removeAndHide(<magneticraft:electric_drill>);
 removeAndHide(<magneticraft:electric_chainsaw>);
 removeAndHide(<magneticraft:electric_piston>);
@@ -50,14 +48,10 @@ removeAndHide(<magneticraft:tesla_tower>);
 removeAndHide(<magneticraft:computer>);
 removeAndHide(<magneticraft:mining_robot>);
 
-removeAndHide(<magneticraft:electric_furnace>);
-
 removeAndHide(<magneticraft:thermopile>);
 removeAndHide(<magneticraft:wind_turbine>);
 
-# removeAndHide(<magneticraft:brick_furnace>);
 removeAndHide(<magneticraft:box>);
-# removeAndHide(<magneticraft:crushing_table>);
 removeAndHide(<magneticraft:fabricator>);
 
 removeAndHide(<magneticraft:limestone>);

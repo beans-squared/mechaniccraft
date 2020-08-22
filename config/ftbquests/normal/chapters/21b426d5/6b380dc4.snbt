@@ -1,0 +1,17 @@
+{
+	title: "Barrels",
+	icon: "immersiveengineering:wooden_device0 1 1",
+	x: -1.0d,
+	y: 3.5d,
+	text: [
+		"Just like how chests store items, barrels are a place to store your fluids."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "70e554fb",
+		type: "checkmark"
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Crushing Table",
+	icon: "magneticraft:crushing_table",
+	x: -1.0d,
+	y: 1.5d,
+	text: [
+		"The crushing table is an important early game workstation."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3d440568"
+	],
+	tasks: [{
+		uid: "9594ecd6",
+		type: "checkmark"
+	}]
+}

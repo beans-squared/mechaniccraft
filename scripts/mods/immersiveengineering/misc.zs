@@ -4,8 +4,8 @@ MISC stuff for IE
 
 */
 
-# renames circuit board to crude circuit board
-<immersiveengineering:material:27>.displayName = "Crude Circuit Board";
+# renames circuit board to basic circuit board
+<immersiveengineering:material:27>.displayName = "Basic Circuit Board";
 
 # renames wire coils to material type rather than voltage (with the exception of HV)
 <immersiveengineering:wirecoil>.displayName = "Copper Wire Coil";

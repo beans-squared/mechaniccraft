@@ -1,0 +1,19 @@
+{
+	title: "Improved Coking",
+	icon: "immersivetech:stone_decoration",
+	x: -3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "c37de450",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "d64a5f8c",
+		type: "custom",
+		title: "Advanced Coke Oven",
+		icon: "immersivetech:stone_decoration"
+	}]
+}

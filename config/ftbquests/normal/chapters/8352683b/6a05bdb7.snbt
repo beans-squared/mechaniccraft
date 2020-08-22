@@ -1,0 +1,119 @@
+{
+	title: "Logistics II",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:splitter"
+		}
+	},
+	x: 0.0d,
+	y: 5.0d,
+	text: [
+		"Faster and more flexible ways of transportation."
+	],
+	dependencies: [
+		"2a7d5bc4",
+		"d0675289"
+	],
+	tasks: [{
+		uid: "1f2c4d39",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	},
+	{
+		uid: "5fa468cc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "bd1b745e",
+		type: "custom",
+		title: "Dropping Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}
+	},
+	{
+		uid: "959b47b5",
+		type: "custom",
+		title: "Vertical Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:vertical"
+			}
+		}
+	},
+	{
+		uid: "39f1d5db",
+		type: "custom",
+		title: "Splitting Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:splitter"
+			}
+		}
+	},
+	{
+		uid: "f2e82a8f",
+		type: "custom",
+		title: "Extracting Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:extract"
+			}
+		}
+	},
+	{
+		uid: "a5ceb827",
+		type: "custom",
+		title: "Chute",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:chute_iron"
+			}
+		}
+	},
+	{
+		uid: "ced36602",
+		type: "custom",
+		title: "Fluid Pipe Check Valve",
+		icon: "engineersdecor:straight_pipe_valve"
+	},
+	{
+		uid: "9862a765",
+		type: "custom",
+		title: "Redstone Controlled Fluid Valve",
+		icon: "engineersdecor:straight_pipe_valve_redstone"
+	},
+	{
+		uid: "1db78d7f",
+		type: "custom",
+		title: "Redstone Analog Fluid Valve",
+		icon: "engineersdecor:straight_pipe_valve_redstone_analog"
+	},
+	{
+		uid: "5ab7adcf",
+		type: "custom",
+		title: "Factory Hopper",
+		icon: "engineersdecor:factory_hopper"
+	},
+	{
+		uid: "917777ef",
+		type: "custom",
+		title: "Fluid Pump",
+		icon: "immersiveengineering:metal_device0 1 5"
+	}]
+}

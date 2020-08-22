@@ -8,27 +8,6 @@ function delete (recipeName as string){
 	recipes.removeByRecipeName(recipeName);
 }
 
-# Magnet
-delete("magneticraft:crafting_magnet");
-recipes.addShaped("crafting_magnet", <magneticraft:crafting:4>, 
-	[[<ore:dyeBlue>, <minecraft:redstone>, <ore:dyeBlue>],
-	[<minecraft:redstone>, <ore:plateIron>, <minecraft:redstone>],
-	[<ore:dyeBlue>, <minecraft:redstone>, <ore:dyeBlue>]]);
-
-# Alternator
-delete("magneticraft:crafting_alternator");
-recipes.addShaped("crafting_alternator", <magneticraft:crafting:1> * 4,
-	[[<ore:plateLead>, <ore:plateLead>, null],
-	[<magneticraft:crafting:4>, <minecraft:redstone>, <ore:plateIron>],
-	[<ore:plateLead>, <ore:plateLead>, null]]);
-
-# Motor
-delete("magneticraft:crafting_motor");
-recipes.addShaped("crafting_motor", <magneticraft:crafting:2> * 4,
-	[[<ore:plateLead>, <ore:plateLead>, null],
-	[<immersiveengineering:wirecoil>, <minecraft:redstone>, <ore:plateIron>],
-	[<ore:plateLead>, <ore:plateLead>, null]]);
-
 # Iron Mesh
 delete("magneticraft:crafting_mesh");
 recipes.addShaped("crafting_mesh", <magneticraft:crafting:5>,
@@ -42,13 +21,6 @@ recipes.addShaped("crafting_string_fabric", <magneticraft:crafting:6>,
 	[[<immersiveengineering:material:4>, <immersiveengineering:material:4>, <immersiveengineering:material:4>],
 	[<immersiveengineering:material:4>, <immersiveengineering:material:4>, <immersiveengineering:material:4>],
 	[<immersiveengineering:material:4>, <immersiveengineering:material:4>, <immersiveengineering:material:4>]]);
-
-# Electrical Machine Block
-delete("magneticraft:multiblock_parts_electric");
-recipes.addShaped("multiblock_parts_electric", <magneticraft:multiblock_parts:1> * 2,
-	[[<ore:blockQuartz>, <immersiveengineering:material:27>, <ore:blockQuartz>],
-	[<immersiveengineering:material:27>, <ore:plateTungsten>, <immersiveengineering:material:27>],
-	[<ore:blockQuartz>, <immersiveengineering:material:27>, <ore:blockQuartz>]]);
 
 # Striped Machine Block
 delete("magneticraft:multiblock_parts_striped");
@@ -64,7 +36,14 @@ recipes.addShaped("multiblock_parts_striped", <magneticraft:multiblock_parts:5> 
 	[<ore:plateIron>, null, <ore:plateIron>],
 	[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
 
-# Electric Engine
+# Electric machine block
+delete("magneticraft:multiblock_parts_electric");
+recipes.addShaped("multiblock_parts_electric", <magneticraft:multiblock_parts:1>,
+	[[<ore:blockQuartz>, <ore:blockLapis>, <ore:blockQuartz>],
+	[<ore:blockLapis>, <ore:plateTungsten>, <ore:blockLapis>],
+	[<ore:blockQuartz>, <ore:blockLapis>, <ore:blockQuartz>]]);
+
+# Electric engine
 delete("magneticraft:electric_engine_down");
 recipes.addShaped("electric_engine", <magneticraft:electric_engine>,
 	[[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>],

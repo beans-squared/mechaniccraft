@@ -4,7 +4,7 @@ Recipe changes for Cooking for Blockheads items
 
 */
 
-# Oven Recipe to work with Clear Glass
+# Oven Recipe to work with any ore:blockGlassBlack
 recipes.removeByRecipeName("cookingforblockheads:oven");
 recipes.addShaped("oven", <cookingforblockheads:oven>,
 	[[<ore:blockGlassBlack>, <ore:blockGlassBlack>, <ore:blockGlassBlack>],

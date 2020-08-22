@@ -1,0 +1,59 @@
+{
+	title: "Small-Scale Electric Systems",
+	icon: "immersiveengineering:metal_device1 1 2",
+	x: 5.0d,
+	y: 1.0d,
+	text: [
+		"Low voltage power generation."
+	],
+	tasks: [{
+		uid: "ae8acd39",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "2b8990ff",
+		type: "custom",
+		title: "Kinetic Dynamo",
+		icon: "immersiveengineering:metal_device1 1 2"
+	},
+	{
+		uid: "325da24a",
+		type: "custom",
+		title: "Windmill",
+		icon: "immersiveengineering:wooden_device1 1 1"
+	},
+	{
+		uid: "78c88e02",
+		type: "custom",
+		title: "Water Wheel",
+		icon: "immersiveengineering:wooden_device1"
+	},
+	{
+		uid: "7c55bf27",
+		type: "custom",
+		title: "Small Solar Power",
+		icon: "engineersdecor:small_solar_panel"
+	},
+	{
+		uid: "188ad46d",
+		type: "custom",
+		title: "Small Steam Engine (multiblock blueprint)",
+		icon: "magneticraft:steam_engine"
+	},
+	{
+		uid: "d1d479f0",
+		type: "custom",
+		title: "Combustion Chamber",
+		icon: "magneticraft:combustion_chamber"
+	},
+	{
+		uid: "795f5730",
+		type: "custom",
+		title: "Boiler",
+		icon: "magneticraft:steam_boiler"
+	}]
+}
