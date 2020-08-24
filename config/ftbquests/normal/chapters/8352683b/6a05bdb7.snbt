@@ -6,14 +6,13 @@
 			conveyorType: "immersiveengineering:splitter"
 		}
 	},
-	x: 0.0d,
-	y: 5.0d,
+	x: 1.5d,
+	y: 2.0d,
 	text: [
 		"Faster and more flexible ways of transportation."
 	],
 	dependencies: [
-		"2a7d5bc4",
-		"d0675289"
+		"2a7d5bc4"
 	],
 	tasks: [{
 		uid: "1f2c4d39",
@@ -109,11 +108,5 @@
 		type: "custom",
 		title: "Factory Hopper",
 		icon: "engineersdecor:factory_hopper"
-	},
-	{
-		uid: "917777ef",
-		type: "custom",
-		title: "Fluid Pump",
-		icon: "immersiveengineering:metal_device0 1 5"
 	}]
 }

@@ -1,0 +1,69 @@
+{
+	title: "Electric Systems III",
+	icon: "immersiveengineering:wirecoil 1 2",
+	x: 7.5d,
+	y: 2.5d,
+	dependencies: [
+		"d470d99b"
+	],
+	tasks: [{
+		uid: "b4695b12",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "02120c5f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "fbdb148f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "18b229f2",
+		type: "custom",
+		title: "HV Wire Connector",
+		icon: "immersiveengineering:connector 1 4"
+	},
+	{
+		uid: "94763935",
+		type: "custom",
+		title: "HV Wire Relay",
+		icon: "immersiveengineering:connector 1 5"
+	},
+	{
+		uid: "4838b8a4",
+		type: "custom",
+		title: "HV Transformer",
+		icon: "immersiveengineering:connector 1 8"
+	},
+	{
+		uid: "579ba531",
+		type: "custom",
+		title: "HV Wire Coil",
+		icon: "immersiveengineering:wirecoil 1 2"
+	},
+	{
+		uid: "ea196377",
+		type: "custom",
+		title: "HV Capacitor",
+		icon: "immersiveengineering:metal_device0 1 2"
+	},
+	{
+		uid: "15cd56cb",
+		type: "custom",
+		title: "Extendable Post",
+		icon: "immersiveposts:postbase"
+	}]
+}

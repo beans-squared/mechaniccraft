@@ -36,8 +36,12 @@ removeAndHide(<magneticraft:pumpjack>);
 removeAndHide(<magneticraft:oil_heater>);
 removeAndHide(<magneticraft:refinery>);
 
+removeAndHide(<magneticraft:water_generator>);
+
 removeAndHide(<magneticraft:pneumatic_tube>);
 removeAndHide(<magneticraft:pneumatic_restriction_tube>);
+
+removeAndHide(<magneticraft:iron_pipe>);
 
 removeAndHide(<magneticraft:relay>);
 removeAndHide(<magneticraft:filter>);

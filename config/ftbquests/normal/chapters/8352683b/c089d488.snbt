@@ -1,0 +1,60 @@
+{
+	title: "Revolver Modifications",
+	icon: "immersiveengineering:toolupgrade 1 4",
+	x: -6.5d,
+	y: 1.0d,
+	text: [
+		"Attachments and augments for a revolver."
+	],
+	dependencies: [
+		"71b14259"
+	],
+	tasks: [{
+		uid: "861c54b9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 15L
+	},
+	{
+		uid: "8b9dc37c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "b4b5da3e",
+		type: "custom",
+		title: "Bayonet",
+		icon: "immersiveengineering:toolupgrade 1 4"
+	},
+	{
+		uid: "46d3ba81",
+		type: "custom",
+		title: "Extended Magazine",
+		icon: "immersiveengineering:toolupgrade 1 5"
+	},
+	{
+		uid: "f97e7d7e",
+		type: "custom",
+		title: "Amplifier Electron Tubes",
+		icon: "immersiveengineering:toolupgrade 1 6"
+	},
+	{
+		uid: "e7d84cde",
+		type: "custom",
+		title: "Revolver Speedloader",
+		icon: {
+			ForgeCaps: {
+				Parent: {
+					Size: 8,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:speedloader"
+		}
+	}]
+}

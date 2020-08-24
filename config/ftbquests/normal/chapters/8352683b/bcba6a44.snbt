@@ -1,0 +1,80 @@
+{
+	title: "Revolver Cartridges II",
+	icon: {
+		id: "immersiveengineering:bullet",
+		tag: {
+			bullet: "dragonsbreath"
+		},
+		Damage: 2s
+	},
+	x: -3.5d,
+	y: 2.5d,
+	dependencies: [
+		"473f4b56",
+		"737ff2e9"
+	],
+	tasks: [{
+		uid: "6ce57474",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 20L
+	},
+	{
+		uid: "f4b2ebfa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "38b6b35e",
+		type: "custom",
+		title: "High-Explosive Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "he"
+			},
+			Damage: 2s
+		}
+	},
+	{
+		uid: "5f541d36",
+		type: "custom",
+		title: "Dragon's Breath Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "dragonsbreath"
+			},
+			Damage: 2s
+		}
+	},
+	{
+		uid: "69c4acbb",
+		type: "custom",
+		title: "Phial Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "potion"
+			},
+			Damage: 2s
+		}
+	},
+	{
+		uid: "2ebf4b52",
+		type: "custom",
+		title: "Flare Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "flare"
+			},
+			Damage: 2s
+		}
+	}]
+}

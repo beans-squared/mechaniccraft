@@ -1,0 +1,26 @@
+{
+	title: "Photovoltatics I",
+	icon: "engineersdecor:small_solar_panel",
+	x: 9.0d,
+	y: 0.5d,
+	text: [
+		"Power generation using the sun, but useless at night."
+	],
+	dependencies: [
+		"a6597920"
+	],
+	tasks: [{
+		uid: "98f3ca48",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 15L
+	}],
+	rewards: [{
+		uid: "e8a22317",
+		type: "custom",
+		title: "Small Solar Panel",
+		icon: "engineersdecor:small_solar_panel"
+	}]
+}

@@ -1,6 +1,7 @@
 .mixin.out/
 ambience_music/music
 crash-reports/
+backups/
 downloads/
 journeymap/
 logs/

@@ -43,13 +43,6 @@ recipes.addShaped("multiblock_parts_electric", <magneticraft:multiblock_parts:1>
 	[<ore:blockLapis>, <ore:plateTungsten>, <ore:blockLapis>],
 	[<ore:blockQuartz>, <ore:blockLapis>, <ore:blockQuartz>]]);
 
-# Electric engine
-delete("magneticraft:electric_engine_down");
-recipes.addShaped("electric_engine", <magneticraft:electric_engine>,
-	[[<ore:plateCopper>, <ore:plateCopper>, <ore:plateCopper>],
-	[<minecraft:piston>, <minecraft:piston>, <minecraft:piston>],
-	[<magneticraft:crafting:2>, <magneticraft:crafting:1>, <magneticraft:crafting:2>]]);
-
 # Machine Block
 delete("magneticraft:multiblock_parts_base");
 recipes.addShaped("multiblock_parts_base", <magneticraft:multiblock_parts> * 4,
@@ -71,3 +64,16 @@ recipes.addShaped("multiblock_parts_column", <magneticraft:multiblock_column> * 
 	[<ore:plateLead>, <ore:stone>, <ore:plateLead>],
 	[<ore:plateLead>, <ore:plateIron>, <ore:plateLead>]]);
 
+# Inserter
+delete("magneticraft:inserter_north");
+recipes.addShaped("inserter", <magneticraft:inserter>,
+	[[<ore:ingotCopper>, <ore:nuggetIron>, null],
+	[<ore:nuggetIron>, <ore:ingotLead>, <ore:nuggetIron>],
+	[<ore:plateIron>, <magneticraft:crafting:2>, <ore:plateIron>]]);
+
+# Conveyors
+delete("magneticraft:conveyor_belt_north");
+recipes.addShaped("elevated_conveyor_belt", <magneticraft:conveyor_belt>,
+	[[<ore:stickIron>, <ore:plateIron>, <ore:stickIron>],
+	[<ore:stickIron>, <magneticraft:crafting:2>, <ore:stickIron>],
+	[<ore:stickIron, null, <ore:stickIron>]]);

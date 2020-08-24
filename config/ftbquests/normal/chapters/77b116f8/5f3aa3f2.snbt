@@ -2,7 +2,7 @@
 	title: "Thermodynamics II",
 	icon: "techreborn:thermal_generator",
 	x: 0.0d,
-	y: -0.5d,
+	y: 1.0d,
 	description: "Generate energy using heat.",
 	tasks: [{
 		uid: "4b937f6d",

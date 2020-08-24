@@ -1,0 +1,46 @@
+{
+	title: "Heavy Plated Shield Modifications",
+	icon: "immersiveengineering:toolupgrade 1 10",
+	x: -6.5d,
+	y: 3.5d,
+	text: [
+		"Attachments and augments for a heavy plated shield."
+	],
+	dependencies: [
+		"737ff2e9"
+	],
+	tasks: [{
+		uid: "b0df21e1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 30L
+	},
+	{
+		uid: "fca13cf6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "d3d1b282",
+		type: "custom",
+		title: "Flashbulb",
+		icon: "immersiveengineering:toolupgrade 1 10"
+	},
+	{
+		uid: "ffed570c",
+		type: "custom",
+		title: "Shock Emitters",
+		icon: "immersiveengineering:toolupgrade 1 11"
+	},
+	{
+		uid: "a12fe485",
+		type: "custom",
+		title: "Magnetic Glove",
+		icon: "immersiveengineering:toolupgrade 1 12"
+	}]
+}

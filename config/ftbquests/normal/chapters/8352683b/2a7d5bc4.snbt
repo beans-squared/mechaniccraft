@@ -1,7 +1,7 @@
 {
 	title: "Logistics I",
 	icon: "magneticraft:inserter",
-	x: 0.0d,
+	x: 1.5d,
 	y: 0.5d,
 	text: [
 		"Faster and more flexible ways of transportation."
@@ -48,5 +48,11 @@
 		type: "custom",
 		title: "Elevated Conveyor Belt",
 		icon: "magneticraft:conveyor_belt"
+	},
+	{
+		uid: "351835b6",
+		type: "custom",
+		title: "Fluid Pump",
+		icon: "immersiveengineering:metal_device0 1 5"
 	}]
 }

@@ -1,0 +1,70 @@
+{
+	title: "Revolver Cartridges I",
+	icon: {
+		id: "immersiveengineering:bullet",
+		tag: {
+			bullet: "armor_piercing"
+		},
+		Damage: 2s
+	},
+	x: -3.5d,
+	y: 1.0d,
+	text: [
+		"Additonal ammuntion types for the revolver."
+	],
+	dependencies: [
+		"71b14259"
+	],
+	tasks: [{
+		uid: "75f151da",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 5L
+	},
+	{
+		uid: "837023e8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "a7a5bb81",
+		type: "custom",
+		title: "Armor-Piercing Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "armor_piercing"
+			},
+			Damage: 2s
+		}
+	},
+	{
+		uid: "10dcd649",
+		type: "custom",
+		title: "Buckshot Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "buckshot"
+			},
+			Damage: 2s
+		}
+	},
+	{
+		uid: "56afda59",
+		type: "custom",
+		title: "Silver Cartridge",
+		icon: {
+			id: "immersiveengineering:bullet",
+			tag: {
+				bullet: "silver"
+			},
+			Damage: 2s
+		}
+	}]
+}

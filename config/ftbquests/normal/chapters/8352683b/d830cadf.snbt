@@ -1,14 +1,13 @@
 {
 	title: "Automatic Ore Processing Machines",
 	icon: "magneticraft:crafting 1 5",
-	x: 3.5d,
-	y: 3.0d,
+	x: 3.0d,
+	y: 1.5d,
 	text: [
 		"Automatic versions of the sluice box and crushing table."
 	],
 	dependencies: [
-		"5969f9c8",
-		"d0675289"
+		"5969f9c8"
 	],
 	tasks: [{
 		uid: "3ae80fc1",

@@ -23,6 +23,3 @@ removeAndHide(<industrialforegoing:black_hole_label>);
 
 removeAndHide(<industrialforegoing:oredictionary_converter>);
 removeAndHide(<industrialforegoing:fluiddictionary_converter>);
-
-removeAndHide(<industrialforegoing:conveyor:*>);
-removeAndHide(<industrialforegoing:conveyor_upgrade:*>);

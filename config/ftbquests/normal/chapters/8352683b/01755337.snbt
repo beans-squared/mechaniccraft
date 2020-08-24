@@ -2,7 +2,7 @@
 	title: "Coking",
 	icon: "immersiveengineering:material 1 6",
 	x: -1.5d,
-	y: 0.0d,
+	y: 0.5d,
 	tasks: [{
 		uid: "eba89a07",
 		type: "item",

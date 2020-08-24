@@ -51,7 +51,10 @@ desc(<immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineerin
 desc(<immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:chute_copper"}), "Drops items downwards.");
 
 # Fluid Pipe
-desc(<immersiveengineering:metal_device1:6>, "Transports fluids. Standard flow rate is 50mb/t");
+desc(<immersiveengineering:metal_device1:6>, "Transports fluids.");
+
+# Fluid Pump
+desc(<immersiveengineering:metal_device0:5>, "Extracts fluids from containers, or the world.");
 
 # Kinetic Dynamo
 desc(<immersiveengineering:metal_device1:2>, "Generates energy based on the rotational energy of a windmill or water wheel.");
@@ -61,3 +64,21 @@ desc(<immersiveengineering:wooden_device1:1>, "Turns based on wind speed. Can be
 
 # Water Wheel
 desc(<immersiveengineering:wooden_device1>, "Turns based on water flow. Can be combined with a kinetic dynamo to generate power.");
+
+# Thermoelectric Generator
+desc(<immersiveengineering:metal_device1:3>, "Generates energy based on the temperature difference of two materials placed next to it (ex. water and lava).");
+
+# Current Transformer
+desc(<immersiveengineering:connector:11>, "Measures the average rate of power flow.");
+
+# Transformer
+desc(<immersiveengineering:connector:7>, "Transforms medium voltage into low voltage, or vice versa. Can be mounted on posts.");
+
+# HV Transformer
+desc(<immersiveengineering:connector:8>, "Transforms high voltage into a lower voltage, or vice versa.");
+
+# Breaker Switch
+desc(<immersiveengineering:connector:9>, "Toggles the flow of power on and off. Only works with medium and low voltage systems. Emits a redstone signal when switched on, so can also be used as a vanilla lever!]");
+
+# Redstone Breaker
+desc(<immersiveengineering:connector:10>, "Toggles the flow of power on and off using a redstone signal. Works with high voltage systems.");

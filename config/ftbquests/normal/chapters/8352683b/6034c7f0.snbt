@@ -1,0 +1,59 @@
+{
+	title: "Electric Systems IV",
+	icon: "alternatingflux:wirecoil",
+	x: 7.5d,
+	y: 4.0d,
+	dependencies: [
+		"dd4a1bb7"
+	],
+	tasks: [{
+		uid: "2eb0fdb8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 120L
+	},
+	{
+		uid: "a90b0f5d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 80L
+	},
+	{
+		uid: "0dfb0256",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 40L
+	},
+	{
+		uid: "399b013a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "f321c12b",
+		type: "custom",
+		title: "AF Wire Coil",
+		icon: "alternatingflux:wirecoil"
+	},
+	{
+		uid: "7a01e8e2",
+		type: "custom",
+		title: "AF Wire Relay",
+		icon: "alternatingflux:connector"
+	},
+	{
+		uid: "7d7cb028",
+		type: "custom",
+		title: "AF Transformer",
+		icon: "alternatingflux:connector 1 1"
+	}]
+}
