@@ -26,3 +26,7 @@ resourcepacks/
 /.project
 
 *.log
+
+config/InvTweaks.cfg
+config/jei/worldSettings.cfg
+config/splash.properties
