@@ -8,7 +8,7 @@
 		}
 	},
 	x: 1.5d,
-	y: -2.0d,
+	y: -0.5d,
 	description: "Generate power using diesel fluids.",
 	tasks: [{
 		uid: "6a3ed58a",

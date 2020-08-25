@@ -1,8 +1,8 @@
 {
 	title: "Decorative Wires",
 	icon: "immersiveengineering:wirecoil 1 3",
-	x: 10.5d,
-	y: -0.5d,
+	x: 9.0d,
+	y: -1.5d,
 	dependencies: [
 		"a6597920"
 	],

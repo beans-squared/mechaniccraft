@@ -2,12 +2,12 @@
 	title: "Thermodynamics III",
 	icon: "techreborn:thermal_generator",
 	x: 6.0d,
-	y: 3.5d,
+	y: 2.0d,
 	text: [
 		"Generate power using lava."
 	],
 	dependencies: [
-		"5cc86b28"
+		"c69c0767"
 	],
 	tasks: [{
 		uid: "d83fbcb0",
