@@ -5,5 +5,12 @@
 		"index": 1,
 		"success": true,
 		"size": 355724
+	},
+	{
+		"time": 1598386764225,
+		"file": "2020-08-25-15-19-24.zip",
+		"index": 2,
+		"success": true,
+		"size": 342304
 	}
 ]

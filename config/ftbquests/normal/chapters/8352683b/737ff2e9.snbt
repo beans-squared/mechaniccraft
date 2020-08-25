@@ -82,5 +82,11 @@
 		type: "custom",
 		title: "Composite Sword",
 		icon: "compositegear:composite_sword"
+	},
+	{
+		uid: "d252b071",
+		type: "custom",
+		title: "Razor Wire",
+		icon: "immersiveengineering:metal_decoration2 1 5"
 	}]
 }
