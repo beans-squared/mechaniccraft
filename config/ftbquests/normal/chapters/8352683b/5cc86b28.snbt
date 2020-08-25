@@ -1,10 +1,13 @@
 {
-	title: "Solid Fuel Generators II",
+	title: "Thermodynamics II",
 	icon: "mekanismgenerators:generator",
-	x: 10.5d,
+	x: 6.0d,
 	y: 2.0d,
 	text: [
 		"Generate energy using the heat of fuel sources."
+	],
+	dependencies: [
+		"c69c0767"
 	],
 	tasks: [{
 		uid: "d9738daf",

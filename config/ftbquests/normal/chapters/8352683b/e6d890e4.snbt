@@ -1,0 +1,36 @@
+{
+	title: "Lightining Rod I",
+	icon: "immersiveengineering:metal_decoration1",
+	x: 10.5d,
+	y: 3.0d,
+	dependencies: [
+		"dd4a1bb7"
+	],
+	tasks: [{
+		uid: "f2a5deb1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "d8806fd3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "c7fdd514",
+		type: "custom",
+		title: "Lightning Rod (multiblock structure)",
+		icon: {
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IE:Lightningrod"
+			}
+		}
+	}]
+}

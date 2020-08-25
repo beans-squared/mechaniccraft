@@ -2,9 +2,12 @@
 	title: "Chemical Thrower Modifications",
 	icon: "immersiveengineering:toolupgrade 1 7",
 	x: -3.5d,
-	y: 3.5d,
+	y: 4.0d,
 	text: [
 		"Attachments and augments for a chemical thrower."
+	],
+	dependencies: [
+		"ca712644"
 	],
 	tasks: [{
 		uid: "133e806d",
