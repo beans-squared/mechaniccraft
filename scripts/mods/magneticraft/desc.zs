@@ -32,3 +32,6 @@ desc(<magneticraft:combustion_chamber>, "Generates heat from the burning of a so
 
 # Boiler
 desc(<magneticraft:steam_boiler>, "Turns water into steam when provided with heat.");
+
+# Brick Furnace
+desc(<magneticraft:brick_furnace>, "Faster but less fuel efficient than a stone furnace. Use with a combustion chamber to heat the contents.");
