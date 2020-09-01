@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 11.0d,
+	tasks: [{
+		uid: "bb555f82",
+		type: "item",
+		items: [{
+			item: "techreborn:implosion_compressor"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "d78a7f6d",
+		type: "item",
+		items: [{
+			item: "techreborn:scrapboxinator"
+		}]
+	}]
+}

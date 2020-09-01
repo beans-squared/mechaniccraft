@@ -1,9 +1,0 @@
-{
-	title: "Insulated HV Cable",
-	icon: "techreborn:cable 1 7",
-	x: 2.0d,
-	y: 5.0d,
-	dependencies: [
-		"695c4b33"
-	]
-}

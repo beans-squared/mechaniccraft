@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "985d949d",
+		type: "item",
+		items: [{
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 0
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}]
+}

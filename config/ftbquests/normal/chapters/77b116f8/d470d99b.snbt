@@ -1,0 +1,91 @@
+{
+	title: "Electric Systems II",
+	icon: "immersiveengineering:wirecoil 1 1",
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"a6597920"
+	],
+	tasks: [{
+		uid: "36b56355",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 30L
+	},
+	{
+		uid: "37ff2760",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "930f4242",
+		type: "custom",
+		title: "MV Wire Coil",
+		icon: "immersiveengineering:wirecoil 1 1"
+	},
+	{
+		uid: "ce0ae9e5",
+		type: "custom",
+		title: "MV Wire Connector",
+		icon: "immersiveengineering:connector 1 2"
+	},
+	{
+		uid: "6ac9132a",
+		type: "custom",
+		title: "MV Wire Relay",
+		icon: "immersiveengineering:connector 1 3"
+	},
+	{
+		uid: "7cf62282",
+		type: "custom",
+		title: "MV Capacitor",
+		icon: "immersiveengineering:metal_device0 1 1"
+	},
+	{
+		uid: "bfa28a1f",
+		type: "custom",
+		title: "Steel Post",
+		icon: "immersiveengineering:metal_decoration2"
+	},
+	{
+		uid: "bd82da22",
+		type: "custom",
+		title: "Aluminimum Post",
+		icon: "immersiveengineering:metal_decoration2 1 2"
+	},
+	{
+		uid: "d9d02894",
+		type: "custom",
+		title: "Steel Wallmount",
+		icon: "immersiveengineering:metal_decoration2 1 1"
+	},
+	{
+		uid: "2365b0c6",
+		type: "custom",
+		title: "Alumiminin Wallmount",
+		icon: "immersiveengineering:metal_decoration2 1 3"
+	},
+	{
+		uid: "47ff0c85",
+		type: "custom",
+		title: "Transformer",
+		icon: "immersiveengineering:connector 1 7"
+	},
+	{
+		uid: "7d575d9a",
+		type: "custom",
+		title: "Insulated MV Wire Coil",
+		icon: "immersiveengineering:wirecoil 1 7"
+	},
+	{
+		uid: "fb48e0c0",
+		type: "custom",
+		title: "Electrum Cable",
+		icon: "techreborn:cable 1 2"
+	}]
+}

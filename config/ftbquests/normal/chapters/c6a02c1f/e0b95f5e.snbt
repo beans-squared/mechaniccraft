@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "3b231022",
+		type: "item",
+		items: [{
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IE:ArcFurnace"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

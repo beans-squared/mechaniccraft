@@ -1,6 +1,6 @@
 {
-	title: "Power",
-	icon: "engineersdecor:sign_hotwire",
+	title: "Industry: Energy Production & Transport",
+	icon: "immersiveengineering:wirecoil",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: "rsquare"

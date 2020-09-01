@@ -1,0 +1,49 @@
+{
+	title: "Redstone Wires",
+	icon: "immersiveengineering:wirecoil 1 5",
+	x: 2.5d,
+	y: -2.0d,
+	dependencies: [
+		"232e5328"
+	],
+	tasks: [{
+		uid: "f71c5931",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "10e07ab4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "47f9142d",
+		type: "custom",
+		title: "Redstone Wire Connector",
+		icon: "immersiveengineering:connector 1 12"
+	},
+	{
+		uid: "0fce51f0",
+		type: "custom",
+		title: "Redstone Probe Connector",
+		icon: "immersiveengineering:connector 1 13"
+	},
+	{
+		uid: "99942408",
+		type: "custom",
+		title: "Redstone Timer",
+		icon: "immersivetech:connectors"
+	},
+	{
+		uid: "69b536e2",
+		type: "custom",
+		title: "Redstone Wire Coil",
+		icon: "immersiveengineering:wirecoil 1 5"
+	}]
+}

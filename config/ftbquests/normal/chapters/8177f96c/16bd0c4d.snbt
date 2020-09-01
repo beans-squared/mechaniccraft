@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "a8096a82",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:froster"
+		}]
+	}]
+}

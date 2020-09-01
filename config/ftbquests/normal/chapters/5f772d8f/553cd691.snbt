@@ -1,0 +1,13 @@
+{
+	title: "Basic Control Circuit",
+	icon: "mekanism:controlcircuit",
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "8f42cca8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

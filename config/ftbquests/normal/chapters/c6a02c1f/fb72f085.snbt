@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2279ef4b",
+		type: "item",
+		items: [{
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IE:Crusher"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

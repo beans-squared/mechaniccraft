@@ -6,6 +6,9 @@
 	text: [
 		"Means to defend yourself and your factory."
 	],
+	dependencies: [
+		"0b05e5ef"
+	],
 	tasks: [{
 		uid: "26ddc4a6",
 		type: "item",

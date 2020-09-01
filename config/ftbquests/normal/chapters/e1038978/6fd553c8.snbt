@@ -1,9 +1,0 @@
-{
-	title: "Machine Block",
-	icon: "magneticraft:multiblock_parts",
-	x: 12.0d,
-	y: 5.5d,
-	dependencies: [
-		"6dc90b31"
-	]
-}

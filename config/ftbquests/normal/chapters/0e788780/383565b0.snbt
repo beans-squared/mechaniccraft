@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "85456f7d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:spores_recreator"
+		}]
+	}]
+}

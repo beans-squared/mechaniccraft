@@ -1,9 +1,0 @@
-{
-	title: "Alternator",
-	icon: "magneticraft:crafting 1 1",
-	x: 14.0d,
-	y: 5.5d,
-	dependencies: [
-		"da900e34"
-	]
-}

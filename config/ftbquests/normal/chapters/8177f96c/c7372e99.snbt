@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "157d833e",
+		type: "item",
+		items: [{
+			item: "techreborn:distillation_tower"
+		}]
+	}]
+}

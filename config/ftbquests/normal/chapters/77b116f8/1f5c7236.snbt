@@ -1,0 +1,11 @@
+{
+	x: -9.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "80551605",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:conveyor"
+		}]
+	}]
+}

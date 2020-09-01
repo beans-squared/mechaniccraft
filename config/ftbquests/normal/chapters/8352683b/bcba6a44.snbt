@@ -1,5 +1,5 @@
 {
-	title: "Revolver Cartridges II",
+	title: "Specialized Projectiles",
 	icon: {
 		id: "immersiveengineering:bullet",
 		tag: {
@@ -30,51 +30,14 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "38b6b35e",
+		uid: "cff72857",
 		type: "custom",
-		title: "High-Explosive Cartridge",
+		title: "Engineer's Blueprint: Specialized Projectiles",
 		icon: {
-			id: "immersiveengineering:bullet",
+			id: "immersiveengineering:blueprint",
 			tag: {
-				bullet: "he"
-			},
-			Damage: 2s
-		}
-	},
-	{
-		uid: "5f541d36",
-		type: "custom",
-		title: "Dragon's Breath Cartridge",
-		icon: {
-			id: "immersiveengineering:bullet",
-			tag: {
-				bullet: "dragonsbreath"
-			},
-			Damage: 2s
-		}
-	},
-	{
-		uid: "69c4acbb",
-		type: "custom",
-		title: "Phial Cartridge",
-		icon: {
-			id: "immersiveengineering:bullet",
-			tag: {
-				bullet: "potion"
-			},
-			Damage: 2s
-		}
-	},
-	{
-		uid: "2ebf4b52",
-		type: "custom",
-		title: "Flare Cartridge",
-		icon: {
-			id: "immersiveengineering:bullet",
-			tag: {
-				bullet: "flare"
-			},
-			Damage: 2s
+				blueprint: "specialBullet"
+			}
 		}
 	}]
 }

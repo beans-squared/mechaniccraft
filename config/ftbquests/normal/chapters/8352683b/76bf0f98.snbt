@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "f9cbebb6",
+		type: "item",
+		items: [{
+			id: "mekanism:seismicreader",
+			tag: {
+				mekData: {
+					energyStored: 12000.0d
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

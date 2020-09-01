@@ -1,0 +1,13 @@
+{
+	title: "Improved Processor",
+	icon: "refinedstorage:processor 1 4",
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "6428c07f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

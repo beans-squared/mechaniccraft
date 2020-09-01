@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "c076a2ee",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:bioreactor"
+		}]
+	}]
+}

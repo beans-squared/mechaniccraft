@@ -1,0 +1,12 @@
+{
+	x: -4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "9cb96516",
+		type: "item",
+		items: [{
+			item: "mekanism:machineblock"
+		}],
+		ignore_nbt: 1b
+	}]
+}

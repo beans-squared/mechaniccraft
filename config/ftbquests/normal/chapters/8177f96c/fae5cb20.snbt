@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "dce685db",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:dye_mixer"
+		}]
+	}]
+}

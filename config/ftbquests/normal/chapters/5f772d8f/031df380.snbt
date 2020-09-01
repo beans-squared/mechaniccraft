@@ -1,0 +1,13 @@
+{
+	title: "Advanced Control Circuit",
+	icon: "mekanism:controlcircuit 1 1",
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "88d5ded2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

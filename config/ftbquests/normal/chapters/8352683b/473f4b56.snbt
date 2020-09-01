@@ -1,5 +1,5 @@
 {
-	title: "Revolver Cartridges I",
+	title: "Common Projectiles",
 	icon: {
 		id: "immersiveengineering:bullet",
 		tag: {
@@ -32,39 +32,14 @@
 		count: 5L
 	}],
 	rewards: [{
-		uid: "a7a5bb81",
+		uid: "81a7d10c",
 		type: "custom",
-		title: "Armor-Piercing Cartridge",
+		title: "Engineer's Blueprint: Common Projectiles",
 		icon: {
-			id: "immersiveengineering:bullet",
+			id: "immersiveengineering:blueprint",
 			tag: {
-				bullet: "armor_piercing"
-			},
-			Damage: 2s
-		}
-	},
-	{
-		uid: "10dcd649",
-		type: "custom",
-		title: "Buckshot Cartridge",
-		icon: {
-			id: "immersiveengineering:bullet",
-			tag: {
-				bullet: "buckshot"
-			},
-			Damage: 2s
-		}
-	},
-	{
-		uid: "56afda59",
-		type: "custom",
-		title: "Silver Cartridge",
-		icon: {
-			id: "immersiveengineering:bullet",
-			tag: {
-				bullet: "silver"
-			},
-			Damage: 2s
+				blueprint: "bullet"
+			}
 		}
 	}]
 }

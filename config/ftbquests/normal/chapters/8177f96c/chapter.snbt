@@ -1,0 +1,15 @@
+{
+	title: "Industry: Chemical Technology",
+	icon: {
+		id: "techreborn:dynamiccell",
+		tag: {
+			Fluid: {
+				FluidName: "fluidnitrocarbon",
+				Amount: 1000
+			}
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,9 +1,0 @@
-{
-	title: "High-Voltage Cable",
-	icon: "techreborn:cable 1 3",
-	x: 1.0d,
-	y: 5.0d,
-	dependencies: [
-		"73036e21"
-	]
-}
