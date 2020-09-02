@@ -1,11 +1,8 @@
 {
 	title: "Wind Generator",
 	icon: "mekanismgenerators:generator 1 6",
-	x: 1.0d,
+	x: 0.5d,
 	y: -1.5d,
-	dependencies: [
-		"c95060fc"
-	],
 	tasks: [{
 		uid: "44fde71b",
 		type: "item",

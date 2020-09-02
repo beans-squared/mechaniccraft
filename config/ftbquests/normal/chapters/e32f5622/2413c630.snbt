@@ -2,7 +2,7 @@
 	title: "Simulation Chamber",
 	icon: "deepmoblearning:simulation_chamber",
 	x: 0.5d,
-	y: 0.0d,
+	y: -0.5d,
 	tasks: [{
 		uid: "97601f67",
 		type: "item",

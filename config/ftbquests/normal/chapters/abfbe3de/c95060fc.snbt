@@ -1,7 +1,7 @@
 {
 	title: "Gas-Burning Generator",
 	icon: "mekanismgenerators:generator 1 3",
-	x: -0.5d,
+	x: -1.0d,
 	y: -0.5d,
 	tasks: [{
 		uid: "1393a42c",

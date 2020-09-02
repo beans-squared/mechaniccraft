@@ -1,0 +1,7 @@
+{
+	title: "Science Packs",
+	icon: "contenttweaker:red_science_pack",
+	always_invisible: false,
+	group: -2122843796,
+	default_quest_shape: ""
+}

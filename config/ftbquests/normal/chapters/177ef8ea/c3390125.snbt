@@ -1,0 +1,26 @@
+{
+	title: "Logistics Science Pack",
+	icon: "contenttweaker:blue_science_pack",
+	x: 0.0d,
+	y: 1.5d,
+	text: [
+		"Intermedite science pack."
+	],
+	dependencies: [
+		"fd266bcb"
+	],
+	tasks: [{
+		uid: "5630f552",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "6671e75e",
+		type: "custom",
+		title: "Logistics Science Pack (science pack)",
+		icon: "contenttweaker:blue_science_pack"
+	}]
+}

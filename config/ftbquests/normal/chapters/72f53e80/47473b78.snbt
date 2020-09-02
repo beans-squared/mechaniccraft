@@ -1,11 +1,32 @@
 {
-	x: -3.0d,
-	y: -4.5d,
+	title: "Coke Oven",
+	icon: "immersiveengineering:stone_decoration",
+	x: -4.0d,
+	y: -4.0d,
+	text: [
+		"Stucture that allows the creation of coal coke."
+	],
+	dependencies: [
+		"0bde28bc"
+	],
 	tasks: [{
-		uid: "e304ff1f",
+		uid: "1f4cfd9b",
 		type: "item",
 		items: [{
-			item: "immersiveengineering:stone_decoration"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "dab2f478",
+		type: "custom",
+		title: "Coke Oven (multiblock structure)",
+		icon: "immersiveengineering:stone_decoration"
+	},
+	{
+		uid: "f61082e2",
+		type: "custom",
+		title: "Coal Coke (fuel source)",
+		icon: "immersiveengineering:material 1 6"
 	}]
 }

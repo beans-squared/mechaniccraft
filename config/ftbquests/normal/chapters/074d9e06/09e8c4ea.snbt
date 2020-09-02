@@ -1,8 +1,8 @@
 {
-	x: -0.5d,
-	y: 2.0d,
+	x: 4.0d,
+	y: 0.5d,
 	tasks: [{
-		uid: "2279ef4b",
+		uid: "f3e2d5b1",
 		type: "item",
 		items: [{
 			id: "immersivepetroleum:schematic",

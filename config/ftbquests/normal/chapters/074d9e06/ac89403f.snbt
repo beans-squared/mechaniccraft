@@ -1,8 +1,8 @@
 {
-	x: -0.5d,
-	y: 4.0d,
+	x: 3.0d,
+	y: 2.0d,
 	tasks: [{
-		uid: "c02b9eda",
+		uid: "6d490a3c",
 		type: "item",
 		items: [{
 			item: "mekanism:machineblock 1 3"

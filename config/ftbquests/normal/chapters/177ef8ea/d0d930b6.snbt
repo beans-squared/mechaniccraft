@@ -1,0 +1,42 @@
+{
+	title: "Utility Science Pack",
+	icon: "contenttweaker:yellow_science_pack",
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"Elite science pack."
+	],
+	dependencies: [
+		"e60f9d94"
+	],
+	tasks: [{
+		uid: "22f7184e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 2000L
+	},
+	{
+		uid: "794dbe3c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 2000L
+	},
+	{
+		uid: "aca0bb67",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 2000L
+	}],
+	rewards: [{
+		uid: "01b71b74",
+		type: "custom",
+		title: "Utility Science Pack (science pack)",
+		icon: "contenttweaker:yellow_science_pack"
+	}]
+}

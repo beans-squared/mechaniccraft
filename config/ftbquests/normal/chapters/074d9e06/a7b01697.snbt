@@ -1,8 +1,8 @@
 {
-	x: -1.5d,
-	y: 1.0d,
+	x: 2.0d,
+	y: -1.0d,
 	tasks: [{
-		uid: "acab99ab",
+		uid: "b03dc7cc",
 		type: "item",
 		items: [{
 			item: "magneticraft:grinder"

@@ -1,11 +1,8 @@
 {
 	title: "Dragon Egg Energy Siphon",
 	icon: "techreborn:dragon_egg_syphon",
-	x: 1.0d,
+	x: 0.5d,
 	y: 2.0d,
-	dependencies: [
-		"0ecf5d5d"
-	],
 	tasks: [{
 		uid: "268d3a95",
 		type: "item",

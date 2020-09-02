@@ -1,7 +1,7 @@
 {
 	title: "Lightning Rod I",
 	icon: "immersiveengineering:metal_decoration1",
-	x: -0.5d,
+	x: -1.0d,
 	y: 1.0d,
 	tasks: [{
 		uid: "f2a5deb1",

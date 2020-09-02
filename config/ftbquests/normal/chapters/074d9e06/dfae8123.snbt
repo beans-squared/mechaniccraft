@@ -1,0 +1,19 @@
+{
+	title: "Crushing Table",
+	icon: "magneticraft:crushing_table",
+	x: 3.0d,
+	y: -4.0d,
+	text: [
+		"Simple workbench used for breaking ores into rocky chunks, and for mashing metal into plates."
+	],
+	tasks: [{
+		uid: "87b4eaa3",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "076fabf6",
+		type: "custom",
+		title: "Crushing Table (workbench)",
+		icon: "magneticraft:crushing_table"
+	}]
+}

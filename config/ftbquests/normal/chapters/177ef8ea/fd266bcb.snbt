@@ -1,0 +1,22 @@
+{
+	title: "Automation Science Pack",
+	icon: "contenttweaker:red_science_pack",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Basic science pack."
+	],
+	dependencies: [
+		"dfae8123"
+	],
+	tasks: [{
+		uid: "06779937",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "acf84084",
+		type: "custom",
+		title: "Automation Science Pack (science pack)",
+		icon: "contenttweaker:red_science_pack"
+	}]
+}

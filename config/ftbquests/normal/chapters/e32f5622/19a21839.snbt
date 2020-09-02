@@ -2,7 +2,7 @@
 	title: "Loot Fabricator",
 	icon: "deepmoblearning:extraction_chamber",
 	x: 1.5d,
-	y: 0.0d,
+	y: -0.5d,
 	tasks: [{
 		uid: "90ec559a",
 		type: "item",

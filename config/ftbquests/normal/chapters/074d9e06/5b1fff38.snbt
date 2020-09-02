@@ -1,8 +1,8 @@
 {
-	x: 0.5d,
-	y: 1.0d,
+	x: 4.0d,
+	y: -1.0d,
 	tasks: [{
-		uid: "f79d134f",
+		uid: "66294056",
 		type: "item",
 		items: [{
 			item: "magneticraft:sieve"

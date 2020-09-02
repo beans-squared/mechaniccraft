@@ -2,7 +2,7 @@
 	title: "Deep Learner",
 	icon: "deepmoblearning:deep_learner",
 	x: -0.5d,
-	y: 1.0d,
+	y: 0.5d,
 	tasks: [{
 		uid: "91c7c95e",
 		type: "item",
