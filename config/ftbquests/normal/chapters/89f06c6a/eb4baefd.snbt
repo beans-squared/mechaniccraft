@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "6f97594d",
+		type: "item",
+		items: [{
+			id: "mekanism:gastank",
+			tag: {
+				tier: 1
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

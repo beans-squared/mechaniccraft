@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "d067b2ec",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_sieve"
+		}]
+	}]
+}

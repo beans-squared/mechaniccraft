@@ -1,0 +1,13 @@
+{
+	title: "Elite Control Circuit",
+	icon: "mekanism:controlcircuit 1 2",
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "ccecd8d1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

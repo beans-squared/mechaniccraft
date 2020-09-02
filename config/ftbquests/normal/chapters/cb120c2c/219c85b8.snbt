@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "fc8ed354",
+		type: "item",
+		items: [{
+			item: "techreborn:chemical_reactor"
+		}]
+	}]
+}

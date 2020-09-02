@@ -1,0 +1,7 @@
+{
+	title: "Plastic",
+	icon: "industrialforegoing:plastic",
+	always_invisible: false,
+	group: -2122843796,
+	default_quest_shape: ""
+}

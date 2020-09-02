@@ -3,9 +3,6 @@
 	icon: "mekanismgenerators:generator 1 3",
 	x: 2.5d,
 	y: 0.0d,
-	dependencies: [
-		"d470d99b"
-	],
 	tasks: [{
 		uid: "1393a42c",
 		type: "item",

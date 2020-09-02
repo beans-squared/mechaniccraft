@@ -3,9 +3,6 @@
 	icon: "immersiveengineering:metal_decoration1",
 	x: 2.5d,
 	y: 1.5d,
-	dependencies: [
-		"dd4a1bb7"
-	],
 	tasks: [{
 		uid: "f2a5deb1",
 		type: "item",

@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "99efabad",
+		type: "item",
+		items: [{
+			item: "techreborn:charge_o_mat"
+		}]
+	}]
+}

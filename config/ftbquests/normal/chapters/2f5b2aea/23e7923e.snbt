@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "e15cfde2",
+		type: "item",
+		items: [{
+			id: "magneticraft:small_tank",
+			tag: {}
+		}]
+	}]
+}

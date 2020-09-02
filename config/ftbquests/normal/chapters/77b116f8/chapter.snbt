@@ -1,7 +1,7 @@
 {
-	title: "Industry: Energy Production & Transport",
-	icon: "immersiveengineering:wirecoil",
+	title: "Industry: Energy & Logistics",
+	icon: "mekanismgenerators:turbineblade",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "rsquare"
+	default_quest_shape: ""
 }

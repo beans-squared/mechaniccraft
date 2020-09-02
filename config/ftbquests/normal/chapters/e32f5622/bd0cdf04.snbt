@@ -1,0 +1,13 @@
+{
+	title: "Trial Keystone",
+	icon: "deepmoblearning:trial_keystone",
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f0a98ac2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "6d82c1f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:skyhook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

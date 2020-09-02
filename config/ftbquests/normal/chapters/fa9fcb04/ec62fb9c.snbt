@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "62c25123",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_drill"
+		}]
+	}]
+}

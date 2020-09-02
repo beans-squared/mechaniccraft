@@ -3,5 +3,5 @@
 	icon: "harvestcraft:quinoaitem",
 	always_invisible: false,
 	group: 0,
-	default_quest_shape: "diamond"
+	default_quest_shape: ""
 }

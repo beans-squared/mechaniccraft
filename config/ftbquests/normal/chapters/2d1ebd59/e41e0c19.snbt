@@ -1,0 +1,89 @@
+{
+	title: "Steam Power IV",
+	icon: "mekanismgenerators:turbineblade",
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"cf4bf137"
+	],
+	tasks: [{
+		uid: "c5070b74",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "235263f8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "9fe52255",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "8eafc240",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "21505ce9",
+		type: "custom",
+		title: "Turbine Blade",
+		icon: "mekanismgenerators:turbineblade"
+	},
+	{
+		uid: "63cdc19b",
+		type: "custom",
+		title: "Turbine Casing",
+		icon: "mekanismgenerators:generator 1 10"
+	},
+	{
+		uid: "19df61c3",
+		type: "custom",
+		title: "Turbine Rotor",
+		icon: "mekanismgenerators:generator 1 7"
+	},
+	{
+		uid: "68784bd6",
+		type: "custom",
+		title: "Turbine Valve",
+		icon: "mekanismgenerators:generator 1 11"
+	},
+	{
+		uid: "5a0e623c",
+		type: "custom",
+		title: "Electromagnetic Coil",
+		icon: "mekanismgenerators:generator 1 9"
+	},
+	{
+		uid: "3418bd7d",
+		type: "custom",
+		title: "Rotational Complex",
+		icon: "mekanismgenerators:generator 1 8"
+	},
+	{
+		uid: "945ec89e",
+		type: "custom",
+		title: "Pressure Disperser",
+		icon: "mekanism:basicblock2 1 6"
+	},
+	{
+		uid: "c5558020",
+		type: "custom",
+		title: "Structural Glass",
+		icon: "mekanism:basicblock 1 10"
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "a6694454",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_byproduct_recolector"
+		}]
+	}]
+}

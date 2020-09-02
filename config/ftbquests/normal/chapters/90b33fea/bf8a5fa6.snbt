@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "d16e7977",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tree_fluid_extractor"
+		}]
+	}]
+}

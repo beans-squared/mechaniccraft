@@ -1,0 +1,19 @@
+{
+	title: "Controller",
+	icon: {
+		id: "refinedstorage:controller",
+		tag: {
+			Energy: 32000
+		},
+		Damage: 1s
+	},
+	x: -1.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "22610e7c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

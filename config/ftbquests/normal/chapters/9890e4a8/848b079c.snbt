@@ -1,0 +1,13 @@
+{
+	title: "Advanced Processor",
+	icon: "refinedstorage:processor 1 5",
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "7af39626",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

@@ -1,0 +1,39 @@
+{
+	title: "Welcome to MechanicCraft Reasearch",
+	icon: "contenttweaker:red_science_pack",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Use the tabs on the left to navigate to a particular field of study."
+	],
+	size: 8.0d,
+	tasks: [{
+		uid: "ea2c0045",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "144c4e6f",
+		type: "item",
+		item: "techreborn:bronzesword"
+	},
+	{
+		uid: "7481bf3e",
+		type: "item",
+		item: "techreborn:bronzehelmet"
+	},
+	{
+		uid: "dbe78886",
+		type: "item",
+		item: "techreborn:bronzechestplate"
+	},
+	{
+		uid: "17b68c19",
+		type: "item",
+		item: "techreborn:bronzeleggings"
+	},
+	{
+		uid: "95ecd4ef",
+		type: "item",
+		item: "techreborn:bronzeboots"
+	}]
+}

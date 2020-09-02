@@ -1,0 +1,13 @@
+{
+	title: "Ultimate Control Circuit'",
+	icon: "mekanism:controlcircuit 1 3",
+	x: 0.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "542ccfd2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

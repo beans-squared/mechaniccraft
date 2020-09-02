@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "38f5d470",
+		type: "item",
+		items: [{
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IT:SteelSheetmetalTank"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b883d5e2",
+		type: "item",
+		items: [{
+			item: "techreborn:rolling_machine"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "Simulation Chamber",
+	icon: "deepmoblearning:simulation_chamber",
+	x: 0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "97601f67",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

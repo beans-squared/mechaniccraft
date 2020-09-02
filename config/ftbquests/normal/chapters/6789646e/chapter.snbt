@@ -1,0 +1,7 @@
+{
+	title: "Digital Material Management",
+	icon: "refinedstorage:grid",
+	always_invisible: false,
+	group: 1601645967,
+	default_quest_shape: ""
+}

@@ -1,0 +1,7 @@
+{
+	title: "Steam Energy",
+	icon: "mekanismgenerators:turbineblade",
+	always_invisible: false,
+	group: 2008094456,
+	default_quest_shape: ""
+}

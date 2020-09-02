@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "35efd8ec",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:lava_fabricator"
+		}]
+	}]
+}

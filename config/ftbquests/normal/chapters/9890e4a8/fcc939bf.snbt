@@ -1,0 +1,13 @@
+{
+	title: "Construction Core",
+	icon: "refinedstorage:core",
+	x: 2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "d83bd667",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

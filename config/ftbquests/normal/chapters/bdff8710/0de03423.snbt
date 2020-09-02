@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "beff69ad",
+		type: "item",
+		items: [{
+			item: "magneticraft:conveyor_belt"
+		}]
+	}]
+}

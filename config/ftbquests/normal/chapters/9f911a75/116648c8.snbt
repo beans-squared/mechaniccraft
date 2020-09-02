@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "82ca4771",
+		type: "item",
+		items: [{
+			item: "techreborn:recycler"
+		}]
+	}]
+}

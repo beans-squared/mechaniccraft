@@ -1,0 +1,15 @@
+{
+	title: "Gadgets & Measuring Tools",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:skyhook"
+	},
+	always_invisible: false,
+	group: -2091751365,
+	default_quest_shape: ""
+}

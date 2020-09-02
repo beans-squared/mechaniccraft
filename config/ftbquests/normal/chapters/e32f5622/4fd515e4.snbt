@@ -1,0 +1,13 @@
+{
+	title: "Deep Learner",
+	icon: "deepmoblearning:deep_learner",
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "91c7c95e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

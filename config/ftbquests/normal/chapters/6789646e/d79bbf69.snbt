@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "88793ff4",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafting_monitor"
+		}]
+	}]
+}

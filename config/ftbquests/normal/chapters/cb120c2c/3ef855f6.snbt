@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "4d91d544",
+		type: "item",
+		items: [{
+			item: "techreborn:solid_canning_machine"
+		}]
+	}]
+}

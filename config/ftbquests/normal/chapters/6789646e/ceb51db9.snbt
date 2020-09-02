@@ -1,0 +1,13 @@
+{
+	title: "Grid",
+	icon: "refinedstorage:grid",
+	x: -1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "ab84e56e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

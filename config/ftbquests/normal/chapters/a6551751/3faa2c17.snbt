@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "d3c6edb1",
+		type: "item",
+		items: [{
+			item: "techreborn:plate_bending_machine"
+		}]
+	}]
+}

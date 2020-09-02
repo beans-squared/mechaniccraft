@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "22dbe6ad",
+		type: "item",
+		items: [{
+			item: "techreborn:industrial_centrifuge"
+		}]
+	}]
+}

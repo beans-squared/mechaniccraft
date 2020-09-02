@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f79d134f",
+		type: "item",
+		items: [{
+			item: "magneticraft:sieve"
+		}]
+	}]
+}

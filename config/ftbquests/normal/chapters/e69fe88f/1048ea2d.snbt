@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "25173056",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:animal_resource_harvester"
+		}]
+	}]
+}

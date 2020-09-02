@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "a0cc6f8d",
+		type: "item",
+		items: [{
+			item: "magneticraft:insulated_heat_pipe"
+		}]
+	}]
+}

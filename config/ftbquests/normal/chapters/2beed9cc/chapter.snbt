@@ -1,0 +1,15 @@
+{
+	title: "Weapons & Armor",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:railgun"
+	},
+	always_invisible: false,
+	group: -2091751365,
+	default_quest_shape: ""
+}

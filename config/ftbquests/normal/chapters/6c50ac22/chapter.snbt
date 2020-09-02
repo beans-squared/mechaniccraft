@@ -1,0 +1,7 @@
+{
+	title: "Monsters",
+	icon: "minecraft:bone",
+	always_invisible: false,
+	group: 242780032,
+	default_quest_shape: ""
+}

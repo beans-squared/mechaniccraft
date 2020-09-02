@@ -1,0 +1,7 @@
+{
+	title: "Deep Learning & Simulations",
+	icon: "deepmoblearning:deep_learner",
+	always_invisible: false,
+	group: 1601645967,
+	default_quest_shape: ""
+}

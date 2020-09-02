@@ -1,0 +1,13 @@
+{
+	title: "Basic Processor",
+	icon: "refinedstorage:processor 1 3",
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "9ebf2ee6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

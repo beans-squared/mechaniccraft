@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "f3c04c97",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_duplicator"
+		}]
+	}]
+}
