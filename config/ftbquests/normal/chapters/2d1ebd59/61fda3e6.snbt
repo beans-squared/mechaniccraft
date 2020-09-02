@@ -1,0 +1,34 @@
+{
+	title: "Bigger Steam Boiler",
+	icon: "magneticraft:big_steam_boiler",
+	x: 1.5d,
+	y: -2.0d,
+	text: [
+		"Greater efficiency and capacity than its smaller counterpart."
+	],
+	dependencies: [
+		"9109663d"
+	],
+	tasks: [{
+		uid: "9bbd0349",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "e40180fc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "0322dec0",
+		type: "custom",
+		title: "Bigger Steam Boiler (multiblock blueprint)",
+		icon: "magneticraft:big_steam_boiler"
+	}]
+}

@@ -1,46 +1,46 @@
 {
-	title: "Charge-O-Mat",
-	icon: "techreborn:charge_o_mat",
-	x: -4.0d,
+	title: "Superconductor Cable",
+	icon: "techreborn:cable 1 8",
+	x: -2.0d,
 	y: 6.5d,
 	text: [
-		"Charges multiple items."
+		"ITS OVER 9000"
 	],
 	dependencies: [
-		"294c0f81"
+		"9a8153f3"
 	],
 	tasks: [{
-		uid: "ab341616",
+		uid: "72495e28",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}]
 	},
 	{
-		uid: "f29001b3",
+		uid: "94b55d94",
 		type: "item",
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}]
 	},
 	{
-		uid: "e1913a6c",
+		uid: "a05d61ff",
 		type: "item",
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}]
 	},
 	{
-		uid: "5ac65f41",
+		uid: "546904b5",
 		type: "item",
 		items: [{
 			item: "contenttweaker:yellow_science_pack"
 		}]
 	}],
 	rewards: [{
-		uid: "4a4c91a8",
+		uid: "84931616",
 		type: "custom",
-		title: "Charge-O-Mat",
-		icon: "techreborn:charge_o_mat"
+		title: "Superconductor Cable (electrical cable)",
+		icon: "techreborn:cable 1 8"
 	}]
 }

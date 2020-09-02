@@ -1,0 +1,21 @@
+{
+	title: "Capacitor Backpack",
+	icon: "immersiveengineering:powerpack",
+	x: 2.0d,
+	y: 2.0d,
+	text: [
+		"Holds an electric charge for handheld tools and weapons to use. Fits into a baubles slot."
+	],
+	dependencies: [
+		"edff7f32"
+	],
+	tasks: [{
+		uid: "4cc480dc",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:powerpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

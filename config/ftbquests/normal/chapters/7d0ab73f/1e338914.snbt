@@ -1,6 +1,15 @@
 {
+	title: "Charging Station",
+	icon: "immersiveengineering:metal_device1 1 5",
 	x: -4.0d,
-	y: -0.5d,
+	y: 0.5d,
+	text: [
+		"Charges items."
+	],
+	dependencies: [
+		"d470d99b",
+		"47473b78"
+	],
 	tasks: [{
 		uid: "17137b5f",
 		type: "item",

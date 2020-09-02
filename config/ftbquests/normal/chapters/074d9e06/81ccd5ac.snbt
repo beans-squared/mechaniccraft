@@ -1,11 +1,50 @@
 {
+	title: "Industrial Grinder",
+	icon: "techreborn:industrial_grinder",
 	x: 3.0d,
 	y: 3.5d,
+	text: [
+		"Which is better, grinding or crushing? IDK either"
+	],
+	dependencies: [
+		"ac89403f"
+	],
 	tasks: [{
-		uid: "fcf32f48",
+		uid: "aea50aad",
 		type: "item",
 		items: [{
-			item: "techreborn:industrial_grinder"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "8737e68f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "d9f1172d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "9e045f64",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "5ecee69a",
+		type: "custom",
+		title: "Industrial Grinder (multiblock machine)",
+		icon: "techreborn:industrial_grinder"
 	}]
 }

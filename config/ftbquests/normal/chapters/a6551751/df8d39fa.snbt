@@ -1,11 +1,50 @@
 {
+	title: "Implosion Compressor",
+	icon: "techreborn:implosion_compressor",
 	x: -0.5d,
 	y: 3.5d,
+	text: [
+		"Explodes stuff. Apparently that's valuable."
+	],
+	dependencies: [
+		"5b849853"
+	],
 	tasks: [{
-		uid: "bb555f82",
+		uid: "016bae2a",
 		type: "item",
 		items: [{
-			item: "techreborn:implosion_compressor"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "fe512130",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "a7baecc1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "2f401e72",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "badea043",
+		type: "custom",
+		title: "Implosion Compressor (multiblock machine)",
+		icon: "techreborn:implosion_compressor"
 	}]
 }

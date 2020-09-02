@@ -1,10 +1,63 @@
 {
+	title: "Infinity Drill",
+	icon: {
+		id: "industrialforegoing:infinity_drill",
+		tag: {
+			Energy: 0L,
+			Fluid: {
+				FluidName: "biofuel",
+				Amount: 0
+			},
+			Special: 0b,
+			Selected: "POOR"
+		}
+	},
 	x: -0.5d,
-	y: 1.0d,
+	y: 2.5d,
+	text: [
+		"Highly advanced personal drilling tool. Expect a few mountains to go missing once this gets unlocked..."
+	],
+	dependencies: [
+		"8b478712"
+	],
 	tasks: [{
-		uid: "6ee86052",
+		uid: "8e8aa761",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 5000L
+	},
+	{
+		uid: "c5dc3bac",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 5000L
+	},
+	{
+		uid: "547f1d6b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 5000L,
+		consume_items: false
+	},
+	{
+		uid: "a91cdf3d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 5000L
+	}],
+	rewards: [{
+		uid: "99d4ab68",
+		type: "custom",
+		title: "Infinity Drill (tool)",
+		icon: {
 			id: "industrialforegoing:infinity_drill",
 			tag: {
 				Energy: 0L,
@@ -15,7 +68,6 @@
 				Special: 0b,
 				Selected: "POOR"
 			}
-		}],
-		ignore_nbt: 1b
+		}
 	}]
 }

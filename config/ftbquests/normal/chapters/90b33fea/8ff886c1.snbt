@@ -1,11 +1,41 @@
 {
+	title: "Latex Processing Unit",
+	icon: "industrialforegoing:latex_processing_unit",
 	x: 0.5d,
 	y: 0.5d,
+	text: [
+		"Processes latex and water into tiny dry rubber, which is used to make rubber."
+	],
+	dependencies: [
+		"bf8a5fa6"
+	],
 	tasks: [{
-		uid: "9d770253",
+		uid: "3c7a785a",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:latex_processing_unit"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L,
+		consume_items: false
+	},
+	{
+		uid: "28a94561",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "b4ed6991",
+		type: "custom",
+		title: "Latex Processing Unit (machine)",
+		icon: "industrialforegoing:latex_processing_unit"
+	},
+	{
+		uid: "27a08ec4",
+		type: "custom",
+		title: "Plastic (material)",
+		icon: "industrialforegoing:plastic"
 	}]
 }

@@ -1,12 +1,56 @@
 {
+	title: "Digital Miner",
+	icon: {
+		id: "mekanism:machineblock",
+		tag: {
+			mekData: {}
+		},
+		Damage: 4s
+	},
 	x: -0.5d,
-	y: 2.0d,
+	y: 1.0d,
+	text: [
+		"Highly advanced autominer that can mine any block based on filters."
+	],
+	dependencies: [
+		"1ec3e3b4"
+	],
 	tasks: [{
-		uid: "a8280c26",
+		uid: "e5fea1db",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock 1 4"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 1000L
+	},
+	{
+		uid: "afeef6d9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "76a2af95",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "f0c40504",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "f74519e0",
+		type: "custom",
+		title: "Digital Miner (machine)",
+		icon: "mekanism:machineblock 1 4"
 	}]
 }

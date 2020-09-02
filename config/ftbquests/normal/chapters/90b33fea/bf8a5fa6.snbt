@@ -1,11 +1,34 @@
 {
+	title: "Tree Fluid Extractor",
+	icon: "industrialforegoing:tree_fluid_extractor",
 	x: 0.5d,
 	y: -1.0d,
+	text: [
+		"Extracts liquid latex from trees."
+	],
+	dependencies: [
+		"dfae8123"
+	],
 	tasks: [{
-		uid: "d16e7977",
+		uid: "310945a8",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:tree_fluid_extractor"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	},
+	{
+		uid: "ab10b016",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "0a04af70",
+		type: "custom",
+		title: "Tree Fluid Extractor (machine)",
+		icon: "industrialforegoing:tree_fluid_extractor"
 	}]
 }

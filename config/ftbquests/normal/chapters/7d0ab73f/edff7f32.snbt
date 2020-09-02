@@ -1,0 +1,27 @@
+{
+	title: "Low Voltage Capacitor",
+	icon: "immersiveengineering:metal_device0",
+	x: 0.0d,
+	y: 0.5d,
+	text: [
+		"Stores up to 100k FE."
+	],
+	dependencies: [
+		"a6597920",
+		"47473b78"
+	],
+	tasks: [{
+		uid: "4a925e7a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 15L
+	}],
+	rewards: [{
+		uid: "e9910b35",
+		type: "custom",
+		title: "LV Capacitor (battery)",
+		icon: "immersiveengineering:metal_device0"
+	}]
+}

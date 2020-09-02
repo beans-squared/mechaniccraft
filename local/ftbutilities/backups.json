@@ -19,5 +19,12 @@
 		"index": 3,
 		"success": true,
 		"size": 62620966
+	},
+	{
+		"time": 1599082430789,
+		"file": "2020-09-02-16-33-50.zip",
+		"index": 4,
+		"success": true,
+		"size": 355495
 	}
 ]

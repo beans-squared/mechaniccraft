@@ -1,12 +1,42 @@
 {
+	title: "Energized Smelter",
+	icon: "mekanism:machineblock 1 10",
 	x: -1.0d,
 	y: 2.0d,
+	text: [
+		"Nothing more than a fancy electric furnace, but can be upgraded to a factory version, allowing multiple smelting operations at once."
+	],
+	dependencies: [
+		"e0b95f5e"
+	],
 	tasks: [{
-		uid: "707a4194",
+		uid: "49295c9f",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock 1 10"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 250L
+	},
+	{
+		uid: "414a18eb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "e3146735",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "203607a5",
+		type: "custom",
+		title: "Energized Smelter (furnace)",
+		icon: "mekanism:machineblock 1 10"
 	}]
 }

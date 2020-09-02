@@ -1,11 +1,34 @@
 {
+	title: "Ore Processor",
+	icon: "industrialforegoing:ore_processor",
 	x: 2.0d,
 	y: 0.5d,
+	text: [
+		"Breaks down gemstone ores (like diamond or lapis). Can use essence to apply a fortune effect to the process."
+	],
+	dependencies: [
+		"a7b01697"
+	],
 	tasks: [{
-		uid: "5321812c",
+		uid: "de119579",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:ore_processor"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	},
+	{
+		uid: "37949fd7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "eb734797",
+		type: "custom",
+		title: "Ore Processor (machine)",
+		icon: "industrialforegoing:ore_processor"
 	}]
 }

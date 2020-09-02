@@ -1,11 +1,41 @@
 {
+	title: "Laser Drill",
+	icon: "industrialforegoing:laser_drill",
 	x: -0.5d,
-	y: -1.0d,
+	y: -2.0d,
+	text: [
+		"Automatically mines random ores from the world based on biome and lens used."
+	],
+	dependencies: [
+		"076dc311",
+		"8ff886c1"
+	],
 	tasks: [{
-		uid: "62c25123",
+		uid: "7d693ea0",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:laser_drill"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "a8b8906c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "61eaa52d",
+		type: "custom",
+		title: "Laser Drill (machine)",
+		icon: "industrialforegoing:laser_drill"
+	},
+	{
+		uid: "656e59d7",
+		type: "custom",
+		title: "Laser Base (machine)",
+		icon: "industrialforegoing:laser_base"
 	}]
 }

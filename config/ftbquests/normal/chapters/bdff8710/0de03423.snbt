@@ -1,11 +1,23 @@
 {
-	x: -0.5d,
-	y: -1.0d,
+	title: "Elevated Conveyor Belt",
+	icon: "magneticraft:conveyor_belt",
+	x: 1.5d,
+	y: -3.0d,
+	text: [
+		"Special conveyor belt featuring better overflow optimization and compatability with certain machines."
+	],
 	tasks: [{
-		uid: "beff69ad",
+		uid: "d84f8640",
 		type: "item",
 		items: [{
-			item: "magneticraft:conveyor_belt"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "20ee8460",
+		type: "custom",
+		title: "Elevated Conveyor Belt (machine)",
+		icon: "magneticraft:conveyor_belt"
 	}]
 }

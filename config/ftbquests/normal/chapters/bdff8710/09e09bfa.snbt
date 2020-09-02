@@ -1,14 +1,77 @@
 {
-	x: -1.5d,
-	y: -1.0d,
+	title: "Conveyor Belts",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: -0.5d,
+	y: -3.0d,
+	text: [
+		"Simple, slow-moving belts that move items and entities around."
+	],
 	tasks: [{
-		uid: "0a1020e0",
+		uid: "fa9b88de",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 15L
+	}],
+	rewards: [{
+		uid: "faed63ae",
+		type: "custom",
+		title: "Conveyor Belt (machine)",
+		icon: {
 			id: "immersiveengineering:conveyor",
 			tag: {
 				conveyorType: "immersiveengineering:conveyor"
 			}
-		}]
+		}
+	},
+	{
+		uid: "ef62bded",
+		type: "custom",
+		title: "Dropping Conveyor Belt (machine)",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}
+	},
+	{
+		uid: "fd43bb1a",
+		type: "custom",
+		title: "Vertical Conveyor Belt (machine)",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:vertical"
+			}
+		}
+	},
+	{
+		uid: "d8c9d1a4",
+		type: "custom",
+		title: "Splitting Conveyor Belt (machine)",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:splitter"
+			}
+		}
+	},
+	{
+		uid: "59af1769",
+		type: "custom",
+		title: "Extracting Conveyor Belt (machine)",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:extract"
+			}
+		}
 	}]
 }

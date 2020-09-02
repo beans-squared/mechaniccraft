@@ -1,12 +1,42 @@
 {
-	x: -3.0d,
-	y: -0.5d,
+	title: "Chargepad",
+	icon: "mekanism:machineblock 1 14",
+	x: -4.0d,
+	y: 5.0d,
+	text: [
+		"Charges items in the user's inventory when stood on."
+	],
+	dependencies: [
+		"9a8153f3"
+	],
 	tasks: [{
-		uid: "5b07ae3e",
+		uid: "00fd11fb",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock 1 14"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 75L
+	},
+	{
+		uid: "87b68dce",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "357ac09e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "9835ea98",
+		type: "custom",
+		title: "Chargepad (machine)",
+		icon: "mekanism:machineblock 1 14"
 	}]
 }

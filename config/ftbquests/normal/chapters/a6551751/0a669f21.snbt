@@ -1,16 +1,32 @@
 {
+	title: "Metal Press",
+	icon: "immersiveengineering:mold",
 	x: -0.5d,
 	y: -4.0d,
+	text: [
+		"Presses metal ingots into various metal other things, using a big mashy arm thing."
+	],
+	dependencies: [
+		"09e09bfa",
+		"00ccd193"
+	],
 	tasks: [{
-		uid: "5b713f92",
+		uid: "71edd7a6",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "315788a0",
+		type: "custom",
+		title: "Metal Press (multiblock structure)",
+		icon: {
 			id: "immersivepetroleum:schematic",
 			tag: {
 				multiblock: "IE:MetalPress"
 			}
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		}
 	}]
 }

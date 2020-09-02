@@ -1,11 +1,26 @@
 {
+	title: "Sluice Box",
+	icon: "magneticraft:sluice_box",
 	x: 3.0d,
 	y: -2.5d,
+	text: [
+		"Filters out all the unwanted bits from rocky chunks (the rocks) and keeps all the good stuff (ore chunks and some other stuff)."
+	],
+	dependencies: [
+		"dfae8123"
+	],
 	tasks: [{
-		uid: "b7736d27",
+		uid: "6ad929e5",
 		type: "item",
 		items: [{
-			item: "magneticraft:sluice_box"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "9150954b",
+		type: "custom",
+		title: "Sluice Box (machine)",
+		icon: "magneticraft:sluice_box"
 	}]
 }

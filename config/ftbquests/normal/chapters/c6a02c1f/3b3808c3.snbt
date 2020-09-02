@@ -6,7 +6,7 @@
 	text: [
 		"Use the tabs on the left to navigate to a particular field of study."
 	],
-	size: 8.0d,
+	size: 4.0d,
 	tasks: [{
 		uid: "ea2c0045",
 		type: "checkmark"

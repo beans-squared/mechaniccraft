@@ -1,11 +1,46 @@
 {
-	x: -1.0d,
+	title: "Alloy Smelter",
+	icon: "techreborn:alloy_smelter",
+	x: -2.0d,
 	y: 3.5d,
+	text: [
+		"Special kind of furnace that makes two metals and melts them down into an alloy."
+	],
+	dependencies: [
+		"f82e1165"
+	],
 	tasks: [{
-		uid: "1e9623f7",
+		uid: "ccdd6c10",
 		type: "item",
 		items: [{
-			item: "techreborn:iron_alloy_furnace"
+			item: "contenttweaker:red_science_pack"
 		}]
+	},
+	{
+		uid: "b8678ccf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}]
+	},
+	{
+		uid: "b5ba1a90",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}]
+	},
+	{
+		uid: "4fe8757a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "aadd3632",
+		type: "custom",
+		title: "Alloy Smelter (machine)",
+		icon: "techreborn:alloy_smelter"
 	}]
 }

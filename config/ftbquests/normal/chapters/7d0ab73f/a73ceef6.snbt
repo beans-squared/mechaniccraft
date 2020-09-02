@@ -1,0 +1,27 @@
+{
+	title: "Medium Voltage Capacitor",
+	icon: "immersiveengineering:metal_device0 1 1",
+	x: 0.0d,
+	y: 2.0d,
+	text: [
+		"Stores up to 1M FE."
+	],
+	dependencies: [
+		"edff7f32",
+		"d470d99b"
+	],
+	tasks: [{
+		uid: "cbe84fda",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "686c86ed",
+		type: "custom",
+		title: "MV Capacitor (battery)",
+		icon: "immersiveengineering:metal_device0 1 1"
+	}]
+}

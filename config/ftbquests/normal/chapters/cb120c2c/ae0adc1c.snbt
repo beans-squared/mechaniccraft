@@ -1,12 +1,22 @@
 {
+	title: "Metallurgic Infuser",
+	icon: "mekanism:machineblock 1 8",
 	x: -4.0d,
-	y: 1.5d,
+	y: -3.5d,
+	text: [
+		"Infuses stuff with other stuff. Isn't that neat!"
+	],
 	tasks: [{
-		uid: "3a6c7bb3",
+		uid: "5b250211",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock 1 8"
-		}],
-		ignore_nbt: 1b
+			item: "contenttweaker:red_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "d07e019b",
+		type: "custom",
+		title: "Metallurgic Infuser (machine)",
+		icon: "mekanism:machineblock 1 8"
 	}]
 }

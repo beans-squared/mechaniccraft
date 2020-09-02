@@ -1,8 +1,11 @@
 {
-	title: "Basic Circuit Board",
+	title: "Crude Circuit Board",
 	icon: "immersiveengineering:material 1 27",
 	x: 0.5d,
-	y: -2.5d,
+	y: -4.5d,
+	text: [
+		"Primitive circuit board for some low-tech machinery."
+	],
 	tasks: [{
 		uid: "9778f23b",
 		type: "item",
@@ -14,7 +17,7 @@
 	rewards: [{
 		uid: "4dcac213",
 		type: "custom",
-		title: "Basic Circuit Board",
+		title: "Crude Circuit Board (machine part)",
 		icon: "immersiveengineering:material 1 27"
 	}]
 }

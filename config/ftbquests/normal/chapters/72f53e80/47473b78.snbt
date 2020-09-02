@@ -28,5 +28,17 @@
 		type: "custom",
 		title: "Coal Coke (fuel source)",
 		icon: "immersiveengineering:material 1 6"
+	},
+	{
+		uid: "e436f17f",
+		type: "custom",
+		title: "Creosote Oil (material)",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "creosote",
+				Amount: 1000
+			}
+		}
 	}]
 }

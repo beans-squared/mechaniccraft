@@ -1,14 +1,11 @@
 {
-	title: "Steam Power III",
-	icon: {
-		id: "forge:bucketfilled",
-		tag: {
-			FluidName: "steam",
-			Amount: 1000
-		}
-	},
+	title: "Steam Turbine",
+	icon: "mekanismgenerators:turbineblade",
 	x: 0.0d,
 	y: 1.0d,
+	text: [
+		"Turbine go brrrrrrrrrrrrrrr"
+	],
 	dependencies: [
 		"2246bcdd"
 	],
@@ -34,7 +31,7 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 75L
+		count: 100L
 	}],
 	rewards: [{
 		uid: "be7f076a",

@@ -1,11 +1,51 @@
 {
+	title: "Plate Bending Machine",
+	icon: "techreborn:plate_bending_machine",
 	x: -0.5d,
 	y: 0.5d,
+	text: [
+		"Crafts plates from ingots using magic."
+	],
+	dependencies: [
+		"a7e9afc5",
+		"4da3654a"
+	],
 	tasks: [{
-		uid: "d3c6edb1",
+		uid: "b6c5a629",
 		type: "item",
 		items: [{
-			item: "techreborn:plate_bending_machine"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "727c5e65",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "3b0261fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "688f0c72",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "60ca6f69",
+		type: "custom",
+		title: "Plate Bending Machine (machine)",
+		icon: "techreborn:plate_bending_machine"
 	}]
 }
