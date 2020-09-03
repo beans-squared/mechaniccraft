@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "78f1bc86",
+		type: "item",
+		items: [{
+			item: "techreborn:plasma_generator"
+		}]
+	}]
+}

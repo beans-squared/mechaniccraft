@@ -1,8 +1,15 @@
 {
-	title: "Lightning Rod I",
+	title: "Lightning Rod",
 	icon: "immersiveengineering:metal_decoration1",
-	x: -1.0d,
-	y: 1.0d,
+	x: -2.0d,
+	y: -2.5d,
+	text: [
+		"Captures the immense energy output of lightning."
+	],
+	dependencies: [
+		"2b27d277",
+		"0c67ea40"
+	],
 	tasks: [{
 		uid: "f2a5deb1",
 		type: "item",
@@ -17,7 +24,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 25L
+		count: 50L
 	}],
 	rewards: [{
 		uid: "c7fdd514",

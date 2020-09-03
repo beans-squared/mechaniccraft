@@ -1,15 +1,24 @@
 {
 	title: "Dragon Egg Energy Siphon",
 	icon: "techreborn:dragon_egg_syphon",
-	x: 0.5d,
-	y: 2.0d,
+	x: 1.0d,
+	y: -2.5d,
+	text: [
+		"Sucks the life force out of the poor innnocent baby dragon inside an ender dragon egg and uses it to generate power."
+	],
+	dependencies: [
+		"cfd71de7",
+		"abf4d909",
+		"07578cf8",
+		"0c67ea40"
+	],
 	tasks: [{
 		uid: "268d3a95",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 75L
+		count: 200L
 	},
 	{
 		uid: "9c3bb107",
@@ -17,7 +26,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 25L
+		count: 200L
 	},
 	{
 		uid: "f6e0e6c1",
@@ -25,7 +34,15 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 10L
+		count: 200L
+	},
+	{
+		uid: "e9b52413",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 200L
 	}],
 	rewards: [{
 		uid: "4417d42b",

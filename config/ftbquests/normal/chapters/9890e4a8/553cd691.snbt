@@ -1,8 +1,8 @@
 {
 	title: "Basic Control Circuit",
 	icon: "mekanism:controlcircuit",
-	x: 0.5d,
-	y: -3.0d,
+	x: -2.0d,
+	y: -5.0d,
 	text: [
 		"Simple control circuit for advanced machinery."
 	],

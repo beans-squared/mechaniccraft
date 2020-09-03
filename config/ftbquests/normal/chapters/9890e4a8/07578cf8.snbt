@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "fab44663",
+		type: "item",
+		items: [{
+			id: "techreborn:lapotronicorb",
+			tag: {
+				energy: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

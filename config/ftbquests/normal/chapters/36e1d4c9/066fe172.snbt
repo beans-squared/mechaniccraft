@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "1303e6b3",
+		type: "item",
+		items: [{
+			item: "techreborn:gas_turbine"
+		}]
+	}]
+}

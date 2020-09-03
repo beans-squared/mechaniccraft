@@ -1,8 +1,11 @@
 {
-	title: "Photovoltaics III",
+	title: "Solar Generator",
 	icon: "mekanismgenerators:generator 1 1",
 	x: 0.0d,
 	y: 1.0d,
+	text: [
+		"Better and more efficient solar energy."
+	],
 	dependencies: [
 		"72cc986b"
 	],
@@ -20,15 +23,15 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 35L
+		count: 100L
 	},
 	{
-		uid: "a5a1c8aa",
+		uid: "0c68ac55",
 		type: "item",
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 5L
+		count: 100L
 	}],
 	rewards: [{
 		uid: "c3a746cf",

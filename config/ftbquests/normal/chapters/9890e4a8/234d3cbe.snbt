@@ -1,11 +1,34 @@
 {
-	x: -2.0d,
-	y: 2.0d,
+	title: "Advanced Electronic Circuit",
+	icon: "techreborn:part 1 30",
+	x: 0.5d,
+	y: -1.5d,
+	text: [
+		"More sophisticated than the basic model."
+	],
+	dependencies: [
+		"cb4a287a"
+	],
 	tasks: [{
-		uid: "96e09ea2",
+		uid: "4aa4d5b8",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 30"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "5393cc93",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "001187ec",
+		type: "custom",
+		title: "Advanced Electronic Circuit (component)",
+		icon: "techreborn:part 1 30"
 	}]
 }

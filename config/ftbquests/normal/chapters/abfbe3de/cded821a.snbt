@@ -1,8 +1,16 @@
 {
 	title: "Wind Generator",
 	icon: "mekanismgenerators:generator 1 6",
-	x: 0.5d,
-	y: -1.5d,
+	x: -0.5d,
+	y: -2.0d,
+	text: [
+		"Generates power based on wind speed (more efficiently)."
+	],
+	dependencies: [
+		"1fedf4cd",
+		"553cd691",
+		"0c67ea40"
+	],
 	tasks: [{
 		uid: "44fde71b",
 		type: "item",
@@ -17,7 +25,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 25L
+		count: 75L
 	},
 	{
 		uid: "5c091f6d",
@@ -25,12 +33,12 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 10L
+		count: 75L
 	}],
 	rewards: [{
 		uid: "10144e9b",
 		type: "custom",
-		title: "Wind Generator",
+		title: "Wind Generator (machine)",
 		icon: "mekanismgenerators:generator 1 6"
 	}]
 }

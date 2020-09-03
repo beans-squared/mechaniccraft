@@ -1,8 +1,11 @@
 {
-	title: "Photovoltaics IV",
+	title: "Solar Machine",
 	icon: "techreborn:solar_panel 1 3",
 	x: 0.0d,
 	y: 2.5d,
+	text: [
+		"Best solar generation ya got."
+	],
 	dependencies: [
 		"43f28a69"
 	],
@@ -20,7 +23,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 150L
+		count: 200L
 	},
 	{
 		uid: "d7d5b89a",
@@ -28,7 +31,7 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 75L
+		count: 200L
 	},
 	{
 		uid: "714c1d36",
@@ -36,7 +39,7 @@
 		items: [{
 			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 25L
+		count: 200L
 	}],
 	rewards: [{
 		uid: "70317ea4",

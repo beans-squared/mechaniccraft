@@ -1,8 +1,16 @@
 {
-	title: "Lightning Rod II",
+	title: "Lightning Rod",
 	icon: "techreborn:lightning_rod",
-	x: -1.0d,
-	y: 2.5d,
+	x: -2.0d,
+	y: -1.0d,
+	text: [
+		"Also captures lightning energy, but better."
+	],
+	dependencies: [
+		"e6d890e4",
+		"cfd71de7",
+		"7b5b9655"
+	],
 	tasks: [{
 		uid: "4ef8d07a",
 		type: "item",
@@ -17,7 +25,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 75L
+		count: 100L
 	},
 	{
 		uid: "025bf245",
@@ -25,8 +33,16 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 25L,
+		count: 100L,
 		consume_items: false
+	},
+	{
+		uid: "a2ad4fac",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 100L
 	}],
 	rewards: [{
 		uid: "d2f8c93f",

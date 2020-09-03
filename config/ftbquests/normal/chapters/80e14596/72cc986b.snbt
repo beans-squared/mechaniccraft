@@ -1,8 +1,11 @@
 {
-	title: "Photovoltaics II",
+	title: "Solar Array",
 	icon: "engineersdecor:sign_hotwire",
 	x: 0.0d,
 	y: -0.5d,
+	text: [
+		"Generates power using the sun. Useless at night."
+	],
 	dependencies: [
 		"eb637904"
 	],
@@ -11,6 +14,14 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "4bb891f8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
 		}],
 		count: 50L
 	}],

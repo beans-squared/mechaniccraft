@@ -1,11 +1,35 @@
 {
-	x: -2.0d,
-	y: 1.0d,
+	title: "Basic Circuit Board",
+	icon: "techreborn:part 1 40",
+	x: -3.5d,
+	y: -3.5d,
+	text: [
+		"Simple electronic component used in basic computing devices."
+	],
+	dependencies: [
+		"3339c787",
+		"5b849853"
+	],
 	tasks: [{
-		uid: "33ff4ddb",
+		uid: "e3d002f5",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 40"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "07422d3d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "1b64b02a",
+		type: "custom",
+		title: "Basic Circuit Board (component)",
+		icon: "techreborn:part 1 40"
 	}]
 }

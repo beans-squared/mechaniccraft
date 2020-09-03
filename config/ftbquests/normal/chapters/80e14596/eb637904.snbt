@@ -1,10 +1,13 @@
 {
-	title: "Photovoltatics I",
+	title: "Small Solar Panel",
 	icon: "engineersdecor:small_solar_panel",
 	x: 0.0d,
 	y: -2.0d,
 	text: [
-		"Power generation using the sun, but useless at night."
+		"Generates power using the sun. Useless at night."
+	],
+	dependencies: [
+		"00ccd193"
 	],
 	tasks: [{
 		uid: "98f3ca48",

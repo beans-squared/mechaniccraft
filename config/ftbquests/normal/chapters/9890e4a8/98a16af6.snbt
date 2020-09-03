@@ -1,0 +1,41 @@
+{
+	title: "Energy Crystal",
+	icon: {
+		id: "techreborn:energycrystal",
+		tag: {
+			energy: 4000000
+		}
+	},
+	x: 2.5d,
+	y: -4.5d,
+	text: [
+		"Who knew a gemstone and redstone was so good at power storage?"
+	],
+	tasks: [{
+		uid: "cf4f5d4d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	},
+	{
+		uid: "4c690f9a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "df00e82e",
+		type: "custom",
+		title: "Energy Crystal (component)",
+		icon: {
+			id: "techreborn:energycrystal",
+			tag: {
+				energy: 0
+			}
+		}
+	}]
+}

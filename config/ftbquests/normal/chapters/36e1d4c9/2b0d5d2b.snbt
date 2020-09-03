@@ -1,0 +1,27 @@
+{
+	title: "Protein Generator",
+	icon: "industrialforegoing:protein_generator",
+	x: 0.5d,
+	y: -8.0d,
+	text: [
+		"Generates power from liquid protein."
+	],
+	dependencies: [
+		"34335656",
+		"3cfcee03"
+	],
+	tasks: [{
+		uid: "8d49f4fe",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "aaf8ee20",
+		type: "custom",
+		title: "Protein Generator (machine)",
+		icon: "industrialforegoing:protein_generator"
+	}]
+}

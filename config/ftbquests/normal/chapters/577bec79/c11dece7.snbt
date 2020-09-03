@@ -1,8 +1,8 @@
 {
 	title: "Advanced Coke Oven",
 	icon: "immersivetech:stone_decoration",
-	x: -5.0d,
-	y: -2.5d,
+	x: -2.5d,
+	y: -1.5d,
 	text: [
 		"Better version of the basic coke oven that is automateble can be sped up using preheaters."
 	],

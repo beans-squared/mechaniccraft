@@ -1,0 +1,53 @@
+{
+	title: "Lapotron Crystal",
+	icon: {
+		id: "techreborn:lapotroncrystal",
+		tag: {
+			energy: 40000000
+		}
+	},
+	x: 2.5d,
+	y: -3.0d,
+	text: [
+		"It's a mineral, it's a machine, it's...both?"
+	],
+	dependencies: [
+		"cb4a287a",
+		"98a16af6"
+	],
+	tasks: [{
+		uid: "e9fd03f5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "37d5afd1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "5f0f778f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "2a5b8efa",
+		type: "custom",
+		title: "Lapotron Crystal (component)",
+		icon: {
+			id: "techreborn:lapotroncrystal",
+			tag: {
+				energy: 0
+			}
+		}
+	}]
+}

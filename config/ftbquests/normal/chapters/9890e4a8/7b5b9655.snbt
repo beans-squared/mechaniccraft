@@ -1,11 +1,43 @@
 {
-	x: -1.0d,
-	y: 0.0d,
+	title: "Data Control Circuit",
+	icon: "techreborn:part 1 1",
+	x: -1.5d,
+	y: -1.5d,
+	text: [
+		"Used in various high level computing applications."
+	],
+	dependencies: [
+		"457b349c",
+		"234d3cbe"
+	],
 	tasks: [{
-		uid: "4bda829e",
+		uid: "2f93293a",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 1"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "cffb5dc3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "5ba65189",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "36e4f051",
+		type: "custom",
+		title: "Data Control Circuit (component)",
+		icon: "techreborn:part 1 1"
 	}]
 }

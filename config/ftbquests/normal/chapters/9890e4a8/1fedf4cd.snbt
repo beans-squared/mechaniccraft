@@ -1,0 +1,13 @@
+{
+	x: -0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "2d63d70c",
+		type: "item",
+		items: [{
+			item: "mekanism:energytablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

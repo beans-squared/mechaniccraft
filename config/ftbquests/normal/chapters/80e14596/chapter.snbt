@@ -1,5 +1,5 @@
 {
-	title: "Solar Energy",
+	title: "Solar Generators",
 	icon: "mekanismgenerators:generator 1 1",
 	always_invisible: false,
 	group: 2008094456,

@@ -1,8 +1,8 @@
 {
 	title: "Coke Oven",
 	icon: "immersiveengineering:stone_decoration",
-	x: -4.0d,
-	y: -4.0d,
+	x: -1.5d,
+	y: -3.0d,
 	text: [
 		"Stucture that allows the creation of coal coke."
 	],
