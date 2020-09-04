@@ -1,7 +1,7 @@
 {
 	title: "Biofuel Generator",
 	icon: "industrialforegoing:biofuel_generator",
-	x: 0.5d,
+	x: -3.0d,
 	y: -9.5d,
 	text: [
 		"Generates energy from biofuel."

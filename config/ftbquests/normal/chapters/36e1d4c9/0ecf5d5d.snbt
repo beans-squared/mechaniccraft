@@ -1,8 +1,14 @@
 {
 	title: "Bio-Generator",
 	icon: "mekanismgenerators:generator 1 4",
-	x: 0.0d,
-	y: -2.0d,
+	x: -3.0d,
+	y: -6.5d,
+	text: [
+		"Consumes solid biomass to generate power."
+	],
+	dependencies: [
+		"2b0d5d2b"
+	],
 	tasks: [{
 		uid: "563e6d68",
 		type: "item",
@@ -17,7 +23,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 75L
+		count: 100L
 	},
 	{
 		uid: "82077da4",
@@ -25,12 +31,12 @@
 		items: [{
 			item: "contenttweaker:purple_science_pack"
 		}],
-		count: 25L
+		count: 100L
 	}],
 	rewards: [{
 		uid: "84276748",
 		type: "custom",
-		title: "Bio-Generator",
+		title: "Bio-Generator (machine)",
 		icon: "mekanismgenerators:generator 1 4"
 	}]
 }

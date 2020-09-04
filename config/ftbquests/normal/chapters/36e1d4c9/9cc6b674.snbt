@@ -1,11 +1,50 @@
 {
-	x: 1.0d,
-	y: 0.0d,
+	title: "Plasma Generator",
+	icon: "techreborn:plasma_generator",
+	x: 7.0d,
+	y: -6.5d,
+	text: [
+		"Comsumes heliumplasma to generate power."
+	],
+	dependencies: [
+		"066fe172"
+	],
 	tasks: [{
-		uid: "78f1bc86",
+		uid: "cd0de3ba",
 		type: "item",
 		items: [{
-			item: "techreborn:plasma_generator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "e10b0e63",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "fc9ad764",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "4ca22305",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "a07b582f",
+		type: "custom",
+		title: "Plasma Generator (machine)",
+		icon: "techreborn:plasma_generator"
 	}]
 }

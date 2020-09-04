@@ -1,11 +1,50 @@
 {
-	x: -1.0d,
-	y: 0.0d,
+	title: "Semi Fluid Generator",
+	icon: "techreborn:semi_fluid_generator",
+	x: 0.5d,
+	y: -8.0d,
+	text: [
+		"Comsumes various misc fluids for power."
+	],
+	dependencies: [
+		"bfcdaeda"
+	],
 	tasks: [{
-		uid: "8f75477e",
+		uid: "b1922a90",
 		type: "item",
 		items: [{
-			item: "techreborn:semi_fluid_generator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "bca456da",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "aec75ffa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "6b07c760",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "f26a77cd",
+		type: "custom",
+		title: "Semi Fluid Generator (machine)",
+		icon: "techreborn:semi_fluid_generator"
 	}]
 }

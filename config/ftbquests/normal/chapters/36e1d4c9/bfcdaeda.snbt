@@ -8,7 +8,7 @@
 		}
 	},
 	x: 0.5d,
-	y: -6.5d,
+	y: -9.5d,
 	text: [
 		"Burns diesel fluids to generate power."
 	],

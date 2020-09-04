@@ -1,11 +1,50 @@
 {
-	x: 0.0d,
-	y: 2.0d,
+	title: "Gas Turbine",
+	icon: "techreborn:gas_turbine",
+	x: 7.0d,
+	y: -8.0d,
+	text: [
+		"Comsumes liquid gas to generate power."
+	],
+	dependencies: [
+		"c95060fc"
+	],
 	tasks: [{
-		uid: "1303e6b3",
+		uid: "92ba0945",
 		type: "item",
 		items: [{
-			item: "techreborn:gas_turbine"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "9ec76cb9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "ac927273",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "33505eb3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "1c6f3509",
+		type: "custom",
+		title: "Gas Turbine (machine)",
+		icon: "techreborn:gas_turbine"
 	}]
 }
