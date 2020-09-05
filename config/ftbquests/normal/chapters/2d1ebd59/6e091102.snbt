@@ -23,9 +23,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "60068e37",
-		type: "custom",
-		title: "Bigger Combustion Chamber (multiblock blueprint)",
-		icon: "magneticraft:big_combustion_chamber"
+		uid: "5f24d482",
+		type: "gamestage",
+		icon: "magneticraft:big_combustion_chamber",
+		auto: "no_toast",
+		stage: "steamgenerators:biggercombustionchamber"
 	}]
 }

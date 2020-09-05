@@ -38,9 +38,10 @@
 		}]
 	}],
 	rewards: [{
-		uid: "84931616",
-		type: "custom",
-		title: "Superconductor Cable (electrical cable)",
-		icon: "techreborn:cable 1 8"
+		uid: "66777082",
+		type: "gamestage",
+		icon: "techreborn:cable 1 8",
+		auto: "no_toast",
+		stage: "energytransport:superconductorcable"
 	}]
 }

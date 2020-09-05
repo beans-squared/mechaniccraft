@@ -85,5 +85,11 @@
 		type: "custom",
 		title: "Structural Glass",
 		icon: "mekanism:basicblock 1 10"
+	},
+	{
+		uid: "8a168e90",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "steamgenerators:dynamicsteamturbine"
 	}]
 }

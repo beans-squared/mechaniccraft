@@ -1,7 +1,7 @@
 {
 	title: "Visit the MechanicCraft Website",
 	icon: "techreborn:part 1 24",
-	x: 0.0d,
+	x: 0.5d,
 	y: 2.5d,
 	custom_click: "https://sites.google.com/view/mechaniccraft/home",
 	tasks: [{

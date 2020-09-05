@@ -36,5 +36,11 @@
 		type: "custom",
 		title: "AF Wire Relay",
 		icon: "alternatingflux:connector"
+	},
+	{
+		uid: "e695876b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "energytransport:alternatingflux"
 	}]
 }

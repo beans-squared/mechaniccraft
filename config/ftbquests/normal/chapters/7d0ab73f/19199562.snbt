@@ -37,5 +37,11 @@
 		type: "custom",
 		title: "Redstone Wire Coil",
 		icon: "immersiveengineering:wirecoil 1 5"
+	},
+	{
+		uid: "81cf01dc",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "energytransport:redstonewire"
 	}]
 }

@@ -10,12 +10,18 @@
 		"edff7f32"
 	],
 	tasks: [{
-		uid: "4cc480dc",
+		uid: "963f59f7",
 		type: "item",
 		items: [{
-			item: "immersiveengineering:powerpack"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		count: 300L
+	}],
+	rewards: [{
+		uid: "03c2921e",
+		type: "gamestage",
+		icon: "immersiveengineering:powerpack",
+		auto: "no_toast",
+		stage: "energystorage:capacitorbackpack"
 	}]
 }

@@ -40,5 +40,11 @@
 		type: "custom",
 		title: "High-Voltage Cable",
 		icon: "techreborn:cable 1 3"
+	},
+	{
+		uid: "4e27261b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "energytransport:highvoltagewiring"
 	}]
 }

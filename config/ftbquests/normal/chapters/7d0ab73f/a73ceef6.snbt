@@ -19,9 +19,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "686c86ed",
-		type: "custom",
-		title: "MV Capacitor (battery)",
-		icon: "immersiveengineering:metal_device0 1 1"
+		uid: "7ab31a0a",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device0 1 1",
+		auto: "no_toast",
+		stage: "energytransport:mvcapacitor"
 	}]
 }

@@ -26,9 +26,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "0322dec0",
-		type: "custom",
-		title: "Bigger Steam Boiler (multiblock blueprint)",
-		icon: "magneticraft:big_steam_boiler"
+		uid: "7c25d182",
+		type: "gamestage",
+		icon: "magneticraft:big_steam_boiler",
+		auto: "no_toast",
+		stage: "steamgenerators:biggersteamboiler"
 	}]
 }

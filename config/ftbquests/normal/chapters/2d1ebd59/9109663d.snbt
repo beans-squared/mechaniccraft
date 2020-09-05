@@ -15,9 +15,10 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "214b8836",
-		type: "custom",
-		title: "Boiler (machine)",
-		icon: "magneticraft:steam_boiler"
+		uid: "e2a442c8",
+		type: "gamestage",
+		icon: "magneticraft:steam_boiler",
+		auto: "no_toast",
+		stage: "steamgenerators:boiler"
 	}]
 }

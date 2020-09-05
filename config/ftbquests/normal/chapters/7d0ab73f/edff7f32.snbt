@@ -19,9 +19,10 @@
 		count: 15L
 	}],
 	rewards: [{
-		uid: "e9910b35",
-		type: "custom",
-		title: "LV Capacitor (battery)",
-		icon: "immersiveengineering:metal_device0"
+		uid: "b784221b",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device0",
+		auto: "no_toast",
+		stage: "energytransport:lvcapacitor"
 	}]
 }

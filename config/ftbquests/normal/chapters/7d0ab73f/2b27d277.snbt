@@ -19,9 +19,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "c37f5aae",
-		type: "custom",
-		title: "HV Capacitor (battery)",
-		icon: "immersiveengineering:metal_device0 1 2"
+		uid: "d6b44491",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device0 1 2",
+		auto: "no_toast",
+		stage: "energytransport:hvcapacitor"
 	}]
 }

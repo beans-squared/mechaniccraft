@@ -26,9 +26,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "e2b9e5a8",
-		type: "custom",
-		title: "Energy Field Provider",
-		icon: "industrialforegoing:energy_field_provider"
+		uid: "1477bda2",
+		type: "gamestage",
+		icon: "industrialforegoing:energy_field_provider",
+		auto: "no_toast",
+		stage: "energytransport:energyfieldprovider"
 	}]
 }

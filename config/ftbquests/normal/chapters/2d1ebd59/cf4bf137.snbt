@@ -34,58 +34,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "be7f076a",
-		type: "custom",
-		title: "Steam Turbine (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IT:SteamTurbine"
-			}
-		}
-	},
-	{
-		uid: "1b98df63",
-		type: "custom",
-		title: "Diesel Boiler (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IT:Boiler"
-			}
-		}
-	},
-	{
-		uid: "aeae86d6",
-		type: "custom",
-		title: "Solar Tower (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IT:SolarTower"
-			}
-		}
-	},
-	{
-		uid: "7a092905",
-		type: "custom",
-		title: "Solar Reflector (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IT:SolarReflector"
-			}
-		}
-	},
-	{
-		uid: "b21b0552",
-		type: "custom",
-		title: "Distiller (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IT:Distiller"
-			}
-		}
+		uid: "f6714cb1",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device1 1 6",
+		auto: "no_toast",
+		stage: "steamgenerators:steamturbine"
 	}]
 }

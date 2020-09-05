@@ -39,14 +39,15 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "5cc3b8c6",
-		type: "custom",
-		title: "Basic Universal Cable (electrical cable)",
+		uid: "7fef3f49",
+		type: "gamestage",
 		icon: {
 			id: "mekanism:transmitter",
 			tag: {
 				tier: 0
 			}
-		}
+		},
+		auto: "no_toast",
+		stage: "energytransport:basicuniversalcable"
 	}]
 }

@@ -43,5 +43,11 @@
 		type: "custom",
 		title: "Copper Cable",
 		icon: "techreborn:cable"
+	},
+	{
+		uid: "d1c88315",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "energytransport:lowvoltagewiring"
 	}]
 }

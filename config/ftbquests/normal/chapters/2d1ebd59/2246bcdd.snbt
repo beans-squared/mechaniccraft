@@ -29,9 +29,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "94e679d8",
-		type: "custom",
-		title: "Small Steam Turbine (multiblock blueprint)",
-		icon: "magneticraft:steam_turbine"
+		uid: "82fd96c7",
+		type: "gamestage",
+		icon: "magneticraft:steam_turbine",
+		auto: "no_toast",
+		stage: "steamgenerators:smallsteamturbine"
 	}]
 }

@@ -34,9 +34,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "9835ea98",
-		type: "custom",
-		title: "Chargepad (machine)",
-		icon: "mekanism:machineblock 1 14"
+		uid: "255ddae2",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 14",
+		auto: "no_toast",
+		stage: "energytransport:chargepad"
 	}]
 }

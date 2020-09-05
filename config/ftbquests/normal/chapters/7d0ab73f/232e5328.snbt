@@ -27,5 +27,11 @@
 		type: "custom",
 		title: "Structural Cable Connector",
 		icon: "immersiveengineering:connector 1 6"
+	},
+	{
+		uid: "2ee5b417",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "energytransport:decorativecables"
 	}]
 }

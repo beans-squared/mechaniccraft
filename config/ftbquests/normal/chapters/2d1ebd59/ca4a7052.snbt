@@ -19,9 +19,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "95502846",
-		type: "custom",
-		title: "Small Steam Engine (multiblock blueprint)",
-		icon: "magneticraft:steam_engine"
+		uid: "7d6333db",
+		type: "gamestage",
+		icon: "magneticraft:steam_engine",
+		auto: "no_toast",
+		stage: "steamgenerators:smallsteamengine"
 	}]
 }

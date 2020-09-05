@@ -38,9 +38,10 @@
 		}]
 	}],
 	rewards: [{
-		uid: "4a4c91a8",
-		type: "custom",
-		title: "Charge-O-Mat",
-		icon: "techreborn:charge_o_mat"
+		uid: "058d0471",
+		type: "gamestage",
+		icon: "techreborn:charge_o_mat",
+		auto: "no_toast",
+		stage: "energytransport:chargeomat"
 	}]
 }

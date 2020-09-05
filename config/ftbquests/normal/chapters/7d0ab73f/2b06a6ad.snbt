@@ -19,9 +19,10 @@
 		}]
 	}],
 	rewards: [{
-		uid: "7d0ae6c5",
-		type: "custom",
-		title: "Electric Engine (transformer)",
-		icon: "magneticraft:electric_engine"
+		uid: "d887b8a8",
+		type: "gamestage",
+		icon: "magneticraft:electric_engine",
+		auto: "no_toast",
+		stage: "energytransport:electricengine"
 	}]
 }
