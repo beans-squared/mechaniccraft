@@ -1,15 +1,54 @@
 {
-	x: 1.0d,
-	y: 1.5d,
+	title: "Basic Logistical Transporter",
+	icon: {
+		id: "mekanism:transmitter",
+		tag: {
+			tier: 0
+		},
+		Damage: 3s
+	},
+	x: 0.5d,
+	y: 0.0d,
+	text: [
+		"Transports materials. Can be upgraded to increase transfer speed."
+	],
+	dependencies: [
+		"1f5c7236"
+	],
 	tasks: [{
-		uid: "fc551aba",
+		uid: "ee8e9dd8",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "c819c198",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "171857c4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "ddc8df58",
+		type: "custom",
+		title: "Logistical Transporter (machine)",
+		icon: {
 			id: "mekanism:transmitter",
 			tag: {
 				tier: 0
 			},
 			Damage: 3s
-		}]
+		}
 	}]
 }
