@@ -35,9 +35,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "58c3cff6",
-		type: "custom",
-		title: "Water Mill (machine)",
-		icon: "techreborn:water_mill"
+		uid: "566508f9",
+		type: "gamestage",
+		icon: "techreborn:water_mill",
+		auto: "no_toast",
+		stage: "othergenerators:watermill"
 	}]
 }

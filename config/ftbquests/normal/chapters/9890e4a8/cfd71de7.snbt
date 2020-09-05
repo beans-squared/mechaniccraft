@@ -2,7 +2,7 @@
 	title: "Energy Flow Circuit",
 	icon: "techreborn:part",
 	x: 2.5d,
-	y: -1.5d,
+	y: -0.5d,
 	text: [
 		"Regulates the flow of energy in complex, high-power systems."
 	],
@@ -43,9 +43,10 @@
 		count: 150L
 	}],
 	rewards: [{
-		uid: "41224896",
-		type: "custom",
-		title: "Energy Flow Circuit (component)",
-		icon: "techreborn:part"
+		uid: "bfbb9889",
+		type: "gamestage",
+		icon: "techreborn:part",
+		auto: "no_toast",
+		stage: "electroniccomponents:energyflowcircuit"
 	}]
 }

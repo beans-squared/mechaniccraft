@@ -19,9 +19,10 @@
 		count: 250L
 	}],
 	rewards: [{
-		uid: "aaf8ee20",
-		type: "custom",
-		title: "Protein Generator (machine)",
-		icon: "industrialforegoing:protein_generator"
+		uid: "458af936",
+		type: "gamestage",
+		icon: "industrialforegoing:protein_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:proteingenerator"
 	}]
 }

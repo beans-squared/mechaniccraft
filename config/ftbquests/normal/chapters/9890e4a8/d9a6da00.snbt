@@ -7,7 +7,7 @@
 		}
 	},
 	x: 2.5d,
-	y: -3.0d,
+	y: -2.0d,
 	text: [
 		"It's a mineral, it's a machine, it's...both?"
 	],
@@ -40,14 +40,15 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "2a5b8efa",
-		type: "custom",
-		title: "Lapotron Crystal (component)",
+		uid: "9dc2a7af",
+		type: "gamestage",
 		icon: {
 			id: "techreborn:lapotroncrystal",
 			tag: {
 				energy: 0
 			}
-		}
+		},
+		auto: "no_toast",
+		stage: "electroniccomponents:lapotroncrystal"
 	}]
 }

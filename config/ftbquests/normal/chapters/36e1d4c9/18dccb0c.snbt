@@ -42,9 +42,10 @@
 		count: 500L
 	}],
 	rewards: [{
-		uid: "67cd1964",
-		type: "custom",
-		title: "Diesel Generator (machine)",
-		icon: "techreborn:diesel_generator"
+		uid: "cd3de64e",
+		type: "gamestage",
+		icon: "techreborn:diesel_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:trdieselgenerator"
 	}]
 }

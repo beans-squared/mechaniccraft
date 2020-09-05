@@ -40,15 +40,16 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "ddc8df58",
-		type: "custom",
-		title: "Logistical Transporter (machine)",
+		uid: "bcd50348",
+		type: "gamestage",
 		icon: {
 			id: "mekanism:transmitter",
 			tag: {
 				tier: 0
 			},
 			Damage: 3s
-		}
+		},
+		auto: "no_toast",
+		stage: "materialtransportandstorage:basiclogisticaltransporter"
 	}]
 }

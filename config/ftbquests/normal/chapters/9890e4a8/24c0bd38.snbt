@@ -1,13 +1,29 @@
 {
 	title: "Basic Processor",
 	icon: "refinedstorage:processor 1 3",
-	x: 3.0d,
-	y: 0.0d,
+	x: 6.0d,
+	y: -4.5d,
 	tasks: [{
 		uid: "9ebf2ee6",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 75L
+	},
+	{
+		uid: "704faa13",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "cf597b39",
+		type: "gamestage",
+		icon: "refinedstorage:processor 1 3",
+		auto: "no_toast",
+		stage: "electroniccomponents:basicprocessor"
 	}]
 }

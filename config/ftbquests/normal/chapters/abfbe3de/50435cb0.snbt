@@ -45,9 +45,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "d2f8c93f",
-		type: "custom",
-		title: "Lightning Rod",
-		icon: "techreborn:lightning_rod"
+		uid: "54fafbb7",
+		type: "gamestage",
+		icon: "techreborn:lightning_rod",
+		auto: "no_toast",
+		stage: "othergenerators:trlightningrod"
 	}]
 }

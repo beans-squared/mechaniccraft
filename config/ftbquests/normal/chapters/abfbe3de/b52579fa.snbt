@@ -38,9 +38,10 @@
 		}]
 	}],
 	rewards: [{
-		uid: "d835a764",
-		type: "custom",
-		title: "Wind Mill (machine)",
-		icon: "techreborn:wind_mill"
+		uid: "56d8dc0c",
+		type: "gamestage",
+		icon: "techreborn:wind_mill",
+		auto: "no_toast",
+		stage: "othergenerators:trwindmill"
 	}]
 }

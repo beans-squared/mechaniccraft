@@ -45,9 +45,10 @@
 		count: 200L
 	}],
 	rewards: [{
-		uid: "4417d42b",
-		type: "custom",
-		title: "Dragon Egg Energy Siphon",
-		icon: "techreborn:dragon_egg_syphon"
+		uid: "4a213abf",
+		type: "gamestage",
+		icon: "techreborn:dragon_egg_syphon",
+		auto: "no_toast",
+		stage: "othergenerators:dragoneggenergysiphon"
 	}]
 }

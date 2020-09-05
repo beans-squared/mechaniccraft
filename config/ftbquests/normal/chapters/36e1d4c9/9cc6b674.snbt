@@ -42,9 +42,10 @@
 		count: 500L
 	}],
 	rewards: [{
-		uid: "a07b582f",
-		type: "custom",
-		title: "Plasma Generator (machine)",
-		icon: "techreborn:plasma_generator"
+		uid: "dd4fecc6",
+		type: "gamestage",
+		icon: "techreborn:plasma_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:plasmagenerator"
 	}]
 }

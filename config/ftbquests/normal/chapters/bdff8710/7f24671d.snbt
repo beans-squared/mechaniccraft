@@ -26,9 +26,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "8d6061e9",
-		type: "custom",
-		title: "Shelving Unit (multiblock blueprint)",
-		icon: "magneticraft:shelving_unit"
+		uid: "ed479a57",
+		type: "gamestage",
+		icon: "magneticraft:shelving_unit",
+		auto: "no_toast",
+		stage: "materialtransportandstorage:shelvingunit"
 	}]
 }

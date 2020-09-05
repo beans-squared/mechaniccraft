@@ -20,12 +20,6 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "a8c45582",
-		type: "custom",
-		title: "Conveyor Belt",
-		icon: "industrialforegoing:conveyor"
-	},
-	{
 		uid: "5092f194",
 		type: "custom",
 		title: "Blinking Conveyor Upgrade",
@@ -66,5 +60,12 @@
 		type: "custom",
 		title: "Extraction Conveyor Upgrade",
 		icon: "industrialforegoing:conveyor_upgrade"
+	},
+	{
+		uid: "ad8d8e90",
+		type: "gamestage",
+		icon: "industrialforegoing:conveyor",
+		auto: "no_toast",
+		stage: "materialtransportandstorage:foregoingconveyorbelt"
 	}]
 }

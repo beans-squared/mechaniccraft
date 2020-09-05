@@ -26,9 +26,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "956f1b21",
-		type: "custom",
-		title: "Solar Array (multiblock blueprint)",
-		icon: "magneticraft:solar_panel"
+		uid: "ae6f3f7b",
+		type: "gamestage",
+		icon: "magneticraft:solar_panel",
+		auto: "no_toast",
+		stage: "solargenerators:solararray"
 	}]
 }

@@ -36,9 +36,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "10144e9b",
-		type: "custom",
-		title: "Wind Generator (machine)",
-		icon: "mekanismgenerators:generator 1 6"
+		uid: "836dc3e9",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 6",
+		auto: "no_toast",
+		stage: "othergenerators:windgenerator"
 	}]
 }

@@ -42,9 +42,10 @@
 		count: 125L
 	}],
 	rewards: [{
-		uid: "1c6f3509",
-		type: "custom",
-		title: "Gas Turbine (machine)",
-		icon: "techreborn:gas_turbine"
+		uid: "2e16907e",
+		type: "gamestage",
+		icon: "techreborn:gas_turbine",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:gasturbine"
 	}]
 }

@@ -32,14 +32,9 @@
 		count: 200L
 	}],
 	rewards: [{
-		uid: "b47b2669",
-		type: "custom",
-		title: "Diesel Generator (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:DieselGenerator"
-			}
-		}
+		uid: "fafe0023",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:iedieselgenerator"
 	}]
 }

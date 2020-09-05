@@ -19,9 +19,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "ef1459a6",
-		type: "custom",
-		title: "Electronic Circuit (component)",
-		icon: "techreborn:part 1 29"
+		uid: "a018d63a",
+		type: "gamestage",
+		icon: "techreborn:part 1 29",
+		auto: "no_toast",
+		stage: "electroniccomponents:electroniccircuit"
 	}]
 }

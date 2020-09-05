@@ -1,11 +1,41 @@
 {
-	x: -2.0d,
-	y: 0.0d,
+	title: "Advanced Circuit Board",
+	icon: "techreborn:part 1 41",
+	x: -3.0d,
+	y: -2.5d,
+	dependencies: [
+		"cb4a287a",
+		"625166f0"
+	],
 	tasks: [{
-		uid: "9deff18f",
+		uid: "30852ced",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 41"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 175L
+	},
+	{
+		uid: "43829fee",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 175L
+	},
+	{
+		uid: "1e949a58",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 175L
+	}],
+	rewards: [{
+		uid: "ba19ec9e",
+		type: "gamestage",
+		icon: "techreborn:part 1 41",
+		auto: "no_toast",
+		stage: "electroniccomponents:advancedcircuitboard"
 	}]
 }

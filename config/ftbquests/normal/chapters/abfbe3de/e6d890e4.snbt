@@ -27,14 +27,9 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "c7fdd514",
-		type: "custom",
-		title: "Lightning Rod (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:Lightningrod"
-			}
-		}
+		uid: "aca264ec",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "othergenerators:ielightningrod"
 	}]
 }

@@ -20,17 +20,6 @@
 		count: 15L
 	}],
 	rewards: [{
-		uid: "faed63ae",
-		type: "custom",
-		title: "Conveyor Belt (machine)",
-		icon: {
-			id: "immersiveengineering:conveyor",
-			tag: {
-				conveyorType: "immersiveengineering:conveyor"
-			}
-		}
-	},
-	{
 		uid: "ef62bded",
 		type: "custom",
 		title: "Dropping Conveyor Belt (machine)",
@@ -73,5 +62,17 @@
 				conveyorType: "immersiveengineering:extract"
 			}
 		}
+	},
+	{
+		uid: "a1088282",
+		type: "gamestage",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		},
+		auto: "no_toast",
+		stage: "materialtransportandstorage:ieconveyorbelt"
 	}]
 }

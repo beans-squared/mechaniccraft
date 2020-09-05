@@ -1,11 +1,48 @@
 {
-	x: -3.0d,
-	y: 0.5d,
+	title: "Superconductor",
+	icon: "techreborn:part 1 17",
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"cfd71de7"
+	],
 	tasks: [{
-		uid: "d0f48a1f",
+		uid: "650b7bdc",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 17"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 2000L
+	},
+	{
+		uid: "e43125fb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 2000L
+	},
+	{
+		uid: "de140ab4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 2000L
+	},
+	{
+		uid: "0528285f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 2000L
+	}],
+	rewards: [{
+		uid: "885d7aa9",
+		type: "gamestage",
+		icon: "techreborn:part 1 17",
+		auto: "no_toast",
+		stage: "electroniccomponents:superconductor"
 	}]
 }

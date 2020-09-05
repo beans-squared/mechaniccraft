@@ -1,11 +1,49 @@
 {
+	title: "Processor Circuit Board",
+	icon: "techreborn:part 1 43",
 	x: -3.0d,
 	y: -1.0d,
+	dependencies: [
+		"8545470a",
+		"234d3cbe"
+	],
 	tasks: [{
-		uid: "f51df9e7",
+		uid: "cd90f442",
 		type: "item",
 		items: [{
-			item: "techreborn:part 1 43"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "712f4037",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "1f376aee",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "f421015e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 750L
+	}],
+	rewards: [{
+		uid: "13227c07",
+		type: "gamestage",
+		icon: "techreborn:part 1 43",
+		auto: "no_toast",
+		stage: "electroniccomponents:processorcircuitboard"
 	}]
 }

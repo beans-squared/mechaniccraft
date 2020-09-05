@@ -1,12 +1,40 @@
 {
-	x: 0.0d,
-	y: 2.5d,
+	title: "Logistical Sorter",
+	icon: "mekanism:machineblock 1 15",
+	x: 0.5d,
+	y: 1.5d,
+	dependencies: [
+		"2ff1366e"
+	],
 	tasks: [{
-		uid: "f28240b6",
+		uid: "680c5167",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock 1 15"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 250L
+	},
+	{
+		uid: "7fa8e744",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "b6e5550e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "2abbd7cd",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 15",
+		auto: "no_toast",
+		stage: "materialtransportandstorage:logsiticalsorter"
 	}]
 }

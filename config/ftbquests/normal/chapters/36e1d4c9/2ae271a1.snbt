@@ -31,9 +31,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "4995e92d",
-		type: "custom",
-		title: "Heat Generator (machine)",
-		icon: "mekanismgenerators:generator"
+		uid: "b39e20a7",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:heatgenerator"
 	}]
 }

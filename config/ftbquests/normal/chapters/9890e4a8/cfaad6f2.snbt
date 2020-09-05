@@ -1,13 +1,40 @@
 {
 	title: "Improved Processor",
 	icon: "refinedstorage:processor 1 4",
-	x: 2.0d,
-	y: 0.0d,
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"24c0bd38"
+	],
 	tasks: [{
 		uid: "6428c07f",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 250L
+	},
+	{
+		uid: "8cd07a74",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "d04b0160",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "d8d21554",
+		type: "gamestage",
+		icon: "refinedstorage:processor 1 4",
+		auto: "no_toast",
+		stage: "electroniccomponents:improvedprocessor"
 	}]
 }

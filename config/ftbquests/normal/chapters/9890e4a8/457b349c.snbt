@@ -2,7 +2,7 @@
 	title: "Data Storage Circuit",
 	icon: "techreborn:part 1 2",
 	x: -1.5d,
-	y: -3.0d,
+	y: -2.0d,
 	text: [
 		"Forget downloadable RAM...just craft it!"
 	],
@@ -26,9 +26,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "ac9217ac",
-		type: "custom",
-		title: "Data Storage Circuit (component)",
-		icon: "techreborn:part 1 2"
+		uid: "0c68a491",
+		type: "gamestage",
+		icon: "techreborn:part 1 2",
+		auto: "no_toast",
+		stage: "electroniccomponents:datastoragecircuit"
 	}]
 }

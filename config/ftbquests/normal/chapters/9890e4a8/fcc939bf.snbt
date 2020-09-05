@@ -1,13 +1,32 @@
 {
 	title: "Construction Core",
 	icon: "refinedstorage:core",
-	x: 2.0d,
-	y: 2.0d,
+	x: 7.5d,
+	y: -3.5d,
+	dependencies: [
+		"24c0bd38"
+	],
 	tasks: [{
 		uid: "d83bd667",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 150L
+	},
+	{
+		uid: "f3294303",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 150L
+	}],
+	rewards: [{
+		uid: "299a26aa",
+		type: "gamestage",
+		icon: "refinedstorage:core",
+		auto: "no_toast",
+		stage: "electroniccomponent:constructioncore"
 	}]
 }

@@ -18,9 +18,10 @@
 		count: 5L
 	}],
 	rewards: [{
-		uid: "b5622664",
-		type: "custom",
-		title: "Water Wheel (machine)",
-		icon: "immersiveengineering:wooden_device1"
+		uid: "80a2903b",
+		type: "gamestage",
+		icon: "immersiveengineering:wooden_device1",
+		auto: "no_toast",
+		stage: "othergenerators:waterwheel"
 	}]
 }

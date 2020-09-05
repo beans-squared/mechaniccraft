@@ -1,11 +1,40 @@
 {
-	x: 0.5d,
+	title: "Pump",
+	icon: "techreborn:pump",
+	x: 2.0d,
 	y: 0.5d,
+	dependencies: [
+		"ec2e070b"
+	],
 	tasks: [{
-		uid: "cc9e18e8",
+		uid: "31fa64a1",
 		type: "item",
 		items: [{
-			item: "techreborn:pump"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "3ddfd9c7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "b1932f5f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "159df996",
+		type: "gamestage",
+		icon: "techreborn:pump",
+		auto: "no_toast",
+		stage: "fluidtransportandstorage:pump"
 	}]
 }

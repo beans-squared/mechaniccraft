@@ -18,9 +18,10 @@
 		count: 15L
 	}],
 	rewards: [{
-		uid: "e8a22317",
-		type: "custom",
-		title: "Small Solar Panel",
-		icon: "engineersdecor:small_solar_panel"
+		uid: "18c0cfb7",
+		type: "gamestage",
+		icon: "engineersdecor:small_solar_panel",
+		auto: "no_toast",
+		stage: "solargenerators:smallsolarpanel"
 	}]
 }

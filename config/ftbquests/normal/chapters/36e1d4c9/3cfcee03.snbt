@@ -19,9 +19,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "2cfaa14d",
-		type: "custom",
-		title: "Biofuel Generator (machine)",
-		icon: "industrialforegoing:biofuel_generator"
+		uid: "366c7a64",
+		type: "gamestage",
+		icon: "industrialforegoing:biofuel_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:biofuelgenerator"
 	}]
 }

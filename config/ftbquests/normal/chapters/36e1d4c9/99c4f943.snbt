@@ -42,9 +42,10 @@
 		count: 125L
 	}],
 	rewards: [{
-		uid: "12bd1304",
-		type: "custom",
-		title: "Generator (machine)",
-		icon: "techreborn:solid_fuel_generator"
+		uid: "838fb1cb",
+		type: "gamestage",
+		icon: "techreborn:solid_fuel_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:generator"
 	}]
 }

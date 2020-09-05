@@ -26,9 +26,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "e4d44ffe",
-		type: "custom",
-		title: "Shipping Container (multiblock blueprint)",
-		icon: "magneticraft:container"
+		uid: "e46791f6",
+		type: "gamestage",
+		icon: "magneticraft:container",
+		auto: "no_toast",
+		stage: "materialtransportandstorage:shippingcontainer"
 	}]
 }

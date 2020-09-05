@@ -1,8 +1,8 @@
 {
 	title: "Basic Circuit Board",
 	icon: "techreborn:part 1 40",
-	x: -3.5d,
-	y: -3.5d,
+	x: -3.0d,
+	y: -4.0d,
 	text: [
 		"Simple electronic component used in basic computing devices."
 	],
@@ -27,9 +27,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "1b64b02a",
-		type: "custom",
-		title: "Basic Circuit Board (component)",
-		icon: "techreborn:part 1 40"
+		uid: "b5d9bb27",
+		type: "gamestage",
+		icon: "techreborn:part 1 40",
+		auto: "no_toast",
+		stage: "electroniccomponents:basiccircuitboard"
 	}]
 }

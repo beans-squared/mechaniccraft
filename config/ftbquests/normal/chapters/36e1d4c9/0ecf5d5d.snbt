@@ -34,9 +34,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "84276748",
-		type: "custom",
-		title: "Bio-Generator (machine)",
-		icon: "mekanismgenerators:generator 1 4"
+		uid: "4d6912c0",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 4",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:biogenerator"
 	}]
 }

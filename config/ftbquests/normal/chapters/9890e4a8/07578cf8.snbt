@@ -1,16 +1,58 @@
 {
-	x: -4.0d,
-	y: 0.5d,
+	title: "Lapotronic Energy Orb",
+	icon: {
+		id: "techreborn:lapotronicorb",
+		tag: {
+			energy: 0
+		}
+	},
+	x: -0.5d,
+	y: 1.0d,
+	dependencies: [
+		"d9a6da00"
+	],
 	tasks: [{
-		uid: "fab44663",
+		uid: "a43cb435",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "639604f3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "a9b2c7d0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "0006cc8c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "377798a1",
+		type: "gamestage",
+		icon: {
 			id: "techreborn:lapotronicorb",
 			tag: {
 				energy: 0
 			}
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		},
+		auto: "no_toast",
+		stage: "electroniccomponents:lapotronicenergyorb"
 	}]
 }

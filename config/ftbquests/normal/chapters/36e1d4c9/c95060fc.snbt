@@ -31,9 +31,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "9d056e85",
-		type: "custom",
-		title: "Gas-Burning Generator (machine)",
-		icon: "mekanismgenerators:generator 1 3"
+		uid: "d7c11389",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 3",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:gasburninggenerator"
 	}]
 }

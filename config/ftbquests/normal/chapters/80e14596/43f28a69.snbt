@@ -34,15 +34,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "c3a746cf",
-		type: "custom",
-		title: "Solar Generator",
-		icon: "mekanismgenerators:generator 1 1"
-	},
-	{
-		uid: "faa8dc8e",
-		type: "custom",
-		title: "Advanced Solar Generator",
-		icon: "mekanismgenerators:generator 1 5"
+		uid: "4ae4dba8",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 5",
+		auto: "no_toast",
+		stage: "solargenerators:solargenerator"
 	}]
 }

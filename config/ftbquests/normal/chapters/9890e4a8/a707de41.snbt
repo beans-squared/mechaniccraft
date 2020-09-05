@@ -1,13 +1,32 @@
 {
 	title: "Destruction Core",
 	icon: "refinedstorage:core 1 1",
-	x: 2.0d,
-	y: 3.0d,
+	x: 7.5d,
+	y: -2.0d,
+	dependencies: [
+		"fcc939bf"
+	],
 	tasks: [{
 		uid: "df7a0be7",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 150L
+	},
+	{
+		uid: "16b66d49",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 150L
+	}],
+	rewards: [{
+		uid: "9af5ddf4",
+		type: "gamestage",
+		icon: "refinedstorage:core 1 1",
+		auto: "no_toast",
+		stage: "electroniccomponents:destructioncore"
 	}]
 }

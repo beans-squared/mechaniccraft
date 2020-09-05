@@ -26,9 +26,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "001187ec",
-		type: "custom",
-		title: "Advanced Electronic Circuit (component)",
-		icon: "techreborn:part 1 30"
+		uid: "676f9ea0",
+		type: "gamestage",
+		icon: "techreborn:part 1 30",
+		auto: "no_toast",
+		stage: "electroniccomponents:advancedelectroniccircuit"
 	}]
 }

@@ -2,7 +2,7 @@
 	title: "Data Control Circuit",
 	icon: "techreborn:part 1 1",
 	x: -1.5d,
-	y: -1.5d,
+	y: -0.5d,
 	text: [
 		"Used in various high level computing applications."
 	],
@@ -35,9 +35,10 @@
 		count: 125L
 	}],
 	rewards: [{
-		uid: "36e4f051",
-		type: "custom",
-		title: "Data Control Circuit (component)",
-		icon: "techreborn:part 1 1"
+		uid: "483982e6",
+		type: "gamestage",
+		icon: "techreborn:part 1 1",
+		auto: "no_toast",
+		stage: "electroniccomponents:datacontrolcircuit"
 	}]
 }

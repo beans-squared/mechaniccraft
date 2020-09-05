@@ -7,7 +7,7 @@
 		}
 	},
 	x: 2.5d,
-	y: -4.5d,
+	y: -3.5d,
 	text: [
 		"Who knew a gemstone and redstone was so good at power storage?"
 	],
@@ -28,14 +28,15 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "df00e82e",
-		type: "custom",
-		title: "Energy Crystal (component)",
+		uid: "2ec47dc3",
+		type: "gamestage",
 		icon: {
 			id: "techreborn:energycrystal",
 			tag: {
 				energy: 0
 			}
-		}
+		},
+		auto: "no_toast",
+		stage: "electroniccomponents:energycrystal"
 	}]
 }

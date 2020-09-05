@@ -1,16 +1,47 @@
 {
-	x: 3.0d,
-	y: -0.5d,
+	title: "Basic Fluid Tank",
+	icon: {
+		id: "mekanism:machineblock2",
+		tag: {
+			tier: 0
+		},
+		Damage: 11s
+	},
+	x: -1.0d,
+	y: 2.0d,
+	text: [
+		"Holds some fluid. Can be upgraded to increase the capacity."
+	],
+	dependencies: [
+		"1bfa33ec"
+	],
 	tasks: [{
-		uid: "5705ac36",
+		uid: "f00878f6",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "160e0855",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 300L
+	}],
+	rewards: [{
+		uid: "f684bc56",
+		type: "gamestage",
+		icon: {
 			id: "mekanism:machineblock2",
 			tag: {
 				tier: 0
 			},
 			Damage: 11s
-		}],
-		ignore_nbt: 1b
+		},
+		auto: "no_toast",
+		stage: "fluidtransportandstorage:basicfluidtank"
 	}]
 }

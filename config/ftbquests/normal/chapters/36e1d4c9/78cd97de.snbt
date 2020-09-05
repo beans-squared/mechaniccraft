@@ -42,9 +42,10 @@
 		count: 250L
 	}],
 	rewards: [{
-		uid: "f26a77cd",
-		type: "custom",
-		title: "Semi Fluid Generator (machine)",
-		icon: "techreborn:semi_fluid_generator"
+		uid: "3d7067a6",
+		type: "gamestage",
+		icon: "techreborn:semi_fluid_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:semifluidgenerator"
 	}]
 }

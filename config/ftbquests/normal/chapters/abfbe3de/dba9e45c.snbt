@@ -18,9 +18,10 @@
 		count: 5L
 	}],
 	rewards: [{
-		uid: "e906d6d0",
-		type: "custom",
-		title: "Windmill (machine)",
-		icon: "immersiveengineering:wooden_device1 1 1"
+		uid: "544839ed",
+		type: "gamestage",
+		icon: "immersiveengineering:wooden_device1 1 1",
+		auto: "no_toast",
+		stage: "othergenerators:iewindmill"
 	}]
 }

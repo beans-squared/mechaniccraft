@@ -42,15 +42,10 @@
 		count: 200L
 	}],
 	rewards: [{
-		uid: "70317ea4",
-		type: "custom",
-		title: "Solar Machine",
-		icon: "techreborn:solar_panel 1 3"
-	},
-	{
-		uid: "b54388d3",
-		type: "custom",
-		title: "Advanced Solar Machine",
-		icon: "techreborn:solar_panel 1 4"
+		uid: "bfb752b9",
+		type: "gamestage",
+		icon: "techreborn:solar_panel 1 3",
+		auto: "no_toast",
+		stage: "solargenerators:solarmachine"
 	}]
 }

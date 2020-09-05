@@ -21,9 +21,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "47f4ebea",
-		type: "custom",
-		title: "Kinetic Dynamo (machine)",
-		icon: "immersiveengineering:metal_device1 1 2"
+		uid: "9115fe4a",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device1 1 2",
+		auto: "no_toast",
+		stage: "othergenerators:kineticdynamo"
 	}]
 }

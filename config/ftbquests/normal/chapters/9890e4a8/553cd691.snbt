@@ -1,8 +1,8 @@
 {
 	title: "Basic Control Circuit",
 	icon: "mekanism:controlcircuit",
-	x: -2.0d,
-	y: -5.0d,
+	x: 4.0d,
+	y: -4.0d,
 	text: [
 		"Simple control circuit for advanced machinery."
 	],
@@ -20,9 +20,10 @@
 		consume_items: false
 	}],
 	rewards: [{
-		uid: "711f147e",
-		type: "custom",
-		title: "Basic Control Circuit (machine part)",
-		icon: "mekanism:controlcircuit"
+		uid: "1bc832b4",
+		type: "gamestage",
+		icon: "mekanism:controlcircuit",
+		auto: "no_toast",
+		stage: "electroniccomponents:basiccontrolcircuit"
 	}]
 }

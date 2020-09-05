@@ -1,13 +1,41 @@
 {
 	title: "Elite Control Circuit",
 	icon: "mekanism:controlcircuit 1 2",
-	x: 0.5d,
-	y: 1.0d,
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"031df380"
+	],
 	tasks: [{
 		uid: "ccecd8d1",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 500L,
+		consume_items: false
+	},
+	{
+		uid: "8758963b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "00e527ea",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "d46a9191",
+		type: "gamestage",
+		icon: "mekanism:controlcircuit 1 2",
+		auto: "no_toast",
+		stage: "electroniccomponents:elitecontrolcircuit"
 	}]
 }
