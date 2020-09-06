@@ -18,9 +18,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "474a5ce4",
-		type: "custom",
-		title: "Laboratory Furnace (furnace)",
-		icon: "engineersdecor:small_lab_furnace"
+		uid: "cbde2960",
+		type: "gamestage",
+		icon: "engineersdecor:small_lab_furnace",
+		auto: "no_toast",
+		stage: "smelting:laboratoryfurnace"
 	}]
 }

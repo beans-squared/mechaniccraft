@@ -14,9 +14,10 @@
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "acf84084",
-		type: "custom",
-		title: "Automation Science Pack (science pack)",
-		icon: "contenttweaker:red_science_pack"
+		uid: "c223f9d9",
+		type: "gamestage",
+		icon: "contenttweaker:red_science_pack",
+		auto: "no_toast",
+		stage: "sciencepacks:automationsciencepack"
 	}]
 }

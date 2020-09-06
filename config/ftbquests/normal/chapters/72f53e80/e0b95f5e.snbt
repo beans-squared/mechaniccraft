@@ -34,14 +34,9 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "7235bc5d",
-		type: "custom",
-		title: "Arc Furnace (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:ArcFurnace"
-			}
-		}
+		uid: "a527d2d5",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "smelting:arcfurnace"
 	}]
 }

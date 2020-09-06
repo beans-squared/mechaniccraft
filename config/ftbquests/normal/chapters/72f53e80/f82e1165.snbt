@@ -34,9 +34,10 @@
 		count: 250L
 	}],
 	rewards: [{
-		uid: "203607a5",
-		type: "custom",
-		title: "Energized Smelter (furnace)",
-		icon: "mekanism:machineblock 1 10"
+		uid: "20448022",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 10",
+		auto: "no_toast",
+		stage: "smelting:energizedsmelter"
 	}]
 }

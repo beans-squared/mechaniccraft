@@ -42,9 +42,10 @@
 		count: 500L
 	}],
 	rewards: [{
-		uid: "5ecee69a",
-		type: "custom",
-		title: "Industrial Grinder (multiblock machine)",
-		icon: "techreborn:industrial_grinder"
+		uid: "12f65241",
+		type: "gamestage",
+		icon: "techreborn:industrial_grinder",
+		auto: "no_toast",
+		stage: "oreprocessing:industrialgrinder"
 	}]
 }

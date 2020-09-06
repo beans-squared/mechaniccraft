@@ -28,5 +28,11 @@
 		type: "custom",
 		title: "Combustion Chamber (generator)",
 		icon: "magneticraft:combustion_chamber"
+	},
+	{
+		uid: "37da1d99",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "smelting:brickfurnace"
 	}]
 }

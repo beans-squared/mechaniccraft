@@ -18,9 +18,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "9150954b",
-		type: "custom",
-		title: "Sluice Box (machine)",
-		icon: "magneticraft:sluice_box"
+		uid: "448896b9",
+		type: "gamestage",
+		icon: "magneticraft:sluice_box",
+		auto: "no_toast",
+		stage: "oreprocessing:sluicebox"
 	}]
 }

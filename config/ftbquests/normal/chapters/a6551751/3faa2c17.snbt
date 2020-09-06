@@ -43,9 +43,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "60ca6f69",
-		type: "custom",
-		title: "Plate Bending Machine (machine)",
-		icon: "techreborn:plate_bending_machine"
+		uid: "6a749516",
+		type: "gamestage",
+		icon: "techreborn:plate_bending_machine",
+		auto: "no_toast",
+		stage: "metalworking:platebendingmachine"
 	}]
 }

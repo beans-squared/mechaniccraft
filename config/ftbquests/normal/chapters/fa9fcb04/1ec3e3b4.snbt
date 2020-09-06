@@ -34,15 +34,9 @@
 		count: 250L
 	}],
 	rewards: [{
-		uid: "46c648ef",
-		type: "custom",
-		title: "Excavator (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:ExcavatorDemo",
-				flip: 1b
-			}
-		}
+		uid: "7ba080cd",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mining:excavator"
 	}]
 }

@@ -18,9 +18,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "cecb99ab",
-		type: "custom",
-		title: "Sieve (multiblock blueprint)",
-		icon: "magneticraft:sieve"
+		uid: "5f77c5cd",
+		type: "gamestage",
+		icon: "magneticraft:sieve",
+		auto: "no_toast",
+		stage: "oreprocessing:sieve"
 	}]
 }

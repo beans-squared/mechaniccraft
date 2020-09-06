@@ -26,9 +26,10 @@
 		count: 500L
 	}],
 	rewards: [{
-		uid: "70b1a0cc",
-		type: "custom",
-		title: "Production Science Pack (science pack)",
-		icon: "contenttweaker:purple_science_pack"
+		uid: "85101d52",
+		type: "gamestage",
+		icon: "contenttweaker:purple_science_pack",
+		auto: "no_toast",
+		stage: "sciencepacks:productionsciencepack"
 	}]
 }

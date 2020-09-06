@@ -18,9 +18,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "ad6bf855",
-		type: "custom",
-		title: "Hydraulic Press (multiblock structure)",
-		icon: "magneticraft:hydraulic_press"
+		uid: "3e499624",
+		type: "gamestage",
+		icon: "magneticraft:hydraulic_press",
+		auto: "no_toast",
+		stage: "metalworking:hydraulicpress"
 	}]
 }

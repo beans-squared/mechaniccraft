@@ -18,9 +18,10 @@
 		count: 200L
 	}],
 	rewards: [{
-		uid: "6671e75e",
-		type: "custom",
-		title: "Logistics Science Pack (science pack)",
-		icon: "contenttweaker:blue_science_pack"
+		uid: "17f74d5e",
+		type: "gamestage",
+		icon: "contenttweaker:blue_science_pack",
+		auto: "no_toast",
+		stage: "sciencepacks:logisticssciencepack"
 	}]
 }

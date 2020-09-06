@@ -19,9 +19,10 @@
 		count: 20L
 	}],
 	rewards: [{
-		uid: "c241f5f4",
-		type: "custom",
-		title: "Electric furnace (furnace)",
-		icon: "magneticraft:electric_furnace"
+		uid: "f9399f5a",
+		type: "gamestage",
+		icon: "magneticraft:electric_furnace",
+		auto: "no_toast",
+		stage: "smelting:electricfurnace"
 	}]
 }

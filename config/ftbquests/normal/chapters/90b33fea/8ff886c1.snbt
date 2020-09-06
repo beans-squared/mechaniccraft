@@ -37,5 +37,11 @@
 		type: "custom",
 		title: "Plastic (material)",
 		icon: "industrialforegoing:plastic"
+	},
+	{
+		uid: "3d3dbb0f",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "plastic:latexprocessingunit"
 	}]
 }

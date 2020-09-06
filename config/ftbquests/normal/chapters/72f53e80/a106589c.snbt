@@ -39,5 +39,15 @@
 		items: [{
 			item: "contenttweaker:yellow_science_pack"
 		}]
+	}],
+	rewards: [{
+		uid: "f077846e",
+		type: "gamestage",
+		icon: {
+			id: "techreborn:industrial_blast_furnace",
+			tag: {}
+		},
+		auto: "no_toast",
+		stage: "smelting:industrialblastfurnace"
 	}]
 }

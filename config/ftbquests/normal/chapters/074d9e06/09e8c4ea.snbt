@@ -27,14 +27,9 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "e75da331",
-		type: "custom",
-		title: "Crusher (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:Crusher"
-			}
-		}
+		uid: "dd19c0ff",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "oreprocessing:iecrusher"
 	}]
 }

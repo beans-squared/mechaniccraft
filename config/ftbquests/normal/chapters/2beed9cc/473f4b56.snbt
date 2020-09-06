@@ -32,14 +32,15 @@
 		count: 5L
 	}],
 	rewards: [{
-		uid: "81a7d10c",
-		type: "custom",
-		title: "Engineer's Blueprint: Common Projectiles",
+		uid: "110ce8c7",
+		type: "gamestage",
 		icon: {
 			id: "immersiveengineering:blueprint",
 			tag: {
 				blueprint: "bullet"
 			}
-		}
+		},
+		auto: "no_toast",
+		stage: "weaponsandarmor:commonprojectiles"
 	}]
 }

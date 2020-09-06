@@ -42,9 +42,10 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "c8423d87",
-		type: "custom",
-		title: "Wire Mill (machine)",
-		icon: "techreborn:wire_mill"
+		uid: "9ea35288",
+		type: "gamestage",
+		icon: "techreborn:wire_mill",
+		auto: "no_toast",
+		stage: "metalworking:wiremill"
 	}]
 }

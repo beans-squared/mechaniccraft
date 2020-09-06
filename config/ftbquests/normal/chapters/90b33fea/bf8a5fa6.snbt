@@ -26,9 +26,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "0a04af70",
-		type: "custom",
-		title: "Tree Fluid Extractor (machine)",
-		icon: "industrialforegoing:tree_fluid_extractor"
+		uid: "7c6b14f8",
+		type: "gamestage",
+		icon: "industrialforegoing:tree_fluid_extractor",
+		auto: "no_toast",
+		stage: "plastic:treefluidextractor"
 	}]
 }

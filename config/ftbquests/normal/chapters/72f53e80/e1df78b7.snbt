@@ -26,9 +26,10 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "65acbd94",
-		type: "custom",
-		title: "Resourceful Furnace (furnace)",
-		icon: "industrialforegoing:resourceful_furnace"
+		uid: "837ceb21",
+		type: "gamestage",
+		icon: "industrialforegoing:resourceful_furnace",
+		auto: "no_toast",
+		stage: "smelting:resourcefulfurnace"
 	}]
 }

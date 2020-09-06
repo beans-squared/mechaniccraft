@@ -38,9 +38,10 @@
 		}]
 	}],
 	rewards: [{
-		uid: "aadd3632",
-		type: "custom",
-		title: "Alloy Smelter (machine)",
-		icon: "techreborn:alloy_smelter"
+		uid: "6eeb6bdc",
+		type: "gamestage",
+		icon: "techreborn:alloy_smelter",
+		auto: "no_toast",
+		stage: "smelting:alloysmelter"
 	}]
 }

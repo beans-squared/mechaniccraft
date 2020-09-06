@@ -18,9 +18,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "88540c3e",
-		type: "custom",
-		title: "Grinder (multiblock blueprint)",
-		icon: "magneticraft:grinder"
+		uid: "5f2e78a4",
+		type: "gamestage",
+		icon: "magneticraft:grinder",
+		auto: "no_toast",
+		stage: "oreprocessing:grinder"
 	}]
 }

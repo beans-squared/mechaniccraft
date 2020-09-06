@@ -11,9 +11,10 @@
 		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "076fabf6",
-		type: "custom",
-		title: "Crushing Table (workbench)",
-		icon: "magneticraft:crushing_table"
+		uid: "63d23af1",
+		type: "gamestage",
+		icon: "magneticraft:crushing_table",
+		auto: "no_toast",
+		stage: "oreprocessing:crushingtable"
 	}]
 }

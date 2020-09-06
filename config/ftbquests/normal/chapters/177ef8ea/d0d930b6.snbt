@@ -34,9 +34,10 @@
 		count: 2000L
 	}],
 	rewards: [{
-		uid: "01b71b74",
-		type: "custom",
-		title: "Utility Science Pack (science pack)",
-		icon: "contenttweaker:yellow_science_pack"
+		uid: "6f890420",
+		type: "gamestage",
+		icon: "contenttweaker:yellow_science_pack",
+		auto: "no_toast",
+		stage: "sciencepacks:utilitysciencepack"
 	}]
 }

@@ -1,5 +1,5 @@
 {
-	title: "Military II",
+	title: "Composite Gear",
 	icon: "compositegear:composite_chestplate",
 	x: 0.5d,
 	y: 0.5d,
@@ -88,5 +88,11 @@
 		type: "custom",
 		title: "Razor Wire",
 		icon: "immersiveengineering:metal_decoration2 1 5"
+	},
+	{
+		uid: "284713aa",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsandarmor:compositegear"
 	}]
 }

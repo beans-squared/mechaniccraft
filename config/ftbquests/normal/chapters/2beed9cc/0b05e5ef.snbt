@@ -1,5 +1,5 @@
 {
-	title: "Basic Armor",
+	title: "Hardended Leather",
 	icon: "harvestcraft:hardenedleatherhelmitem",
 	x: 0.5d,
 	y: -2.5d,
@@ -10,33 +10,10 @@
 		value: 19
 	}],
 	rewards: [{
-		uid: "4f61c895",
-		type: "custom",
-		title: "Hardened Leather",
-		icon: "harvestcraft:hardenedleatheritem"
-	},
-	{
-		uid: "b1c4379e",
-		type: "custom",
-		title: "Hardened Leather Helm",
-		icon: "harvestcraft:hardenedleatherhelmitem"
-	},
-	{
-		uid: "09bc9884",
-		type: "custom",
-		title: "Hardened Leather Chest",
-		icon: "harvestcraft:hardenedleatherchestitem"
-	},
-	{
-		uid: "d0bd9bfa",
-		type: "custom",
-		title: "Hardened Leather Leggings",
-		icon: "harvestcraft:hardenedleatherleggingsitem"
-	},
-	{
-		uid: "27265466",
-		type: "custom",
-		title: "Hardened Leather Boots",
-		icon: "harvestcraft:hardenedleatherbootsitem"
+		uid: "38442999",
+		type: "gamestage",
+		icon: "harvestcraft:hardenedleatheritem",
+		auto: "no_toast",
+		stage: "weaponsandarmor:hardenedleather"
 	}]
 }

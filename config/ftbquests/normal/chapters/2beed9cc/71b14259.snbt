@@ -1,5 +1,5 @@
 {
-	title: "Military I",
+	title: "Light Composite Gear",
 	icon: "compositegear:composite_light_vest",
 	x: 0.5d,
 	y: -1.0d,
@@ -72,5 +72,11 @@
 		type: "custom",
 		title: "Composite Dagger",
 		icon: "compositegear:composite_dagger"
+	},
+	{
+		uid: "9293cfd6",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsandarmor:lightcompositegear"
 	}]
 }

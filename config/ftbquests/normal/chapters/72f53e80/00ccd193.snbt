@@ -28,5 +28,11 @@
 		type: "custom",
 		title: "Steel (material)",
 		icon: "techreborn:ingot 1 12"
+	},
+	{
+		uid: "b60510d7",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "smelting:crudeblastfurnace"
 	}]
 }

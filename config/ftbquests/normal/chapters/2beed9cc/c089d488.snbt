@@ -56,5 +56,11 @@
 			},
 			id: "immersiveengineering:speedloader"
 		}
+	},
+	{
+		uid: "879d83d0",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsandarmor:revolvermodifications"
 	}]
 }

@@ -48,9 +48,10 @@
 		count: 1000L
 	}],
 	rewards: [{
-		uid: "f74519e0",
-		type: "custom",
-		title: "Digital Miner (machine)",
-		icon: "mekanism:machineblock 1 4"
+		uid: "03f9aa6e",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 4",
+		auto: "no_toast",
+		stage: "mining:digitalminer"
 	}]
 }

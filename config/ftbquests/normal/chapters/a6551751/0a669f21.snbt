@@ -19,14 +19,9 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "315788a0",
-		type: "custom",
-		title: "Metal Press (multiblock structure)",
-		icon: {
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IE:MetalPress"
-			}
-		}
+		uid: "19675815",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "metalworking:metalpress"
 	}]
 }

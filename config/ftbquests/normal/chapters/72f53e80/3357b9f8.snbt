@@ -28,9 +28,10 @@
 		count: 20L
 	}],
 	rewards: [{
-		uid: "df45bc72",
-		type: "custom",
-		title: "Bigger Electric Furnace (multiblock blueprint)",
-		icon: "magneticraft:big_electric_furnace"
+		uid: "5eae72e3",
+		type: "gamestage",
+		icon: "magneticraft:big_electric_furnace",
+		auto: "no_toast",
+		stage: "smelting:biggerelectricfurnace"
 	}]
 }

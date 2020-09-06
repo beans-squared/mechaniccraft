@@ -44,5 +44,11 @@
 		type: "custom",
 		title: "Iron Drill Head (mining drill attachment)",
 		icon: "immersiveengineering:drillhead 1 1"
+	},
+	{
+		uid: "afad761b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mining:miningdrill"
 	}]
 }

@@ -21,9 +21,10 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "83a57987",
-		type: "custom",
-		title: "Feedthrough Electrical Furnace (furnace)",
-		icon: "engineersdecor:small_electrical_furnace"
+		uid: "71e588ee",
+		type: "gamestage",
+		icon: "engineersdecor:small_electrical_furnace",
+		auto: "no_toast",
+		stage: "smelting:feedthroughelectricalfurnace"
 	}]
 }

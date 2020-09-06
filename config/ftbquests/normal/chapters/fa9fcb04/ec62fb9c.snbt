@@ -37,5 +37,11 @@
 		type: "custom",
 		title: "Laser Base (machine)",
 		icon: "industrialforegoing:laser_base"
+	},
+	{
+		uid: "3eee123e",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mining:laserdrill"
 	}]
 }

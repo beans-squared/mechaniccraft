@@ -1,5 +1,5 @@
 {
-	title: "Military III",
+	title: "Heavy Composite Gear",
 	icon: "compositegear:composite_heavy_chestplate",
 	x: 0.5d,
 	y: 2.0d,
@@ -82,5 +82,11 @@
 			},
 			id: "immersiveengineering:chemthrower"
 		}
+	},
+	{
+		uid: "73f38ec9",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsandarmor:heavycompositegear"
 	}]
 }

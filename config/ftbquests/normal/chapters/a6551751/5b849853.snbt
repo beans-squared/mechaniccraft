@@ -42,9 +42,10 @@
 		count: 250L
 	}],
 	rewards: [{
-		uid: "c3074240",
-		type: "custom",
-		title: "Assembling Machine (machine)",
-		icon: "techreborn:assembling_machine"
+		uid: "67ec9fa6",
+		type: "gamestage",
+		icon: "techreborn:assembling_machine",
+		auto: "no_toast",
+		stage: "metalworking:assemblingmachine"
 	}]
 }

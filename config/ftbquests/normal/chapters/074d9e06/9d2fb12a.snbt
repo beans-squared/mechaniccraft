@@ -26,9 +26,10 @@
 		count: 25L
 	}],
 	rewards: [{
-		uid: "eb734797",
-		type: "custom",
-		title: "Ore Processor (machine)",
-		icon: "industrialforegoing:ore_processor"
+		uid: "5bab75c3",
+		type: "gamestage",
+		icon: "industrialforegoing:ore_processor",
+		auto: "no_toast",
+		stage: "oreprocessing:oreprocessor"
 	}]
 }
