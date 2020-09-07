@@ -1,0 +1,35 @@
+{
+	title: "Bioreactor",
+	icon: "industrialforegoing:bioreactor",
+	x: -6.0d,
+	y: -4.5d,
+	text: [
+		"Comsumes organic material to produce biofuel."
+	],
+	dependencies: [
+		"8ff886c1"
+	],
+	tasks: [{
+		uid: "9eaeba2b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "dd6378a8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "d22ec0a9",
+		type: "gamestage",
+		icon: "industrialforegoing:bioreactor",
+		auto: "no_toast",
+		stage: "fuelrefinement:bioreactor"
+	}]
+}

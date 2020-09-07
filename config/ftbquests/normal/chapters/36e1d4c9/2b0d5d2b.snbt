@@ -7,7 +7,6 @@
 		"Generates power from liquid protein."
 	],
 	dependencies: [
-		"34335656",
 		"3cfcee03"
 	],
 	tasks: [{

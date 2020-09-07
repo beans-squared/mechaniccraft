@@ -1,13 +1,40 @@
 {
 	title: "Trial Keystone",
 	icon: "deepmoblearning:trial_keystone",
-	x: -0.5d,
+	x: 0.0d,
 	y: -0.5d,
+	dependencies: [
+		"4fd515e4"
+	],
 	tasks: [{
 		uid: "f0a98ac2",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 250L
+	},
+	{
+		uid: "947c5456",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "f66af061",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "4a423ba3",
+		type: "gamestage",
+		icon: "deepmoblearning:trial_keystone",
+		auto: "no_toast",
+		stage: "deeplearningandsimulations:trialkeystone"
 	}]
 }

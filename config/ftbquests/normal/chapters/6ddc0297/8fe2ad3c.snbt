@@ -1,11 +1,35 @@
 {
-	x: -3.0d,
-	y: -0.5d,
+	title: "Fermentation Station",
+	icon: "industrialforegoing:ore_fermenter",
+	x: 0.0d,
+	y: -5.0d,
+	text: [
+		"Ferments ore meat."
+	],
+	dependencies: [
+		"18cac70f"
+	],
 	tasks: [{
-		uid: "d82f90cb",
+		uid: "4a7c728a",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:ore_fermenter"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "c3d29da8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "9b55ee18",
+		type: "gamestage",
+		icon: "industrialforegoing:ore_fermenter",
+		auto: "no_toast",
+		stage: "orerefinement:fermentationstation"
 	}]
 }

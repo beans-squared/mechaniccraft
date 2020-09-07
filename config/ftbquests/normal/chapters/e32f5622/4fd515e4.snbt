@@ -1,13 +1,32 @@
 {
 	title: "Deep Learner",
 	icon: "deepmoblearning:deep_learner",
-	x: -0.5d,
-	y: 0.5d,
+	x: 1.0d,
+	y: -2.0d,
+	text: [
+		"Handheld PDA which records data on mobs killed and stores it on a data model."
+	],
 	tasks: [{
 		uid: "91c7c95e",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 100L
+	},
+	{
+		uid: "2ef7d4db",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "e4277e0d",
+		type: "gamestage",
+		icon: "deepmoblearning:deep_learner",
+		auto: "no_toast",
+		stage: "deeplearningandsimulations:deeplearner"
 	}]
 }

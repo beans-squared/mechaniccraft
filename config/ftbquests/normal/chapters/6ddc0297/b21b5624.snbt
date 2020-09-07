@@ -1,12 +1,43 @@
 {
+	title: "Enrichment Chamber",
+	icon: "mekanism:machineblock",
 	x: 0.0d,
 	y: -2.0d,
+	text: [
+		"Cleans ore dust, as well as some other stuff. Can be upgraded to a factory version."
+	],
+	dependencies: [
+		"c2758722"
+	],
 	tasks: [{
-		uid: "9cb96516",
+		uid: "cd4357c7",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 200L
+	},
+	{
+		uid: "c34658ba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "d4bced95",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "9e43fdc7",
+		type: "gamestage",
+		icon: "mekanism:machineblock",
+		auto: "no_toast",
+		stage: "orerefinement:enrichmentchamber"
 	}]
 }

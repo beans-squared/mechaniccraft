@@ -1,11 +1,51 @@
 {
+	title: "Matter Fabricator",
+	icon: "techreborn:matter_fabricator",
 	x: 1.0d,
-	y: 0.5d,
+	y: 1.5d,
+	text: [
+		"Consumes scrap/scrapboxes to create UU-Matter."
+	],
+	dependencies: [
+		"9cf7894e"
+	],
 	tasks: [{
-		uid: "f8ba86a2",
+		uid: "82f37ba8",
 		type: "item",
 		items: [{
-			item: "techreborn:matter_fabricator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "e8b6f811",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "d3e4f2e0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "cf35a971",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "d165de6a",
+		type: "gamestage",
+		icon: "techreborn:matter_fabricator",
+		auto: "no_toast",
+		stage: "uumatter:matterfabricator"
 	}]
 }

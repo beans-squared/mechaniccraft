@@ -7,8 +7,7 @@
 		"Generates energy from biofuel."
 	],
 	dependencies: [
-		"8ff886c1",
-		"12710d93"
+		"8ff886c1"
 	],
 	tasks: [{
 		uid: "2403cfaf",

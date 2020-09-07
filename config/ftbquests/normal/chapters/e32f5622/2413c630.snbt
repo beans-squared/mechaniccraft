@@ -1,13 +1,43 @@
 {
 	title: "Simulation Chamber",
 	icon: "deepmoblearning:simulation_chamber",
-	x: 0.5d,
+	x: 2.0d,
 	y: -0.5d,
+	text: [
+		"Uses existing data models to run simulation on a mob, generating dimentional matter and a chance of pristine matter."
+	],
+	dependencies: [
+		"4fd515e4"
+	],
 	tasks: [{
 		uid: "97601f67",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 750L
+	},
+	{
+		uid: "072eabd9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "b3a166f3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 750L
+	}],
+	rewards: [{
+		uid: "80c06cfe",
+		type: "gamestage",
+		icon: "deepmoblearning:simulation_chamber",
+		auto: "no_toast",
+		stage: "deeplearningandsimulations:simulationchamber"
 	}]
 }

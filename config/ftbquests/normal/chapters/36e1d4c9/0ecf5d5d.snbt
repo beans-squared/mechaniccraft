@@ -7,7 +7,8 @@
 		"Consumes solid biomass to generate power."
 	],
 	dependencies: [
-		"2b0d5d2b"
+		"2b0d5d2b",
+		"ac89403f"
 	],
 	tasks: [{
 		uid: "563e6d68",

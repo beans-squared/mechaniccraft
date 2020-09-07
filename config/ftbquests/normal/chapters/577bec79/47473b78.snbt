@@ -1,8 +1,8 @@
 {
 	title: "Coke Oven",
 	icon: "immersiveengineering:stone_decoration",
-	x: -1.5d,
-	y: -3.0d,
+	x: -3.5d,
+	y: -4.5d,
 	text: [
 		"Stucture that allows the creation of coal coke."
 	],
@@ -40,5 +40,11 @@
 				Amount: 1000
 			}
 		}
+	},
+	{
+		uid: "e84be877",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "fuelrefinement:cokeoven"
 	}]
 }

@@ -1,16 +1,16 @@
 {
-	title: "Fluid Sieving Machine",
-	icon: "industrialforegoing:ore_sieve",
-	x: 0.0d,
-	y: -3.5d,
+	title: "Protein Reactor",
+	icon: "industrialforegoing:protein_reactor",
+	x: -6.0d,
+	y: -3.0d,
 	text: [
-		"Filters out ore dust from fermented ore meat."
+		"Comsumes animal products to produce protein."
 	],
 	dependencies: [
-		"8fe2ad3c"
+		"31023e76"
 	],
 	tasks: [{
-		uid: "e18ad599",
+		uid: "0bf18f1f",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
@@ -18,7 +18,7 @@
 		count: 125L
 	},
 	{
-		uid: "52b04dcc",
+		uid: "0cead930",
 		type: "item",
 		items: [{
 			item: "contenttweaker:blue_science_pack"
@@ -26,10 +26,10 @@
 		count: 125L
 	}],
 	rewards: [{
-		uid: "4490ea79",
+		uid: "9254f6e5",
 		type: "gamestage",
-		icon: "industrialforegoing:ore_sieve",
+		icon: "industrialforegoing:protein_reactor",
 		auto: "no_toast",
-		stage: "orerefinement:fluidsievingmachine"
+		stage: "fuelrefinement:proteinreactor"
 	}]
 }

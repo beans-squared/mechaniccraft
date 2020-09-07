@@ -1,11 +1,51 @@
 {
-	x: 0.0d,
-	y: 0.5d,
+	title: "Fluid Replicator",
+	icon: "techreborn:fluid_replicator",
+	x: 1.0d,
+	y: 3.0d,
+	text: [
+		"Uses UU-Matter to create various fluids."
+	],
+	dependencies: [
+		"7b0f2882"
+	],
 	tasks: [{
-		uid: "526b2d66",
+		uid: "ea68d858",
 		type: "item",
 		items: [{
-			item: "techreborn:fluid_replicator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 1200L
+	},
+	{
+		uid: "f8943a7c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 1200L
+	},
+	{
+		uid: "5b16cacc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 1200L
+	},
+	{
+		uid: "588100f2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 1200L
+	}],
+	rewards: [{
+		uid: "52c03aeb",
+		type: "gamestage",
+		icon: "techreborn:fluid_replicator",
+		auto: "no_toast",
+		stage: "uumatter:fluidreplicator"
 	}]
 }

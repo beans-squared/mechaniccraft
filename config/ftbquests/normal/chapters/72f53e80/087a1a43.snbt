@@ -4,7 +4,7 @@
 	x: -1.0d,
 	y: -2.5d,
 	text: [
-		"Electric furnace with special integration with conveyor belts."
+		"Electric furnace with special integration with conveyor belts and ajustable power consumption."
 	],
 	dependencies: [
 		"a6597920",
