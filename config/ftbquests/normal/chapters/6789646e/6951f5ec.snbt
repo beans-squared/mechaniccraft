@@ -1,11 +1,43 @@
 {
-	x: 0.5d,
-	y: 1.5d,
+	title: "Disk Manipulator",
+	icon: "refinedstorage:disk_manipulator",
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		"Allows the user to easily to remove items from a storage disk."
+	],
+	dependencies: [
+		"848533e4"
+	],
 	tasks: [{
-		uid: "954c5ea1",
+		uid: "f828f7f9",
 		type: "item",
 		items: [{
-			item: "refinedstorage:disk_manipulator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "7ff89c3c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "26735c3e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "61dabd9d",
+		type: "gamestage",
+		icon: "refinedstorage:disk_manipulator",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:diskmanipulator"
 	}]
 }

@@ -1,11 +1,43 @@
 {
-	x: 1.5d,
-	y: -0.5d,
+	title: "Fluid Grid",
+	icon: "refinedstorage:grid 1 3",
+	x: 4.5d,
+	y: -5.5d,
+	text: [
+		"Allows a user to view the fluids contained in a storage network."
+	],
+	dependencies: [
+		"8c553b3f"
+	],
 	tasks: [{
-		uid: "16909580",
+		uid: "a24a9b39",
 		type: "item",
 		items: [{
-			item: "refinedstorage:grid 1 3"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "f9569395",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "c9336a7d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "dcdcb508",
+		type: "gamestage",
+		icon: "refinedstorage:grid 1 3",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:fluidgrid"
 	}]
 }

@@ -1,11 +1,43 @@
 {
-	x: -1.5d,
-	y: 1.5d,
+	title: "Security Manager",
+	icon: "refinedstorage:security_manager",
+	x: 1.0d,
+	y: -0.5d,
+	text: [
+		"Allows the owner of a network to define usage permissions."
+	],
+	dependencies: [
+		"6951f5ec"
+	],
 	tasks: [{
-		uid: "94d6d885",
+		uid: "d52d5d38",
 		type: "item",
 		items: [{
-			item: "refinedstorage:security_manager"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "6d1ddaa3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 500L
+	},
+	{
+		uid: "cadc63e9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "969309ba",
+		type: "gamestage",
+		icon: "refinedstorage:security_manager",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagment:securitymanager"
 	}]
 }

@@ -1,11 +1,43 @@
 {
-	x: -0.5d,
-	y: 0.5d,
+	title: "Storage Monitor",
+	icon: "refinedstorage:storage_monitor",
+	x: -1.0d,
+	y: -4.5d,
+	text: [
+		"Allows a user to view the status of certain items in a network."
+	],
+	dependencies: [
+		"d79bbf69"
+	],
 	tasks: [{
-		uid: "795f1b1f",
+		uid: "826ca807",
 		type: "item",
 		items: [{
-			item: "refinedstorage:storage_monitor"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "b7f8a933",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "fee7abf8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "1cced867",
+		type: "gamestage",
+		icon: "refinedstorage:storage_monitor",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:storagemonitor"
 	}]
 }

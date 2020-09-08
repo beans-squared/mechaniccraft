@@ -1,11 +1,43 @@
 {
-	x: -1.5d,
-	y: 2.5d,
+	title: "Crafter",
+	icon: "refinedstorage:crafter",
+	x: 1.0d,
+	y: 1.0d,
+	text: [
+		"Automatically crafts items using patterns."
+	],
+	dependencies: [
+		"02997ead"
+	],
 	tasks: [{
-		uid: "fe5e040a",
+		uid: "0bdc23da",
 		type: "item",
 		items: [{
-			item: "refinedstorage:crafter"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "7a1ebdf0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 750L
+	},
+	{
+		uid: "e9f85a1c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 750L
+	}],
+	rewards: [{
+		uid: "798df9bd",
+		type: "gamestage",
+		icon: "refinedstorage:crafter",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:crafter"
 	}]
 }

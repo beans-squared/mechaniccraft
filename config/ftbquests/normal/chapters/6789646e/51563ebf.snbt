@@ -1,11 +1,43 @@
 {
-	x: -0.5d,
-	y: 2.5d,
+	title: "Crafter Manager",
+	icon: "refinedstorage:crafter_manager",
+	x: -2.5d,
+	y: -5.5d,
+	text: [
+		"Allows the user to manage all crafter devices in a network."
+	],
+	dependencies: [
+		"d79bbf69"
+	],
 	tasks: [{
-		uid: "6af843cc",
+		uid: "f8862900",
 		type: "item",
 		items: [{
-			item: "refinedstorage:crafter_manager"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "60e4f388",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "b966e122",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 300L
+	}],
+	rewards: [{
+		uid: "18b7a888",
+		type: "gamestage",
+		icon: "refinedstorage:crafter_manager",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:craftermanager"
 	}]
 }

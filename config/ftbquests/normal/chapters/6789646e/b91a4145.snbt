@@ -1,11 +1,43 @@
 {
-	x: 0.5d,
-	y: -0.5d,
+	title: "Pattern Grid",
+	icon: "refinedstorage:grid 1 2",
+	x: 3.0d,
+	y: -4.5d,
+	text: [
+		"Allows the user to set crafting recipes to a pattern."
+	],
+	dependencies: [
+		"8c553b3f"
+	],
 	tasks: [{
-		uid: "3e4c6ada",
+		uid: "3a2dd03d",
 		type: "item",
 		items: [{
-			item: "refinedstorage:grid 1 2"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 350L
+	},
+	{
+		uid: "6127e1f6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 350L
+	},
+	{
+		uid: "b4c00951",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 350L
+	}],
+	rewards: [{
+		uid: "4fd299bf",
+		type: "gamestage",
+		icon: "refinedstorage:grid 1 2",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:patterngrid"
 	}]
 }
