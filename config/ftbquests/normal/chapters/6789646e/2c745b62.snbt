@@ -7,13 +7,46 @@
 		},
 		Damage: 1s
 	},
-	x: -1.5d,
-	y: -1.5d,
+	x: 1.0d,
+	y: -8.5d,
+	text: [
+		"Central part of any network. Tracks connected devices and serves as the power input."
+	],
 	tasks: [{
 		uid: "22610e7c",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
+		}],
+		count: 250L
+	},
+	{
+		uid: "11718253",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "d5747404",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "1db00e5f",
+		type: "gamestage",
+		icon: {
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			},
+			Damage: 1s
+		},
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:controller"
 	}]
 }
