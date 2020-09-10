@@ -1,10 +1,35 @@
 {
-	x: -4.0d,
-	y: -0.5d,
+	title: "Engineer's Skyhook",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:skyhook"
+	},
+	x: -1.5d,
+	y: -3.0d,
+	text: [
+		"Allows rapid travel along wires."
+	],
+	dependencies: [
+		"0bde28bc",
+		"00ccd193"
+	],
 	tasks: [{
-		uid: "6d82c1f2",
+		uid: "d610de43",
 		type: "item",
 		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "cf544c78",
+		type: "gamestage",
+		icon: {
 			ForgeCaps: {
 				Parent: {
 					Size: 1,
@@ -12,8 +37,8 @@
 				}
 			},
 			id: "immersiveengineering:skyhook"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		},
+		auto: "no_toast",
+		stage: "gadgetsandmeasuringtools:engineersskyhook"
 	}]
 }

@@ -1,11 +1,51 @@
 {
-	x: -3.5d,
-	y: 0.5d,
+	title: "Sawmill",
+	icon: "techreborn:industrial_sawmill",
+	x: -1.0d,
+	y: 4.5d,
+	text: [
+		"Saws wood."
+	],
+	dependencies: [
+		"a8be51dd"
+	],
 	tasks: [{
-		uid: "aa6080c4",
+		uid: "a0f66ed0",
 		type: "item",
 		items: [{
-			item: "techreborn:industrial_sawmill"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "e0d48d69",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "306f227d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "7f573ec8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "a330d8f3",
+		type: "gamestage",
+		icon: "techreborn:industrial_sawmill",
+		auto: "no_toast",
+		stage: "crops:sawmill"
 	}]
 }

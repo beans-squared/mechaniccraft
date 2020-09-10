@@ -1,11 +1,35 @@
 {
-	x: 2.0d,
-	y: -2.0d,
+	title: "Plant Gatherer",
+	icon: "industrialforegoing:crop_recolector",
+	x: 0.0d,
+	y: -1.5d,
+	text: [
+		"Harvests crops and generates sludge as a byproduct."
+	],
+	dependencies: [
+		"112018cf"
+	],
 	tasks: [{
-		uid: "11af8a16",
+		uid: "e71287dd",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:crop_recolector"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "f3bbfaaf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "a723f25b",
+		type: "gamestage",
+		icon: "industrialforegoing:crop_recolector",
+		auto: "no_toast",
+		stage: "crops:plantgatherer"
 	}]
 }

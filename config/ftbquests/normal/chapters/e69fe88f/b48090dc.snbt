@@ -1,11 +1,35 @@
 {
+	title: "Animal Baby Seperator",
+	icon: "industrialforegoing:animal_independence_selector",
 	x: 0.5d,
 	y: 1.5d,
+	text: [
+		"Seperates baby animals."
+	],
+	dependencies: [
+		"1048ea2d"
+	],
 	tasks: [{
-		uid: "168cb6c0",
+		uid: "85658edf",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:animal_independence_selector"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "0c413a8e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "d62dfcc9",
+		type: "gamestage",
+		icon: "industrialforegoing:animal_independence_selector",
+		auto: "no_toast",
+		stage: "livestock:animalbabyseparator"
 	}]
 }

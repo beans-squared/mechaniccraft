@@ -1,11 +1,43 @@
 {
+	title: "Interface",
+	icon: "refinedstorage:interface",
 	x: -1.0d,
 	y: 2.5d,
+	text: [
+		"Allows material I/O from a storage network."
+	],
+	dependencies: [
+		"6e0d6884"
+	],
 	tasks: [{
-		uid: "86bc160c",
+		uid: "8dfc36a3",
 		type: "item",
 		items: [{
-			item: "refinedstorage:interface"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "fcc6770a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "7a0f16e8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "fa425d4e",
+		type: "gamestage",
+		icon: "refinedstorage:interface",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:interface"
 	}]
 }

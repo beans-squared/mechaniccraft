@@ -1,11 +1,36 @@
 {
+	title: "Sewage Composter",
+	icon: "industrialforegoing:sewage_composter_solidifier",
 	x: 0.5d,
 	y: -3.0d,
+	text: [
+		"Turns sewage into fertilizer."
+	],
+	dependencies: [
+		"1c8f6b4e",
+		"8ff886c1"
+	],
 	tasks: [{
-		uid: "7acaaa41",
+		uid: "d1f9d653",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:sewage_composter_solidifier"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "f3a20938",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "a2d10146",
+		type: "gamestage",
+		icon: "industrialforegoing:sewage_composter_solidifier",
+		auto: "no_toast",
+		stage: "livestock:sewagecomposter"
 	}]
 }

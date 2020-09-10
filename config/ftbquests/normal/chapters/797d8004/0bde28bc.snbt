@@ -15,9 +15,10 @@
 		count: 3L
 	}],
 	rewards: [{
-		uid: "cb9d0c46",
-		type: "custom",
-		title: "Engineer's Hammer (tool)",
-		icon: "immersiveengineering:tool"
+		uid: "4281e1bc",
+		type: "gamestage",
+		icon: "immersiveengineering:tool",
+		auto: "no_toast",
+		stage: "gadgetsandmeasuringtools:engineershammer"
 	}]
 }

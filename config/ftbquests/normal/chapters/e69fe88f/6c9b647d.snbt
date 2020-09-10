@@ -1,11 +1,35 @@
 {
+	title: "Animal Feeder",
+	icon: "industrialforegoing:animal_stock_increaser",
 	x: -1.5d,
 	y: 1.5d,
+	text: [
+		"Feeds animals."
+	],
+	dependencies: [
+		"1048ea2d"
+	],
 	tasks: [{
-		uid: "a61f7450",
+		uid: "b4e8f128",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:animal_stock_increaser"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 150L
+	},
+	{
+		uid: "e6f9699c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 150L
+	}],
+	rewards: [{
+		uid: "8a8b8f52",
+		type: "gamestage",
+		icon: "industrialforegoing:animal_stock_increaser",
+		auto: "no_toast",
+		stage: "livestock:animalfeeder"
 	}]
 }

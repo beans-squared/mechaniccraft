@@ -1,11 +1,36 @@
 {
-	x: 1.0d,
-	y: 1.0d,
+	title: "Spores Recreator",
+	icon: "industrialforegoing:spores_recreator",
+	x: -1.0d,
+	y: 0.0d,
+	text: [
+		"Grows mushrooms."
+	],
+	dependencies: [
+		"fce0269d",
+		"087e9de9"
+	],
 	tasks: [{
-		uid: "85456f7d",
+		uid: "c5ac0cd0",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:spores_recreator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "3d34e693",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "8d7518f7",
+		type: "gamestage",
+		icon: "industrialforegoing:spores_recreator",
+		auto: "no_toast",
+		stage: "crops:sporesreceator"
 	}]
 }

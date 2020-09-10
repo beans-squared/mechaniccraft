@@ -1,11 +1,35 @@
 {
-	x: 0.0d,
-	y: 2.5d,
+	title: "Hydrator",
+	icon: "industrialforegoing:hydrator",
+	x: -2.0d,
+	y: 1.5d,
+	text: [
+		"Increases the growing speed of nearby crops."
+	],
+	dependencies: [
+		"383565b0"
+	],
 	tasks: [{
-		uid: "284adfe1",
+		uid: "2d0145a9",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:hydrator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "ff94648e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "78d9cf6c",
+		type: "gamestage",
+		icon: "industrialforegoing:hydrator",
+		auto: "no_toast",
+		stage: "crops:hydrator"
 	}]
 }

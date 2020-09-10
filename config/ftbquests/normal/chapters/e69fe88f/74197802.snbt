@@ -1,11 +1,36 @@
 {
+	title: "Animal Sewer",
+	icon: "industrialforegoing:animal_byproduct_recolector",
 	x: -1.5d,
 	y: -3.0d,
+	text: [
+		"Collects waste (sewage) from animals."
+	],
+	dependencies: [
+		"1c8f6b4e",
+		"8ff886c1"
+	],
 	tasks: [{
-		uid: "a6694454",
+		uid: "bc588463",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:animal_byproduct_recolector"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	},
+	{
+		uid: "47f0d834",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "ad55f862",
+		type: "gamestage",
+		icon: "industrialforegoing:animal_byproduct_recolector",
+		auto: "no_toast",
+		stage: "livestock:animalsewer"
 	}]
 }

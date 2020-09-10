@@ -1,12 +1,44 @@
 {
-	x: -3.5d,
-	y: -1.5d,
+	title: "Precision Sawmill",
+	icon: "mekanism:machineblock2 1 5",
+	x: -1.0d,
+	y: 3.0d,
+	text: [
+		"Saws wood with greater efficiency than standard crafting."
+	],
+	dependencies: [
+		"825f2466",
+		"db1cb4dd"
+	],
 	tasks: [{
-		uid: "30cfa6d6",
+		uid: "30576c02",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock2 1 5"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 100L
+	},
+	{
+		uid: "b186020f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "5f10d38f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "e44553a1",
+		type: "gamestage",
+		icon: "mekanism:machineblock2 1 5",
+		auto: "no_toast",
+		stage: "crops:precisionsawmill"
 	}]
 }

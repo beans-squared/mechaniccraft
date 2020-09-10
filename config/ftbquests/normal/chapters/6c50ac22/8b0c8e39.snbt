@@ -1,11 +1,35 @@
 {
+	title: "Mob Crusher",
+	icon: "industrialforegoing:mob_relocator",
 	x: 0.5d,
 	y: 1.5d,
+	text: [
+		"Kills mobs, dropping products and turns XP into essence."
+	],
+	dependencies: [
+		"2bdb625e"
+	],
 	tasks: [{
-		uid: "983f26ee",
+		uid: "c4ca4924",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:mob_relocator"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "8bab1e1d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "074e8bb7",
+		type: "gamestage",
+		icon: "industrialforegoing:mob_relocator",
+		auto: "no_toast",
+		stage: "monsters:mobcrusher"
 	}]
 }

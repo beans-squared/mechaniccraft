@@ -1,11 +1,35 @@
 {
+	title: "Mob Slaughter Factory",
+	icon: "industrialforegoing:mob_slaughter_factory",
 	x: 0.5d,
 	y: -0.5d,
+	text: [
+		"Turns mobs into liquid meat through totally nonviolent means."
+	],
+	dependencies: [
+		"0fb0718d"
+	],
 	tasks: [{
-		uid: "6cca894c",
+		uid: "ed6be0b6",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:mob_slaughter_factory"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "5bea7ce8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "2359d559",
+		type: "gamestage",
+		icon: "industrialforegoing:mob_slaughter_factory",
+		auto: "no_toast",
+		stage: "monsters:mobslaughterfactory"
 	}]
 }

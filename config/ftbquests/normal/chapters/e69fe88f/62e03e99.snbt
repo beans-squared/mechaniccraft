@@ -1,11 +1,36 @@
 {
+	title: "Animal Grower",
+	icon: "industrialforegoing:animal_growth_increaser",
 	x: -0.5d,
 	y: 3.0d,
+	text: [
+		"Feeds baby animals."
+	],
+	dependencies: [
+		"b48090dc",
+		"6c9b647d"
+	],
 	tasks: [{
-		uid: "18c4ce49",
+		uid: "2aa3a8e1",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:animal_growth_increaser"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "8c29df8b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "8b156629",
+		type: "gamestage",
+		icon: "industrialforegoing:animal_growth_increaser",
+		auto: "no_toast",
+		stage: "livestock:animalgrower"
 	}]
 }

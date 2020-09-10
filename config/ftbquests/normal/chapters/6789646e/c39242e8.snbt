@@ -1,11 +1,44 @@
 {
+	title: "Wireless Transmitter",
+	icon: "refinedstorage:wireless_transmitter",
 	x: 4.5d,
 	y: 1.5d,
+	text: [
+		"Transmits a wireless network signal."
+	],
+	dependencies: [
+		"8899873f",
+		"7b5b7cb1"
+	],
 	tasks: [{
-		uid: "2244fd2e",
+		uid: "49b6ed71",
 		type: "item",
 		items: [{
-			item: "refinedstorage:wireless_transmitter"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "29f94287",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "72f498b6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "66d6b67c",
+		type: "gamestage",
+		icon: "refinedstorage:wireless_transmitter",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:wirelesstransmitter"
 	}]
 }

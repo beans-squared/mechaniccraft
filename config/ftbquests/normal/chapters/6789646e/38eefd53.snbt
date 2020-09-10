@@ -1,11 +1,44 @@
 {
+	title: "Fluid Interface",
+	icon: "refinedstorage:fluid_interface",
 	x: -2.5d,
 	y: 1.5d,
+	text: [
+		"Allows fluid I/O in a storage network."
+	],
+	dependencies: [
+		"2f87c0f3",
+		"d54f9d11"
+	],
 	tasks: [{
-		uid: "ca664785",
+		uid: "2811f0db",
 		type: "item",
 		items: [{
-			item: "refinedstorage:fluid_interface"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "392153e1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "f9874f8f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "ff53de46",
+		type: "gamestage",
+		icon: "refinedstorage:fluid_interface",
+		auto: "no_toast",
+		stage: "digitalmaterialmanagement:fluidinterface"
 	}]
 }

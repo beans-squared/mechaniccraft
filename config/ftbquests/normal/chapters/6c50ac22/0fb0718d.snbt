@@ -1,11 +1,35 @@
 {
+	title: "Mob Detector",
+	icon: "industrialforegoing:mob_detector",
 	x: 0.5d,
 	y: -2.5d,
+	text: [
+		"Emits a redstone signal proportional to the number of entities in front of it."
+	],
+	dependencies: [
+		"8ff886c1"
+	],
 	tasks: [{
-		uid: "e915f546",
+		uid: "cd711bde",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:mob_detector"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	},
+	{
+		uid: "bc6a9a40",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "59fe3adf",
+		type: "gamestage",
+		icon: "industrialforegoing:mob_detector",
+		auto: "no_toast",
+		stage: "monsters:mobdetector"
 	}]
 }

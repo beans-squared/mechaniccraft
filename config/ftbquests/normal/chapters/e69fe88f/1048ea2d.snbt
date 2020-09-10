@@ -1,11 +1,35 @@
 {
+	title: "Animal Rancher",
+	icon: "industrialforegoing:animal_resource_harvester",
 	x: -0.5d,
 	y: 0.0d,
+	text: [
+		"Collects wool from sheep, milk from cows, and ink sacs from squids."
+	],
+	dependencies: [
+		"c60e5e52"
+	],
 	tasks: [{
-		uid: "25173056",
+		uid: "adaf6a4b",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:animal_resource_harvester"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "efaffb40",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "08d6912a",
+		type: "gamestage",
+		icon: "industrialforegoing:animal_resource_harvester",
+		auto: "no_toast",
+		stage: "livestock:animalrancher"
 	}]
 }

@@ -1,12 +1,43 @@
 {
-	x: 5.0d,
-	y: -0.5d,
+	title: "Seismic Vibrator",
+	icon: "mekanism:machineblock2 1 9",
+	x: 1.5d,
+	y: -3.0d,
+	text: [
+		"Sends information on in-world materials located in a chunk."
+	],
+	dependencies: [
+		"0bde28bc"
+	],
 	tasks: [{
-		uid: "39dd2645",
+		uid: "7f232996",
 		type: "item",
 		items: [{
-			item: "mekanism:machineblock2 1 9"
+			item: "contenttweaker:red_science_pack"
 		}],
-		ignore_nbt: 1b
+		count: 75L
+	},
+	{
+		uid: "98d270f5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "f0c9afd5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "ce4f9308",
+		type: "gamestage",
+		icon: "mekanism:machineblock2 1 9",
+		auto: "no_toast",
+		stage: "gadgetsandmeasuringtools:seismicvibrator"
 	}]
 }

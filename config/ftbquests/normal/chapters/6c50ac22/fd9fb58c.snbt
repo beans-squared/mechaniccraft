@@ -1,11 +1,35 @@
 {
+	title: "Wither Builder",
+	icon: "industrialforegoing:wither_builder",
 	x: 1.5d,
 	y: 3.5d,
+	text: [
+		"Builds the wither. You get to decide if this is a terrible mistake or not."
+	],
+	dependencies: [
+		"8b0c8e39"
+	],
 	tasks: [{
-		uid: "4dc0f9b7",
+		uid: "239899e4",
 		type: "item",
 		items: [{
-			item: "industrialforegoing:wither_builder"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "d7de886d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "36af1148",
+		type: "gamestage",
+		icon: "industrialforegoing:wither_builder",
+		auto: "no_toast",
+		stage: "monsters:witherbuilder"
 	}]
 }
