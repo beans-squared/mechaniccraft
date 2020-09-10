@@ -4,8 +4,8 @@ MISC stuff for IE
 
 */
 
-# renames circuit board to basic circuit board
-<immersiveengineering:material:27>.displayName = "Basic Circuit Board";
+# renames circuit board
+<immersiveengineering:material:27>.displayName = "Crude Circuit Board";
 
 # Rename steel armor to Steel Plate Armor
 <immersiveengineering:steel_armor_head>.displayName = "Steel Plate Helmet";
