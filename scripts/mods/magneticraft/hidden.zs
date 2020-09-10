@@ -47,8 +47,6 @@ removeAndHide(<magneticraft:relay>);
 removeAndHide(<magneticraft:filter>);
 removeAndHide(<magneticraft:transposer>);
 
-removeAndHide(<magneticraft:tesla_tower>);
-
 removeAndHide(<magneticraft:computer>);
 removeAndHide(<magneticraft:mining_robot>);
 
@@ -68,3 +66,21 @@ removeAndHide(<magneticraft:burnt_limestone:2>);
 
 removeAndHide(<magneticraft:tile_limestone>);
 removeAndHide(<magneticraft:tile_limestone:1>);
+
+removeAndHide(<magneticraft:electric_cable>);
+removeAndHide(<magneticraft:copper_coil>.withTag({}));
+removeAndHide(<magneticraft:battery_item_low>.withTag({}));
+removeAndHide(<magneticraft:battery_item_low>.withTag({energy: 250000}));
+removeAndHide(<magneticraft:battery_item_medium>.withTag({}));
+removeAndHide(<magneticraft:battery_item_medium>.withTag({energy: 2500000}));
+removeAndHide(<magneticraft:battery>);
+removeAndHide(<magneticraft:rf_transformer>);
+removeAndHide(<magneticraft:connector>);
+removeAndHide(<magneticraft:electric_pole>);
+removeAndHide(<magneticraft:electric_pole_transformer>);
+
+removeAndHide(<magneticraft:gasification_unit>);
+
+removeAndHide(<magneticraft:storage_blocks:2>);
+
+removeAndHide(<magneticraft:pumpjack_drill>);

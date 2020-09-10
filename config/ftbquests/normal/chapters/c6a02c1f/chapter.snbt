@@ -1,6 +1,6 @@
 {
 	title: "Industry: Mining & Metalworking",
-	icon: "mekanismtools:steelpickaxe",
+	icon: "immersiveengineering:pickaxe_steel",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

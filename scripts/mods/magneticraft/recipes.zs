@@ -77,3 +77,45 @@ recipes.addShaped("elevated_conveyor_belt", <magneticraft:conveyor_belt>,
 	[[<ore:stickIron>, <ore:plateIron>, <ore:stickIron>],
 	[<ore:stickIron>, <magneticraft:crafting:2>, <ore:stickIron>],
 	[<ore:stickIron, null, <ore:stickIron>]]);
+
+# Motor
+delete("magneticraft:crafting_motor");
+recipes.addShaped("magneticraft_crafting_motor", <magneticraft:crafting:2> * 4, 
+	[[<ore:ingotLead>, <ore:ingotLead>, null], 
+	[<immersiveengineering:wirecoil>, <ore:dustRedstone>, <ore:ingotIron>], 
+	[<ore:ingotLead>, <ore:ingotLead>, null]]);
+
+# Brick Furnace
+delete("magneticraft:brick_furnace_off_north");
+recipes.addShaped("magneticraft_brick_furnace_off_north", <magneticraft:brick_furnace>, 
+	[[<minecraft:brick_block>, <minecraft:brick_block>, <minecraft:brick_block>], 
+	[<minecraft:brick_block>, null, <minecraft:brick_block>], 
+	[<minecraft:brick_block>, <ore:plateCopper>, <minecraft:brick_block>]]);
+
+# Electric Furnace
+delete("magneticraft:electric_furnace_off_north");
+recipes.addShaped("magneticraft_electric_furnace_off_north", <magneticraft:electric_furnace>, 
+	[[<immersiveengineering:wirecoil>, <magneticraft:brick_furnace>, <immersiveengineering:wirecoil>], 
+	[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
+
+# Small Steam Engine
+delete("magneticraft:steam_engine_inactive_north");
+recipes.addShapeless("magneticraft_steam_engine_inactive_north", <magneticraft:steam_engine>, [<minecraft:paper>, <ore:plateIron>]);
+
+# Small Steam Turbine
+delete("magneticraft:steam_turbine_inactive_north");
+recipes.addShapless("magneticraft_steam_turbine_inactive_north", <magneticraft:steam_turbine>, [<minecraft:paper>, <ore:plateGold>]);
+
+# Combustion Chamber
+delete("magneticraft:combustion_chamber_north");
+recipes.addShaped("magneticraft_combustion_chamber_north", <magneticraft:combustion_chamber>, 
+	[[<ore:ingotBrick>, <ore:plateIron>, <ore:ingotBrick>], 
+	[<ore:ingotBrick>, null, <ore:ingotIron>], 
+	[<ore:ingotBrick>, <ore:ingotBrick>, <ore:ingotBrick>]]);
+
+# Boiler
+delete("magneticraft:steam_boiler_normal");
+recipes.addShaped("magneticraft_steam_boiler_normal", <magneticraft:steam_boiler>, 
+	[[<ore:ingotIron>, <ore:plateIron>, <ore:ingotIron>], 
+	[<ore:ingotIron>, null, <ore:ingotIron>], 
+	[<ore:ingotIron>, <ore:plateIron>, <ore:ingotIron>]]);
