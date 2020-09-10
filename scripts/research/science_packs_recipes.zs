@@ -1,3 +1,9 @@
+/*
+
+Recipes for science packs
+
+*/
+
 recipes.addShapeless("red_science_pack", <contenttweaker:red_science_pack>, [<ore:plateCopper>, <ore:plateIron>]);
 
 recipes.addShapeless("blue_science_pack", <contenttweaker:blue_science_pack>, [<magneticraft:inserter>, <immersiveengineering:conveyor>.withTag({conveyorType: "immersiveengineering:conveyor"})]);
