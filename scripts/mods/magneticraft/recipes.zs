@@ -104,7 +104,7 @@ recipes.addShapeless("magneticraft_steam_engine_inactive_north", <magneticraft:s
 
 # Small Steam Turbine
 delete("magneticraft:steam_turbine_inactive_north");
-recipes.addShapless("magneticraft_steam_turbine_inactive_north", <magneticraft:steam_turbine>, [<minecraft:paper>, <ore:plateGold>]);
+recipes.addShapeless("magneticraft_steam_turbine_inactive_north", <magneticraft:steam_turbine>, [<minecraft:paper>, <ore:plateGold>]);
 
 # Combustion Chamber
 delete("magneticraft:combustion_chamber_north");
