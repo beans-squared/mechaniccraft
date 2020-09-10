@@ -7,9 +7,11 @@ NEW Added Extended Days
  
 NEW Added Fast Leaf Decay
  - Trees will now lose their leaves almost instantly
+ 
 NEW Added Born in a Barn
 NEW Added Water Control Extreme
  - Infinite water sources can no longer be created by the player
+ 
 NEW Added Mekanism
 NEW Added Mekansim Generators
 NEW Added Better Than Bunnies
@@ -20,6 +22,7 @@ NEW Added Refined Storage
 NEW Added Refined Storage Addons
 NEW Added FPS Reducer
  - Game will automatically reduce CPU and GPU usage when not tabbed in or AFK for a long period of time
+ 
 NEW Added AI Improvements
 NEW Added Chisel
 NEW Added Tech Reborn
@@ -30,11 +33,13 @@ NEW Added Comforts
 NEW Added End: Reborn
 NEW Added science packs
  - Used to complete research tasks
+ 
 NEW Added UniDict
 NEW Added CompositeGear
 NEW Added Alternating Flux
 NEW Implemented new questing system: Research
  - complete research tasks using science packs to unlock new technologies
+ 
 
 Removed Features
 DEL Removed the Contracts system
