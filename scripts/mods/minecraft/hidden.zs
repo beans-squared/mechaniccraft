@@ -32,7 +32,7 @@ removeAndHide(<minecraft:diamond_leggings>);
 removeAndHide(<minecraft:diamond_boots>);
 
 removeAndHide(<minecraft:diamond_sword>);
-removeAndHide(<minecraft:diamond_shovel);
+removeAndHide(<minecraft:diamond_shovel>);
 removeAndHide(<minecraft:diamond_pickaxe>);
 removeAndHide(<minecraft:diamond_axe>);
 removeAndHide(<minecraft:diamond_hoe>);
@@ -44,7 +44,7 @@ removeAndHide(<minecraft:golden_leggings>);
 removeAndHide(<minecraft:golden_boots>);
 
 removeAndHide(<minecraft:golden_sword>);
-removeAndHide(<minecraft:golden_shovel);
+removeAndHide(<minecraft:golden_shovel>);
 removeAndHide(<minecraft:golden_pickaxe>);
 removeAndHide(<minecraft:golden_axe>);
 removeAndHide(<minecraft:golden_hoe>);
