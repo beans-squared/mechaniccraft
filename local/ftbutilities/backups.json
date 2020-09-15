@@ -47,5 +47,12 @@
 		"index": 7,
 		"success": true,
 		"size": 377560
+	},
+	{
+		"time": 1600201268903,
+		"file": "2020-09-15-15-21-08.zip",
+		"index": 8,
+		"success": true,
+		"size": 1441371
 	}
 ]
