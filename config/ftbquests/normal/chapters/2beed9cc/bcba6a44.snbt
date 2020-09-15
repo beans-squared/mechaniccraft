@@ -26,7 +26,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 10L
+		count: 20L
 	}],
 	rewards: [{
 		uid: "a12969a4",
