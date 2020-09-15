@@ -15,7 +15,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 300L
+		count: 100L
 	}],
 	rewards: [{
 		uid: "03c2921e",
