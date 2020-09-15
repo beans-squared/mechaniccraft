@@ -1,6 +1,6 @@
 {
 	title: "Excavator",
-	icon: "mekanismtools:steelshovel",
+	icon: "minecraft:diamond_shovel",
 	x: -0.5d,
 	y: -0.5d,
 	text: [
