@@ -1,134 +1,49 @@
-CHANGELOG for MechanicCraft 0.2.0 (9/10/2020)
+CHANGELOG for MechanicCraft 0.3.0 (9/16/2020)
 
-New Features
+Yes it's only been 6 days chill
 
-NEW Added RandomTweaks
+# New Features
 
-NEW Added Extended Days
- - Minecraft days are now hour long in total (30 mins each for day/night)
- 
-NEW Added Fast Leaf Decay
- - Trees will now lose their leaves almost instantly
- 
-NEW Added Born in a Barn
+- Re-added Tinkers' Construct
+  - Dynamic tool, weapon and armor crafting, as well as a smeltery, an advanced metalworking machine
+- Added Hostile Worlds: Invasions
+  - Mobs will attack your and your base every few days. These are special miner mobs, meaning they will dig through walls, floors and celings to get you.
+- Added Traveler's Backpack
+  - New multipurpose utility item: store items, craft items on the go, even comes with two fluid tanks!
+- Added Vanilla Fix
+  - General performance improvements.
+- Properly added GameStaging to all research.
+  - This means you now actually have to complete the research to unlock the technology. For those of you who noticed you could abuse this in version 0.2, well done. Now play the game ya cheaters
+- Added Tough as Nails
+  - Adds new survival mechanics, including body temperature and thirst.
+- Added Extra TAN
+  - Addon for Tough as Nails; enables Harvestcraft drinks to quench thirst, among other things.
+- Added Tough Expansion
+  - RF powered devices to help combat thirst and body temperature.
 
-NEW Added Water Control Extreme
- - Infinite water sources can no longer be created by the player
- 
-NEW Added Mekanism
+## Removed Features
 
-NEW Added Mekansim Generators
+- CompositeGear
+- Random Spawn
 
-NEW Added Better Than Bunnies
+## Other Changes
 
-NEW Added Large Ore Deposits
+- Gasification Unit tab no longer displays in JEI
+- Constantan plates can now be made in the crushing table
+- The Tree Fluid Extractor research now depends on Fluid Pipes
+- Research costs have been balanced across the board
+- The Mining Drill resreach now depends on the Refinery
+- Immersive Engineering fluid tanks have been added to the fluid logistics research chapter
+- Updated several mods:
+  - Better Chat
+  - CraftTweaker
+  - CreativeCore
+  - FPS Reducer
+  - Immersive Technology
+  	- Adds a few new multiblock machines; these will be integrated into research chapters in a later update
+  - Just Enough Items
+  - Random Patches
+  - The Twilight Forest
 
-NEW Added Better Title Screen
+### Fixes
 
-NEW Added Splash Logo Color Fix
-
-NEW Added Refined Storage
-
-NEW Added Refined Storage Addons
-
-NEW Added FPS Reducer
- - Game will automatically reduce CPU and GPU usage when not tabbed in or AFK for a long period of time
- 
-NEW Added AI Improvements
-
-NEW Added Chisel
-
-NEW Added Tech Reborn
-
-NEW Added Industrial Foregoing
-
-NEW Added Magneticraft
-
-NEW Added Vies Airships
-
-NEW Added Comforts
-
-NEW Added End: Reborn
-
-NEW Added science packs
- - Used to complete research tasks
- 
-NEW Added UniDict
-
-NEW Added CompositeGear
-
-NEW Added Alternating Flux
-
-NEW Implemented new questing system: Research
- - complete research tasks using science packs to unlock new technologies
- 
-
-Removed Features
-
-DEL Removed the Contracts system
-
-DEL Removed Stellar Sky
-
-DEL Removed Champions
-
-DEL Removed More Refined Storage
-
-DEL Removed Reborn Storage
-
-DEL Removed Steams
-
-DEL Removed Triumph
-
-DEL Removed Immerisve Intelligence
-
-DEL Removed Vies Machines
-
-DEL Removed JEI Villagers
-
-DEL Removed Mekanism's bins (creative bin is still availble)
-
-DEL Removed Tinkers Construct
-
-DEL Removed Tinker's Hedgemony
-
-DEL Removed Ore Excavation
-
-DEL Removed Nyx
-
-DEL Removed many default minecraft armor and tools
-
-Other Changes
-
-UPD Removed Cow in a Jar
-
-UPD Fruit baskets can now be crafting with any wood pressure plate
-
-UPD More ores now have world generation graphs in JER
-
-UPD Updated Immersive Technology to v1.7.72
-
-UPD Updated Recipe Stages
-
-UPD Updated FTB Utilites to v5.4.1.130
-
-UPD Updated FTB Quests to v1.9.0.12
-
-UPD Updated Engineer's Doors to v0.9.1
-
-UPD Updated ForgeEndertech to v4.5.4.0-build.0534
-
-UPD Updated Tips to v1.0.9
-
-UPD 'Quests' tab no longer shows up in JEI
-
-UPD Feedthrough Furnace now requires steel plates to craft
-
-UPD Engineer's Workbench now requires a treated wood crafting table to craft
-
-UPD IE Circuit Board is now named Crude Circuit Board
-
-UPD Updated Tips
-
-Fixes
-
-FIX Hwyla's HUD no longer overlaps with the boss bar

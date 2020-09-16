@@ -52,6 +52,6 @@
 			}
 		},
 		auto: "no_toast",
-		stage: "gadgetsandmeasuringtools:seismicreader"
+		stage: "gadgets:seismicreader"
 	}]
 }

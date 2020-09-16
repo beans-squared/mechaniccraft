@@ -1,6 +1,6 @@
 {
 	title: "Industry: Military & Personal Equipment",
-	icon: "compositegear:composite_chestplate",
+	icon: "immersiveengineering:metal_device1 1 11",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

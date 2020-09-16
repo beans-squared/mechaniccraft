@@ -21,15 +21,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 5L
-	},
-	{
-		uid: "837023e8",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 5L
+		count: 25L
 	}],
 	rewards: [{
 		uid: "110ce8c7",

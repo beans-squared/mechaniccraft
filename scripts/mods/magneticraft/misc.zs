@@ -4,6 +4,9 @@ misc for Magneticraft
 
 */
 
+# removes the gasification unit from JEI
+mods.jei.JEI.hideCategory("magneticraft.gasification_unit");
+
 # rename conveyor belt to elevated conveyor belt
 <magneticraft:conveyor_belt>.displayName = "Elevated Conveyor Belt";
 

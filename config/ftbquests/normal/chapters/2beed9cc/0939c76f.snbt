@@ -15,15 +15,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 20L
-	},
-	{
-		uid: "cdc3b5d5",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 10L
+		count: 30L
 	}],
 	rewards: [{
 		uid: "9c56de98",
@@ -36,5 +28,11 @@
 		type: "custom",
 		title: "Additional Capacitors",
 		icon: "immersiveengineering:toolupgrade 1 9"
+	},
+	{
+		uid: "dc1f387b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "weaponsandarmor:railgunmodifications"
 	}]
 }

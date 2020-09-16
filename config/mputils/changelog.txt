@@ -1,74 +1,49 @@
-CHANGELOG for §6MechanicCraft 0.2.0 §f(9/10/2020)
+CHANGELOG for MechanicCraft 0.3.0 (9/16/2020)
 
-§2New Features
-§2NEW §fAdded RandomTweaks
-§2NEW §fAdded Extended Days
- - Minecraft days are now hour long in total (30 mins each for day/night)
-§2NEW §fAdded Fast Leaf Decay
- - Trees will now lose their leaves almost instantly
-§2NEW §fAdded Born in a Barn
-§2NEW §fAdded Water Control Extreme
- - Infinite water sources can no longer be created by the player
-§2NEW §fAdded Mekanism
-§2NEW §fAdded Mekansim Generators
-§2NEW §fAdded Better Than Bunnies
-§2NEW §fAdded Large Ore Deposits
-§2NEW §fAdded Better Title Screen
-§2NEW §fAdded Splash Logo Color Fix
-§2NEW §fAdded Refined Storage
-§2NEW §fAdded Refined Storage Addons
-§2NEW §fAdded FPS Reducer
- - Game will automatically reduce CPU and GPU usage when not tabbed in or AFK for a long period of time
-§2NEW §fAdded AI Improvements
-§2NEW §fAdded Chisel
-§2NEW §fAdded Tech Reborn
-§2NEW §fAdded Industrial Foregoing
-§2NEW §fAdded Magneticraft
-§2NEW §fAdded Vies Airships
-§2NEW §fAdded Comforts
-§2NEW §fAdded End: Reborn
-§2NEW §fAdded science packs
- - Used to complete research tasks
-§2NEW §fAdded UniDict
-§2NEW §fAdded CompositeGear
-§2NEW §fAdded Alternating Flux
-§2NEW §fImplemented new questing system: Research
- - Complete research tasks using science packs to unlock new technologies
+Yes it's only been 6 days chill
 
-§4Removed Features
-§4DEL §fRemoved the Contracts system
-§4DEL §fRemoved Stellar Sky
-§4DEL §fRemoved Champions
-§4DEL §fRemoved More Refined Storage
-§4DEL §fRemoved Reborn Storage
-§4DEL §fRemoved Steams
-§4DEL §fRemoved Triumph
-§4DEL §fRemoved Immerisve Intelligence
-§4DEL §fRemoved Vies Machines
-§4DEL §fRemoved JEI Villagers
-§4DEL §fRemoved Mekanism's bins (creative bin is still availble)
-§4DEL §fRemoved Tinkers Construct
-§4DEL §fRemoved Tinker's Hedgemony
-§4DEL §fRemoved Ore Excavation
-§4DEL §fRemoved Nyx
-§4DEL §fRemoved many default minecraft armor and tools
+# New Features
 
-§1Other Changes
-§1UPD §fRemoved Cow in a Jar
-§1UPD §fFruit baskets can now be crafting with any wood pressure plate
-§1UPD §fMore ores now have world generation graphs in JER
-§1UPD §fUpdated Immersive Technology to v1.7.72
-§1UPD §fUpdated Recipe Stages
-§1UPD §fUpdated FTB Utilites to v5.4.1.130
-§1UPD §fUpdated FTB Quests to v1.9.0.12
-§1UPD §fUpdated Engineer's Doors to v0.9.1
-§1UPD §fUpdated ForgeEndertech to v4.5.4.0-build.0534
-§1UPD §fUpdated Tips to v1.0.9
-§1UPD §f'Quests' tab no longer shows up in JEI
-§1UPD §fFeedthrough Furnace now requires steel plates to craft
-§1UPD §fEngineer's Workbench now requires a treated wood crafting table to craft
-§1UPD §fIE Circuit Board is now named Crude Circuit Board
-§1UPD §fUpdated Tips
+- Re-added Tinkers' Construct
+  - Dynamic tool, weapon and armor crafting, as well as a smeltery, an advanced metalworking machine
+- Added Hostile Worlds: Invasions
+  - Mobs will attack your and your base every few days. These are special miner mobs, meaning they will dig through walls, floors and celings to get you.
+- Added Traveler's Backpack
+  - New multipurpose utility item: store items, craft items on the go, even comes with two fluid tanks!
+- Added Vanilla Fix
+  - General performance improvements.
+- Properly added GameStaging to all research.
+  - This means you now actually have to complete the research to unlock the technology. For those of you who noticed you could abuse this in version 0.2, well done. Now play the game ya cheaters
+- Added Tough as Nails
+  - Adds new survival mechanics, including body temperature and thirst.
+- Added Extra TAN
+  - Addon for Tough as Nails; enables Harvestcraft drinks to quench thirst, among other things.
+- Added Tough Expansion
+  - RF powered devices to help combat thirst and body temperature.
 
-§7Fixes
-§7FIX §fHwyla's HUD no longer overlaps with the boss bar
+## Removed Features
+
+- CompositeGear
+- Random Spawn
+
+## Other Changes
+
+- Gasification Unit tab no longer displays in JEI
+- Constantan plates can now be made in the crushing table
+- The Tree Fluid Extractor research now depends on Fluid Pipes
+- Research costs have been balanced across the board
+- The Mining Drill resreach now depends on the Refinery
+- Immersive Engineering fluid tanks have been added to the fluid logistics research chapter
+- Updated several mods:
+  - Better Chat
+  - CraftTweaker
+  - CreativeCore
+  - FPS Reducer
+  - Immersive Technology
+  	- Adds a few new multiblock machines; these will be integrated into research chapters in a later update
+  - Just Enough Items
+  - Random Patches
+  - The Twilight Forest
+
+### Fixes
+

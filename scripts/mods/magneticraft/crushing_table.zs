@@ -55,4 +55,5 @@ mods.magneticraft.CrushingTable.addRecipe(<techreborn:storage2:9>, <techreborn:p
 mods.magneticraft.CrushingTable.addRecipe(<techreborn:storage:8>, <techreborn:plates:34> * 5, true);
 # refined iron
 mods.magneticraft.CrushingTable.addRecipe(<techreborn:storage2:10>, <techreborn:plates:35> * 5, true);
-# 
+# constantan
+mods.magneticraft.CrushingTable.addRecipe(<immersiveengineering:storage:6>, <immersiveengineering:metal:36> * 5, true);

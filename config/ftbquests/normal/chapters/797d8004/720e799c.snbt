@@ -22,6 +22,6 @@
 		type: "gamestage",
 		icon: "immersiveengineering:metal_device1 1 7",
 		auto: "no_toast",
-		stage: "gadgetsandmeasuringtools:coresampledrill"
+		stage: "gadgets:coresampledrill"
 	}]
 }

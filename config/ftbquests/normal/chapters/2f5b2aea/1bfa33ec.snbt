@@ -1,5 +1,5 @@
 {
-	title: "Steel Tank",
+	title: "Steel Barrel",
 	icon: "immersivetech:metal_barrel 1 2",
 	x: -1.0d,
 	y: 0.5d,
@@ -15,20 +15,12 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 175L
-	},
-	{
-		uid: "15b507a9",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 175L
+		count: 75L
 	}],
 	rewards: [{
 		uid: "e9d4f1cc",
 		type: "gamestage",
 		auto: "no_toast",
-		stage: "fluidtransportandstorage:steeltank"
+		stage: "fluidtransportandstorage:steelbarrel"
 	}]
 }

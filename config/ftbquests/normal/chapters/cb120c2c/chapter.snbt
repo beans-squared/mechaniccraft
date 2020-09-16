@@ -1,7 +1,7 @@
 {
 	title: "Other Random Science Stuff I Don't Know How to Categorize",
 	icon: "techreborn:part 1 9",
-	always_invisible: false,
+	always_invisible: true,
 	group: -2122843796,
 	default_quest_shape: ""
 }

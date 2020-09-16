@@ -1,6 +1,14 @@
 {
-	title: "Composite Gear",
-	icon: "compositegear:composite_chestplate",
+	title: "Railgun",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:railgun"
+	},
 	x: 0.5d,
 	y: 0.5d,
 	text: [
@@ -15,15 +23,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 20L
-	},
-	{
-		uid: "4bb144fe",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 10L
+		count: 40L
 	}],
 	rewards: [{
 		uid: "543cf6e0",
@@ -54,36 +54,6 @@
 		}
 	},
 	{
-		uid: "028d2008",
-		type: "custom",
-		title: "Composite Helmet",
-		icon: "compositegear:composite_helmet"
-	},
-	{
-		uid: "01eaf4ef",
-		type: "custom",
-		title: "Composite Chestplate",
-		icon: "compositegear:composite_chestplate"
-	},
-	{
-		uid: "cd05aada",
-		type: "custom",
-		title: "Composite Leggings",
-		icon: "compositegear:composite_leggings"
-	},
-	{
-		uid: "18b2ee6f",
-		type: "custom",
-		title: "Composite Boots",
-		icon: "compositegear:composite_boots"
-	},
-	{
-		uid: "2ab25f12",
-		type: "custom",
-		title: "Composite Sword",
-		icon: "compositegear:composite_sword"
-	},
-	{
 		uid: "d252b071",
 		type: "custom",
 		title: "Razor Wire",
@@ -93,6 +63,6 @@
 		uid: "284713aa",
 		type: "gamestage",
 		auto: "no_toast",
-		stage: "weaponsandarmor:compositegear"
+		stage: "weaponsandarmor:railgun"
 	}]
 }
