@@ -61,7 +61,7 @@ stage("digitalmaterialmanagement:securitymanager", <refinedstorage:security_mana
 stage("digitalmaterialmanagement:relay", <refinedstorage:relay>);
 
 # Network Transmitter
-starge("digitalmaterialmanagement:networktransmitter", <refinedstorage:network_transmitter>);
+stage("digitalmaterialmanagement:networktransmitter", <refinedstorage:network_transmitter>);
 
 # Crafter
 stage("digitalmaterialmanagement:crafter", <refinedstorage:crafter>);
