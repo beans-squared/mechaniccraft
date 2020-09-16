@@ -39,6 +39,6 @@
 			id: "immersiveengineering:skyhook"
 		},
 		auto: "no_toast",
-		stage: "gadgetsandmeasuringtools:engineersskyhook"
+		stage: "gadgets:engineersskyhook"
 	}]
 }

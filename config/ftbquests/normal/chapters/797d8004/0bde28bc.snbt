@@ -19,6 +19,6 @@
 		type: "gamestage",
 		icon: "immersiveengineering:tool",
 		auto: "no_toast",
-		stage: "gadgetsandmeasuringtools:engineershammer"
+		stage: "gadgets:engineershammer"
 	}]
 }

@@ -38,6 +38,6 @@
 		type: "gamestage",
 		icon: "mekanism:machineblock2 1 9",
 		auto: "no_toast",
-		stage: "gadgetsandmeasuringtools:seismicvibrator"
+		stage: "gadgets:seismicvibrator"
 	}]
 }
