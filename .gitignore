@@ -30,10 +30,11 @@ resourcepacks/
 config/InvTweaks.cfg
 config/jei/worldSettings.cfg
 config/splash.properties
-config/splash.properties
 local/ftbutilities/backups.json
 local/client/ftbutilities.cfg
 local/client/rtdata.json
 local/client/sidebar_buttons.json
 local/ftbutilities/backups.json
 local/ftbutilities/players.txt
+local/client/ftblib.cfg
+minemenu/menu.json
