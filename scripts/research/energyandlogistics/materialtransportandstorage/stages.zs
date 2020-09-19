@@ -17,7 +17,7 @@ stage("materialtransportandstorage:ieconveyorbelt", <immersiveengineering:convey
 stage("materialtransportandstorage:elevatedconveyorbelt", <magneticraft:conveyor_belt>);
 
 # Shelving Unit
-stage("materialtransportandstorage", <magneticraft:shelving_unit>);
+stage("materialtransportandstorage:shelvingunit", <magneticraft:shelving_unit>);
 
 # Improved Conveyor Belts
 stage("materialtransportandstorage:foregoingconveyorbelt", <industrialforegoing:conveyor>);

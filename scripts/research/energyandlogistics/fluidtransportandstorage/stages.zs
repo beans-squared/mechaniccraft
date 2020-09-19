@@ -22,7 +22,7 @@ stage("fluidtransportandstorage:basicmechanicalpipe", <mekanism:transmitter:1>.w
 stage("fluidtransportandstorage:fluidoutlet", <immersiveengineering:metal_device0:6>);
 
 # Metal Barrel
-stage("fluidtransportandstorage:metalbarrel", <immersiveengineering:metal_device0:4>);
+stage("fluidtransportandstorage:barrel", <immersiveengineering:metal_device0:4>);
 
 # Electric Pump
 stage("fluidtransportandstorage:electricpump", <mekanism:machineblock:12>);
