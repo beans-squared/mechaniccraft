@@ -25,9 +25,9 @@ recipes.addShaped("crafting_string_fabric", <magneticraft:crafting:6>,
 # Striped Machine Block
 delete("magneticraft:multiblock_parts_striped");
 recipes.addShaped("multiblock_parts_striped_block", <magneticraft:multiblock_parts:3> * 6,
-	[[<ore:nuggetTungsten>, <ore:plateGold>, <ore:nuggetTungsten>],
+	[[<ore:nuggetIron>, <ore:plateGold>, <ore:nuggetIron>],
 	[<ore:plateGold>, <ore:stone>, <ore:plateGold>],
-	[<ore:nuggetTungsten>, <ore:plateGold>, <ore:nuggetTungsten>]]);
+	[<ore:nuggetIron>, <ore:plateGold>, <ore:nuggetIron>]]);
 
 # Corrugate Iron
 delete("magneticraft:multiblock_parts_corrugated_iron");
