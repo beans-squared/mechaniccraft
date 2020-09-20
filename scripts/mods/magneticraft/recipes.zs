@@ -73,10 +73,10 @@ recipes.addShaped("inserter", <magneticraft:inserter>,
 
 # Conveyors
 delete("magneticraft:conveyor_belt_north");
-recipes.addShaped("elevated_conveyor_belt", <magneticraft:conveyor_belt>,
+recipes.addShaped("elevated_conveyor_belt", <magneticraft:conveyor_belt> * 12,
 	[[<ore:stickIron>, <ore:plateIron>, <ore:stickIron>],
 	[<ore:stickIron>, <magneticraft:crafting:2>, <ore:stickIron>],
-	[<ore:stickIron, null, <ore:stickIron>]]);
+	[<ore:stickIron>, null, <ore:stickIron>]]);
 
 # Motor
 delete("magneticraft:crafting_motor");
