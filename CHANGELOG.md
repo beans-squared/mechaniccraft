@@ -1,5 +1,7 @@
 ### CHANGELOG for MechanicCraft 0.4.0 (MM/DD/YYYY)
 
+world compatability?
+
 ### New Features
 
 - Added Moar Tinkers
@@ -12,5 +14,6 @@
 ### Removed Features
 
 - Removed Hostile Worlds: Invasions...for now
+- Removed End: Reborn
 
 ### Bugfixes
