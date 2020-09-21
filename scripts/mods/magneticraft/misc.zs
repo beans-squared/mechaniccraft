@@ -15,3 +15,8 @@ mods.jei.JEI.hideCategory("magneticraft.gasification_unit");
 
 # rename solar panel to solar array
 <magneticraft:solar_panel>.displayName = "Solar Array";
+
+# rename hammers to mallets
+<magneticraft:stone_hammer>.displayName = "Stone Mallet";
+<magneticraft:iron_hammer>.displayName = "Iron Mallet";
+<magneticraft:steel_hammer>.displayName = "Steel Mallet";

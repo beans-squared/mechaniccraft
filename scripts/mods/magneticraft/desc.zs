@@ -7,7 +7,7 @@ Descriptions for Magneticraft items
 import mods.jei.JEI.addDescription as desc;
 
 # Crushing Table
-desc(<magneticraft:crushing_table>, "Used primarily for basic ore processing and creating metal plates. Right click to place items on the table, then right click the table with a hammer to process the item.");
+desc(<magneticraft:crushing_table>, "Used primarily for basic ore processing and creating metal plates. Right click to place items on the table, then right click the table with a mallet to process the item.");
 
 # Sluice Box
 desc(<magneticraft:sluice_box>, "Used to filter materials from certain items, primarily rocks from ore chunks. Use a bucket of water to wash out the material.");
