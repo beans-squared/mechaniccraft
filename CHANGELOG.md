@@ -7,6 +7,7 @@ world compatability?
 - Added Moar Tinkers
   - New materials for tools, weapons and armor!
 - Added Tweaker's Construct
+- Added ModTweaker
 
 
 ### Gameplay Changes
