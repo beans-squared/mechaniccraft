@@ -4,6 +4,7 @@
 
 - Added Moar Tinkers
   - New materials for tools, weapons and armor!
+- Added Tweaker's Construct
 
 
 ### Gameplay Changes
