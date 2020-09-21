@@ -2,6 +2,10 @@
 
 ### New Features
 
+- Added Moar Tinkers
+  - New materials for tools, weapons and armor!
+
+
 ### Gameplay Changes
 
 ### Removed Features
