@@ -1,86 +1,55 @@
-/*
+#################################################
+#												#
+# Removed items from Magneticraft				#
+#												#
+#################################################
 
-Hidden items in JEI and recipes disabled
+import scripts.mods.common.removeItem;
+import crafttweaker.item.IItemStack;
 
-*/
+val items = [
+	<magneticraft:ores>, // copper
+	<magneticraft:ores:1>, // galena
+	<magneticraft:ores:2>, // cobalt
+	<magneticraft:ores:3>, // tungsten
+	<magneticraft:oil_source>, // oil (full)
+	<magneticraft:oil_source:10>, // oil (empty)
+	<magneticraft:light_plates>,
+	<magneticraft:light_plates:1>,
+	<magneticraft:light_plates:2>,
+	<magneticraft:light_plates:3>,
+	<magneticraft:light_plates:5>,
+	<magneticraft:light_plates:6>,
+	<magneticraft:floppy_disk:*>,
+	<magneticraft:iron_gear>,
+	<magneticraft:broken_gear>,
+	<magneticraft:steel_gear>,
+	<magneticraft:tungsten_gear>,
+	<magneticraft:water_generator>,
+	<magneticraft:pneumatic_tube>,
+	<magneticraft:pneumatic_restriction_tube>,
+	<magneticraft:relay>,
+	<magneticraft:filter>,
+	<magneticraft:transposer>,
+	<magneticraft:iron_pipe>,
+	<magneticraft:computer>,
+	<magneticraft:mining_robot>,
+	<magneticraft:thermopile>,
+	<magneticraft:wind_turbine>,
+	<magneticraft:electric_cable>,
+	<magneticraft:copper_coil>.withTag({}),
+	<magneticraft:battery_item_low>.withTag({}),
+	<magneticraft:battery_item_low>.withTag({energy: 250000}),
+	<magneticraft:battery_item_medium>.withTag({}),
+	<magneticraft:battery_item_medium>.withTag({energy: 2500000}),
+	<magneticraft:battery>,
+	<magneticraft:rf_transformer>,
+	<magneticraft:connector>,
+	<magneticraft:electric_pole>,
+	<magneticraft:electric_pole_transformer>,
+	<magneticraft:gasification_unit>
+] as IItemStack[];
 
-import mods.jei.JEI.removeAndHide;
-
-# removeAndHide(<magneticraft:stone_hammer>);
-# removeAndHide(<magneticraft:iron_hammer>);
-# removeAndHide(<magneticraft:steel_hammer>);
-
-removeAndHide(<magneticraft:light_plates>);
-removeAndHide(<magneticraft:light_plates:1>);
-removeAndHide(<magneticraft:light_plates:2>);
-removeAndHide(<magneticraft:light_plates:3>);
-removeAndHide(<magneticraft:light_plates:5>);
-removeAndHide(<magneticraft:light_plates:6>);
-
-removeAndHide(<magneticraft:electric_drill>);
-removeAndHide(<magneticraft:electric_chainsaw>);
-removeAndHide(<magneticraft:electric_piston>);
-
-removeAndHide(<magneticraft:crafting:3>);
-
-removeAndHide(<magneticraft:floppy_disk:*>);
-
-removeAndHide(<magneticraft:iron_gear>);
-removeAndHide(<magneticraft:broken_gear>);
-removeAndHide(<magneticraft:steel_gear>);
-removeAndHide(<magneticraft:tungsten_gear>);
-
-removeAndHide(<magneticraft:solar_tower>);
-removeAndHide(<magneticraft:solar_mirror>);
-removeAndHide(<magneticraft:pumpjack>);
-removeAndHide(<magneticraft:oil_heater>);
-removeAndHide(<magneticraft:refinery>);
-
-removeAndHide(<magneticraft:water_generator>);
-
-removeAndHide(<magneticraft:pneumatic_tube>);
-removeAndHide(<magneticraft:pneumatic_restriction_tube>);
-
-removeAndHide(<magneticraft:iron_pipe>);
-
-removeAndHide(<magneticraft:relay>);
-removeAndHide(<magneticraft:filter>);
-removeAndHide(<magneticraft:transposer>);
-
-removeAndHide(<magneticraft:computer>);
-removeAndHide(<magneticraft:mining_robot>);
-
-removeAndHide(<magneticraft:thermopile>);
-removeAndHide(<magneticraft:wind_turbine>);
-
-removeAndHide(<magneticraft:box>);
-removeAndHide(<magneticraft:fabricator>);
-
-removeAndHide(<magneticraft:limestone>);
-removeAndHide(<magneticraft:limestone:1>);
-removeAndHide(<magneticraft:limestone:2>);
-
-removeAndHide(<magneticraft:burnt_limestone>);
-removeAndHide(<magneticraft:burnt_limestone:1>);
-removeAndHide(<magneticraft:burnt_limestone:2>);
-
-removeAndHide(<magneticraft:tile_limestone>);
-removeAndHide(<magneticraft:tile_limestone:1>);
-
-removeAndHide(<magneticraft:electric_cable>);
-removeAndHide(<magneticraft:copper_coil>.withTag({}));
-removeAndHide(<magneticraft:battery_item_low>.withTag({}));
-removeAndHide(<magneticraft:battery_item_low>.withTag({energy: 250000}));
-removeAndHide(<magneticraft:battery_item_medium>.withTag({}));
-removeAndHide(<magneticraft:battery_item_medium>.withTag({energy: 2500000}));
-removeAndHide(<magneticraft:battery>);
-removeAndHide(<magneticraft:rf_transformer>);
-removeAndHide(<magneticraft:connector>);
-removeAndHide(<magneticraft:electric_pole>);
-removeAndHide(<magneticraft:electric_pole_transformer>);
-
-removeAndHide(<magneticraft:gasification_unit>);
-
-removeAndHide(<magneticraft:storage_blocks:2>);
-
-removeAndHide(<magneticraft:pumpjack_drill>);
+for item in items {
+	removeItem(item);
+}
