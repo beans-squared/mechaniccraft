@@ -2,7 +2,7 @@
 	title: "Diesel Generator",
 	icon: "immersiveengineering:metal_multiblock 1 10",
 	x: 0.5d,
-	y: -9.5d,
+	y: -9.0d,
 	text: [
 		"Burns diesel fluids to generate power."
 	],

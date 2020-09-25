@@ -1,0 +1,27 @@
+{
+	title: "Auto Crafting Table",
+	icon: "techreborn:auto_crafting_table",
+	x: 5.0d,
+	y: -2.0d,
+	text: [
+		"Plain and simple autocrafter. Does not support recipes which require fluids."
+	],
+	dependencies: [
+		"23ffd783"
+	],
+	tasks: [{
+		uid: "befd05b4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "3aaae065",
+		type: "gamestage",
+		icon: "techreborn:auto_crafting_table",
+		auto: "no_toast",
+		stage: "ap:autocraftingtable"
+	}]
+}

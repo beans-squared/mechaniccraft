@@ -1,0 +1,36 @@
+{
+	title: "Assembler",
+	icon: "immersiveengineering:metal_multiblock 1 4",
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"Advanced autocrafter with internal storage, fluid capability, multiple operations and recursive use of outputs,"
+	],
+	dependencies: [
+		"c2d87748",
+		"52aaa35b"
+	],
+	tasks: [{
+		uid: "686c8fdb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "46f0b0f6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "81c44914",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_multiblock 1 4",
+		auto: "no_toast",
+		stage: "ap:assembler"
+	}]
+}

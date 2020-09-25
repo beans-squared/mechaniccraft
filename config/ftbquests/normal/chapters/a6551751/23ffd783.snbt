@@ -1,0 +1,24 @@
+{
+	title: "Fabricator",
+	icon: "magneticraft:fabricator",
+	x: 4.0d,
+	y: -4.0d,
+	text: [
+		"Basic autocrafting device. No I/O, but can draw resources from adjacent inventories to complete a recipe."
+	],
+	tasks: [{
+		uid: "01279783",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "36625a43",
+		type: "gamestage",
+		icon: "magneticraft:fabricator",
+		auto: "no_toast",
+		stage: "ap:fabricator"
+	}]
+}

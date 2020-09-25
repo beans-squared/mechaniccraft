@@ -1,0 +1,35 @@
+{
+	title: "Gas Turbine",
+	icon: "immersivetech:metal_multiblock1",
+	x: 0.5d,
+	y: -7.5d,
+	text: [
+		"Consumes the same fuels as the diesel generator, outputs a similar amount of energy, but produces COGAS as a byproduct, allowing for massive returns on spent diesel."
+	],
+	dependencies: [
+		"bfcdaeda"
+	],
+	tasks: [{
+		uid: "217ccc1b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "f841391a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 300L
+	}],
+	rewards: [{
+		uid: "10aea305",
+		type: "gamestage",
+		icon: "immersivetech:metal_multiblock1",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:gasturbine"
+	}]
+}
