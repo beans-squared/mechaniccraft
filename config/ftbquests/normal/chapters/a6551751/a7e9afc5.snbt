@@ -3,6 +3,7 @@
 	icon: "techreborn:wire_mill",
 	x: -1.5d,
 	y: -1.0d,
+	description: "Produces wire and cable.",
 	text: [
 		"Automatically crafts cable at a cheaper rate than hand crafting."
 	],

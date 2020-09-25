@@ -3,6 +3,7 @@
 	icon: "techreborn:plate_bending_machine",
 	x: -0.5d,
 	y: 0.5d,
+	description: "Produces plates.",
 	text: [
 		"Crafts plates from ingots using magic."
 	],

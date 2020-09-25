@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 13",
 	x: -1.0d,
 	y: 0.5d,
+	description: "Smelts items, alloys materials and recycles metals.",
 	text: [
 		"Big boy furnace with the capability to produce two ingots from each ore automatically, alloy dusts together, and reclaim a percentage of the metal content from uneeded machinery."
 	],

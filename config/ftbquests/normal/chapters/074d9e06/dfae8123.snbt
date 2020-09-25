@@ -3,6 +3,7 @@
 	icon: "magneticraft:crushing_table",
 	x: 3.0d,
 	y: -4.0d,
+	description: "Allows manual ore crushing and plate pressing.",
 	text: [
 		"Simple workbench used for breaking ores into rocky chunks, and for mashing metal into plates."
 	],

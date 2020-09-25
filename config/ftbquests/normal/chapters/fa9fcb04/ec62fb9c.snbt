@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:laser_drill",
 	x: -0.5d,
 	y: -2.0d,
+	description: "Produces ores.",
 	text: [
 		"Automatically mines random ores from the world based on biome and lens used."
 	],

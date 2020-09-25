@@ -18,6 +18,7 @@
 	},
 	x: -0.5d,
 	y: -3.5d,
+	description: "Allows enhanced manual mining.",
 	text: [
 		"Powered tool that mines an area in front of the user. Area, speed and power is dictated by the drill head in use."
 	],

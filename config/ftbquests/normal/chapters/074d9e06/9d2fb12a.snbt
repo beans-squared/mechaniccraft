@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:ore_processor",
 	x: 2.0d,
 	y: 0.5d,
+	description: "Automates gemstone extraction.",
 	text: [
 		"Breaks down gemstone ores (like diamond or lapis). Can use essence to apply a fortune effect to the process."
 	],

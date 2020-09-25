@@ -3,6 +3,7 @@
 	icon: "engineersdecor:small_electrical_furnace",
 	x: -1.0d,
 	y: -2.5d,
+	description: "Smelts items.",
 	text: [
 		"Electric furnace with special integration with conveyor belts and ajustable power consumption."
 	],

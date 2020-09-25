@@ -3,6 +3,7 @@
 	icon: "techreborn:rolling_machine",
 	x: 0.5d,
 	y: -1.0d,
+	description: "Produces metal products.",
 	text: [
 		"Automatically crafts various metal stuff cheaper."
 	],

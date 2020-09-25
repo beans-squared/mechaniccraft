@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 4",
 	x: 4.0d,
 	y: 0.0d,
+	description: "Automates crafting.",
 	text: [
 		"Advanced autocrafter with internal storage, fluid capability, multiple operations and recursive use of outputs,"
 	],

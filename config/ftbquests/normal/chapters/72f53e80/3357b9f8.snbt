@@ -3,6 +3,7 @@
 	icon: "techreborn:ingot 1 4",
 	x: 0.0d,
 	y: -1.0d,
+	description: "Smelts items.",
 	text: [
 		"Industrial-level feedthrough furnace with special integration with elevated conveyor belts."
 	],

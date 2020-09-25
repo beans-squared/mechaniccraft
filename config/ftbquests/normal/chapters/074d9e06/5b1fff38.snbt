@@ -3,6 +3,7 @@
 	icon: "magneticraft:chunks 1 2",
 	x: 4.0d,
 	y: -1.0d,
+	description: "Automates ore product filtering.",
 	text: [
 		"Automatic, powered version of the sluice box. "
 	],

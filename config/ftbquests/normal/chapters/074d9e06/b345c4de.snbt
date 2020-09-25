@@ -3,6 +3,7 @@
 	icon: "magneticraft:sluice_box",
 	x: 3.0d,
 	y: -2.5d,
+	description: "Allows manual ore product filtering.",
 	text: [
 		"Filters out all the unwanted bits from rocky chunks (the rocks) and keeps all the good stuff (ore chunks and some other stuff)."
 	],

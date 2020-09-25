@@ -3,6 +3,7 @@
 	icon: "techreborn:alloy_smelter",
 	x: -2.0d,
 	y: 3.5d,
+	description: "Alloys materials.",
 	text: [
 		"Special kind of furnace that makes two metals and melts them down into an alloy."
 	],

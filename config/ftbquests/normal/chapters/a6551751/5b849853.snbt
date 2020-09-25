@@ -3,6 +3,7 @@
 	icon: "techreborn:assembling_machine",
 	x: -0.5d,
 	y: 2.0d,
+	description: "Produces electronic components.",
 	text: [
 		"Crafts various electronic components."
 	],

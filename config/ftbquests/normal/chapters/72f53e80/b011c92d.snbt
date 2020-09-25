@@ -3,6 +3,7 @@
 	icon: "magneticraft:brick_furnace",
 	x: 1.0d,
 	y: -4.0d,
+	description: "Smelts items.",
 	text: [
 		"Faster but less fuel efficient than a stone furnace. Uses heat energy."
 	],

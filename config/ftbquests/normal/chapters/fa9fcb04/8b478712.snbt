@@ -9,6 +9,7 @@
 	},
 	x: -0.5d,
 	y: 1.0d,
+	description: "Produces any mineable block.",
 	text: [
 		"Highly advanced autominer that can mine any block based on filters."
 	],

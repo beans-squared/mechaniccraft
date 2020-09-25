@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:resourceful_furnace",
 	x: -2.0d,
 	y: -1.0d,
+	description: "Smelts items.",
 	text: [
 		"Special furnace that can smelt 3 items at a time and produces essence as a byproduct."
 	],

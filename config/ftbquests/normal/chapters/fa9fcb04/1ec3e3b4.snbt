@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 12",
 	x: -0.5d,
 	y: -0.5d,
+	description: "Produces ores.",
 	text: [
 		"Massive autominer that harvests ores from mineral nodes located throughout the world."
 	],

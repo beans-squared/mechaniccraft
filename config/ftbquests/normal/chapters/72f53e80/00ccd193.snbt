@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:stone_device 1 1",
 	x: -3.0d,
 	y: -2.5d,
+	description: "Produces steel.",
 	text: [
 		"Structure that allows the creation of steel from iron using coal coke as a fuel source."
 	],

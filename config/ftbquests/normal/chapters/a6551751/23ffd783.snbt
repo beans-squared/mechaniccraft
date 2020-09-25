@@ -3,6 +3,7 @@
 	icon: "magneticraft:fabricator",
 	x: 4.0d,
 	y: -4.0d,
+	description: "Simplifies bulk crafting.",
 	text: [
 		"Basic autocrafting device. No I/O, but can draw resources from adjacent inventories to complete a recipe."
 	],

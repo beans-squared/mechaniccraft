@@ -3,6 +3,7 @@
 	icon: "mekanism:machineblock 1 10",
 	x: -1.0d,
 	y: 2.0d,
+	description: "Smelts items.",
 	text: [
 		"Nothing more than a fancy electric furnace, but can be upgraded to a factory version, allowing multiple smelting operations at once."
 	],

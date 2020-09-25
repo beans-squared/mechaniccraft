@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock",
 	x: -0.5d,
 	y: -4.0d,
+	description: "Produces metal products.",
 	text: [
 		"Presses metal ingots into various metal other things, using a big mashy arm thing."
 	],

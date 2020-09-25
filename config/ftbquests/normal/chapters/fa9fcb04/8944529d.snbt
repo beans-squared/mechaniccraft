@@ -14,6 +14,7 @@
 	},
 	x: -0.5d,
 	y: 2.5d,
+	description: "Allows extreme manual mining.",
 	text: [
 		"Highly advanced personal drilling tool. Expect a few mountains to go missing once this gets unlocked..."
 	],

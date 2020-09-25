@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:fluid_crafter",
 	x: 3.0d,
 	y: -2.0d,
+	description: "Automates crafting.",
 	text: [
 		"Autocrafter with special support for fluids in recipes.",
 		"",

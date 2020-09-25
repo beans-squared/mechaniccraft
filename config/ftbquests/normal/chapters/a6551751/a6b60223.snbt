@@ -3,6 +3,7 @@
 	icon: "chisel:auto_chisel",
 	x: 6.0d,
 	y: -4.0d,
+	description: "Automates chiseling.",
 	text: [
 		"Automatically chisels a designated block."
 	],

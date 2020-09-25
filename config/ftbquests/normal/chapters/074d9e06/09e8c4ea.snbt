@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 1",
 	x: 4.0d,
 	y: 0.5d,
+	description: "Automates ore crushing and product filtering.",
 	text: [
 		"Grinds more finely than the grinder, turning ores into dusts."
 	],

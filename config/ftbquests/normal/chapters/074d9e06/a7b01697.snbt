@@ -3,6 +3,7 @@
 	icon: "magneticraft:rocky_chunks 1 2",
 	x: 2.0d,
 	y: -1.0d,
+	description: "Automates ore crushing.",
 	text: [
 		"Automatic, powered version of the crushing table. Special integration with elevated conveyor belts."
 	],

@@ -3,6 +3,7 @@
 	icon: "magneticraft:heavy_plates 1 6",
 	x: -0.5d,
 	y: -2.5d,
+	description: "Produces metal products.",
 	text: [
 		"Slightly slower than the metal press, but able to produce heavy plates."
 	],

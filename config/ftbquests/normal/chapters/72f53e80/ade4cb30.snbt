@@ -3,6 +3,7 @@
 	icon: "engineersdecor:small_lab_furnace",
 	x: -1.0d,
 	y: -4.0d,
+	description: "Smelts items.",
 	text: [
 		"Improved version of the stone furnace with internal hopper slots and spaces for external heaters, to boost smelting speed."
 	],

@@ -3,6 +3,7 @@
 	icon: "techreborn:auto_crafting_table",
 	x: 5.0d,
 	y: -2.0d,
+	description: "Automates crafting.",
 	text: [
 		"Plain and simple autocrafter. Does not support recipes which require fluids."
 	],

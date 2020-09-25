@@ -3,6 +3,7 @@
 	icon: "magneticraft:electric_furnace",
 	x: 1.0d,
 	y: -2.5d,
+	description: "Smelts items.",
 	text: [
 		"Smelts materials using electric power."
 	],
