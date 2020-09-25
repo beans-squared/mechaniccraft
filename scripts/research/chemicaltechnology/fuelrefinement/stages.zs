@@ -1,28 +1,40 @@
-/*
+#################################################
+#												#
+# Staging for Fuel Refinement					#
+#												#
+#################################################
 
-Staging for Fuel Refinement
+import scripts.mods.common.stageItem;
 
-*/
+// Bioreactor
+stageItem("fr:bioreactor", <industrialforegoing:bioreactor>);
 
-import mods.recipestages.Recipes.setRecipeStage as stage;
+// Protein reactor
+stageItem("fr:proteinreactor", <industrialforegoing:protein_reactor>);
 
-# Bioreactor
-stage("fuelrefinement:bioreactor", <industrialforegoing:bioreactor>);
+// Coke Oven
+stageItem("fr:cokeoven", <immersiveengineering:stone_decoration>);
 
-# Protein reactor
-stage("fuelrefinement:proteinreactor", <industrialforegoing:protein_reactor>);
+// Advanced Coke Oven
+stageItem("fr:advancedcokeoven", <immersivetech:stone_decoration>);
 
-# Coke Oven
-stage("fuelrefinement:cokeoven", <immersiveengineering:stone_decoration>);
+// Squeezer
+stageItem("fr:squeezer", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Squeezer"}));
 
-# Advanced Coke Oven
-stage("fuelrefinement:advancedcokeoven", <immersivetech:stone_decoration>);
+// Fermenter
+stageItem("fr:fermenter", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Fermenter"}));
 
-# Squeezer
-stage("fuelrefinement:squeezer", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Squeezer"}));
+// Refinery
+stageItem("fr:refinery", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Refinery"}));
 
-# Fermenter
-stage("fuelrefinement:fermenter", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Fermenter"}));
+// Pumpjack
+stageItem("fr:pumpjack", <immersivepetroleum:schematic>.withTag({multiblock: "IP:Pumpjack"}));
 
-# Refinery
-stage("fuelrefinement:refinery", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Refinery"}));
+// Distillation Tower
+stageItem("fr:distillationtower", <immersivepetroleum:schematic>.withTag({multiblock: "IP:DistillationTower"}));
+
+// Automatic Lubricator
+stageItem("fr:automaticlubricator", <immersivepetroleum:metal_device>);
+
+// Lubricant Can
+stageItem("fr:lubricantcan", <immersivepetroleum:oil_can>);

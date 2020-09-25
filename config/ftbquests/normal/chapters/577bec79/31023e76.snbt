@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:bioreactor",
 	x: -6.0d,
 	y: -4.5d,
+	description: "Produces biofuel.",
 	text: [
 		"Comsumes organic material to produce biofuel."
 	],
@@ -30,6 +31,6 @@
 		type: "gamestage",
 		icon: "industrialforegoing:bioreactor",
 		auto: "no_toast",
-		stage: "fuelrefinement:bioreactor"
+		stage: "fr:bioreactor"
 	}]
 }

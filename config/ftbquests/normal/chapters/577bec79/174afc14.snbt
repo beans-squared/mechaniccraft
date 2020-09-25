@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 9",
 	x: -0.5d,
 	y: -3.0d,
+	description: "Produces biodiesel.",
 	text: [
 		"Refines plant oil and ethanol into biodiesel."
 	],
@@ -21,7 +22,8 @@
 	rewards: [{
 		uid: "18fd4980",
 		type: "gamestage",
+		icon: "immersiveengineering:metal_multiblock 1 9",
 		auto: "no_toast",
-		stage: "fuelrefinement:refinery"
+		stage: "fr:refinery"
 	}]
 }

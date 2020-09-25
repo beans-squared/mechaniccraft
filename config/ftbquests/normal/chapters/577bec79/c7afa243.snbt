@@ -8,6 +8,7 @@
 	},
 	x: -5.0d,
 	y: 0.5d,
+	description: "Produces diesel, gasoline and lubricant.",
 	text: [
 		"Seperates crude oil into several useful byproducts."
 	],
@@ -21,5 +22,17 @@
 			item: "contenttweaker:red_science_pack"
 		}],
 		count: 150L
+	}],
+	rewards: [{
+		uid: "5b859c90",
+		type: "gamestage",
+		icon: {
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:DistillationTower"
+			}
+		},
+		auto: "no_toast",
+		stage: "fr:distillationtower"
 	}]
 }

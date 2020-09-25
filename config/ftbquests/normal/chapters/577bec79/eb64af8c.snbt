@@ -8,6 +8,7 @@
 	},
 	x: -5.0d,
 	y: -1.0d,
+	description: "Produces crude oil.",
 	text: [
 		"Extracts fluids from reservoirs deep in the overworld's crust."
 	],
@@ -18,5 +19,17 @@
 			item: "contenttweaker:red_science_pack"
 		}],
 		count: 100L
+	}],
+	rewards: [{
+		uid: "65fd0df7",
+		type: "gamestage",
+		icon: {
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:Pumpjack"
+			}
+		},
+		auto: "no_toast",
+		stage: "fr:pumpjack"
 	}]
 }

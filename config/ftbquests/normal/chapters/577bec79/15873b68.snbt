@@ -1,0 +1,36 @@
+{
+	title: "Automatic Lubricator",
+	icon: "immersivepetroleum:metal_device",
+	x: -6.0d,
+	y: 2.0d,
+	description: "Automates machine lubrication.",
+	text: [
+		"Applies lubricant consistantly to a machine."
+	],
+	dependencies: [
+		"c7afa243"
+	],
+	tasks: [{
+		uid: "20d00f69",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "24ab56a8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "33464f07",
+		type: "gamestage",
+		icon: "immersivepetroleum:metal_device",
+		auto: "no_toast",
+		stage: "fr:automaticlubricator"
+	}]
+}

@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:protein_reactor",
 	x: -6.0d,
 	y: -3.0d,
+	description: "Produces liquid protein.",
 	text: [
 		"Comsumes animal products to produce protein."
 	],
@@ -30,6 +31,6 @@
 		type: "gamestage",
 		icon: "industrialforegoing:protein_reactor",
 		auto: "no_toast",
-		stage: "fuelrefinement:proteinreactor"
+		stage: "fr:proteinreactor"
 	}]
 }

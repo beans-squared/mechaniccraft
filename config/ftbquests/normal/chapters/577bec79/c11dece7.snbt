@@ -3,6 +3,7 @@
 	icon: "immersivetech:stone_multiblock",
 	x: -3.5d,
 	y: -3.0d,
+	description: "Produces coal coke and creosote oil.",
 	text: [
 		"Better version of the basic coke oven that is automateble can be sped up using preheaters."
 	],
@@ -19,21 +20,10 @@
 		count: 20L
 	}],
 	rewards: [{
-		uid: "17ec731d",
-		type: "custom",
-		title: "Advanced Coke Oven (multiblock structure)",
-		icon: "immersivetech:stone_decoration"
-	},
-	{
-		uid: "0eb198e7",
-		type: "custom",
-		title: "Coke Oven Preheater (machine attachment)",
-		icon: "immersivetech:metal_device"
-	},
-	{
 		uid: "5721d77b",
 		type: "gamestage",
+		icon: "immersivetech:stone_multiblock",
 		auto: "no_toast",
-		stage: "fuelrefinement:advancedcokeoven"
+		stage: "fr:advancedcokeoven"
 	}]
 }

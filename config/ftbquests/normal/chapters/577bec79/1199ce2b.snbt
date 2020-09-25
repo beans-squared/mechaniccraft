@@ -1,0 +1,36 @@
+{
+	title: "Lubricant Can",
+	icon: "immersivepetroleum:oil_can",
+	x: -4.0d,
+	y: 2.0d,
+	description: "Allows manual machine lubrication.",
+	text: [
+		"Used to apply lubricant to machines."
+	],
+	dependencies: [
+		"c7afa243"
+	],
+	tasks: [{
+		uid: "9cfe2a9f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	},
+	{
+		uid: "2433a4bc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "22329da0",
+		type: "gamestage",
+		icon: "immersivepetroleum:oil_can",
+		auto: "no_toast",
+		stage: "fr:lubricantcan"
+	}]
+}

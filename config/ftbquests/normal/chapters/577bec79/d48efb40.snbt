@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 8",
 	x: 0.5d,
 	y: -4.5d,
+	description: "Produces ethanol.",
 	text: [
 		"Ferments select plant products into ethanol."
 	],
@@ -17,7 +18,8 @@
 	rewards: [{
 		uid: "d2b1e962",
 		type: "gamestage",
+		icon: "immersiveengineering:metal_multiblock 1 8",
 		auto: "no_toast",
-		stage: "fuelrefinement:fermenter"
+		stage: "fr:fermenter"
 	}]
 }

@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:stone_device",
 	x: -3.5d,
 	y: -4.5d,
+	description: "Produces coal coke and creosote oil.",
 	text: [
 		"Stucture that allows the creation of coal coke."
 	],
@@ -18,33 +19,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "dab2f478",
-		type: "custom",
-		title: "Coke Oven (multiblock structure)",
-		icon: "immersiveengineering:stone_decoration"
-	},
-	{
-		uid: "f61082e2",
-		type: "custom",
-		title: "Coal Coke (fuel source)",
-		icon: "immersiveengineering:material 1 6"
-	},
-	{
-		uid: "e436f17f",
-		type: "custom",
-		title: "Creosote Oil (material)",
-		icon: {
-			id: "forge:bucketfilled",
-			tag: {
-				FluidName: "creosote",
-				Amount: 1000
-			}
-		}
-	},
-	{
 		uid: "e84be877",
 		type: "gamestage",
+		icon: "immersiveengineering:stone_device",
 		auto: "no_toast",
-		stage: "fuelrefinement:cokeoven"
+		stage: "fr:cokeoven"
 	}]
 }

@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 7",
 	x: -1.5d,
 	y: -4.5d,
+	description: "Produces plant oil.",
 	text: [
 		"Mashes stuff. Most used to create plant oil from seeds."
 	],
@@ -17,7 +18,8 @@
 	rewards: [{
 		uid: "45b515d0",
 		type: "gamestage",
+		icon: "immersiveengineering:metal_multiblock 1 7",
 		auto: "no_toast",
-		stage: "fuelrefinement:squeezer"
+		stage: "fr:squeezer"
 	}]
 }
