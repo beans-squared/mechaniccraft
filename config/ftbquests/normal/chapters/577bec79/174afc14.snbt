@@ -1,12 +1,6 @@
 {
 	title: "Refinery",
-	icon: {
-		id: "forge:bucketfilled",
-		tag: {
-			FluidName: "biodiesel",
-			Amount: 1000
-		}
-	},
+	icon: "immersiveengineering:metal_multiblock 1 9",
 	x: -0.5d,
 	y: -3.0d,
 	text: [

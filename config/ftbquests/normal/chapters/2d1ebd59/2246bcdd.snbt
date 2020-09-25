@@ -1,6 +1,6 @@
 {
 	title: "Small Steam Turbine",
-	icon: "mekanismgenerators:turbineblade",
+	icon: "magneticraft:steam_turbine",
 	x: 0.0d,
 	y: -0.5d,
 	text: [

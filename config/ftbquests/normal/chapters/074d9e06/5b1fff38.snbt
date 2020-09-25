@@ -1,6 +1,6 @@
 {
 	title: "Sieve",
-	icon: "magneticraft:crafting 1 5",
+	icon: "magneticraft:chunks 1 2",
 	x: 4.0d,
 	y: -1.0d,
 	text: [

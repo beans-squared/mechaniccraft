@@ -1,6 +1,6 @@
 {
 	title: "Small Steam Engine",
-	icon: "magneticraft:steam_boiler",
+	icon: "magneticraft:steam_engine",
 	x: 0.0d,
 	y: -2.0d,
 	text: [

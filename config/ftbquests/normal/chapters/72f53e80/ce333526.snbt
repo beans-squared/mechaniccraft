@@ -1,6 +1,6 @@
 {
 	title: "Improved Blast Furnace",
-	icon: "immersiveengineering:stone_decoration 1 2",
+	icon: "immersiveengineering:stone_device 1 2",
 	x: -4.0d,
 	y: -1.0d,
 	text: [

@@ -1,12 +1,6 @@
 {
 	title: "Diesel Generator",
-	icon: {
-		id: "forge:bucketfilled",
-		tag: {
-			FluidName: "diesel",
-			Amount: 1000
-		}
-	},
+	icon: "immersiveengineering:metal_multiblock 1 10",
 	x: 0.5d,
 	y: -9.5d,
 	text: [

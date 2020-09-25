@@ -1,6 +1,6 @@
 {
 	title: "Steam Turbine",
-	icon: "mekanismgenerators:turbineblade",
+	icon: "immersivetech:metal_multiblock 1 3",
 	x: 0.0d,
 	y: 1.0d,
 	text: [
@@ -36,7 +36,7 @@
 	rewards: [{
 		uid: "f6714cb1",
 		type: "gamestage",
-		icon: "immersiveengineering:metal_device1 1 6",
+		icon: "immersivetech:metal_multiblock 1 3",
 		auto: "no_toast",
 		stage: "steamgenerators:steamturbine"
 	}]

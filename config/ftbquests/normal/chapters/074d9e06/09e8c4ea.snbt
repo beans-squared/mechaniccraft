@@ -1,6 +1,6 @@
 {
 	title: "Crusher",
-	icon: "minecraft:piston",
+	icon: "immersiveengineering:metal_multiblock 1 1",
 	x: 4.0d,
 	y: 0.5d,
 	text: [

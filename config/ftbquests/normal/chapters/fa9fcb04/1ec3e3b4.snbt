@@ -1,6 +1,6 @@
 {
 	title: "Excavator",
-	icon: "minecraft:diamond_shovel",
+	icon: "immersiveengineering:metal_multiblock 1 12",
 	x: -0.5d,
 	y: -0.5d,
 	text: [

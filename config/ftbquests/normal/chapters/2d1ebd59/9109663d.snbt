@@ -4,7 +4,7 @@
 	x: 0.0d,
 	y: -3.5d,
 	text: [
-		"Boils water into steam when supplied withj heat."
+		"Boils water into steam when supplied with heat."
 	],
 	tasks: [{
 		uid: "519de1a6",

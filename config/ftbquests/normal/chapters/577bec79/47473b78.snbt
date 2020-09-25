@@ -1,6 +1,6 @@
 {
 	title: "Coke Oven",
-	icon: "immersiveengineering:stone_decoration",
+	icon: "immersiveengineering:stone_device",
 	x: -3.5d,
 	y: -4.5d,
 	text: [

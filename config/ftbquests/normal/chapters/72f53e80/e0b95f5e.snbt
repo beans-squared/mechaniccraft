@@ -1,6 +1,6 @@
 {
 	title: "Arc Furnace",
-	icon: "mekanism:otherdust 1 1",
+	icon: "immersiveengineering:metal_multiblock 1 13",
 	x: -1.0d,
 	y: 0.5d,
 	text: [

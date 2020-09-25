@@ -1,12 +1,6 @@
 {
 	title: "Fermenter",
-	icon: {
-		id: "forge:bucketfilled",
-		tag: {
-			FluidName: "ethanol",
-			Amount: 1000
-		}
-	},
+	icon: "immersiveengineering:metal_multiblock 1 8",
 	x: 0.5d,
 	y: -4.5d,
 	text: [

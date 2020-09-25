@@ -1,6 +1,6 @@
 {
 	title: "Shipping Container",
-	icon: "ftbquests:chest",
+	icon: "magneticraft:container",
 	x: 2.5d,
 	y: -1.5d,
 	text: [

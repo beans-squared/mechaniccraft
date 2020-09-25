@@ -1,6 +1,6 @@
 {
 	title: "Steel Tank",
-	icon: "immersivetech:metal_barrel 1 2",
+	icon: "immersivetech:metal_multiblock 1 12",
 	x: -2.5d,
 	y: 1.0d,
 	text: [

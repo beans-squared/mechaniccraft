@@ -1,6 +1,6 @@
 {
 	title: "Tank",
-	icon: "immersiveengineering:metal_device0 1 4",
+	icon: "immersiveengineering:metal_multiblock 1 2",
 	x: -2.5d,
 	y: -0.5d,
 	text: [

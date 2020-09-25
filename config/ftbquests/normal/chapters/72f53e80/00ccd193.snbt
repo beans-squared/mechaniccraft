@@ -1,6 +1,6 @@
 {
 	title: "Crude Blast Furnace",
-	icon: "immersiveengineering:stone_decoration 1 1",
+	icon: "immersiveengineering:stone_device 1 1",
 	x: -3.0d,
 	y: -2.5d,
 	text: [

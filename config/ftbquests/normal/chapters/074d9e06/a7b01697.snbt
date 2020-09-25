@@ -1,6 +1,6 @@
 {
 	title: "Grinder",
-	icon: "teslacorelib:gear_iron",
+	icon: "magneticraft:rocky_chunks 1 2",
 	x: 2.0d,
 	y: -1.0d,
 	text: [

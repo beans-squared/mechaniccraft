@@ -1,6 +1,6 @@
 {
 	title: "Shelving Unit",
-	icon: "minecraft:chest",
+	icon: "magneticraft:shelving_unit",
 	x: -1.5d,
 	y: -1.5d,
 	text: [

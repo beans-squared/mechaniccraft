@@ -1,6 +1,6 @@
 {
 	title: "Advanced Coke Oven",
-	icon: "immersivetech:stone_decoration",
+	icon: "immersivetech:stone_multiblock",
 	x: -3.5d,
 	y: -3.0d,
 	text: [
