@@ -3,10 +3,11 @@
 	icon: "magneticraft:electric_engine",
 	x: -3.0d,
 	y: -1.0d,
+	description: "Converts Watts to FE.",
 	text: [
-		"Converts Watts to RF. Due to an incompatability between certain tech mods, machines that generate Watts are not compatable with RF/FE systems (which is what everything else uses). This can be used a bridge between the two systems.",
+		"Converts Watts to FE. Due to an incompatability between certain tech mods, machines that generate Watts are not compatable with FE systems (which is what everything else uses). This can be used a bridge between the two systems.",
 		"",
-		"Machines that accept Watts will still accept raw RF power."
+		"Machines that accept Watts will still accept FE."
 	],
 	dependencies: [
 		"a6597920"
@@ -23,6 +24,6 @@
 		type: "gamestage",
 		icon: "magneticraft:electric_engine",
 		auto: "no_toast",
-		stage: "energytransport:electricengine"
+		stage: "et:electricengine"
 	}]
 }

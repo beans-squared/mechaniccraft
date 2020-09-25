@@ -38,6 +38,6 @@
 		type: "gamestage",
 		icon: "immersivetech:metal_multiblock 1 3",
 		auto: "no_toast",
-		stage: "steamgenerators:steamturbine"
+		stage: "sg:steamturbine"
 	}]
 }

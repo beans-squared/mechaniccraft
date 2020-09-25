@@ -27,6 +27,6 @@
 		type: "gamestage",
 		icon: "magneticraft:big_combustion_chamber",
 		auto: "no_toast",
-		stage: "steamgenerators:biggercombustionchamber"
+		stage: "sg:biggercombustionchamber"
 	}]
 }

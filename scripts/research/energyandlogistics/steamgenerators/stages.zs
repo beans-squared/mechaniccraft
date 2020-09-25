@@ -1,32 +1,32 @@
-/*
+#################################################
+#												#
+# Staging for Steam Generators (sg)				#
+#												#
+#################################################
 
-Staging for Steam Generators
+import scripts.mods.common.stageItem;
 
-*/
+// Boiler
+stageItem("sg:boiler", <magneticraft:steam_boiler>);
 
-import mods.recipestages.Recipes.setRecipeStage as stage;
+// Bigger Combustion Chamber
+stageItem("sg:biggercombustionchamber", <magneticraft:big_combustion_chamber>);
 
-# Boiler
-stage("steamgenerators:boiler", <magneticraft:steam_boiler>);
+// Small Steam Engine
+stageItem("sg:smallsteamengine", <magneticraft:steam_engine>);
 
-# Bigger Combustion Chamber
-stage("steamgenerators:biggercombustionchamber", <magneticraft:big_combustion_chamber>);
+// Bigger Steam Boiler
+stageItem("sg:biggersteamboiler", <magneticraft:big_steam_boiler>);
 
-# Small Steam Engine
-stage("steamgenerators:smallsteamengine", <magneticraft:steam_engine>);
+// Small Steam Turbine
+stageItem("sg:smallsteamturbine", <magneticraft:steam_turbine>);
 
-# Bigger Steam Boiler
-stage("steamgenerators:biggersteamboiler", <magneticraft:big_steam_boiler>);
+// Steam Turbine
+stageItem("sg:steamturbine", <immersivepetroleum:schematic>.withTag({multiblock: "IT:SteamTurbine"}));
 
-# Small Steam Turbine
-stage("steamgenerators:smallsteamturbine", <magneticraft:steam_turbine>);
-
-# Steam Turbine
-stage("steamgenerators:steamturbine", <immersivepetroleum:schematic>.withTag({multiblock: "IT:SteamTurbine"}));
-
-# Dynamic Steam Turbine
-stage("steamgenerators:dynamicsteamturbine", <mekanismgenerators:turbineblade>);
-stage("steamgenerators:dynamicsteamturbine", <mekanismgenerators:generator:7>);
-stage("steamgenerators:dynamicsteamturbine", <mekanismgenerators:generator:10>);
-stage("steamgenerators:dynamicsteamturbine", <mekanismgenerators:generator:11>);
-stage("steamgenerators:dynamicsteamturbine", <mekanismgenerators:generator:12>);
+// Dynamic Steam Turbine
+stageItem("sg:dynamicsteamturbine", <mekanismgenerators:turbineblade>);
+stageItem("sg:dynamicsteamturbine", <mekanismgenerators:generator:7>);
+stageItem("sg:dynamicsteamturbine", <mekanismgenerators:generator:10>);
+stageItem("sg:dynamicsteamturbine", <mekanismgenerators:generator:11>);
+stageItem("sg:dynamicsteamturbine", <mekanismgenerators:generator:12>);

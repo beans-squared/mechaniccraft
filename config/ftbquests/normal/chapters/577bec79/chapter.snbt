@@ -1,6 +1,6 @@
 {
 	title: "Fuel Refinement",
-	icon: "mekanism:biofuel",
+	icon: "immersiveengineering:metal_multiblock 1 9",
 	always_invisible: false,
 	group: -2122843796,
 	default_quest_shape: ""

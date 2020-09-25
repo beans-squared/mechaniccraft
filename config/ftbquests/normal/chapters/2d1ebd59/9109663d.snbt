@@ -19,6 +19,6 @@
 		type: "gamestage",
 		icon: "magneticraft:steam_boiler",
 		auto: "no_toast",
-		stage: "steamgenerators:boiler"
+		stage: "sg:boiler"
 	}]
 }

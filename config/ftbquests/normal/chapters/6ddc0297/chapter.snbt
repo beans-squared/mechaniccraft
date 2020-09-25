@@ -1,6 +1,6 @@
 {
 	title: "Ore Refinement",
-	icon: "mekanism:dirtydust",
+	icon: "mekanism:clump 1 2",
 	always_invisible: false,
 	group: -2122843796,
 	default_quest_shape: ""

@@ -3,6 +3,7 @@
 	icon: "techreborn:cable 1 8",
 	x: -2.0d,
 	y: 6.5d,
+	description: "Transfers FE.",
 	text: [
 		"ITS OVER 9000"
 	],
@@ -42,6 +43,6 @@
 		type: "gamestage",
 		icon: "techreborn:cable 1 8",
 		auto: "no_toast",
-		stage: "energytransport:superconductorcable"
+		stage: "et:superconductorcable"
 	}]
 }

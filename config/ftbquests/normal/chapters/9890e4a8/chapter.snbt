@@ -1,6 +1,6 @@
 {
 	title: "Electronic Components",
-	icon: "mekanism:controlcircuit 1 2",
+	icon: "techreborn:part 1 43",
 	always_invisible: false,
 	group: 1601645967,
 	default_quest_shape: ""

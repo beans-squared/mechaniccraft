@@ -23,6 +23,6 @@
 		type: "gamestage",
 		icon: "magneticraft:steam_engine",
 		auto: "no_toast",
-		stage: "steamgenerators:smallsteamengine"
+		stage: "sg:smallsteamengine"
 	}]
 }

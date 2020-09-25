@@ -39,57 +39,9 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "21505ce9",
-		type: "custom",
-		title: "Turbine Blade",
-		icon: "mekanismgenerators:turbineblade"
-	},
-	{
-		uid: "63cdc19b",
-		type: "custom",
-		title: "Turbine Casing",
-		icon: "mekanismgenerators:generator 1 10"
-	},
-	{
-		uid: "19df61c3",
-		type: "custom",
-		title: "Turbine Rotor",
-		icon: "mekanismgenerators:generator 1 7"
-	},
-	{
-		uid: "68784bd6",
-		type: "custom",
-		title: "Turbine Valve",
-		icon: "mekanismgenerators:generator 1 11"
-	},
-	{
-		uid: "5a0e623c",
-		type: "custom",
-		title: "Electromagnetic Coil",
-		icon: "mekanismgenerators:generator 1 9"
-	},
-	{
-		uid: "3418bd7d",
-		type: "custom",
-		title: "Rotational Complex",
-		icon: "mekanismgenerators:generator 1 8"
-	},
-	{
-		uid: "945ec89e",
-		type: "custom",
-		title: "Pressure Disperser",
-		icon: "mekanism:basicblock2 1 6"
-	},
-	{
-		uid: "c5558020",
-		type: "custom",
-		title: "Structural Glass",
-		icon: "mekanism:basicblock 1 10"
-	},
-	{
 		uid: "8a168e90",
 		type: "gamestage",
 		auto: "no_toast",
-		stage: "steamgenerators:dynamicsteamturbine"
+		stage: "sg:dynamicsteamturbine"
 	}]
 }

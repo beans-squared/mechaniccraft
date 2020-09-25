@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:energy_field_provider",
 	x: -4.0d,
 	y: 3.5d,
+	description: "Transfers FE wirelessly.",
 	text: [
 		"\"Broadcasts\" power to any machines with installed addons."
 	],
@@ -30,6 +31,6 @@
 		type: "gamestage",
 		icon: "industrialforegoing:energy_field_provider",
 		auto: "no_toast",
-		stage: "energytransport:energyfieldprovider"
+		stage: "et:energyfieldprovider"
 	}]
 }

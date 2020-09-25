@@ -3,6 +3,7 @@
 	icon: "alternatingflux:wirecoil",
 	x: -2.0d,
 	y: 3.5d,
+	description: "Transfers FE.",
 	text: [
 		"Special kind of current with very little power loss over distance."
 	],
@@ -26,21 +27,10 @@
 		count: 50L
 	}],
 	rewards: [{
-		uid: "f321c12b",
-		type: "custom",
-		title: "AF Wire Coil (electrical cable)",
-		icon: "alternatingflux:wirecoil"
-	},
-	{
-		uid: "7a01e8e2",
-		type: "custom",
-		title: "AF Wire Relay",
-		icon: "alternatingflux:connector"
-	},
-	{
 		uid: "e695876b",
 		type: "gamestage",
+		icon: "alternatingflux:wirecoil",
 		auto: "no_toast",
-		stage: "energytransport:alternatingflux"
+		stage: "et:alternatingflux"
 	}]
 }

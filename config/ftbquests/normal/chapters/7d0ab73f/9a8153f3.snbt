@@ -8,6 +8,7 @@
 	},
 	x: -2.0d,
 	y: 5.0d,
+	description: "Transfers FE.",
 	text: [
 		"Safely transfers large amounts of electrical current, with the ability to be upgraded."
 	],
@@ -48,6 +49,6 @@
 			}
 		},
 		auto: "no_toast",
-		stage: "energytransport:basicuniversalcable"
+		stage: "et:basicuniversalcable"
 	}]
 }

@@ -30,6 +30,6 @@
 		type: "gamestage",
 		icon: "magneticraft:big_steam_boiler",
 		auto: "no_toast",
-		stage: "steamgenerators:biggersteamboiler"
+		stage: "sg:biggersteamboiler"
 	}]
 }

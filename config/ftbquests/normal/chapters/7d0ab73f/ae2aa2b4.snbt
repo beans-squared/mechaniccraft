@@ -3,6 +3,7 @@
 	icon: "mekanism:machineblock 1 14",
 	x: -4.0d,
 	y: 5.0d,
+	description: "Charges items in your inventory.",
 	text: [
 		"Charges items in the user's inventory when stood on."
 	],
@@ -38,6 +39,6 @@
 		type: "gamestage",
 		icon: "mekanism:machineblock 1 14",
 		auto: "no_toast",
-		stage: "energytransport:chargepad"
+		stage: "et:chargepad"
 	}]
 }

@@ -3,6 +3,7 @@
 	icon: "techreborn:charge_o_mat",
 	x: -4.0d,
 	y: 6.5d,
+	description: "Charges items.",
 	text: [
 		"Charges multiple items."
 	],
@@ -42,6 +43,6 @@
 		type: "gamestage",
 		icon: "techreborn:charge_o_mat",
 		auto: "no_toast",
-		stage: "energytransport:chargeomat"
+		stage: "et:chargeomat"
 	}]
 }

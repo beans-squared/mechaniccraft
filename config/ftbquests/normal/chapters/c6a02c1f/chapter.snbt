@@ -1,6 +1,6 @@
 {
-	title: "Industry: Mining & Metalworking",
-	icon: "immersiveengineering:pickaxe_steel",
+	title: "Industry: Mining & Production",
+	icon: "immersiveengineering:metal_multiblock 1 12",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

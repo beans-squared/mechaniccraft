@@ -1,72 +1,75 @@
-/*
+#################################################
+#												#
+# Staging for Energy Transport (et)				#
+#												#
+#################################################
 
-Staging for Energy Transport
+import scripts.mods.common.stageItem;
 
-*/
+// Electric Engine
+stageItem("et:electricengine", <magneticraft:electric_engine>);
 
-import mods.recipestages.Recipes.setRecipeStage as stage;
+// Low Voltage Wiring
+stageItem("et:lvwiring", <immersiveengineering:wirecoil>);
+stageItem("et:lvwiring", <immersiveengineering:wirecoil:6>);
+stageItem("et:lvwiring", <immersiveengineering:connector>);
+stageItem("et:lvwiring", <immersiveengineering:connector:1>);
+stageItem("et:lvwiring", <techreborn:cable>);
 
-# Electric Engine
-stage("energytransport:electricengine", <magneticraft:electric_engine>);
+// Decorative Cables
+stage("et:decorativecables", <immersiveengineering:wirecoil:3>);
+stage("et:decorativecables", <immersiveengineering:wirecoil:4>);
+stage("et:decorativecables", <immersiveengineering:connector:6>);
 
-# Low Voltage Wiring
-stage("energytransport:lowvoltagewiring", <immersiveengineering:wirecoil>);
-stage("energytransport:lowvoltagewiring", <immersiveengineering:wirecoil:6>);
-stage("energytransport:lowvoltagewiring", <immersiveengineering:connector>);
-stage("energytransport:lowvoltagewiring", <immersiveengineering:connector:1>);
-stage("energytransport:lowvoltagewiring", <techreborn:cable>);
+// Charging Station
+stageItem("et:chargingstation", <immersiveengineering:metal_device1:5>);
 
-# Decorative Cables
-stage("energytransport:decorativecables", <immersiveengineering:wirecoil:3>);
-stage("energytransport:decorativecables", <immersiveengineering:wirecoil:4>);
-stage("energytransport:decorativecables", <immersiveengineering:connector:6>);
+// Medium Voltage Wiring
+stageItem("et:mvwiring", <immersiveengineering:wirecoil:1>);
+stageItem("et:mvwiring", <immersiveengineering:wirecoil:7>);
+stageItem("et:mvwiring", <immersiveengineering:connector:2>);
+stageItem("et:mvwiring", <immersiveengineering:connector:3>);
+stageItem("et:mvwiring", <techreborn:cable:2>);
 
-# Charging Station
-stage("energytransport:chargingstation", <immersiveengineering:metal_device1:5>);
+// Low Voltage Capacitor
+stageItem("et:lvcapacitor", <immersiveengineering:metal_device0>);
 
-# Medium Voltage Wiring
-stage("energytransport:mediumvoltagewiring", <immersiveengineering:wirecoil:1>);
-stage("energytransport:mediumvoltagewiring", <immersiveengineering:wirecoil:7>);
-stage("energytransport:mediumvoltagewiring", <immersiveengineering:connector:2>);
-stage("energytransport:mediumvoltagewiring", <immersiveengineering:connector:3>);
-stage("energytransport:mediumvoltagewiring", <techreborn:cable:2>);
+// Redstone Wires
+stageItem("et:redstonewire", <immersiveengineering:wirecoil:5>);
+stageItem("et:redstonewire", <immersiveengineering:connector:12>);
+stageItem("et:redstonewire", <immersiveengineering:connector:13>);
+stageItem("et:redstonewire", <immersivetech:connectors>);
 
-# Low Voltage Capacitor
-stage("energytransport:lvcapacitor", <immersiveengineering:metal_device0>);
+// High Voltage Wiring
+stageItem("et:hvwiring", <immersiveengineering:wirecoil:2>);
+stageItem("et:hvwiring", <immersiveengineering:connector:4>);
+stageItem("et:hvwiring", <immersiveengineering:connector:5>);
+stageItem("et:hvwiring", <techreborn:cable:3>);
 
-# Redstone Wires
-stage("energytransport:redstonewire", <immersiveengineering:wirecoil:5>);
-stage("energytransport:redstonewire", <immersiveengineering:connector:12>);
-stage("energytransport:redstonewire", <immersiveengineering:connector:13>);
-stage("energytransport:redstonewire", <immersivetech:connectors>);
+// Medium Voltage Capacitor
+stageItem("et:mvcapacitor", <immersiveengineering:metal_device0:1>);
 
-# High Voltage Wiring
-stage("energytransport:highvoltagewiring", <immersiveengineering:wirecoil:2>);
-stage("energytransport:highvoltagewiring", <immersiveengineering:connector:4>);
-stage("energytransport:highvoltagewiring", <immersiveengineering:connector:5>);
-stage("energytransport:highvoltagewiring", <techreborn:cable:3>);
+// Capacitor Backpack
+stageItem("et:capacitorbackpack", <immersiveengineering:powerpack>);
 
-# Medium Voltage Capacitor
-stage("energytransport:mvcapacitor", <immersiveengineering:metal_device0:1>);
+// Energy Field Provider
+stageItem("et:energyfieldprovider", <industrialforegoing:energy_field_provider>);
 
-# Capacitor Backpack
-stage("energytransport:capacitorbackpack", <immersiveengineering:powerpack>);
+// Alternating Flux
+stageItem("et:alternatingflux", <alternatingflux:wirecoil>);
+stageItem("et:alternatingflux", <alternatingflux:connector>);
 
-# Energy Field Provider
-stage("energytransport:energyfieldprovider", <industrialforegoing:energy_field_provider>);
+// High Voltage Capacitor
+stageItem("et:hvcapacitor", <immersiveengineering:metal_device0:2>);
 
-# Alternating Flux
-stage("energytransport:alternatingflux", <alternatingflux:wirecoil>);
-stage("energytransport:alternatingflux", <alternatingflux:connector>);
+// Chargepad
+stageItem("et:chargepad", <mekanism:machineblock:14>);
 
-# Chargepad
-stage("energytransport:chargepad", <mekanism:machineblock:14>);
+// Universal Cable
+stageItem("et:basicuniversalcable", <mekanism:transmitter>.withTag({tier: 0}));
 
-# Universal Cable
-stage("energytransport:basicuniversalcable", <mekanism:transmitter>.withTag({tier: 0}));
+// Charge-o-mat
+stageItem("et:chargeomat", <techreborn:charge_o_mat>);
 
-# Charge-o-mat
-stage("energytransport:chargeomat", <techreborn:charge_o_mat>);
-
-# Superconductor cable
-stage("energytransport:superconductorcable", <techreborn:cable:8>);
+// Superconductor cable
+stageItem("et:superconductorcable", <techreborn:cable:8>);

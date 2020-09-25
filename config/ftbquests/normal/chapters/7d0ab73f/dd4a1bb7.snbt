@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:wirecoil 1 2",
 	x: -2.0d,
 	y: 2.0d,
+	description: "Transfers FE.",
 	text: [
 		"Fast and deadly."
 	],
@@ -18,33 +19,10 @@
 		count: 75L
 	}],
 	rewards: [{
-		uid: "18b229f2",
-		type: "custom",
-		title: "HV Wire Connector",
-		icon: "immersiveengineering:connector 1 4"
-	},
-	{
-		uid: "94763935",
-		type: "custom",
-		title: "HV Wire Relay",
-		icon: "immersiveengineering:connector 1 5"
-	},
-	{
-		uid: "579ba531",
-		type: "custom",
-		title: "HV Wire Coil (electrical cable)",
-		icon: "immersiveengineering:wirecoil 1 2"
-	},
-	{
-		uid: "82c76ced",
-		type: "custom",
-		title: "High-Voltage Cable",
-		icon: "techreborn:cable 1 3"
-	},
-	{
 		uid: "4e27261b",
 		type: "gamestage",
+		icon: "immersiveengineering:wirecoil 1 2",
 		auto: "no_toast",
-		stage: "energytransport:highvoltagewiring"
+		stage: "et:hvwiring"
 	}]
 }

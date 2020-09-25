@@ -33,6 +33,6 @@
 		type: "gamestage",
 		icon: "magneticraft:steam_turbine",
 		auto: "no_toast",
-		stage: "steamgenerators:smallsteamturbine"
+		stage: "sg:smallsteamturbine"
 	}]
 }

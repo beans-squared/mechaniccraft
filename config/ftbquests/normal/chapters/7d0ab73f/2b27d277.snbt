@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_device0 1 2",
 	x: 0.0d,
 	y: 3.5d,
+	description: "Stores FE.",
 	text: [
 		"Stores up to 4M FE."
 	],
@@ -23,6 +24,6 @@
 		type: "gamestage",
 		icon: "immersiveengineering:metal_device0 1 2",
 		auto: "no_toast",
-		stage: "energytransport:hvcapacitor"
+		stage: "et:hvcapacitor"
 	}]
 }

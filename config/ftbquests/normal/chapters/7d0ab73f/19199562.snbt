@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:wirecoil 1 5",
 	x: 2.0d,
 	y: 0.5d,
+	description: "Transmits redstone signals.",
 	dependencies: [
 		"232e5328"
 	],
@@ -15,33 +16,10 @@
 		count: 100L
 	}],
 	rewards: [{
-		uid: "47f9142d",
-		type: "custom",
-		title: "Redstone Wire Connector",
-		icon: "immersiveengineering:connector 1 12"
-	},
-	{
-		uid: "0fce51f0",
-		type: "custom",
-		title: "Redstone Probe Connector",
-		icon: "immersiveengineering:connector 1 13"
-	},
-	{
-		uid: "99942408",
-		type: "custom",
-		title: "Redstone Timer",
-		icon: "immersivetech:connectors"
-	},
-	{
-		uid: "69b536e2",
-		type: "custom",
-		title: "Redstone Wire Coil",
-		icon: "immersiveengineering:wirecoil 1 5"
-	},
-	{
 		uid: "81cf01dc",
 		type: "gamestage",
+		icon: "immersiveengineering:wirecoil 1 5",
 		auto: "no_toast",
-		stage: "energytransport:redstonewire"
+		stage: "et:redstonewire"
 	}]
 }

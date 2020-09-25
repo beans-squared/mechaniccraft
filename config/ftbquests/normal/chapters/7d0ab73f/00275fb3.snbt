@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:powerpack",
 	x: 2.0d,
 	y: 2.0d,
+	description: "Charges items in your inventory.",
 	text: [
 		"Holds an electric charge for handheld tools and weapons to use. Fits into a baubles slot."
 	],
@@ -22,6 +23,6 @@
 		type: "gamestage",
 		icon: "immersiveengineering:powerpack",
 		auto: "no_toast",
-		stage: "energystorage:capacitorbackpack"
+		stage: "et:capacitorbackpack"
 	}]
 }

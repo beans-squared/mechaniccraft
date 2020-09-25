@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:wirecoil",
 	x: -1.0d,
 	y: -1.0d,
+	description: "Transfers FE.",
 	text: [
 		"Basic electrical wiring."
 	],
@@ -15,39 +16,10 @@
 		count: 10L
 	}],
 	rewards: [{
-		uid: "00fe7425",
-		type: "custom",
-		title: "LV Wire Coil (electrical cable)",
-		icon: "immersiveengineering:wirecoil"
-	},
-	{
-		uid: "7a4c25e9",
-		type: "custom",
-		title: "LV Wire Connector",
-		icon: "immersiveengineering:connector"
-	},
-	{
-		uid: "41ac8f89",
-		type: "custom",
-		title: "LV Wire Relay",
-		icon: "immersiveengineering:connector 1 1"
-	},
-	{
-		uid: "75a76fe5",
-		type: "custom",
-		title: "Insulated LV Wire Coil",
-		icon: "immersiveengineering:wirecoil 1 6"
-	},
-	{
-		uid: "96af8ce2",
-		type: "custom",
-		title: "Copper Cable",
-		icon: "techreborn:cable"
-	},
-	{
 		uid: "d1c88315",
 		type: "gamestage",
+		icon: "immersiveengineering:wirecoil",
 		auto: "no_toast",
-		stage: "energytransport:lowvoltagewiring"
+		stage: "et:lvwiring"
 	}]
 }
