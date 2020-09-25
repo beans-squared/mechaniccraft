@@ -1,0 +1,29 @@
+[
+  {
+    "fakePlayerName": "[ImmersiveEngineering]",
+    "stages": [
+      "energytransport:lowvoltagewiring",
+      "energytransport:electricengine",
+      "energytransport:decorativecables",
+      "energytransport:chargingstation",
+      "energytransport:mediumvoltagewiring",
+      "energytransport:lvcapacitor",
+      "energytransport:redstonewire",
+      "energytransport:highvoltagewiring",
+      "energytransport:mvcapacitor",
+      "energystorage:capacitorbackpack",
+      "energytransport:energyfieldprovider",
+      "energytransport:alternatingflux",
+      "energytransport:hvcapacitor",
+      "energytransport:chargepad",
+      "energytransport:basicuniversalcable",
+      "energytransport:chargeomat",
+      "energytransport:superconductorcable",
+      "sciencepacks:automationsciencepack",
+      "sciencepacks:logisticssciencepack",
+      "sciencepacks:productionsciencepack",
+      "sciencepacks:utilitysciencepack",
+      ""
+    ]
+  }
+]
