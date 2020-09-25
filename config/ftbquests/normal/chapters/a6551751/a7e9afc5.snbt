@@ -46,6 +46,6 @@
 		type: "gamestage",
 		icon: "techreborn:wire_mill",
 		auto: "no_toast",
-		stage: "metalworking:wiremill"
+		stage: "ap:wiremill"
 	}]
 }

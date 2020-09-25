@@ -22,6 +22,6 @@
 		uid: "19675815",
 		type: "gamestage",
 		auto: "no_toast",
-		stage: "metalworking:metalpress"
+		stage: "ap:metalpress"
 	}]
 }

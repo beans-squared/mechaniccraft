@@ -47,6 +47,6 @@
 		type: "gamestage",
 		icon: "techreborn:plate_bending_machine",
 		auto: "no_toast",
-		stage: "metalworking:platebendingmachine"
+		stage: "ap:platebendingmachine"
 	}]
 }

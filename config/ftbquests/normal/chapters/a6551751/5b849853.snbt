@@ -46,6 +46,6 @@
 		type: "gamestage",
 		icon: "techreborn:assembling_machine",
 		auto: "no_toast",
-		stage: "metalworking:assemblingmachine"
+		stage: "ap:assemblingmachine"
 	}]
 }

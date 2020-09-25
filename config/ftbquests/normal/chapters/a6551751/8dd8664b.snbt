@@ -22,6 +22,6 @@
 		type: "gamestage",
 		icon: "magneticraft:hydraulic_press",
 		auto: "no_toast",
-		stage: "metalworking:hydraulicpress"
+		stage: "ap:hydraulicpress"
 	}]
 }
