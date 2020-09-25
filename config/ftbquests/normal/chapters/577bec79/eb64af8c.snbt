@@ -1,0 +1,22 @@
+{
+	title: "Pumpjack",
+	icon: {
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:Pumpjack"
+		}
+	},
+	x: -5.0d,
+	y: -1.0d,
+	text: [
+		"Extracts fluids from reservoirs deep in the overworld's crust."
+	],
+	tasks: [{
+		uid: "945b3c46",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	}]
+}

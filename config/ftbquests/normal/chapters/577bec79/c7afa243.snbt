@@ -1,0 +1,25 @@
+{
+	title: "Distillation Tower",
+	icon: {
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:DistillationTower"
+		}
+	},
+	x: -5.0d,
+	y: 0.5d,
+	text: [
+		"Seperates crude oil into several useful byproducts."
+	],
+	dependencies: [
+		"eb64af8c"
+	],
+	tasks: [{
+		uid: "7b923e88",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 150L
+	}]
+}

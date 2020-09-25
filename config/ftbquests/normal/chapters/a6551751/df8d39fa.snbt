@@ -46,6 +46,6 @@
 		type: "gamestage",
 		icon: "techreborn:implosion_compressor",
 		auto: "no_toast",
-		stage: "metalworking:implosioncompressor"
+		stage: "ap:implosioncompressor"
 	}]
 }
