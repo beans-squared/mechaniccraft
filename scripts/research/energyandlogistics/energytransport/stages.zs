@@ -17,9 +17,9 @@ stageItem("et:lvwiring", <immersiveengineering:connector:1>);
 stageItem("et:lvwiring", <techreborn:cable>);
 
 // Decorative Cables
-stage("et:decorativecables", <immersiveengineering:wirecoil:3>);
-stage("et:decorativecables", <immersiveengineering:wirecoil:4>);
-stage("et:decorativecables", <immersiveengineering:connector:6>);
+stageItem("et:decorativecables", <immersiveengineering:wirecoil:3>);
+stageItem("et:decorativecables", <immersiveengineering:wirecoil:4>);
+stageItem("et:decorativecables", <immersiveengineering:connector:6>);
 
 // Charging Station
 stageItem("et:chargingstation", <immersiveengineering:metal_device1:5>);

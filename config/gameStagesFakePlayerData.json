@@ -2,7 +2,7 @@
   {
     "fakePlayerName": "[ImmersiveEngineering]",
     "stages": [
-      "energytransport:lowvoltagewiring"
+      "et:lvwiring"
     ]
   }
 ]
