@@ -1,4 +1,4 @@
-### CHANGELOG for MechanicCraft 0.4.0 (MM/DD/YYYY)
+### CHANGELOG for MechanicCraft 0.4.0
 
 world compatability?
 
