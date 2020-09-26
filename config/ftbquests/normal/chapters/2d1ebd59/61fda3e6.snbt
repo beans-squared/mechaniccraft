@@ -15,7 +15,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 75L
+		count: 25L
 	},
 	{
 		uid: "e40180fc",
@@ -23,7 +23,7 @@
 		items: [{
 			item: "contenttweaker:blue_science_pack"
 		}],
-		count: 75L
+		count: 25L
 	}],
 	rewards: [{
 		uid: "7c25d182",
