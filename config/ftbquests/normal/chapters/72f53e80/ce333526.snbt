@@ -23,6 +23,6 @@
 		type: "gamestage",
 		icon: "immersiveengineering:stone_decoration 1 2",
 		auto: "no_toast",
-		stage: "smelting:improvedblastfurnace "
+		stage: "smelting:improvedblastfurnace"
 	}]
 }
