@@ -30,3 +30,10 @@ function stageItem(gameStage as string, itemToStage as IItemStack) {
 function desc(item as IItemStack, description as string) {
 	addDescription(item, description);
 }
+
+// Removes and hides all items in the array
+function removeAll(items as IItemStack[]) {
+	for item in items {
+		removeItem(item);
+	}
+}

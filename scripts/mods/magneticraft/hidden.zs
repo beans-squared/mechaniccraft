@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.common.removeItem;
+import scripts.common.removeAll;
 import crafttweaker.item.IItemStack;
 
 val items = [
@@ -50,6 +50,4 @@ val items = [
 	<magneticraft:gasification_unit>
 ] as IItemStack[];
 
-for item in items {
-	removeItem(item);
-}
+removeAll(items);
