@@ -1,8 +1,8 @@
-/*
+#################################################
+#												#
+# Removed items from Immersive Engineering		#
+#												#
+#################################################
 
-Disabled items for Immersive Engineering
-
-*/
-
-import mods.jei.JEI.removeAndHide;
+import scrips.common.removeAll;
 
