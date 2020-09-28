@@ -10,28 +10,44 @@ import mods.jei.JEI.removeAndHide;
 import mods.recipestages.Recipes.setRecipeStage;
 import mods.jei.JEI.addDescription;
 
-// Removes a default recipe and replaces it with a custom one defined by CT
+/*
+
+INFO ON THE METHODS BELOW:
+
+replaceRecipe(recipeNameToRemove, newRecipeName, recipeOutput, recipeInput)
+Removes a default recipe and replaces it with a custom one defined by CT
+
+removeItem(itemName)
+Removes all crafting recipes for an item and hides it from JEI effectively removing it from the game
+
+stageItem(gameStage, itemToStage)
+Stages an item's crafting recipe behind a specifed game stage
+
+desc(item, description)
+Adds a description to an item
+
+removeAll(items)
+Removes and hides all items in the passed array
+
+*/
+
 function replaceRecipe(recipeNameToRemove as string, newRecipeName as string, recipeOutput as IItemStack, recipeInput as IIngredient[][]){
 	recipes.removeByRecipeName(recipeNameToRemove);
 	recipes.addShaped(newRecipeName, recipeOutput, recipeInput);
 }
 
-// Removes all crafting recipes for an item and hides it from JEI (effectively removing it from the game)
 function removeItem(itemName as IItemStack) {
 	removeAndHide(itemName);
 }
 
-// Stages an item's crafting recipe behind a specifed game stage
 function stageItem(gameStage as string, itemToStage as IItemStack) {
 	setRecipeStage(gameStage, itemToStage);
 }
 
-// Adds a description to an item
 function desc(item as IItemStack, description as string) {
 	addDescription(item, description);
 }
 
-// Removes and hides all items in the array
 function removeAll(items as IItemStack[]) {
 	for item in items {
 		removeItem(item);
