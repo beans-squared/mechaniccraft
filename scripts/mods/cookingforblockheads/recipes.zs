@@ -1,24 +1,17 @@
-/*
+#################################################
+#												#
+# Recipe changes for Cooking 4 Blockheads		#
+#												#
+#################################################
 
-Recipe changes for Cooking for Blockheads items
+import scripts.common.replaceRecipe;
 
-*/
-
-# Oven Recipe to work with any ore:blockGlassBlack
-recipes.removeByRecipeName("cookingforblockheads:oven");
-recipes.addShaped("oven", <cookingforblockheads:oven>,
+// Oven Recipe to work with any ore:blockGlassBlack
+replaceRecipe("cookingforblockheads:oven", "oven", <cookingforblockheads:oven>, 
 	[[<ore:blockGlassBlack>, <ore:blockGlassBlack>, <ore:blockGlassBlack>],
 	[<ore:ingotIron>, <minecraft:furnace>, <ore:ingotIron>],
 	[<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
 
-# Cooking for Blockheads II to use iron ingots instead of diamonds
-recipes.removeByRecipeName("cookingforblockheads:crafting_book");
-recipes.addShaped("crafting_book", <cookingforblockheads:recipe_book:2>,
-	[[null, <ore:ingotIron>, null],
-	[<ore:workbench>, <cookingforblockheads:recipe_book:1>, <ore:workbench>],
-	[null, <ore:ingotIron>, null]]);
-
-# Change the fruit basket recipe to work with pressure plates of any wood type
-recipes.removeByRecipeName("cookingforblockheads:fruit_basket");
-recipes.addShaped("fruit_basket", <cookingforblockheads:fruit_basket>,
+// Change the fruit basket recipe to work with pressure plates of any wood type
+replaceRecipe("cookingforblockheads:fruit_basket", "fruit_basket", <cookingforblockheads:fruit_basket>, 
 	[[<ore:plankWood>, <ore:pressurePlateWood>, <ore:plankWood>]]);
