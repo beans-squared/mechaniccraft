@@ -1,10 +1,14 @@
-/*
+#################################################
+#												#
+# Removed items from Weather2			        #
+#												#
+#################################################
 
-Disabled items for Locaized watther
+import scripts.common.removeAll;
 
-*/
+val items = [
+	<weather2:sand_layer_placeable>,
+	<weather2:pocket_sand>
+] as IItemStack[];
 
-import mods.jei.JEI.removeAndHide;
-
-removeAndHide(<weather2:sand_layer_placeable>);
-removeAndHide(<weather2:pocket_sand>);
+removeAll(items);
