@@ -1,23 +1,22 @@
 #################################################
 #												#
-#												#
 # Removed items for Tinkers Construct			#
-#												#
 #												#
 #################################################
 
-import mods.jei.JEI.removeAndHide;
+import scripts.common.removeAll;
 import mods.tconstruct.Drying.removeRecipe;
 
-// EFLN
-removeAndHide(<tconstruct:throwball:1>);
+val items = [
+	<tconstruct:throwball:1>, // EFLN
+	<tconstruct:slimesling>,
+	<tconstruct:slimesling:1>,
+	<tconstruct:slimesling:2>,
+	<tconstruct:slimesling:3>,
+	<tconstruct:slimesling:4>,
+] as IItemStack[];
 
-// All Slimeslings
-removeAndHide(<tconstruct:slimesling>);
-removeAndHide(<tconstruct:slimesling:1>);
-removeAndHide(<tconstruct:slimesling:2>);
-removeAndHide(<tconstruct:slimesling:3>);
-removeAndHide(<tconstruct:slimesling:4>);
+removeAll(items);
 
 // Jerkys (Beef, Monster, etc)
 removeRecipe(<tconstruct:edible:10>);
