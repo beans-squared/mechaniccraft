@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.removeItem;
+import scripts.common.removeItem;
 import crafttweaker.item.IItemStack;
 
 val items = [

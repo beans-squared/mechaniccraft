@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.stageItem;
+import scripts.common.stageItem;
 
 // Bioreactor
 stageItem("fr:bioreactor", <industrialforegoing:bioreactor>);

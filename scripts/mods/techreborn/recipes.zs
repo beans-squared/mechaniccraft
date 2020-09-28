@@ -4,4 +4,4 @@
 #												#
 #################################################
 
-import scripts.mods.common.replaceRecipe;
+import scripts.common.replaceRecipe;

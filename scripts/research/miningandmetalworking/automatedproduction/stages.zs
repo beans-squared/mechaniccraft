@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.stageItem;
+import scripts.common.stageItem;
 
 // Metal Press
 stageItem("ap:metalpress", <immersivepetroleum:schematic>.withTag({multiblock: "IE:MetalPress"}));

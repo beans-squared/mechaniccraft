@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.stageItem;
+import scripts.common.stageItem;
 
 // Boiler
 stageItem("sg:boiler", <magneticraft:steam_boiler>);
