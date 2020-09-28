@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.replaceRecipe;
+import scripts.common.replaceRecipe;
 
 // Iron Mesh
 replaceRecipe("magneticraft:crafting_mesh", "iron_mesh", <magneticraft:crafting:5>,
