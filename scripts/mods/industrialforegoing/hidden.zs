@@ -1,7 +1,6 @@
-/*
+#################################################
+#												#
+# Removed items for Industrial Foregoing		#
+#												#
+#################################################
 
-Disabled items for Industrial Foregoing
-
-*/
-
-import mods.jei.JEI.removeAndHide;
