@@ -16,6 +16,7 @@ INFO ON THE METHODS BELOW:
 
 replaceRecipe(recipeNameToRemove, newRecipeName, recipeOutput, recipeInput)
 Removes a default recipe and replaces it with a custom one defined by CT
+*ONLY WORKS FOR SHAPED RECIPES*
 
 removeItem(itemName)
 Removes all crafting recipes for an item and hides it from JEI effectively removing it from the game
