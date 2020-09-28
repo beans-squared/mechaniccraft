@@ -1,44 +1,20 @@
-/*
+#################################################
+#												#
+# Removed items from Tech Reborn				#
+#												#
+#################################################
 
-Disabled items for Tech Reborn
+import scripts.common.removeAll;
 
-*/
+val items = [
+	<techreborn:quantum_tank>,
+	<techreborn:quantum_chest>,
+	<techreborn:digital_chest>,
+	<techreborn:chunk_loader>,
+	<techreborn:storage2:1>,
+	<techreborn:storage2:2>,
+	<techreborn:magic_energy_converter>,
+	<techreborn:magic_energy_absorber>
+] as IItemStack[];
 
-import mods.jei.JEI.removeAndHide;
-
-removeAndHide(<techreborn:quantum_tank>);
-removeAndHide(<techreborn:quantum_chest>);
-removeAndHide(<techreborn:digital_chest>);
-
-removeAndHide(<techreborn:chunk_loader>);
-
-removeAndHide(<techreborn:storage2:1>);
-removeAndHide(<techreborn:storage2:2>);
-
-removeAndHide(<techreborn:magic_energy_converter>);
-removeAndHide(<techreborn:magic_energy_absorber>);
-
-# Armor and tools/weapons
-# Bronze
-removeAndHide(<techreborn:bronzehelmet>);
-removeAndHide(<techreborn:bronzechestplate>);
-removeAndHide(<techreborn:bronzeleggings>);
-removeAndHide(<techreborn:bronzeboots>);
-
-# Ruby
-removeAndHide(<techreborn:rubyhelmet>);
-removeAndHide(<techreborn:rubychestplate>);
-removeAndHide(<techreborn:rubyleggings>);
-removeAndHide(<techreborn:rubyboots>);
-
-# Sapphire
-removeAndHide(<techreborn:sapphirehelmet>);
-removeAndHide(<techreborn:sapphirechestplate>);
-removeAndHide(<techreborn:sapphireleggings>);
-removeAndHide(<techreborn:sapphireboots>);
-
-# Peridot
-removeAndHide(<techreborn:peridothelmet>);
-removeAndHide(<techreborn:peridotchestplate>);
-removeAndHide(<techreborn:peridotleggings>);
-removeAndHide(<techreborn:peridotboots>);
+removeAll(items);
