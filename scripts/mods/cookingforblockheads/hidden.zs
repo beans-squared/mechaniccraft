@@ -8,6 +8,6 @@ import scripts.common.removeAll;
 
 var items = [
 	
-] as ItemStack[];
+] as IItemStack[];
 
 removeAll(items);

@@ -4,5 +4,5 @@
 #												#
 #################################################
 
-import scrips.common.removeAll;
+import scripts.common.removeAll;
 
