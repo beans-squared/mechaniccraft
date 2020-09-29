@@ -5,6 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
+import craftweaker.item.IItemStack;
 
 val items = [
 	<mekanism:basicblock:6>.withTag({tier: 0}), // various Bin tiers

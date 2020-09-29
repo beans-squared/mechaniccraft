@@ -6,6 +6,7 @@
 
 import scripts.common.removeAll;
 import mods.tconstruct.Drying.removeRecipe;
+import crafttweaker.item.IItemStack;
 
 val items = [
 	<tconstruct:throwball:1>, // EFLN

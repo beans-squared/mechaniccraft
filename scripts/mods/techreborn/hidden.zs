@@ -5,6 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
+import craftweaker.item.IItemStack;
 
 val items = [
 	<techreborn:quantum_tank>,

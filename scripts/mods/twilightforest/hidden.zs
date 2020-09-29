@@ -5,6 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
+import crafttweaker.item.IItemStack;
 
 val items = [
 	<twilightforest:ore_meter>,

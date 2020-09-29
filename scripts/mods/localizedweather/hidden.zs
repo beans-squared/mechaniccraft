@@ -5,6 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
+import crafttweaker.item.IItemStack;
 
 val items = [
 	<weather2:sand_layer_placeable>,
