@@ -5,7 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
-import craftweaker.item.IItemStack;
+import crafttweaker.item.IItemStack;
 
 val items = [
 

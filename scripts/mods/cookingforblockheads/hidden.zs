@@ -5,6 +5,7 @@
 #################################################
 
 import scripts.common.removeAll;
+import craftweaker.item.IItemStack;
 
 var items = [
 	
