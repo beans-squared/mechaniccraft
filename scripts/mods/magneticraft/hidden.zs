@@ -47,7 +47,15 @@ val items = [
 	<magneticraft:connector>,
 	<magneticraft:electric_pole>,
 	<magneticraft:electric_pole_transformer>,
-	<magneticraft:gasification_unit>
+	<magneticraft:gasification_unit>,
+	<magneticraft:rf_heater>,
+	<magneticraft:pumpjack_drill>,
+	<magneticraft:crafting:3>, // Fine copper wire
+	<magneticraft:grinder>,
+	<magneticraft:sieve>,
+	<magneticraft:pumpjack>,
+	<magneticraft:oil_heater>,
+	<magneticraft:refinery>
 ] as IItemStack[];
 
 removeAll(items);
