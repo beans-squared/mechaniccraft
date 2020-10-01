@@ -20,3 +20,11 @@ mods.jei.JEI.hideCategory("magneticraft.gasification_unit");
 <magneticraft:stone_hammer>.displayName = "Stone Mallet";
 <magneticraft:iron_hammer>.displayName = "Iron Mallet";
 <magneticraft:steel_hammer>.displayName = "Steel Mallet";
+
+// rename "bigger" machines to something more industrial
+<magneticraft:big_combustion_chamber>.displayName = "Industrial Combustion Chamber";
+<magneticraft:big_steam_boiler>.displayName = "Industrial Steam Boiler";
+<magneticraft:big_electric_furnace>.displayName = "Industrial Electric Furnace";
+
+// rename support column to support machine block
+<magneticraft:multiblock_column>.displayName = "Support Machine Block";
