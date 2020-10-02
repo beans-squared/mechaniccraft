@@ -1,8 +1,8 @@
-/*
-
-MISC for Tech Reborn
-
-*/
+#################################################
+#												#
+# MISC changes for Tech Reborn					#
+#												#
+#################################################
 
 # Renames gold cable to electrum cable, and extends HV
 <techreborn:cable:2>.displayName = "Electrum Cable";

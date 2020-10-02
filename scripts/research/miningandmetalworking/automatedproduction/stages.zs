@@ -1,13 +1,8 @@
-#################################################
-#												#
-# Staging for Automated Prodction (ap)			#
-#												#
-#################################################
-
-import scripts.mods.common.stageItem;
+import mods.multiblockstages.IEMultiBlockStages;
+import scripts.common.stageItem;
 
 // Metal Press
-stageItem("ap:metalpress", <immersivepetroleum:schematic>.withTag({multiblock: "IE:MetalPress"}));
+IEMultiBlockStages.addStage("ap:metalpress", "IE:MetalPress", "You have not researched this technology yet.");
 
 // Hydraulic Press
 stageItem("ap:hydraulicpress", <magneticraft:hydraulic_press>);
@@ -40,4 +35,4 @@ stageItem("ap:fluidcrafter", <industrialforegoing:fluid_crafter>);
 stageItem("ap:autocraftingtable", <techreborn:auto_crafting_table>);
 
 // Assembler
-stageItem("ap:assembler", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Assembler"}));
+IEMultiBlockStages.addStage("ap:assemblingmachine", "IE:Assembler", "You have not researched this technology yet.");

@@ -31,10 +31,10 @@ stage("digitalmaterialmanagement:fluidgrid", <refinedstorage:grid:3>);
 stage("digitalmaterialmanagement:storagemonitor", <refinedstorage:storage_monitor>);
 
 # Pattern Grid
-stage("digitalmaterialmanagement", <refinedstorage:grid:2>);
+stage("digitalmaterialmanagement:patterngrid", <refinedstorage:grid:2>);
 
 # Disk Drive
-stage("digitalmaterialmanagement", <refinedstorage:disk_drive>);
+stage("digitalmaterialmanagement:diskdrive", <refinedstorage:disk_drive>);
 
 # Storage Blocks
 stage("digitalmaterialmanagement:storageblocks", <refinedstorage:storage>);

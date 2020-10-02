@@ -1,8 +1,8 @@
-/*
-
-Wire Mill recipe changes for TR
-
-*/
+#################################################
+#												#
+# Wire Mill recipe changes for Tech Reborn		#
+#												#
+#################################################
 
 import mods.techreborn.wireMill;
 

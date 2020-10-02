@@ -1,8 +1,14 @@
-/* 
+#################################################
+#												#
+# Removed items from Cooking 4 Blockheads     	#
+#												#
+#################################################
 
-Hidden items in JEI for Cooking for Blockheads
+import scripts.common.removeAll;
+import crafttweaker.item.IItemStack;
 
-*/
+var items = [
+	
+] as IItemStack[];
 
-# Hide Cow in a Jar
-mods.jei.JEI.hide(<cookingforblockheads:cow_jar>);
+removeAll(items);

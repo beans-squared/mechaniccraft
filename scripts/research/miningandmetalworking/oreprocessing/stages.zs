@@ -1,31 +1,26 @@
-/*
-
-Staging for Ore Processing
-
-*/
-
+import mods.multiblockstages.IEMultiBlockStages;
 import mods.recipestages.Recipes.setRecipeStage as stage;
 
-# Crushing Table
+// Crushing Table
 stage("oreprocessing:crushingtable", <magneticraft:crushing_table>);
 
-# Sluice Box
+// Sluice Box
 stage("oreprocessing:sluicebox", <magneticraft:sluice_box>);
 
-# Grinder
+// Grinder
 stage("oreprocessing:grinder", <magneticraft:grinder>);
 
-# Sieve
+// Sieve
 stage("oreprocessing:sieve", <magneticraft:sieve>);
 
-# Ore Processor
+// Ore Processor
 stage("oreprocessing:oreprocessor", <industrialforegoing:ore_processor>);
 
-# Crusher (IE)
-stage("oreprocessing:iecrusher", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Crusher"}));
+// Crusher (IE)
+IEMultiBlockStages.addStage("oreprocessing:iecrusher", "IE:Crusher", "You have not researched this technology yet.");
 
-# Crusher (Mek)
+// Crusher (Mek)
 stage("oreprocessing:mekcrusher", <mekanism:machineblock:3>);
 
-# Industrial Grinder
+// Industrial Grinder
 stage("oreprocessing:industrialgrinder", <techreborn:industrial_grinder>);

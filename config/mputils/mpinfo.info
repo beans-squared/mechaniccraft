@@ -1,10 +1,10 @@
 {
   "name": "MechanicCraft",
   "description": "Utilize your knowledge of science and engineering to create increasingly advanced machinery to uncover the secrets of an increasingly mysterious and hostile world.",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "url": "https://www.curseforge.com/minecraft/modpacks/mechanic-craft",
   "authorList": [
     "beansquared"
   ],
-  "credits": ""
+  "credits": "https://github.com/beans-squared/MechanicCraft/blob/master/CREDITS.md"
 }

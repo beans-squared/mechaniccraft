@@ -1,18 +1,19 @@
-/*
+#################################################
+#												#
+# Removed items from TwilightForest				#
+#												#
+#################################################
 
-Disabled items for Twilight Forest
+import scripts.common.removeAll;
+import crafttweaker.item.IItemStack;
 
-*/
+val items = [
+	<twilightforest:ore_meter>,
+	<twilightforest:miniature_structure:*>,
+	<twilightforest:cinder_furnace>,
+	<twilightforest:cinder_log>,
+	<minecraft:spawn_egg>.withTag({EntityTag: {id: "twilightforest:adherent"}}),
+	<twilightforest:twilight_plant:2>
+] as IItemStack[];
 
-import mods.jei.JEI.removeAndHide;
-
-removeAndHide(<twilightforest:ore_meter>);
-
-removeAndHide(<twilightforest:miniature_structure:*>);
-
-removeAndHide(<twilightforest:cinder_furnace>);
-removeAndHide(<twilightforest:cinder_log>);
-
-removeAndHide(<minecraft:spawn_egg>.withTag({EntityTag: {id: "twilightforest:adherent"}})); #adherant
-
-removeAndHide(<twilightforest:twilight_plant:2>);
+removeAll(items);

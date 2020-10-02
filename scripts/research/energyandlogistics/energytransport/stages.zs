@@ -4,7 +4,7 @@
 #												#
 #################################################
 
-import scripts.mods.common.stageItem;
+import scripts.common.stageItem;
 
 // Electric Engine
 stageItem("et:electricengine", <magneticraft:electric_engine>);

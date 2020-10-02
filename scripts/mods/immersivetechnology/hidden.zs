@@ -1,9 +1,14 @@
-/*
+#################################################
+#												#
+# Removed items from ImmersiveTechnology		#
+#												#
+#################################################
 
-Disabled items for Immersive Technology
+import scripts.common.removeAll;
+import crafttweaker.item.IItemStack;
 
-*/
+val items = [
+	<immersivetech:metal_trash>
+] as IItemStack[];
 
-import mods.jei.JEI.removeAndHide;
-
-removeAndHide(<immersivetech:metal_trash>);
+removeAll(items);
