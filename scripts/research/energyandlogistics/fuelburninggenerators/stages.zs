@@ -1,9 +1,4 @@
-/*
-
-Staging for Fuel Burning Generators
-
-*/
-
+import mods.multiblockstages.IEMultiBlockStages;
 import mods.recipestages.Recipes.setRecipeStage as stage;
 
 # Biofuel Generator
@@ -16,7 +11,7 @@ stage("fuelburninggenerators:proteingenerator", <industrialforegoing:protein_gen
 stage("fuelburninggenerators:biogenerator", <mekanismgenerators:generator:4>);
 
 # Diesel Generator
-stage("fuelburninggenerators:iedieselgenerator", <immersivepetroleum:schematic>.withTag({multiblock: "IE:DieselGenerator"}));
+IEMultiBlockStages.addStage("fuelburninggenerators:iedieselgenerator", "IE:DieselGenerator", "You have not researched this technology yet.");
 
 # Semi Fluid Generator
 stage("fuelburninggenerators:semifluidgenerator", <techreborn:semi_fluid_generator>);

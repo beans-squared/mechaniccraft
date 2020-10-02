@@ -1,9 +1,4 @@
-#################################################
-#												#
-# Staging for Steam Generators (sg)				#
-#												#
-#################################################
-
+import mods.multiblockstages.IEMultiBlockStages;
 import scripts.common.stageItem;
 
 // Boiler
@@ -22,7 +17,7 @@ stageItem("sg:biggersteamboiler", <magneticraft:big_steam_boiler>);
 stageItem("sg:smallsteamturbine", <magneticraft:steam_turbine>);
 
 // Steam Turbine
-stageItem("sg:steamturbine", <immersivepetroleum:schematic>.withTag({multiblock: "IT:SteamTurbine"}));
+IEMultiBlockStages.addStage("sg:steamturbine", "IT:SteamTurbine", "You have not researched this technology yet.");
 
 // Dynamic Steam Turbine
 stageItem("sg:dynamicsteamturbine", <mekanismgenerators:turbineblade>);

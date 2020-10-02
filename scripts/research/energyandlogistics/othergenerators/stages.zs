@@ -1,9 +1,4 @@
-/*
-
-Staging for Other Generators
-
-*/
-
+import mods.multiblockstages.IEMultiBlockStages;
 import mods.recipestages.Recipes.setRecipeStage as stage;
 
 # Water Wheel
@@ -22,7 +17,7 @@ stage("othergenerators:kineticdynamo", <immersiveengineering:metal_device1:2>);
 stage("othergenerators:watermill", <techreborn:water_mill>);
 
 # Lightning Rod
-stage("othergenerators:ielightningrod", <immersivepetroleum:schematic>.withTag({multiblock: "IE:Lightningrod"}));
+IEMultiBlockStages.addStage("othergenerators:ielightningrod", "IE:Lightningrod", "You have not researched this technology yet.");
 
 # Dragon Egg Energy Siphon
 stage("othergenerators:dragoneggenergysiphon", <techreborn:dragon_egg_syphon>);
