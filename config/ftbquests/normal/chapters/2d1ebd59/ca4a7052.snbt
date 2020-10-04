@@ -3,6 +3,7 @@
 	icon: "magneticraft:steam_engine",
 	x: 0.0d,
 	y: -2.0d,
+	description: "Use steam to generate power.",
 	text: [
 		"Easy and powerful, but dirty and costly to maintain."
 	],

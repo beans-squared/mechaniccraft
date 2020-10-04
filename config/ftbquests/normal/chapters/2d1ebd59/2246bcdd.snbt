@@ -3,6 +3,7 @@
 	icon: "magneticraft:steam_turbine",
 	x: 0.0d,
 	y: -0.5d,
+	description: "Use more steam to generate more power.",
 	text: [
 		"More powerful but more costly than the small steam engine."
 	],

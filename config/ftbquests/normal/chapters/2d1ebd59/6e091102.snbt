@@ -1,8 +1,9 @@
 {
-	title: "Bigger Combustion Chamber",
+	title: "Industrial Combustion Chamber",
 	icon: "magneticraft:big_combustion_chamber",
 	x: -1.5d,
 	y: -2.0d,
+	description: "Generate large amounts of heat using solid or fluid fuel.",
 	text: [
 		"Bigger, hotter, hungrier."
 	],

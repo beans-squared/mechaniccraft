@@ -3,6 +3,7 @@
 	icon: "mekanismgenerators:turbineblade",
 	x: 0.0d,
 	y: 2.5d,
+	description: "Use steam to generate power extremely efficiently.",
 	dependencies: [
 		"cf4bf137"
 	],
