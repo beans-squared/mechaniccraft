@@ -1,42 +1,19 @@
 {
-	title: "Alloy Smelter",
+	title: "Electric Alloying",
 	icon: "techreborn:alloy_smelter",
-	x: -2.0d,
-	y: 3.5d,
-	description: "Alloys materials.",
-	text: [
-		"Special kind of furnace that makes two metals and melts them down into an alloy."
-	],
+	x: -3.0d,
+	y: -1.5d,
+	description: "Alloy metals using electricity.",
 	dependencies: [
-		"f82e1165"
+		"27b859a7"
 	],
 	tasks: [{
 		uid: "ccdd6c10",
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}]
-	},
-	{
-		uid: "b8678ccf",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}]
-	},
-	{
-		uid: "b5ba1a90",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
-		}]
-	},
-	{
-		uid: "4fe8757a",
-		type: "item",
-		items: [{
-			item: "contenttweaker:yellow_science_pack"
-		}]
+		}],
+		count: 20L
 	}],
 	rewards: [{
 		uid: "6eeb6bdc",

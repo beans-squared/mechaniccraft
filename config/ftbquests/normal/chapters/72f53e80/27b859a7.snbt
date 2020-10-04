@@ -1,0 +1,36 @@
+{
+	title: "Alloying",
+	icon: "immersiveengineering:stone_device 1 7",
+	x: -3.0d,
+	y: -3.0d,
+	description: "Mix and match your metals.",
+	dependencies: [
+		"45ed5e48"
+	],
+	tasks: [{
+		uid: "607eda33",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "dfd1c7f7",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "smelting:alloying"
+	},
+	{
+		uid: "7a373977",
+		type: "custom",
+		title: "Unlock: Iron Alloy Furnace",
+		icon: "techreborn:iron_alloy_furnace"
+	},
+	{
+		uid: "9134f9e6",
+		type: "custom",
+		title: "Unlock: Alloy Kiln",
+		icon: "immersiveengineering:stone_device 1 7"
+	}]
+}

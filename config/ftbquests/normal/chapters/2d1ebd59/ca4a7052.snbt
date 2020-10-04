@@ -8,8 +8,7 @@
 		"Easy and powerful, but dirty and costly to maintain."
 	],
 	dependencies: [
-		"9109663d",
-		"b011c92d"
+		"9109663d"
 	],
 	tasks: [{
 		uid: "2cf13a8b",

@@ -1,9 +1,9 @@
 {
 	title: "Improved Blast Furnace",
 	icon: "immersiveengineering:stone_device 1 2",
-	x: -4.0d,
-	y: -1.0d,
-	description: "Produces steel.",
+	x: -4.5d,
+	y: -2.5d,
+	description: "Produce steel faster.",
 	text: [
 		"Enhanced version of the basic blast furnace that is automateble and can be sped up using preheaters."
 	],
