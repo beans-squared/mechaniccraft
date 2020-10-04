@@ -7,8 +7,7 @@
 		"Generates energy from the flow of water."
 	],
 	dependencies: [
-		"0c67ea40",
-		"99c4f943"
+		"0c67ea40"
 	],
 	tasks: [{
 		uid: "7cb9052f",

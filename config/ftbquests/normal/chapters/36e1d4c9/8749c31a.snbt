@@ -7,9 +7,6 @@
 	text: [
 		"Takes lava directly as a fuel source."
 	],
-	dependencies: [
-		"99c4f943"
-	],
 	tasks: [{
 		uid: "fe8a0ae2",
 		type: "item",

@@ -7,9 +7,6 @@
 	text: [
 		"Comsumes heliumplasma to generate power."
 	],
-	dependencies: [
-		"066fe172"
-	],
 	tasks: [{
 		uid: "cd0de3ba",
 		type: "item",
