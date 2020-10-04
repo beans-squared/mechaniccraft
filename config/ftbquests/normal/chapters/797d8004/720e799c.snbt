@@ -2,12 +2,12 @@
 	title: "Core Sample Drill",
 	icon: "immersiveengineering:metal_device1 1 7",
 	x: 0.0d,
-	y: -2.5d,
+	y: -1.0d,
 	text: [
 		"Extracts core samples from the world, proving information on mineral nodes and fluid reservoirs in chunks."
 	],
 	dependencies: [
-		"0bde28bc"
+		"245bd6c5"
 	],
 	tasks: [{
 		uid: "11c12b92",
