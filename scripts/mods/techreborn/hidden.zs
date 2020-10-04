@@ -15,7 +15,9 @@ val items = [
 	<techreborn:storage2:1>,
 	<techreborn:storage2:2>,
 	<techreborn:magic_energy_converter>,
-	<techreborn:magic_energy_absorber>
+	<techreborn:magic_energy_absorber>,
+	<techreborn:gas_turbine>,
+	<techreborn:solid_fuel_generator>
 ] as IItemStack[];
 
 removeAll(items);
