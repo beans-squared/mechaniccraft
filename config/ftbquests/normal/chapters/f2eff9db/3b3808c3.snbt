@@ -1,0 +1,79 @@
+{
+	title: "Welcome to MechanicCraft Reasearch",
+	icon: "contenttweaker:red_science_pack",
+	x: 0.0d,
+	y: -1.0d,
+	text: [
+		"Use the tabs on the left to navigate to a particular field of study."
+	],
+	size: 4.0d,
+	tasks: [{
+		uid: "ea2c0045",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "144c4e6f",
+		type: "item",
+		item: {
+			id: "tconstruct:broadsword",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.8175f,
+					FreeModifiers: 3,
+					Durability: 282,
+					HarvestLevel: 1,
+					Attack: 2.875f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 3.8175f,
+					FreeModifiers: 3,
+					Durability: 282,
+					HarvestLevel: 1,
+					Attack: 4.375f
+				},
+				Special: {
+					Categories: [
+						"tool",
+						"weapon"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"bone",
+						"bone",
+						"bone"
+					],
+					Modifiers: []
+				},
+				Modifiers: [{
+					identifier: "fractured",
+					color: -1186113,
+					level: 1
+				},
+				{
+					identifier: "splintering",
+					color: -1186113,
+					level: 1
+				}],
+				Traits: [
+					"fractured",
+					"splintering"
+				]
+			}
+		}
+	},
+	{
+		uid: "95ecd4ef",
+		type: "item",
+		item: "harvestcraft:tacoitem",
+		count: 10
+	},
+	{
+		uid: "90cbe0a5",
+		type: "item",
+		item: "harvestcraft:applejuiceitem",
+		count: 10
+	}]
+}

@@ -1,0 +1,44 @@
+{
+	title: "Purification Chamber",
+	icon: "mekanism:machineblock 1 9",
+	x: -5.5d,
+	y: -9.5d,
+	description: "Use oxygen to extract larger clumps of metal from ores.",
+	text: [
+		"Uses oxygen to extract metal clumps from raw ore."
+	],
+	dependencies: [
+		"b21b5624"
+	],
+	tasks: [{
+		uid: "d72f5e26",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "76d0a6ab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 300L
+	},
+	{
+		uid: "00f1fb70",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 300L
+	}],
+	rewards: [{
+		uid: "32c8c399",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 9",
+		auto: "no_toast",
+		stage: "orerefinement:purificationchamber"
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Industrial Electric Furnace",
+	icon: "techreborn:ingot 1 4",
+	x: 0.0d,
+	y: -8.0d,
+	description: "Rapidly smelts items.",
+	text: [
+		"Industrial-level feedthrough furnace with special integration with elevated conveyor belts."
+	],
+	dependencies: [
+		"4f8039e7"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "c4fd4181",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "5eae72e3",
+		type: "gamestage",
+		icon: "magneticraft:big_electric_furnace",
+		auto: "no_toast",
+		stage: "smelting:biggerelectricfurnace"
+	}]
+}

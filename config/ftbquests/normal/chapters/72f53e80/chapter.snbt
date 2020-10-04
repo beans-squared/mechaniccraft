@@ -1,7 +1,0 @@
-{
-	title: "Smelting",
-	icon: "magneticraft:brick_furnace",
-	always_invisible: false,
-	group: -962581473,
-	default_quest_shape: ""
-}

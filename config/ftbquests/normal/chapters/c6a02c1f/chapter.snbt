@@ -1,6 +1,6 @@
 {
-	title: "Industry: Mining & Production",
-	icon: "immersiveengineering:metal_multiblock 1 12",
+	title: "Mining & Metallurgy",
+	icon: "immersiveengineering:drillhead 1 1",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

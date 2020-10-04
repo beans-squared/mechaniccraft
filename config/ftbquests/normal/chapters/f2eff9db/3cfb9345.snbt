@@ -1,0 +1,15 @@
+{
+	title: "Visit the MechanicCraft Wiki",
+	x: -0.5d,
+	y: 1.5d,
+	custom_click: "https://github.com/beans-squared/MechanicCraft/wiki",
+	tasks: [{
+		uid: "046cf4c6",
+		type: "item",
+		items: [{
+			item: "ftbquests:book"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,8 +1,8 @@
 {
 	title: "Implosion Compressor",
 	icon: "techreborn:implosion_compressor",
-	x: -0.5d,
-	y: 3.5d,
+	x: 0.5d,
+	y: 0.0d,
 	description: "Produces iridium plates.",
 	text: [
 		"Explodes stuff. Apparently that's valuable."

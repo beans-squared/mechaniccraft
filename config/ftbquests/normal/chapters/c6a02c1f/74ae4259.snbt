@@ -1,0 +1,44 @@
+{
+	title: "Chemical Crystallizer",
+	icon: "mekanism:machineblock2 1 8",
+	x: -4.5d,
+	y: -11.0d,
+	description: "Solidify clean slurry for further processing.",
+	text: [
+		"Forms ore slurry into processable crystals."
+	],
+	dependencies: [
+		"a1d7c543"
+	],
+	tasks: [{
+		uid: "a6b06965",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "42ecbf9b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 1000L
+	},
+	{
+		uid: "cb09acad",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 1000L
+	}],
+	rewards: [{
+		uid: "aed1758f",
+		type: "gamestage",
+		icon: "mekanism:machineblock2 1 8",
+		auto: "no_toast",
+		stage: "orerefinement:chemicalcrystallizer"
+	}]
+}

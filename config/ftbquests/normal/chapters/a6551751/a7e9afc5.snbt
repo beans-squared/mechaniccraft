@@ -1,14 +1,11 @@
 {
 	title: "Wire Mill",
 	icon: "techreborn:wire_mill",
-	x: -1.5d,
-	y: -1.0d,
+	x: 0.0d,
+	y: -4.5d,
 	description: "Produces wire and cable.",
 	text: [
 		"Automatically crafts cable at a cheaper rate than hand crafting."
-	],
-	dependencies: [
-		"8dd8664b"
 	],
 	tasks: [{
 		uid: "bcaea968",

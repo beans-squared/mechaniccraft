@@ -1,0 +1,36 @@
+{
+	title: "Fluid Sieving Machine",
+	icon: "industrialforegoing:ore_sieve",
+	x: -9.5d,
+	y: -6.0d,
+	description: "Extract useful product from your fermented ore meat.",
+	text: [
+		"Filters out ore dust from fermented ore meat."
+	],
+	dependencies: [
+		"8fe2ad3c"
+	],
+	tasks: [{
+		uid: "e18ad599",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 125L
+	},
+	{
+		uid: "52b04dcc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 125L
+	}],
+	rewards: [{
+		uid: "4490ea79",
+		type: "gamestage",
+		icon: "industrialforegoing:ore_sieve",
+		auto: "no_toast",
+		stage: "orerefinement:fluidsievingmachine"
+	}]
+}

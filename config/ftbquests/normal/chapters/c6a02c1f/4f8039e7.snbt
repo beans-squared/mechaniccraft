@@ -1,0 +1,48 @@
+{
+	title: "Electric Smelting",
+	icon: "mekanism:machineblock 1 10",
+	x: -1.5d,
+	y: -8.0d,
+	description: "Smelt your items using electricity.",
+	dependencies: [
+		"45ed5e48"
+	],
+	tasks: [{
+		uid: "011f90e4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 50L
+	}],
+	rewards: [{
+		uid: "99c02597",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "smelting:electricsmelting"
+	},
+	{
+		uid: "771fec48",
+		type: "custom",
+		title: "Unlock: Electric Furnace",
+		icon: "techreborn:electric_furnace"
+	},
+	{
+		uid: "d076e55a",
+		type: "custom",
+		title: "Unlock: Electric Furnace",
+		icon: "magneticraft:electric_furnace"
+	},
+	{
+		uid: "e13ad707",
+		type: "custom",
+		title: "Unlock: Feedthrough Furnace",
+		icon: "engineersdecor:small_electrical_furnace"
+	},
+	{
+		uid: "06dadd4c",
+		type: "custom",
+		title: "Unlock: Energized Smelter",
+		icon: "mekanism:machineblock 1 10"
+	}]
+}
