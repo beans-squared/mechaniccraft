@@ -11,6 +11,7 @@
 	},
 	x: -1.5d,
 	y: -3.0d,
+	description: "Travel along power lines and cables.",
 	text: [
 		"Allows rapid travel along wires."
 	],

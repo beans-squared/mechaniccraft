@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_device1 1 7",
 	x: 0.0d,
 	y: -1.0d,
+	description: "Drill to find mineral nodes and fluid reserviors.",
 	text: [
 		"Extracts core samples from the world, proving information on mineral nodes and fluid reservoirs in chunks."
 	],
