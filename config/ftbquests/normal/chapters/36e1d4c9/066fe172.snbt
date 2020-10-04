@@ -3,6 +3,7 @@
 	icon: "techreborn:gas_turbine",
 	x: 7.0d,
 	y: -8.0d,
+	description: "Use gaseous fuel to generate power.",
 	text: [
 		"Comsumes liquid gas to generate power."
 	],

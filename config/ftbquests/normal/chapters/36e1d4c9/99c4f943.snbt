@@ -3,6 +3,7 @@
 	icon: "techreborn:solid_fuel_generator",
 	x: 4.0d,
 	y: -8.0d,
+	description: "Use solid fuels to generate power.",
 	text: [
 		"The most generative generator of all generators."
 	],

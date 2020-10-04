@@ -3,6 +3,7 @@
 	icon: "mekanismgenerators:generator 1 4",
 	x: -3.0d,
 	y: -6.5d,
+	description: "Use solid organic matter to generate power.",
 	text: [
 		"Consumes solid biomass to generate power."
 	],

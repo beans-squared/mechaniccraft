@@ -3,6 +3,7 @@
 	icon: "industrialforegoing:biofuel_generator",
 	x: -3.0d,
 	y: -9.5d,
+	description: "Use plant material to generate power.",
 	text: [
 		"Generates energy from biofuel."
 	],

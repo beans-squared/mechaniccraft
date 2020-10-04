@@ -3,6 +3,7 @@
 	icon: "techreborn:thermal_generator",
 	x: 4.0d,
 	y: -6.5d,
+	description: "Use lava to generate power.",
 	text: [
 		"Takes lava directly as a fuel source."
 	],

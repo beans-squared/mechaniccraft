@@ -3,6 +3,7 @@
 	icon: "techreborn:plasma_generator",
 	x: 7.0d,
 	y: -6.5d,
+	description: "Use plasma to generator power.",
 	text: [
 		"Comsumes heliumplasma to generate power."
 	],
