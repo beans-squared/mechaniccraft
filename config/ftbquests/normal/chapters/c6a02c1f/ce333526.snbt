@@ -4,9 +4,6 @@
 	x: -4.0d,
 	y: -3.5d,
 	description: "Produce steel faster.",
-	text: [
-		"Enhanced version of the basic blast furnace that is automateble and can be sped up using preheaters."
-	],
 	dependencies: [
 		"00ccd193"
 	],

@@ -4,9 +4,6 @@
 	x: -3.5d,
 	y: -9.5d,
 	description: "Use hydrogen chloride to extract shards of metal from ores.",
-	text: [
-		"Uses hydrogen chloride to extract metal shards from raw ore."
-	],
 	dependencies: [
 		"751092ce"
 	],
@@ -15,22 +12,6 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}],
-		count: 500L
-	},
-	{
-		uid: "9acadfd4",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 500L
-	},
-	{
-		uid: "1f2d1a64",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
 		}],
 		count: 500L
 	}],

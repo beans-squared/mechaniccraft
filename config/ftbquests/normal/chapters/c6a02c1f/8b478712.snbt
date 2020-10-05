@@ -11,9 +11,6 @@
 	y: -2.0d,
 	shape: "hexagon",
 	description: "Gather any mineable block.",
-	text: [
-		"Highly advanced autominer that can mine any block based on filters."
-	],
 	dependencies: [
 		"1ec3e3b4"
 	],
@@ -22,30 +19,6 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}],
-		count: 1000L
-	},
-	{
-		uid: "afeef6d9",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 1000L
-	},
-	{
-		uid: "76a2af95",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
-		}],
-		count: 1000L
-	},
-	{
-		uid: "f0c40504",
-		type: "item",
-		items: [{
-			item: "contenttweaker:yellow_science_pack"
 		}],
 		count: 1000L
 	}],

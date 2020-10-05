@@ -16,9 +16,6 @@
 	y: -1.0d,
 	shape: "gear",
 	description: "Destroy everything in your way.",
-	text: [
-		"Highly advanced personal drilling tool. Expect a few mountains to go missing once this gets unlocked..."
-	],
 	dependencies: [
 		"8b478712"
 	],
@@ -27,31 +24,6 @@
 		type: "item",
 		items: [{
 			item: "contenttweaker:red_science_pack"
-		}],
-		count: 5000L
-	},
-	{
-		uid: "c5dc3bac",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 5000L
-	},
-	{
-		uid: "547f1d6b",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
-		}],
-		count: 5000L,
-		consume_items: false
-	},
-	{
-		uid: "a91cdf3d",
-		type: "item",
-		items: [{
-			item: "contenttweaker:yellow_science_pack"
 		}],
 		count: 5000L
 	}],

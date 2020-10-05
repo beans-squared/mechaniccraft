@@ -17,22 +17,6 @@
 			item: "contenttweaker:red_science_pack"
 		}],
 		count: 1000L
-	},
-	{
-		uid: "42ecbf9b",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 1000L
-	},
-	{
-		uid: "cb09acad",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
-		}],
-		count: 1000L
 	}],
 	rewards: [{
 		uid: "aed1758f",

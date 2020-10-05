@@ -4,9 +4,6 @@
 	x: -6.5d,
 	y: -8.0d,
 	description: "Extract from gemstone ore.",
-	text: [
-		"Breaks down gemstone ores (like diamond or lapis). Can use essence to apply a fortune effect to the process."
-	],
 	dependencies: [
 		"ac89403f"
 	],

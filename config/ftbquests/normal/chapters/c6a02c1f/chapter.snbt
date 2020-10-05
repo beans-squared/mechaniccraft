@@ -1,6 +1,6 @@
 {
-	title: "Mining & Metallurgy",
-	icon: "immersiveengineering:drillhead 1 1",
+	title: "Metallurgy",
+	icon: "mekanism:ingot 1 4",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

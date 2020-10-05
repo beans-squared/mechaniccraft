@@ -7,9 +7,6 @@
 	x: -4.0d,
 	y: -2.0d,
 	description: "Produce steel and other niche metal alloys.",
-	text: [
-		"High-tech furnace desgined to process certain recipes with high efficiency."
-	],
 	dependencies: [
 		"ce333526"
 	],
@@ -19,7 +16,7 @@
 		items: [{
 			item: "contenttweaker:red_science_pack"
 		}],
-		count: 100L
+		count: 300L
 	}],
 	rewards: [{
 		uid: "f077846e",
