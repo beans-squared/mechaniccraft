@@ -1,8 +1,8 @@
 {
 	title: "Protein Generator",
 	icon: "industrialforegoing:protein_generator",
-	x: -4.0d,
-	y: -8.0d,
+	x: -3.5d,
+	y: -5.5d,
 	description: "Use meat to generate power.",
 	text: [
 		"Generates power from liquid protein."

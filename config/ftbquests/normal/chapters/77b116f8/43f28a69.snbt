@@ -2,7 +2,7 @@
 	title: "Solar Generator",
 	icon: "mekanismgenerators:generator 1 1",
 	x: -3.0d,
-	y: -4.0d,
+	y: 0.0d,
 	text: [
 		"Better and more efficient solar energy."
 	],

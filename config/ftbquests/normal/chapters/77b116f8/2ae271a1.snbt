@@ -1,8 +1,8 @@
 {
 	title: "Heat Generator",
 	icon: "mekanismgenerators:generator",
-	x: 0.5d,
-	y: -9.0d,
+	x: 1.0d,
+	y: -4.0d,
 	description: "Use the heat of solid fuels to generate power.",
 	text: [
 		"Versatile solid fuel generator. Passively generates extra power when placed next to heat sources or in the Nether."

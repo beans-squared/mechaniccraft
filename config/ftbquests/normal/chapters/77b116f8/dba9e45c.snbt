@@ -2,7 +2,7 @@
 	title: "Windmill",
 	icon: "immersiveengineering:wooden_device1 1 1",
 	x: 0.5d,
-	y: -7.0d,
+	y: -3.0d,
 	text: [
 		"Rotates and generates kinetic energy based on the wind speed."
 	],

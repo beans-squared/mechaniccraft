@@ -1,8 +1,8 @@
 {
 	title: "Charge-O-Mat",
 	icon: "techreborn:charge_o_mat",
-	x: -3.0d,
-	y: 4.0d,
+	x: 2.5d,
+	y: 6.0d,
 	description: "Charges items.",
 	text: [
 		"Charges multiple items."

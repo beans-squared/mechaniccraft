@@ -2,7 +2,7 @@
 	title: "Water Wheel",
 	icon: "immersiveengineering:wooden_device1",
 	x: -2.5d,
-	y: -7.0d,
+	y: -3.0d,
 	text: [
 		"Rotates and generates kinetic energy using the flow of water."
 	],

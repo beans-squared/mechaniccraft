@@ -2,7 +2,7 @@
 	title: "Kinetic Dynamo",
 	icon: "immersiveengineering:metal_device1 1 2",
 	x: -1.0d,
-	y: -6.0d,
+	y: -2.0d,
 	text: [
 		"Uses the energy of a windmill or water wheel to generate electricity."
 	],

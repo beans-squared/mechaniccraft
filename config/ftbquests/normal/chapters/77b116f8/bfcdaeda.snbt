@@ -1,8 +1,8 @@
 {
 	title: "Diesel Generator",
 	icon: "immersiveengineering:metal_multiblock 1 10",
-	x: 4.0d,
-	y: -10.0d,
+	x: 5.0d,
+	y: -4.0d,
 	description: "Use fluid fuel to generate power.",
 	text: [
 		"Burns diesel fluids to generate power."

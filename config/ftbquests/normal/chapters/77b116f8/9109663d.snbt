@@ -1,8 +1,8 @@
 {
 	title: "Boiler",
 	icon: "magneticraft:steam_boiler",
-	x: 2.5d,
-	y: -6.0d,
+	x: 2.0d,
+	y: 0.0d,
 	description: "Turn water into steam.",
 	text: [
 		"Boils water into steam when supplied with heat."

@@ -1,8 +1,8 @@
 {
 	title: "Small Steam Engine",
 	icon: "magneticraft:steam_engine",
-	x: 3.5d,
-	y: -4.5d,
+	x: 3.0d,
+	y: 1.5d,
 	description: "Use steam to generate power.",
 	text: [
 		"Easy and powerful, but dirty and costly to maintain."

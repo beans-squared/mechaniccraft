@@ -1,8 +1,8 @@
 {
 	title: "Bio-Generator",
 	icon: "mekanismgenerators:generator 1 4",
-	x: -5.5d,
-	y: -9.0d,
+	x: -5.0d,
+	y: -5.5d,
 	description: "Use solid organic matter to generate power.",
 	text: [
 		"Consumes solid biomass to generate power."

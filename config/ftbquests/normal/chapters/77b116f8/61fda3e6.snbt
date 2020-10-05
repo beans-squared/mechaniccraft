@@ -1,8 +1,8 @@
 {
 	title: "Industrial Steam Boiler",
 	icon: "magneticraft:big_steam_boiler",
-	x: 3.5d,
-	y: -7.5d,
+	x: 3.0d,
+	y: -1.5d,
 	description: "Turn water into steam faster and in larger amounts.",
 	text: [
 		"Greater efficiency and capacity than its smaller counterpart."

@@ -1,8 +1,8 @@
 {
 	title: "Gas Turbine",
 	icon: "immersivetech:metal_multiblock1",
-	x: 6.0d,
-	y: -10.0d,
+	x: 7.0d,
+	y: -4.0d,
 	description: "Use fluid fuels to generator power, with good returns on fuel consumption.",
 	text: [
 		"Consumes the same fuels as the diesel generator, outputs a similar amount of energy, but produces COGAS as a byproduct, allowing for massive returns on spent diesel."

@@ -2,7 +2,7 @@
 	title: "Small Solar Panel",
 	icon: "engineersdecor:small_solar_panel",
 	x: -1.0d,
-	y: -4.0d,
+	y: 0.0d,
 	text: [
 		"Generates power using the sun. Useless at night."
 	],

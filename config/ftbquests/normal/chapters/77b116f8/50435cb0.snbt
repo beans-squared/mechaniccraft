@@ -2,7 +2,7 @@
 	title: "Lightning Rod",
 	icon: "techreborn:lightning_rod",
 	x: 0.5d,
-	y: -2.0d,
+	y: 2.0d,
 	text: [
 		"Also captures lightning energy, but better."
 	],

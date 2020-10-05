@@ -2,7 +2,7 @@
 	title: "Dragon Egg Energy Siphon",
 	icon: "techreborn:dragon_egg_syphon",
 	x: -4.0d,
-	y: -6.0d,
+	y: -2.0d,
 	text: [
 		"Sucks the life force out of the poor innnocent baby dragon inside an ender dragon egg and uses it to generate power."
 	],

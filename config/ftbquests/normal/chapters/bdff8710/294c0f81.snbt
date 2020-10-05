@@ -1,8 +1,8 @@
 {
 	title: "Superconductor Cable",
 	icon: "techreborn:cable 1 8",
-	x: -1.0d,
-	y: 4.0d,
+	x: 4.5d,
+	y: 6.0d,
 	description: "Transfers FE.",
 	text: [
 		"ITS OVER 9000"

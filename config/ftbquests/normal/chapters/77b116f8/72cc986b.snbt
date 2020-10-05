@@ -2,7 +2,7 @@
 	title: "Solar Array",
 	icon: "magneticraft:solar_panel",
 	x: -2.0d,
-	y: -3.0d,
+	y: 1.0d,
 	text: [
 		"Generates power using the sun. Useless at night."
 	],

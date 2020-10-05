@@ -1,8 +1,8 @@
 {
 	title: "Wind Generator",
 	icon: "mekanismgenerators:generator 1 6",
-	x: 0.5d,
-	y: -5.0d,
+	x: 1.5d,
+	y: -2.0d,
 	text: [
 		"Generates power based on wind speed (more efficiently)."
 	],

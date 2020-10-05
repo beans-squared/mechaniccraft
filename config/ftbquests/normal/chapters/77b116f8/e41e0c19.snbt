@@ -1,8 +1,8 @@
 {
 	title: "Dynamic Steam Turbine",
 	icon: "mekanismgenerators:turbineblade",
-	x: 7.5d,
-	y: -6.0d,
+	x: 7.0d,
+	y: 0.0d,
 	description: "Use steam to generate power extremely efficiently.",
 	dependencies: [
 		"cf4bf137"
