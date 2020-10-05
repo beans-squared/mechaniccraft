@@ -1,4 +1,5 @@
-item.contenttweaker.red_science_pack.name=Automation Science Pack
+item.contenttweaker.red_science_pack.name=Metallurgy Science Pack
 item.contenttweaker.blue_science_pack.name=Logistics Science Pack
-item.contenttweaker.yellow_science_pack.name=Utility Science Pack
-item.contenttweaker.purple_science_pack.name=Production Science Pack
+item.contenttweaker.yellow_science_pack.name=Yellow Science Pack
+item.contenttweaker.purple_science_pack.name=Chemical Science Pack
+item.contenttweaker.green_science_pack.name=Biotech Science Pack
