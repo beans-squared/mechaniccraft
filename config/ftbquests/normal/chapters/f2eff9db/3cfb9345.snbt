@@ -2,6 +2,7 @@
 	title: "Visit the MechanicCraft Wiki",
 	x: -0.5d,
 	y: 1.5d,
+	shape: "square",
 	custom_click: "https://github.com/beans-squared/MechanicCraft/wiki",
 	tasks: [{
 		uid: "046cf4c6",

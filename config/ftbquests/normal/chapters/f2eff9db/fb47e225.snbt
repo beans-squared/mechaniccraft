@@ -3,6 +3,7 @@
 	icon: "techreborn:part 1 24",
 	x: 0.5d,
 	y: 1.5d,
+	shape: "square",
 	custom_click: "https://sites.google.com/view/mechaniccraft/home",
 	tasks: [{
 		uid: "58c257ea",
