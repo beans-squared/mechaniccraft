@@ -1,0 +1,44 @@
+{
+	title: "Chargepad",
+	icon: "mekanism:machineblock 1 14",
+	x: 4.0d,
+	y: 2.5d,
+	description: "Charges items in your inventory.",
+	text: [
+		"Charges items in the user's inventory when stood on."
+	],
+	dependencies: [
+		"9a8153f3"
+	],
+	tasks: [{
+		uid: "00fd11fb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "87b68dce",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "357ac09e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "255ddae2",
+		type: "gamestage",
+		icon: "mekanism:machineblock 1 14",
+		auto: "no_toast",
+		stage: "et:chargepad"
+	}]
+}

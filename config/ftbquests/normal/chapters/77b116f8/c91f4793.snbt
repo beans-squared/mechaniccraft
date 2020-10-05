@@ -1,0 +1,13 @@
+{
+	title: "Pitiful Fuel Generator",
+	icon: "industrialforegoing:pitiful_fuel_generator",
+	x: -1.0d,
+	y: -8.0d,
+	tasks: [{
+		uid: "85a2e714",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

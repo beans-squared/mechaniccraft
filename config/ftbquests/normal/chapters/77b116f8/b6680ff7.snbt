@@ -1,0 +1,51 @@
+{
+	title: "Solar Machine",
+	icon: "techreborn:solar_panel 1 3",
+	x: -4.0d,
+	y: -3.0d,
+	text: [
+		"Best solar generation ya got."
+	],
+	dependencies: [
+		"43f28a69"
+	],
+	tasks: [{
+		uid: "ac5257cd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "6e4ec4e5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "d7d5b89a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "714c1d36",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "bfb752b9",
+		type: "gamestage",
+		icon: "techreborn:solar_panel 1 3",
+		auto: "no_toast",
+		stage: "solargenerators:solarmachine"
+	}]
+}

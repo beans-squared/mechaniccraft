@@ -1,0 +1,44 @@
+{
+	title: "Heat Generator",
+	icon: "mekanismgenerators:generator",
+	x: 0.5d,
+	y: -9.0d,
+	description: "Use the heat of solid fuels to generate power.",
+	text: [
+		"Versatile solid fuel generator. Passively generates extra power when placed next to heat sources or in the Nether."
+	],
+	dependencies: [
+		"c91f4793"
+	],
+	tasks: [{
+		uid: "2be7f9d2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "a6060d88",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "f7c530af",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "b39e20a7",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:heatgenerator"
+	}]
+}

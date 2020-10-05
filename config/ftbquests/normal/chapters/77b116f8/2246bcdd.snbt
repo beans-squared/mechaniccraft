@@ -1,0 +1,39 @@
+{
+	title: "Small Steam Turbine",
+	icon: "magneticraft:steam_turbine",
+	x: 4.5d,
+	y: -6.0d,
+	description: "Use more steam to generate more power.",
+	text: [
+		"More powerful but more costly than the small steam engine."
+	],
+	dependencies: [
+		"ca4a7052",
+		"6e091102",
+		"61fda3e6"
+	],
+	tasks: [{
+		uid: "46a7e351",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L,
+		consume_items: false
+	},
+	{
+		uid: "0eee0879",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "82fd96c7",
+		type: "gamestage",
+		icon: "magneticraft:steam_turbine",
+		auto: "no_toast",
+		stage: "sg:smallsteamturbine"
+	}]
+}

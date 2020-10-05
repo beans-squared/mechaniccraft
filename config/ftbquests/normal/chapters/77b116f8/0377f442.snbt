@@ -1,0 +1,17 @@
+{
+	title: "Petrified Fuel Generator",
+	icon: "industrialforegoing:petrified_fuel_generator",
+	x: 2.0d,
+	y: -10.0d,
+	description: "Use solid fuel to generate power.",
+	dependencies: [
+		"2ae271a1"
+	],
+	tasks: [{
+		uid: "dbbce4fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	}]
+}

@@ -1,7 +1,0 @@
-{
-	title: "Fuel-Burning Generators",
-	icon: "immersiveengineering:metal_multiblock 1 10",
-	always_invisible: false,
-	group: 2008094456,
-	default_quest_shape: ""
-}

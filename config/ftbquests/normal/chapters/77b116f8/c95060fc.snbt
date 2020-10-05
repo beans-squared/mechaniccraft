@@ -1,0 +1,44 @@
+{
+	title: "Gas-Burning Generator",
+	icon: "mekanismgenerators:generator 1 3",
+	x: -1.0d,
+	y: -9.5d,
+	description: "Use gaseous fuel to generate power.",
+	text: [
+		"Comsumes certain gasses to generate power."
+	],
+	dependencies: [
+		"c91f4793"
+	],
+	tasks: [{
+		uid: "1393a42c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "6aefab08",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "d231791f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "d7c11389",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 3",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:gasburninggenerator"
+	}]
+}

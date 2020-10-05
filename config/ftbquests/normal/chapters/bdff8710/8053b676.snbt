@@ -1,0 +1,27 @@
+{
+	title: "Fluid Pump",
+	icon: "immersiveengineering:metal_device0 1 5",
+	x: -1.0d,
+	y: 2.5d,
+	text: [
+		"Draws fluids from storage devices and takes in water from the world."
+	],
+	dependencies: [
+		"6285d5aa"
+	],
+	tasks: [{
+		uid: "b318ae5f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "91f33149",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device0 1 5",
+		auto: "no_toast",
+		stage: "fluidtransportandstorage:fluidpump"
+	}]
+}

@@ -1,0 +1,47 @@
+{
+	title: "Basic Mechanical Pipe",
+	icon: {
+		id: "mekanism:transmitter",
+		tag: {
+			tier: 0
+		},
+		Damage: 1s
+	},
+	x: -2.5d,
+	y: 3.0d,
+	text: [
+		"Transports fluids. Can be upgrated to increase flow rate."
+	],
+	dependencies: [
+		"6285d5aa"
+	],
+	tasks: [{
+		uid: "b0a53d43",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "8bbaf3f7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "dd8152e8",
+		type: "gamestage",
+		icon: {
+			id: "mekanism:transmitter",
+			tag: {
+				tier: 0
+			},
+			Damage: 1s
+		},
+		auto: "no_toast",
+		stage: "fluidtransportandstorage:basicmechanicalpipe"
+	}]
+}

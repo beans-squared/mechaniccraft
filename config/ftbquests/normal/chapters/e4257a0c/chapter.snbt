@@ -1,7 +1,0 @@
-{
-	title: "Heat Transport & Storage",
-	icon: "magneticraft:heat_pipe",
-	always_invisible: false,
-	group: 2008094456,
-	default_quest_shape: ""
-}

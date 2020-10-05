@@ -1,0 +1,28 @@
+{
+	title: "High Voltage Wiring",
+	icon: "immersiveengineering:wirecoil 1 2",
+	x: 6.0d,
+	y: -0.5d,
+	description: "Transfers FE.",
+	text: [
+		"Fast and deadly."
+	],
+	dependencies: [
+		"d470d99b"
+	],
+	tasks: [{
+		uid: "b4695b12",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "4e27261b",
+		type: "gamestage",
+		icon: "immersiveengineering:wirecoil 1 2",
+		auto: "no_toast",
+		stage: "et:hvwiring"
+	}]
+}

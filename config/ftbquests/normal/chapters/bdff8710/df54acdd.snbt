@@ -1,0 +1,27 @@
+{
+	title: "Insulated Heat Pipe",
+	icon: "magneticraft:insulated_heat_pipe",
+	x: -4.0d,
+	y: -0.5d,
+	text: [
+		"Transports heat more efficiently (less loss)."
+	],
+	dependencies: [
+		"3295b442"
+	],
+	tasks: [{
+		uid: "109bd5ed",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 15L
+	}],
+	rewards: [{
+		uid: "de1b5f62",
+		type: "gamestage",
+		icon: "magneticraft:insulated_heat_pipe",
+		auto: "no_toast",
+		stage: "heattransporandstorage:insulatedheatpipe"
+	}]
+}
