@@ -1,0 +1,29 @@
+{
+	title: "Kinetic Dynamo",
+	icon: "immersiveengineering:metal_device1 1 2",
+	x: -1.0d,
+	y: -2.0d,
+	description: "Use the rotational power of a water wheel or windmill to generate power.",
+	min_required_dependencies: 2,
+	dependencies: [
+		"a6597920",
+		"c91f4793",
+		"0115a4f0",
+		"dba9e45c"
+	],
+	tasks: [{
+		uid: "2ea97e5b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "9115fe4a",
+		type: "gamestage",
+		icon: "immersiveengineering:metal_device1 1 2",
+		auto: "no_toast",
+		stage: "othergenerators:kineticdynamo"
+	}]
+}

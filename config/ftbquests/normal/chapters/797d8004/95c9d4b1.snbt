@@ -3,6 +3,7 @@
 	icon: "mekanism:machineblock2 1 9",
 	x: 1.5d,
 	y: -3.0d,
+	description: "Gather information on underground material.",
 	text: [
 		"Sends information on in-world materials located in a chunk."
 	],

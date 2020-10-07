@@ -23,3 +23,8 @@ var purplePack = VanillaFactory.createItem("purple_science_pack");
 purplePack.maxStackSize = 64;
 purplePack.rarity = "epic";
 purplePack.register();
+
+var greenPack = VanillaFactory.createItem("green_science_pack");
+greenPack.maxStackSize = 64;
+greenPack.rarity = "common";
+greenPack.register();

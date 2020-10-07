@@ -1,6 +1,6 @@
 {
-	title: "Industry: Mining & Production",
-	icon: "immersiveengineering:metal_multiblock 1 12",
+	title: "Metallurgy",
+	icon: "mekanism:ingot 1 4",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

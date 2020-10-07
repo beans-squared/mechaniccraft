@@ -10,6 +10,7 @@
 	},
 	x: 1.5d,
 	y: -1.5d,
+	description: "Read data from the Siesmic Vibrator.",
 	text: [
 		"Relays information from a seismic vibrator to the user."
 	],

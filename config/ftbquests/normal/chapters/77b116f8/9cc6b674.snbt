@@ -1,0 +1,25 @@
+{
+	title: "Plasma Generator",
+	icon: "techreborn:plasma_generator",
+	x: -5.0d,
+	y: -4.0d,
+	description: "Use plasma to generator power.",
+	dependencies: [
+		"c95060fc"
+	],
+	tasks: [{
+		uid: "4ca22305",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 2000L
+	}],
+	rewards: [{
+		uid: "dd4fecc6",
+		type: "gamestage",
+		icon: "techreborn:plasma_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:plasmagenerator"
+	}]
+}

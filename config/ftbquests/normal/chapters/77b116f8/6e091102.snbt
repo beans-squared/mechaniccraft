@@ -1,0 +1,36 @@
+{
+	title: "Industrial Combustion Chamber",
+	icon: "magneticraft:big_combustion_chamber",
+	x: 5.0d,
+	y: -2.0d,
+	description: "Generate large amounts of heat using solid or fluid fuel.",
+	text: [
+		"Bigger, hotter, hungrier."
+	],
+	dependencies: [
+		"bfcdaeda"
+	],
+	tasks: [{
+		uid: "93dbe336",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	},
+	{
+		uid: "a404151b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "5f24d482",
+		type: "gamestage",
+		icon: "magneticraft:big_combustion_chamber",
+		auto: "no_toast",
+		stage: "sg:biggercombustionchamber"
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "Mining Drill",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 5,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:drill",
+		tag: {
+			head: {
+				id: "minecraft:air",
+				Count: 1b,
+				Damage: 0s
+			}
+		}
+	},
+	x: -5.5d,
+	y: -3.5d,
+	description: "Mine faster and more efficiently.",
+	dependencies: [
+		"174afc14",
+		"00ccd193"
+	],
+	tasks: [{
+		uid: "dece3bea",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "afad761b",
+		type: "gamestage",
+		auto: "no_toast",
+		stage: "mining:miningdrill"
+	}]
+}

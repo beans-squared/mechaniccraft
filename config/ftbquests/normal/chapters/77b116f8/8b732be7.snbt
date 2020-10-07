@@ -1,0 +1,28 @@
+{
+	title: "Dragon Egg Energy Siphon",
+	icon: "techreborn:dragon_egg_syphon",
+	x: -4.0d,
+	y: -2.0d,
+	description: "Use the endergetic properties of a dragon's egg to generate power.",
+	dependencies: [
+		"cfd71de7",
+		"abf4d909",
+		"07578cf8",
+		"0c67ea40"
+	],
+	tasks: [{
+		uid: "e9b52413",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 512L
+	}],
+	rewards: [{
+		uid: "4a213abf",
+		type: "gamestage",
+		icon: "techreborn:dragon_egg_syphon",
+		auto: "no_toast",
+		stage: "othergenerators:dragoneggenergysiphon"
+	}]
+}

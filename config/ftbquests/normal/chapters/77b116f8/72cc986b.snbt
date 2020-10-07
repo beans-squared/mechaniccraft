@@ -1,0 +1,25 @@
+{
+	title: "Solar Array",
+	icon: "magneticraft:solar_panel",
+	x: -2.0d,
+	y: 1.0d,
+	description: "Use the sun to generate power.",
+	dependencies: [
+		"eb637904"
+	],
+	tasks: [{
+		uid: "fa42c762",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "ae6f3f7b",
+		type: "gamestage",
+		icon: "magneticraft:solar_panel",
+		auto: "no_toast",
+		stage: "solargenerators:solararray"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Solar Generator",
+	icon: "mekanismgenerators:generator 1 1",
+	x: -3.0d,
+	y: 0.0d,
+	description: "Use the sun to generate power.",
+	dependencies: [
+		"72cc986b"
+	],
+	tasks: [{
+		uid: "cdce4471",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 352L
+	}],
+	rewards: [{
+		uid: "4ae4dba8",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 5",
+		auto: "no_toast",
+		stage: "solargenerators:solargenerator"
+	}]
+}

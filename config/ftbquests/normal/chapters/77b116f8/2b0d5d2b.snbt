@@ -1,0 +1,25 @@
+{
+	title: "Protein Generator",
+	icon: "industrialforegoing:protein_generator",
+	x: -3.5d,
+	y: -5.5d,
+	description: "Use meat to generate power.",
+	dependencies: [
+		"3cfcee03"
+	],
+	tasks: [{
+		uid: "0ca6d4fb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 320L
+	}],
+	rewards: [{
+		uid: "458af936",
+		type: "gamestage",
+		icon: "industrialforegoing:protein_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:proteingenerator"
+	}]
+}

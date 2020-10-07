@@ -1,0 +1,18 @@
+{
+	title: "Crushing Table",
+	icon: "magneticraft:crushing_table",
+	x: -4.0d,
+	y: -8.0d,
+	description: "Break down ores into more refined chunks.",
+	tasks: [{
+		uid: "87b4eaa3",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "63d23af1",
+		type: "gamestage",
+		icon: "magneticraft:crushing_table",
+		auto: "no_toast",
+		stage: "oreprocessing:crushingtable"
+	}]
+}

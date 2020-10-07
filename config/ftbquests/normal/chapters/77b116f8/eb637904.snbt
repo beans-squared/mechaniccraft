@@ -1,0 +1,26 @@
+{
+	title: "Small Solar Panel",
+	icon: "engineersdecor:small_solar_panel",
+	x: -1.0d,
+	y: 0.0d,
+	description: "Use the sun to generate power.",
+	dependencies: [
+		"00ccd193",
+		"0c67ea40"
+	],
+	tasks: [{
+		uid: "604fc38a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "18c0cfb7",
+		type: "gamestage",
+		icon: "engineersdecor:small_solar_panel",
+		auto: "no_toast",
+		stage: "solargenerators:smallsolarpanel"
+	}]
+}

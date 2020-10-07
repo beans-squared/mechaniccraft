@@ -3,9 +3,7 @@
 	icon: "immersiveengineering:tool",
 	x: 0.0d,
 	y: -4.0d,
-	text: [
-		"Tool nessesary in the creation of some multiblock structures."
-	],
+	description: "Form multiblock structures.",
 	tasks: [{
 		uid: "1e872d7f",
 		type: "item",

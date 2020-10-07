@@ -1,6 +1,6 @@
 {
-	title: "Industry: Energy & Logistics",
-	icon: "mekanismgenerators:turbineblade",
+	title: "Electrics",
+	icon: "immersiveengineering:wirecoil",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

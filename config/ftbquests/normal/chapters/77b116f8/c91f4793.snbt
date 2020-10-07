@@ -1,0 +1,21 @@
+{
+	title: "Pitiful Fuel Generator",
+	icon: "industrialforegoing:pitiful_fuel_generator",
+	x: -1.0d,
+	y: -4.0d,
+	description: "Use wood to generate power.",
+	tasks: [{
+		uid: "65658363",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 15L
+	}],
+	rewards: [{
+		uid: "610c933d",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "electrics:pitifulfuelgenerator"
+	}]
+}

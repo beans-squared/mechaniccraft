@@ -1,0 +1,27 @@
+{
+	title: "Wind Generator",
+	icon: "mekanismgenerators:generator 1 6",
+	x: 1.5d,
+	y: -2.0d,
+	description: "Use the wind to generate power more efficiently.",
+	dependencies: [
+		"1fedf4cd",
+		"553cd691",
+		"0c67ea40"
+	],
+	tasks: [{
+		uid: "669915b3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 960L
+	}],
+	rewards: [{
+		uid: "836dc3e9",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 6",
+		auto: "no_toast",
+		stage: "othergenerators:windgenerator"
+	}]
+}

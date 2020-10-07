@@ -1,0 +1,26 @@
+{
+	title: "Washing Factory",
+	icon: "industrialforegoing:ore_washer",
+	x: -8.0d,
+	y: -7.5d,
+	description: "Turn your ore into meat, because you can.",
+	dependencies: [
+		"8ff886c1",
+		"9d2fb12a"
+	],
+	tasks: [{
+		uid: "68ce95c8",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "2414818a",
+		type: "gamestage",
+		icon: "industrialforegoing:ore_washer",
+		auto: "no_toast",
+		stage: "orerefinement:washingfactory"
+	}]
+}

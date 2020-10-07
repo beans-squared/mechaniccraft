@@ -1,0 +1,26 @@
+{
+	title: "Biofuel Generator",
+	icon: "industrialforegoing:biofuel_generator",
+	x: -2.0d,
+	y: -5.5d,
+	description: "Use plant material to generate power.",
+	dependencies: [
+		"c91f4793",
+		"8ff886c1"
+	],
+	tasks: [{
+		uid: "86fe4f85",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 160L
+	}],
+	rewards: [{
+		uid: "366c7a64",
+		type: "gamestage",
+		icon: "industrialforegoing:biofuel_generator",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:biofuelgenerator"
+	}]
+}

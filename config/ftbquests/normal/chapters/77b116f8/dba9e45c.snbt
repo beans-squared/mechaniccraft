@@ -1,0 +1,25 @@
+{
+	title: "Windmill",
+	icon: "immersiveengineering:wooden_device1 1 1",
+	x: 0.5d,
+	y: -3.0d,
+	description: "Use the wind to generate power.",
+	dependencies: [
+		"47473b78"
+	],
+	tasks: [{
+		uid: "658cd7ac",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "544839ed",
+		type: "gamestage",
+		icon: "immersiveengineering:wooden_device1 1 1",
+		auto: "no_toast",
+		stage: "othergenerators:iewindmill"
+	}]
+}

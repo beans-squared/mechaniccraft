@@ -1,0 +1,48 @@
+{
+	title: "Charge-O-Mat",
+	icon: "techreborn:charge_o_mat",
+	x: 2.5d,
+	y: 6.0d,
+	description: "Charges items.",
+	text: [
+		"Charges multiple items."
+	],
+	dependencies: [
+		"294c0f81"
+	],
+	tasks: [{
+		uid: "ab341616",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}]
+	},
+	{
+		uid: "f29001b3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_science_pack"
+		}]
+	},
+	{
+		uid: "e1913a6c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:purple_science_pack"
+		}]
+	},
+	{
+		uid: "5ac65f41",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}]
+	}],
+	rewards: [{
+		uid: "058d0471",
+		type: "gamestage",
+		icon: "techreborn:charge_o_mat",
+		auto: "no_toast",
+		stage: "et:chargeomat"
+	}]
+}

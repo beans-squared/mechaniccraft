@@ -1,7 +1,0 @@
-{
-	title: "Energy Transport",
-	icon: "immersiveengineering:wirecoil",
-	always_invisible: false,
-	group: 2008094456,
-	default_quest_shape: ""
-}

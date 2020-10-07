@@ -1,14 +1,11 @@
 {
 	title: "Rolling Machine",
 	icon: "techreborn:rolling_machine",
-	x: 0.5d,
-	y: -1.0d,
+	x: 1.5d,
+	y: -4.5d,
 	description: "Produces metal products.",
 	text: [
 		"Automatically crafts various metal stuff cheaper."
-	],
-	dependencies: [
-		"8dd8664b"
 	],
 	tasks: [{
 		uid: "297beb06",

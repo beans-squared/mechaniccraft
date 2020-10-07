@@ -1,7 +1,0 @@
-{
-	title: "Ore Processing",
-	icon: "magneticraft:crafting 1 5",
-	always_invisible: false,
-	group: -962581473,
-	default_quest_shape: ""
-}

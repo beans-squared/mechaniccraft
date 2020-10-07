@@ -1,7 +1,0 @@
-{
-	title: "Steam Generators",
-	icon: "immersivetech:metal_multiblock 1 3",
-	always_invisible: false,
-	group: 2008094456,
-	default_quest_shape: ""
-}

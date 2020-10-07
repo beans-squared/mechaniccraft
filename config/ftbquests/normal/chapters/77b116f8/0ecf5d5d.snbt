@@ -1,0 +1,26 @@
+{
+	title: "Bio-Generator",
+	icon: "mekanismgenerators:generator 1 4",
+	x: -5.0d,
+	y: -5.5d,
+	description: "Use solid organic matter to generate power.",
+	dependencies: [
+		"2b0d5d2b",
+		"ac89403f"
+	],
+	tasks: [{
+		uid: "199575b1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 700L
+	}],
+	rewards: [{
+		uid: "4d6912c0",
+		type: "gamestage",
+		icon: "mekanismgenerators:generator 1 4",
+		auto: "no_toast",
+		stage: "fuelburninggenerators:biogenerator"
+	}]
+}

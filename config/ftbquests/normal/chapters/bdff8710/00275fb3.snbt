@@ -1,0 +1,28 @@
+{
+	title: "Capacitor Backpack",
+	icon: "immersiveengineering:powerpack",
+	x: 10.0d,
+	y: -0.5d,
+	description: "Charges items in your inventory.",
+	text: [
+		"Holds an electric charge for handheld tools and weapons to use. Fits into a baubles slot."
+	],
+	dependencies: [
+		"edff7f32"
+	],
+	tasks: [{
+		uid: "963f59f7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	}],
+	rewards: [{
+		uid: "03c2921e",
+		type: "gamestage",
+		icon: "immersiveengineering:powerpack",
+		auto: "no_toast",
+		stage: "et:capacitorbackpack"
+	}]
+}

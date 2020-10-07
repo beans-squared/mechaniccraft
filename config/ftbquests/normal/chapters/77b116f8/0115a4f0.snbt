@@ -1,0 +1,25 @@
+{
+	title: "Water Wheel",
+	icon: "immersiveengineering:wooden_device1",
+	x: -2.5d,
+	y: -3.0d,
+	description: "Use the flow of water to generate power.",
+	dependencies: [
+		"00ccd193"
+	],
+	tasks: [{
+		uid: "2e63c451",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "80a2903b",
+		type: "gamestage",
+		icon: "immersiveengineering:wooden_device1",
+		auto: "no_toast",
+		stage: "othergenerators:waterwheel"
+	}]
+}
