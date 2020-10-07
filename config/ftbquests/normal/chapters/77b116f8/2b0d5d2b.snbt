@@ -4,19 +4,16 @@
 	x: -3.5d,
 	y: -5.5d,
 	description: "Use meat to generate power.",
-	text: [
-		"Generates power from liquid protein."
-	],
 	dependencies: [
 		"3cfcee03"
 	],
 	tasks: [{
-		uid: "8d49f4fe",
+		uid: "0ca6d4fb",
 		type: "item",
 		items: [{
-			item: "contenttweaker:red_science_pack"
+			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 250L
+		count: 320L
 	}],
 	rewards: [{
 		uid: "458af936",

@@ -3,9 +3,7 @@
 	icon: "immersiveengineering:metal_device1 1 2",
 	x: -1.0d,
 	y: -2.0d,
-	text: [
-		"Uses the energy of a windmill or water wheel to generate electricity."
-	],
+	description: "Use the rotational power of a water wheel or windmill to generate power.",
 	min_required_dependencies: 2,
 	dependencies: [
 		"a6597920",
@@ -14,12 +12,12 @@
 		"dba9e45c"
 	],
 	tasks: [{
-		uid: "9e76e588",
+		uid: "2ea97e5b",
 		type: "item",
 		items: [{
-			item: "contenttweaker:red_science_pack"
+			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 5L
+		count: 3L
 	}],
 	rewards: [{
 		uid: "9115fe4a",

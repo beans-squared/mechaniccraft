@@ -1,0 +1,18 @@
+{
+	title: "Improved Windmill",
+	icon: "immersiveengineering:material 1 12",
+	x: 2.0d,
+	y: -3.0d,
+	description: "Use the wind to generate power more efficiently.",
+	dependencies: [
+		"dba9e45c"
+	],
+	tasks: [{
+		uid: "235c9db1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_science_pack"
+		}],
+		count: 24L
+	}]
+}

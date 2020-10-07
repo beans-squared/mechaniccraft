@@ -3,19 +3,17 @@
 	icon: "immersiveengineering:wooden_device1",
 	x: -2.5d,
 	y: -3.0d,
-	text: [
-		"Rotates and generates kinetic energy using the flow of water."
-	],
+	description: "Use the flow of water to generate power.",
 	dependencies: [
 		"00ccd193"
 	],
 	tasks: [{
-		uid: "d4182028",
+		uid: "2e63c451",
 		type: "item",
 		items: [{
-			item: "contenttweaker:red_science_pack"
+			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 5L
+		count: 12L
 	}],
 	rewards: [{
 		uid: "80a2903b",

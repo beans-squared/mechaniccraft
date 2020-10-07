@@ -2,6 +2,6 @@
 	title: "Material Transport & Storage",
 	icon: "magneticraft:conveyor_belt",
 	always_invisible: false,
-	group: 2008094456,
+	group: 0,
 	default_quest_shape: ""
 }

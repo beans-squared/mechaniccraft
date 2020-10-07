@@ -3,6 +3,7 @@
 	icon: "immersiveengineering:metal_multiblock 1 10",
 	x: 5.0d,
 	y: -4.0d,
+	shape: "gear",
 	description: "Use fluid fuel to generate power.",
 	text: [
 		"Burns diesel fluids to generate power."

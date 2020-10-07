@@ -4,43 +4,16 @@
 	x: -5.0d,
 	y: -4.0d,
 	description: "Use plasma to generator power.",
-	text: [
-		"Comsumes heliumplasma to generate power."
-	],
 	dependencies: [
 		"c95060fc"
 	],
 	tasks: [{
-		uid: "cd0de3ba",
-		type: "item",
-		items: [{
-			item: "contenttweaker:red_science_pack"
-		}],
-		count: 500L
-	},
-	{
-		uid: "e10b0e63",
-		type: "item",
-		items: [{
-			item: "contenttweaker:blue_science_pack"
-		}],
-		count: 500L
-	},
-	{
-		uid: "fc9ad764",
-		type: "item",
-		items: [{
-			item: "contenttweaker:purple_science_pack"
-		}],
-		count: 500L
-	},
-	{
 		uid: "4ca22305",
 		type: "item",
 		items: [{
 			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 500L
+		count: 2000L
 	}],
 	rewards: [{
 		uid: "dd4fecc6",

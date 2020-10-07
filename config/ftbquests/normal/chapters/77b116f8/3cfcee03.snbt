@@ -4,20 +4,17 @@
 	x: -2.0d,
 	y: -5.5d,
 	description: "Use plant material to generate power.",
-	text: [
-		"Generates energy from biofuel."
-	],
 	dependencies: [
 		"c91f4793",
 		"8ff886c1"
 	],
 	tasks: [{
-		uid: "2403cfaf",
+		uid: "86fe4f85",
 		type: "item",
 		items: [{
-			item: "contenttweaker:red_science_pack"
+			item: "contenttweaker:yellow_science_pack"
 		}],
-		count: 100L
+		count: 160L
 	}],
 	rewards: [{
 		uid: "366c7a64",
