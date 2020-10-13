@@ -1,0 +1,36 @@
+{
+	title: "Solar Energy",
+	icon: "engineersdecor:small_solar_panel",
+	x: -5.0d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"b65f8cf4",
+		"8eeb8ace",
+		"57c36b36",
+		"8f915257"
+	],
+	hide: true,
+	tasks: [{
+		uid: "159b39c5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "79e0cd1c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "f13e5700",
+		type: "custom",
+		title: "Solar Panel",
+		icon: "engineersdecor:small_solar_panel"
+	}]
+}

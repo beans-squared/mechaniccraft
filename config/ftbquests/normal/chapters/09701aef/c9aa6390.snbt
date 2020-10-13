@@ -1,0 +1,18 @@
+{
+	title: "! Physical Projectile Damage 3",
+	x: 3.0d,
+	y: 6.5d,
+	shape: "rsquare",
+	dependencies: [
+		"46af00b9",
+		"1f5402d6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c98ad2e0",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

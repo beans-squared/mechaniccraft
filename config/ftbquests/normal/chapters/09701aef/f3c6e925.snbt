@@ -1,0 +1,47 @@
+{
+	title: "Chemical Thrower",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:chemthrower"
+	},
+	x: 3.0d,
+	y: 11.0d,
+	shape: "rsquare",
+	dependencies: [
+		"19ef0e8a",
+		"46af00b9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b4f74fd8",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}],
+	rewards: [{
+		uid: "33bde27b",
+		type: "custom",
+		title: "Chemical Thrower",
+		icon: {
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:chemthrower"
+		}
+	},
+	{
+		uid: "36b40014",
+		type: "custom",
+		title: "Chemthrower Turret",
+		icon: "immersiveengineering:metal_device1 1 10"
+	}]
+}

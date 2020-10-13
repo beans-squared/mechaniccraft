@@ -1,0 +1,17 @@
+{
+	title: "! Efficiency module",
+	x: -8.0d,
+	y: 12.5d,
+	shape: "square",
+	dependencies: [
+		"46ee657e"
+	],
+	hide: true,
+	tasks: [{
+		uid: "9cfb6467",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

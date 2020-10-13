@@ -1,0 +1,17 @@
+{
+	title: "! Nuclear power",
+	x: -12.0d,
+	y: 17.0d,
+	shape: "diamond",
+	dependencies: [
+		"53d32652"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4e05f55e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

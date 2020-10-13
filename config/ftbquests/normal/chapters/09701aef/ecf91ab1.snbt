@@ -1,0 +1,19 @@
+{
+	title: "! Lasers",
+	x: 3.0d,
+	y: 15.5d,
+	shape: "diamond",
+	dependencies: [
+		"88092e40",
+		"8eeb8ace",
+		"b2e1f0e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5b137840",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

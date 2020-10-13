@@ -1,0 +1,45 @@
+{
+	title: "Capacitors",
+	icon: "immersiveengineering:metal_device0",
+	x: -4.5d,
+	y: 11.0d,
+	shape: "square",
+	dependencies: [
+		"b2e1f0e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ac106683",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 150L
+	},
+	{
+		uid: "fb2f9ccf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 150L
+	}],
+	rewards: [{
+		uid: "bcc06bac",
+		type: "custom",
+		title: "LV Capacitor",
+		icon: "immersiveengineering:metal_device0"
+	},
+	{
+		uid: "3ad8cd2a",
+		type: "custom",
+		title: "MV Capacitor",
+		icon: "immersiveengineering:metal_device0 1 1"
+	},
+	{
+		uid: "dc9a5379",
+		type: "custom",
+		title: "HV Capacitor",
+		icon: "immersiveengineering:metal_device0 1 2"
+	}]
+}

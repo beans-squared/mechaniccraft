@@ -1,0 +1,17 @@
+{
+	title: "! Refined Flammables",
+	x: 3.0d,
+	y: 12.5d,
+	shape: "rsquare",
+	dependencies: [
+		"f3c6e925"
+	],
+	hide: true,
+	tasks: [{
+		uid: "64dc4f3b",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

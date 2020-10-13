@@ -1,0 +1,18 @@
+{
+	title: "Advanced Construction Gadgets",
+	icon: {
+		id: "buildinggadgets:copypastetool",
+		tag: {
+			mode: "Copy"
+		}
+	},
+	x: -2.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "b332bd5d",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

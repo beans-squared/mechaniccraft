@@ -1,0 +1,18 @@
+{
+	title: "! Lab Reserach speed 3",
+	x: -12.0d,
+	y: 18.5d,
+	shape: "diamond",
+	dependencies: [
+		"88092e40",
+		"1fa8676b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "543bde69",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

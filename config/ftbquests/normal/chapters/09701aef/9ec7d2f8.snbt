@@ -1,0 +1,36 @@
+{
+	title: "Railway",
+	icon: {
+		id: "immersiverailroading:item_rolling_stock",
+		tag: {
+			defID: "rolling_stock/locomotives/a1_peppercorn.json",
+			display: {
+				Name: "§rA1 Peppercorn"
+			}
+		}
+	},
+	x: -11.0d,
+	y: 6.5d,
+	shape: "square",
+	dependencies: [
+		"c9026096",
+		"82cc26bf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5ab950ed",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "a2b3aaca",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 75L
+	}]
+}

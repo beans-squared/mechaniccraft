@@ -1,0 +1,44 @@
+{
+	title: "Steel Plate Armor",
+	icon: "immersiveengineering:steel_armor_head",
+	x: -4.0d,
+	y: 2.0d,
+	shape: "circle",
+	dependencies: [
+		"57c36b36",
+		"1657b9be"
+	],
+	hide: true,
+	tasks: [{
+		uid: "8185466a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 30L
+	}],
+	rewards: [{
+		uid: "6c3b5e5a",
+		type: "custom",
+		title: "Steel Plate Boots",
+		icon: "immersiveengineering:steel_armor_feet"
+	},
+	{
+		uid: "f7c03c7b",
+		type: "custom",
+		title: "Steel Plate Leggings",
+		icon: "immersiveengineering:steel_armor_legs"
+	},
+	{
+		uid: "3777f683",
+		type: "custom",
+		title: "Steel Plate Chestplate",
+		icon: "immersiveengineering:steel_armor_chest"
+	},
+	{
+		uid: "d3b51167",
+		type: "custom",
+		title: "Steel Plate Helmet",
+		icon: "immersiveengineering:steel_armor_head"
+	}]
+}

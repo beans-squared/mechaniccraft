@@ -1,0 +1,27 @@
+{
+	title: "Fluid Wagon",
+	icon: {
+		id: "immersiverailroading:item_rolling_stock",
+		tag: {
+			defID: "rolling_stock/tank/tank_us2.json",
+			display: {
+				Name: "§rTank US 2"
+			}
+		}
+	},
+	x: -10.5d,
+	y: 8.0d,
+	shape: "square",
+	dependencies: [
+		"9e895ce8",
+		"9ec7d2f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4428a627",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

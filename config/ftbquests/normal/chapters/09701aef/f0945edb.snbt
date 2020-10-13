@@ -1,0 +1,63 @@
+{
+	title: "Concrete",
+	icon: "immersiveengineering:stone_decoration 1 5",
+	x: -9.5d,
+	y: 5.0d,
+	shape: "square",
+	dependencies: [
+		"8f915257"
+	],
+	hide: true,
+	tasks: [{
+		uid: "0a9ff18a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 250L
+	},
+	{
+		uid: "cc05868c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "a3872c2c",
+		type: "custom",
+		title: "Concrete",
+		icon: "immersiveengineering:stone_decoration 1 5"
+	},
+	{
+		uid: "9de05ad9",
+		type: "custom",
+		title: "Leaded Concrete",
+		icon: "immersiveengineering:stone_decoration 1 7"
+	},
+	{
+		uid: "d7726066",
+		type: "custom",
+		title: "Rebar Concrete",
+		icon: "engineersdecor:rebar_concrete"
+	},
+	{
+		uid: "70d16404",
+		type: "custom",
+		title: "Gas Concrete",
+		icon: "engineersdecor:gas_concrete"
+	},
+	{
+		uid: "fbaf8ade",
+		type: "custom",
+		title: "Hempcrete",
+		icon: "immersiveengineering:stone_decoration 1 4"
+	},
+	{
+		uid: "6ab88f97",
+		type: "custom",
+		title: "Asphalt Concrete",
+		icon: "immersivepetroleum:stone_decoration"
+	}]
+}

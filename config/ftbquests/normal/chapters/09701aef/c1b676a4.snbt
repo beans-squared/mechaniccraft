@@ -1,0 +1,28 @@
+{
+	title: "Circuit Network",
+	icon: "rs_ctr:wire",
+	x: 2.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"8f915257",
+		"b65f8cf4"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3f4c8ef9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 100L
+	},
+	{
+		uid: "8cc266b7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 100L
+	}]
+}

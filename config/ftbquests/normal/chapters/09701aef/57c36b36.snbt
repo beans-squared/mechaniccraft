@@ -1,0 +1,19 @@
+{
+	title: "Steel Processing",
+	icon: "immersiveengineering:metal 1 8",
+	x: -4.5d,
+	y: 0.5d,
+	shape: "circle",
+	dependencies: [
+		"72d9023f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2833ce2f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	}]
+}

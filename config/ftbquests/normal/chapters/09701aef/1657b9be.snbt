@@ -1,0 +1,29 @@
+{
+	title: "Military",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 21,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:revolver"
+	},
+	x: -3.0d,
+	y: 0.5d,
+	shape: "circle",
+	description: "Means of defending yourself and your factory.",
+	hide_dependency_lines: true,
+	dependencies: [
+		"073e4349"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6b2800c6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}]
+}

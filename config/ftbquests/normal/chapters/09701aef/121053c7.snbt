@@ -1,0 +1,19 @@
+{
+	title: "Land Mines",
+	icon: "ghostsexplosives:explosive_landmine",
+	x: 0.5d,
+	y: 11.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9e026980",
+		"46af00b9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b1af04ec",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

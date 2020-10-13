@@ -1,0 +1,18 @@
+{
+	title: "! Speed Module 2",
+	x: -5.5d,
+	y: 17.0d,
+	shape: "diamond",
+	dependencies: [
+		"33e75f9e",
+		"1a349a5f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "96f07cf3",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

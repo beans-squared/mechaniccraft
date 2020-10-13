@@ -1,0 +1,20 @@
+{
+	title: "Basic Construction Gadgets",
+	icon: {
+		id: "buildinggadgets:buildingtool",
+		tag: {
+			blockstate: {
+				Name: "minecraft:air"
+			}
+		}
+	},
+	x: -2.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "0dc739bd",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

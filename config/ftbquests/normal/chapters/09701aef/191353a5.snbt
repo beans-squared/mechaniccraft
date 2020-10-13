@@ -1,0 +1,26 @@
+{
+	title: "Turrets",
+	icon: "immersiveengineering:metal_device1 1 11",
+	x: -0.5d,
+	y: 2.0d,
+	shape: "circle",
+	hide_dependency_lines: true,
+	dependencies: [
+		"073e4349"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ac0b6d59",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "7b30780e",
+		type: "custom",
+		title: "Gun Turret",
+		icon: "immersiveengineering:metal_device1 1 11"
+	}]
+}

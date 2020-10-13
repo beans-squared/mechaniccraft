@@ -1,0 +1,17 @@
+{
+	title: "! Phyisical prjectile dmg 5",
+	x: 4.0d,
+	y: 15.5d,
+	shape: "diamond",
+	dependencies: [
+		"162cb5b7"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5a9b8b57",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

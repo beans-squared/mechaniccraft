@@ -1,0 +1,18 @@
+{
+	title: "Stronger Explosives 3",
+	icon: "ghostsexplosives:tnt_x100",
+	x: 1.0d,
+	y: 18.5d,
+	shape: "diamond",
+	dependencies: [
+		"8f228e19"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ba18b96a",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

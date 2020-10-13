@@ -1,0 +1,24 @@
+{
+	title: "Flammables",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "napalm",
+			Amount: 1000
+		}
+	},
+	x: 1.5d,
+	y: 9.5d,
+	shape: "square",
+	dependencies: [
+		"b3517457"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5c568422",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

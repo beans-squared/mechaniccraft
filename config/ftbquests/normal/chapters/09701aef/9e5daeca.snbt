@@ -1,0 +1,25 @@
+{
+	title: "Capacitor Backpack",
+	icon: "immersiveengineering:powerpack",
+	x: -5.0d,
+	y: 14.0d,
+	shape: "square",
+	dependencies: [
+		"ca917e3c",
+		"b2e1f0e2"
+	],
+	hide: true,
+	tasks: [{
+		uid: "34558f27",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}],
+	rewards: [{
+		uid: "22cd5952",
+		type: "custom",
+		title: "Capacitor Backpack",
+		icon: "immersiveengineering:powerpack"
+	}]
+}

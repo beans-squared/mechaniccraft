@@ -1,0 +1,20 @@
+{
+	title: "Rocketry",
+	icon: "techguns:itemshared 1 7",
+	x: 1.5d,
+	y: 11.0d,
+	shape: "rsquare",
+	dependencies: [
+		"19ef0e8a",
+		"46af00b9",
+		"9e026980"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d0e9fb4a",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

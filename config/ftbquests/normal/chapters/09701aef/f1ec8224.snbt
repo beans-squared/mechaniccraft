@@ -1,0 +1,17 @@
+{
+	title: "! Tank",
+	x: -3.5d,
+	y: 17.0d,
+	shape: "diamond",
+	dependencies: [
+		"12065a68"
+	],
+	hide: true,
+	tasks: [{
+		uid: "47b1d855",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

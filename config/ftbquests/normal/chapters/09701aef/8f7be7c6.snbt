@@ -1,0 +1,34 @@
+{
+	title: "Advanced Material Processing",
+	icon: "engineersdecor:small_lab_furnace",
+	x: -11.0d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"57c36b36",
+		"8f915257"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c74349ff",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 75L
+	},
+	{
+		uid: "7e4f8ecf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 75L
+	}],
+	rewards: [{
+		uid: "1d83fe32",
+		type: "custom",
+		title: "Steel Furnace",
+		icon: "engineersdecor:small_lab_furnace"
+	}]
+}

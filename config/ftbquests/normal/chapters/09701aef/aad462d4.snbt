@@ -1,0 +1,21 @@
+{
+	title: "Production Science",
+	icon: "contenttweaker:purple_science_pack",
+	x: -9.5d,
+	y: 17.0d,
+	shape: "diamond",
+	hide_dependency_lines: true,
+	dependencies: [
+		"e8d9a77b",
+		"aaa5f603",
+		"9ec7d2f8"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2ef1f1a8",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

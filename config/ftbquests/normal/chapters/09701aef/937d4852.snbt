@@ -1,0 +1,18 @@
+{
+	title: "Inserter Speed Bonus",
+	icon: "magneticraft:inserter_upgrade",
+	x: -12.0d,
+	y: 12.5d,
+	shape: "square",
+	dependencies: [
+		"9a5b89ad"
+	],
+	hide: true,
+	tasks: [{
+		uid: "535d4cf7",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

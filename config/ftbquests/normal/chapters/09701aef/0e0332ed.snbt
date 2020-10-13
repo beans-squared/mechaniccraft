@@ -1,0 +1,17 @@
+{
+	title: "! Weapon Shooting Speed 4",
+	x: 4.0d,
+	y: 8.0d,
+	shape: "rsquare",
+	dependencies: [
+		"df8b7b06"
+	],
+	hide: true,
+	tasks: [{
+		uid: "084060b7",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

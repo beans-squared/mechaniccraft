@@ -1,0 +1,23 @@
+{
+	title: "Advanced Oil Processing",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "oil",
+			Amount: 1000
+		}
+	},
+	x: -7.5d,
+	y: 15.5d,
+	dependencies: [
+		"88092e40"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e764e98e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

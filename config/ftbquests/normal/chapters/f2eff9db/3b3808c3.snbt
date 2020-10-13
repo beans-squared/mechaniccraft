@@ -1,0 +1,94 @@
+{
+	title: "Welcome to MechanicCraft Research",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "mechaniccraft:icon.png"
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: -1.0d,
+	shape: "square",
+	size: 4.0d,
+	tasks: [{
+		uid: "0aaa95d8",
+		type: "checkmark",
+		title: "Check when you are ready to make your decision.",
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "896cc3d1",
+		type: "item",
+		item: {
+			id: "tconstruct:frypan",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 636,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 7.0f,
+					FreeModifiers: 3,
+					Durability: 636,
+					HarvestLevel: 3,
+					Attack: 6.0f
+				},
+				Special: {
+					Categories: [
+						"weapon",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"steel",
+						"steel"
+					],
+					Modifiers: []
+				},
+				Modifiers: [{
+					identifier: "stiff",
+					color: -5789785,
+					level: 1
+				},
+				{
+					identifier: "sharp",
+					color: -5789785,
+					level: 1
+				}],
+				Traits: [
+					"stiff",
+					"sharp"
+				]
+			}
+		}
+	},
+	{
+		uid: "1bffa419",
+		type: "item",
+		item: "harvestcraft:tacoitem",
+		count: 10
+	},
+	{
+		uid: "077f7b1c",
+		type: "item",
+		item: "toughasnails:fruit_juice 1 2",
+		count: 10
+	},
+	{
+		uid: "cbd88e9e",
+		type: "item",
+		item: "ghostsexplosives:tnt_shelter"
+	},
+	{
+		uid: "075b4114",
+		type: "item",
+		item: "minecraft:flint_and_steel"
+	}]
+}

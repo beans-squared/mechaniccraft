@@ -1,0 +1,18 @@
+{
+	title: "Military 3",
+	x: 0.0d,
+	y: 15.5d,
+	shape: "diamond",
+	dependencies: [
+		"88092e40",
+		"46af00b9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "ea2be2e1",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

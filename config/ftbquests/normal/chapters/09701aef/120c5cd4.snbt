@@ -1,0 +1,23 @@
+{
+	title: "Lubricant",
+	x: -7.5d,
+	y: 17.0d,
+	shape: "diamond",
+	dependencies: [
+		"2055ad11"
+	],
+	hide: true,
+	tasks: [{
+		uid: "50a7726d",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "lubricant",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Inserter Capacity Bonus",
+	icon: "magneticraft:inserter_upgrade 1 1",
+	x: -12.0d,
+	y: 11.0d,
+	shape: "square",
+	dependencies: [
+		"c9026096",
+		"9e895ce8",
+		"53879775"
+	],
+	hide: true,
+	tasks: [{
+		uid: "23fc36f1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 150L
+	},
+	{
+		uid: "195ba27b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 150L
+	}]
+}

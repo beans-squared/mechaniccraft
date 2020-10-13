@@ -1,0 +1,18 @@
+{
+	title: "! Weapon Shooting Speed 2",
+	x: 4.0d,
+	y: 5.0d,
+	shape: "square",
+	dependencies: [
+		"8a990ddc",
+		"8f915257"
+	],
+	hide: true,
+	tasks: [{
+		uid: "c2c8d1ce",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

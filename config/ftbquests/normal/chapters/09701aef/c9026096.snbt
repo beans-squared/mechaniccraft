@@ -1,0 +1,85 @@
+{
+	title: "Logistics 2",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:dropper"
+		}
+	},
+	x: -12.5d,
+	y: 3.5d,
+	shape: "square",
+	description: "Improved means of transportation.",
+	dependencies: [
+		"6ec12a1c",
+		"8f915257"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d68deb54",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 200L
+	},
+	{
+		uid: "4e887c92",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_science_pack"
+		}],
+		count: 200L
+	}],
+	rewards: [{
+		uid: "c1c91dd7",
+		type: "custom",
+		title: "Dropping Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}
+	},
+	{
+		uid: "38158877",
+		type: "custom",
+		title: "Vertical Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:vertical"
+			}
+		}
+	},
+	{
+		uid: "2f6d700b",
+		type: "custom",
+		title: "Spliting Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:splitter"
+			}
+		}
+	},
+	{
+		uid: "72ccd1ec",
+		type: "custom",
+		title: "Fluid Pipe Check Valve",
+		icon: "engineersdecor:straight_pipe_valve"
+	},
+	{
+		uid: "64531c41",
+		type: "custom",
+		title: "Redstone Controlled Fluid Valve",
+		icon: "engineersdecor:straight_pipe_valve_redstone"
+	},
+	{
+		uid: "db06722f",
+		type: "custom",
+		title: "Redstone Analog Fluid Valve",
+		icon: "engineersdecor:straight_pipe_valve_redstone_analog"
+	}]
+}

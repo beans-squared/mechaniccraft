@@ -1,0 +1,17 @@
+{
+	title: "! Physical Projectile Damage 4",
+	x: 3.0d,
+	y: 8.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c9aa6390"
+	],
+	hide: true,
+	tasks: [{
+		uid: "5427ad00",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

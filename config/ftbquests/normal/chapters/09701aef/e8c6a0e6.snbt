@@ -1,0 +1,17 @@
+{
+	title: "! Mining Productivity",
+	x: -11.0d,
+	y: 11.0d,
+	shape: "square",
+	dependencies: [
+		"53879775"
+	],
+	hide: true,
+	tasks: [{
+		uid: "03c7731e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}
