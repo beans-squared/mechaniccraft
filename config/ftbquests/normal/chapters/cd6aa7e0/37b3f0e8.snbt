@@ -1,0 +1,39 @@
+{
+	title: "Part Builder",
+	icon: {
+		id: "tconstruct:tooltables",
+		tag: {
+			textureBlock: {
+				id: "minecraft:log",
+				Count: 1b,
+				Damage: 0s
+			}
+		},
+		Damage: 2s
+	},
+	x: 0.0d,
+	y: 3.5d,
+	description: "Use patterns to craft tool and armor parts.",
+	dependencies: [
+		"68cc6258"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4527c38a",
+		type: "item",
+		title: "Craft: Part Builder",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

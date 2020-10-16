@@ -1,0 +1,39 @@
+{
+	title: "Fuel Storage",
+	icon: "tconstruct:seared_tank",
+	x: 1.5d,
+	y: 11.5d,
+	description: "Storage for smeltery fuel.",
+	dependencies: [
+		"828e028f"
+	],
+	hide: true,
+	tasks: [{
+		uid: "40ae6e08",
+		type: "item",
+		title: "Craft: Bucket",
+		items: [{
+			item: "minecraft:bucket"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "f95a2c5b",
+		type: "custom",
+		title: "Seared Tank",
+		icon: "tconstruct:seared_tank"
+	},
+	{
+		uid: "c35ddbd3",
+		type: "custom",
+		title: "Seared Gauge",
+		icon: "tconstruct:seared_tank 1 1"
+	},
+	{
+		uid: "e662ce60",
+		type: "custom",
+		title: "Seared Window",
+		icon: "tconstruct:seared_tank 1 2"
+	}]
+}

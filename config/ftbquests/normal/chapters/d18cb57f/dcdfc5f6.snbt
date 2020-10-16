@@ -1,0 +1,26 @@
+{
+	title: "Sluice Box",
+	icon: "magneticraft:sluice_box",
+	x: 0.0d,
+	y: 1.5d,
+	description: "A device used to filter unwanted debris from ore material.",
+	dependencies: [
+		"b3bab3b5"
+	],
+	hide: true,
+	tasks: [{
+		uid: "2dde55a3",
+		type: "item",
+		title: "Craft: Iron Plate",
+		items: [{
+			item: "immersiveengineering:metal 1 39"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "b92b33a6",
+		type: "custom",
+		title: "Sluice Box",
+		icon: "magneticraft:sluice_box"
+	}]
+}

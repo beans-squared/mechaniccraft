@@ -1,0 +1,27 @@
+{
+	title: "Tool Forge",
+	x: -2.0d,
+	y: 7.5d,
+	description: "Assemble more advanced tools.",
+	dependencies: [
+		"7188cf38"
+	],
+	hide: true,
+	tasks: [{
+		uid: "f5fa9ebe",
+		type: "item",
+		title: "Craft: Tool Forge",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

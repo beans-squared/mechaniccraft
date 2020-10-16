@@ -1,0 +1,32 @@
+{
+	title: "Pumps",
+	icon: "industrialrenewal:electric_pump",
+	x: 5.0d,
+	y: 5.5d,
+	description: "Accelerates the flow of water through pipes. Can also extract water from water sources.",
+	dependencies: [
+		"56fbcf0c"
+	],
+	hide: true,
+	tasks: [{
+		uid: "d43d31f7",
+		type: "observation",
+		title: "Scan: Fluid Pipe",
+		icon: "immersiveengineering:metal_device1 1 6",
+		match_type: "block_id",
+		match: "immersiveengineering:metal_device1",
+		timer: 120L
+	}],
+	rewards: [{
+		uid: "59884c74",
+		type: "custom",
+		title: "Electric Pump",
+		icon: "industrialrenewal:electric_pump"
+	},
+	{
+		uid: "75e6fa4a",
+		type: "custom",
+		title: "Fluid Pump",
+		icon: "immersiveengineering:metal_device0 1 5"
+	}]
+}

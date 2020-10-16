@@ -1,0 +1,26 @@
+{
+	title: "Laboratory Furnace",
+	icon: "engineersdecor:small_lab_furnace",
+	x: -2.0d,
+	y: 3.5d,
+	description: "Better fuel efficiency than a standard furnace.",
+	dependencies: [
+		"c47862e1"
+	],
+	hide: true,
+	tasks: [{
+		uid: "99bbb2dd",
+		type: "observation",
+		title: "Scan: Combustion Chamber",
+		icon: "magneticraft:combustion_chamber",
+		match_type: "block_id",
+		match: "magneticraft:combustion_chamber",
+		timer: 100L
+	}],
+	rewards: [{
+		uid: "c8e281c0",
+		type: "custom",
+		title: "Laboratory Furnace",
+		icon: "engineersdecor:small_lab_furnace"
+	}]
+}

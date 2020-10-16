@@ -1,0 +1,17 @@
+{
+	title: "Crafting Station",
+	icon: "tconstruct:tooltables",
+	x: 0.0d,
+	y: -0.5d,
+	description: "Simple crafting table upgrade.",
+	tasks: [{
+		uid: "e51fe20e",
+		type: "item",
+		title: "Craft: Crafting Station",
+		items: [{
+			item: "tconstruct:tooltables"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

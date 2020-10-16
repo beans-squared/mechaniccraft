@@ -1,0 +1,29 @@
+{
+	title: "Water Wheel",
+	icon: "immersiveengineering:wooden_device1",
+	x: -2.0d,
+	y: 1.5d,
+	description: "Harnesses the natural energy of flowing water sources.",
+	dependencies: [
+		"dcdfc5f6"
+	],
+	hide: true,
+	rewards: [{
+		uid: "ff15af61",
+		type: "custom",
+		title: "Water Wheel",
+		icon: "immersiveengineering:wooden_device1"
+	},
+	{
+		uid: "654ad7d1",
+		type: "custom",
+		title: "Windmill",
+		icon: "immersiveengineering:wooden_device1 1 1"
+	},
+	{
+		uid: "757a745b",
+		type: "custom",
+		title: "Kinetic Dynamo",
+		icon: "immersiveengineering:metal_device1 1 2"
+	}]
+}

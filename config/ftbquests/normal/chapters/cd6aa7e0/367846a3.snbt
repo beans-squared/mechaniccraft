@@ -1,0 +1,23 @@
+{
+	title: "Smeltey I/O",
+	icon: "tconstruct:smeltery_io",
+	x: 0.0d,
+	y: 11.5d,
+	description: "Used to insert and extract fluids from a smeltery.",
+	dependencies: [
+		"828e028f"
+	],
+	hide: true,
+	rewards: [{
+		uid: "7be2fc6c",
+		type: "custom",
+		title: "Seared Drain",
+		icon: "tconstruct:smeltery_io"
+	},
+	{
+		uid: "4cbf7a5b",
+		type: "custom",
+		title: "Seared Faucet",
+		icon: "tconstruct:faucet"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Seared Bricks",
+	x: 0.0d,
+	y: 9.5d,
+	description: "Used to craft the many components of a smeltery.",
+	dependencies: [
+		"d05b974b"
+	],
+	hide: true,
+	tasks: [{
+		uid: "92e4cbe0",
+		type: "item",
+		title: "Smelt: Seared Brick",
+		items: [{
+			item: "tconstruct:materials"
+		}],
+		consume_items: false
+	}]
+}

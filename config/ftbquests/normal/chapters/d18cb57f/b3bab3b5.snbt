@@ -1,0 +1,38 @@
+{
+	title: "Crushing Table",
+	x: 0.0d,
+	y: -0.5d,
+	description: "Used to crush stuff, of course.",
+	dependencies: [
+		"7188cf38"
+	],
+	hide: true,
+	tasks: [{
+		uid: "4241b798",
+		type: "item",
+		title: "Craft: Crushing Table",
+		items: [{
+			item: "magneticraft:crushing_table"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "adca062a",
+		type: "custom",
+		title: "Stone Mallet",
+		icon: "magneticraft:stone_hammer"
+	},
+	{
+		uid: "01880857",
+		type: "custom",
+		title: "Iron Mallet",
+		icon: "magneticraft:iron_hammer"
+	},
+	{
+		uid: "31d9dc23",
+		type: "custom",
+		title: "Steel Mallet",
+		icon: "magneticraft:steel_hammer"
+	}]
+}

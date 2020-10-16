@@ -1,0 +1,20 @@
+{
+	title: "Grout",
+	x: 0.0d,
+	y: 7.5d,
+	description: "Used to create seared bricks.",
+	dependencies: [
+		"7188cf38"
+	],
+	hide: true,
+	tasks: [{
+		uid: "dd3a7ada",
+		type: "item",
+		title: "Craft: Grout",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "Small Steam Engine",
+	icon: "magneticraft:steam_engine",
+	x: 2.0d,
+	y: 7.5d,
+	description: "Consumes steam to generate electricity.",
+	dependencies: [
+		"56fbcf0c",
+		"170eebb1"
+	],
+	hide: true,
+	rewards: [{
+		uid: "76f52539",
+		type: "custom",
+		title: "Small Steam Engine",
+		icon: "magneticraft:steam_engine"
+	}]
+}

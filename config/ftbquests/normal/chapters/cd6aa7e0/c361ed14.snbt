@@ -1,0 +1,27 @@
+{
+	title: "Armor Forge",
+	x: 2.0d,
+	y: 7.5d,
+	description: "Assemble better armor.",
+	dependencies: [
+		"5bac5f29"
+	],
+	hide: true,
+	tasks: [{
+		uid: "22a46c13",
+		type: "item",
+		title: "Craft: Armor Forge",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

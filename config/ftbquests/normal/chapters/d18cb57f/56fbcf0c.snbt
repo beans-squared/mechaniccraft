@@ -1,0 +1,17 @@
+{
+	title: "Fluid Pipes",
+	icon: "immersiveengineering:metal_device1 1 6",
+	x: 3.0d,
+	y: 5.5d,
+	description: "Transports fluids from A to B.",
+	dependencies: [
+		"170eebb1"
+	],
+	hide: true,
+	rewards: [{
+		uid: "bd434bbd",
+		type: "custom",
+		title: "Fluid Pipe",
+		icon: "immersiveengineering:metal_device1 1 6"
+	}]
+}

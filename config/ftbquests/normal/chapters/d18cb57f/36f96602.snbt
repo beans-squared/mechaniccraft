@@ -1,0 +1,35 @@
+{
+	title: "Coke Oven",
+	icon: "immersiveengineering:stone_device",
+	x: 2.0d,
+	y: 3.5d,
+	description: "Doubles the burn time of coal. Also produces creosote.",
+	dependencies: [
+		"c47862e1"
+	],
+	hide: true,
+	rewards: [{
+		uid: "31821f86",
+		type: "custom",
+		title: "Coke Oven",
+		icon: "immersiveengineering:stone_device"
+	},
+	{
+		uid: "b51ef420",
+		type: "custom",
+		title: "Coal Coke",
+		icon: "immersiveengineering:material 1 6"
+	},
+	{
+		uid: "075405bf",
+		type: "custom",
+		title: "Creosote Oil Bucket",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "creosote",
+				Amount: 1000
+			}
+		}
+	}]
+}

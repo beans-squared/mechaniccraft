@@ -1,0 +1,26 @@
+{
+	title: "Combustion Chamber",
+	icon: "magneticraft:combustion_chamber",
+	x: 0.0d,
+	y: 3.5d,
+	description: "Burns fuel to generate heat.",
+	dependencies: [
+		"dcdfc5f6"
+	],
+	hide: true,
+	tasks: [{
+		uid: "61be1838",
+		type: "observation",
+		title: "Scan: Furnace",
+		icon: "minecraft:furnace",
+		match_type: "block_id",
+		match: "minecraft:furnace",
+		timer: 80L
+	}],
+	rewards: [{
+		uid: "afd0032f",
+		type: "custom",
+		title: "Combustion Chamber",
+		icon: "magneticraft:combustion_chamber"
+	}]
+}
