@@ -1,9 +1,3 @@
-#################################################
-#												#
-# Descriptions for Immersive Engineering items	#
-#												#
-#################################################
-
 import scripts.common.desc;
 
 // Coal Coke
@@ -65,7 +59,7 @@ desc(<immersiveengineering:wooden_device1:1>, "Turns based on wind speed. Can be
 desc(<immersiveengineering:wooden_device1>, "Turns based on water flow. Can be combined with a kinetic dynamo to generate power.");
 
 // Thermoelectric Generator
-desc(<immersiveengineering:metal_device1:3>, "Generates energy based on the temperature difference of two materials placed next to it (ex. water and lava).");
+desc(<immersiveengineering:metal_device1:3>, "Generates energy based on the temperature difference of two materials placed next to it (ex. water and lava). Useful for low-power equipment in remote or inaccessible locations like mountaintops, the vacuum of space or the deep ocean.");
 
 // Current Transformer
 desc(<immersiveengineering:connector:11>, "Measures the average rate of power flow.");
