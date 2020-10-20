@@ -1,0 +1,12 @@
+{
+	title: "Pumpjack",
+	icon: {
+		id: "immersivepetroleum:schematic",
+		tag: {
+			multiblock: "IP:Pumpjack"
+		}
+	},
+	x: 14.0d,
+	y: 0.0d,
+	hide: true
+}

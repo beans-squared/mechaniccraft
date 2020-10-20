@@ -3,7 +3,7 @@
 	icon: "immersiveengineering:stone_device",
 	x: 2.0d,
 	y: 3.5d,
-	description: "Doubles the burn time of coal. Also produces creosote.",
+	description: "Processes coal into coal coke.",
 	dependencies: [
 		"c47862e1"
 	],

@@ -1,0 +1,11 @@
+{
+	title: "Improved Blast Furnace",
+	icon: "immersiveengineering:stone_device 1 2",
+	x: 6.0d,
+	y: 4.5d,
+	description: "Faster than the older model.",
+	dependencies: [
+		"95f0dd87"
+	],
+	hide: true
+}

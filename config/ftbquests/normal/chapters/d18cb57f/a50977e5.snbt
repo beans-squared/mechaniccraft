@@ -1,0 +1,11 @@
+{
+	title: "Advaned Coke Oven",
+	icon: "immersivetech:stone_multiblock",
+	x: 4.0d,
+	y: 3.5d,
+	description: "Faster than the older model.",
+	dependencies: [
+		"36f96602"
+	],
+	hide: true
+}

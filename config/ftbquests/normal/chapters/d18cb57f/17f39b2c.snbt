@@ -1,0 +1,17 @@
+{
+	title: "Jerrycan",
+	icon: "immersiveengineering:jerrycan",
+	x: -4.0d,
+	y: -0.5d,
+	description: "Robust fluid container.",
+	dependencies: [
+		"01d09417"
+	],
+	hide: true,
+	rewards: [{
+		uid: "e43fd179",
+		type: "custom",
+		title: "Jerrycan",
+		icon: "immersiveengineering:jerrycan"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	title: "Chemical Thrower",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:chemthrower"
+	},
+	x: 10.0d,
+	y: -1.0d,
+	hide: true
+}

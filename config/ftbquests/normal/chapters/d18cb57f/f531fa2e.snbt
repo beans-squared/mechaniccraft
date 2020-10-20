@@ -1,0 +1,17 @@
+{
+	title: "Ear Defenders",
+	icon: "immersiveengineering:earmuffs",
+	x: -4.0d,
+	y: 0.5d,
+	description: "Block out the haters. Also loud machinery (probably important).",
+	dependencies: [
+		"01d09417"
+	],
+	hide: true,
+	rewards: [{
+		uid: "c1915824",
+		type: "custom",
+		title: "Ear Defenders",
+		icon: "immersiveengineering:earmuffs"
+	}]
+}

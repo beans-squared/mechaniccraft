@@ -1,0 +1,7 @@
+{
+	title: "Automated Workbench",
+	icon: "immersiveengineering:metal_multiblock 1 5",
+	x: 9.0d,
+	y: 0.0d,
+	hide: true
+}

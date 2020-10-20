@@ -1,0 +1,18 @@
+{
+	title: "Inserter",
+	icon: "magneticraft:inserter",
+	x: -4.0d,
+	y: 6.5d,
+	description: "Transfers items between inventories and conveyor belts.",
+	dependencies: [
+		"48d7c1cf"
+	],
+	hide: true,
+	tasks: [{
+		uid: "e45bca25",
+		type: "item",
+		items: [{
+			item: "magneticraft:inserter"
+		}]
+	}]
+}

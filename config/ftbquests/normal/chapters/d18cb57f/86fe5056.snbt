@@ -1,0 +1,33 @@
+{
+	title: "Heavy Plated Shield",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:shield"
+	},
+	x: -6.0d,
+	y: 1.5d,
+	description: "Durable, upgradable steel shield.",
+	dependencies: [
+		"8eb0187c"
+	],
+	hide: true,
+	rewards: [{
+		uid: "85d9e0c2",
+		type: "custom",
+		title: "Heavy Plated Shield",
+		icon: {
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:shield"
+		}
+	}]
+}

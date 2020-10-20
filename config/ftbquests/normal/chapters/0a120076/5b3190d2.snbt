@@ -1,0 +1,7 @@
+{
+	title: "Lubricant",
+	icon: "immersivepetroleum:oil_can",
+	x: 17.0d,
+	y: -1.0d,
+	hide: true
+}

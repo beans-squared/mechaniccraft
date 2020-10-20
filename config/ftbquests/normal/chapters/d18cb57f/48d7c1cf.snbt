@@ -1,0 +1,77 @@
+{
+	title: "Conveyor Belts",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: -2.0d,
+	y: 3.5d,
+	description: "Transport items.",
+	dependencies: [
+		"dcdfc5f6"
+	],
+	hide: true,
+	rewards: [{
+		uid: "92fb0d81",
+		type: "custom",
+		title: "Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}
+	},
+	{
+		uid: "d77f9130",
+		type: "custom",
+		title: "Dropping Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:dropper"
+			}
+		}
+	},
+	{
+		uid: "c8cc208d",
+		type: "custom",
+		title: "Vertical Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:vertical"
+			}
+		}
+	},
+	{
+		uid: "52c280ac",
+		type: "custom",
+		title: "Splitting Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:splitter"
+			}
+		}
+	},
+	{
+		uid: "3774a793",
+		type: "custom",
+		title: "Extracting Conveyor Belt",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:extract"
+			}
+		}
+	},
+	{
+		uid: "29d24f34",
+		type: "custom",
+		title: "Elevated Conveyor Belt",
+		icon: "magneticraft:conveyor_belt"
+	}]
+}

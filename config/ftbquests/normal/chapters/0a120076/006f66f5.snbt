@@ -1,0 +1,7 @@
+{
+	title: "Tesla Coil",
+	icon: "immersiveengineering:metal_device1 1 8",
+	x: 8.0d,
+	y: -1.0d,
+	hide: true
+}

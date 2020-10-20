@@ -1,0 +1,17 @@
+{
+	title: "Alloy Kiln",
+	icon: "immersiveengineering:stone_device 1 7",
+	x: 0.0d,
+	y: 5.5d,
+	description: "Useful for melting metals together to create alloys with unique properties.",
+	dependencies: [
+		"c47862e1"
+	],
+	hide: true,
+	rewards: [{
+		uid: "8b9cfd3d",
+		type: "custom",
+		title: "Alloy Kiln",
+		icon: "immersiveengineering:stone_device 1 7"
+	}]
+}

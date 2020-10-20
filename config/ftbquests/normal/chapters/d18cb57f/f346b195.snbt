@@ -1,0 +1,17 @@
+{
+	title: "Tough Fabric",
+	icon: "immersiveengineering:material 1 5",
+	x: 2.0d,
+	y: -0.5d,
+	description: "Durable, strong fabric made from the fibers of the hemp plant.",
+	dependencies: [
+		"b3bab3b5"
+	],
+	hide: true,
+	rewards: [{
+		uid: "b99ca90b",
+		type: "custom",
+		title: "Tough Fabric",
+		icon: "immersiveengineering:material 1 5"
+	}]
+}

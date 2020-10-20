@@ -1,0 +1,17 @@
+{
+	title: "Heat Pipe",
+	icon: "magneticraft:heat_pipe",
+	x: 2.0d,
+	y: 4.5d,
+	description: "Transports heat.",
+	dependencies: [
+		"c47862e1"
+	],
+	hide: true,
+	rewards: [{
+		uid: "f95045ee",
+		type: "custom",
+		title: "Heat Pipe",
+		icon: "magneticraft:heat_pipe"
+	}]
+}

@@ -8,15 +8,6 @@
 		"b3bab3b5"
 	],
 	hide: true,
-	tasks: [{
-		uid: "a300d043",
-		type: "observation",
-		title: "Scan: Grass",
-		icon: "minecraft:tallgrass 1 1",
-		match_type: "block_id",
-		match: "minecraft:tallgrass",
-		timer: 40L
-	}],
 	rewards: [{
 		uid: "2fed1dec",
 		type: "custom",

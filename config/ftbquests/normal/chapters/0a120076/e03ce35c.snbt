@@ -1,0 +1,15 @@
+{
+	title: "Mining Drill",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 5,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:drill"
+	},
+	x: 3.0d,
+	y: -1.0d,
+	hide: true
+}

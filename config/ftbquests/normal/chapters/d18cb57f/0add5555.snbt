@@ -1,0 +1,17 @@
+{
+	title: "Turntable",
+	icon: "immersiveengineering:wooden_device0 1 6",
+	x: -4.0d,
+	y: 4.5d,
+	description: "Rotates things attached to it.",
+	dependencies: [
+		"48d7c1cf"
+	],
+	hide: true,
+	rewards: [{
+		uid: "1f42338a",
+		type: "custom",
+		title: "Turntable",
+		icon: "immersiveengineering:wooden_device0 1 6"
+	}]
+}

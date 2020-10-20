@@ -3,9 +3,27 @@
 	icon: "immersiveengineering:stone_device 1 1",
 	x: 4.0d,
 	y: 4.5d,
-	description: "Slowly turns iron into steel.",
+	description: "Processes iron into steel.",
 	dependencies: [
 		"36f96602"
 	],
-	hide: true
+	hide: true,
+	rewards: [{
+		uid: "1b16451f",
+		type: "custom",
+		title: "Crude Blast Furnace",
+		icon: "immersiveengineering:stone_device 1 1"
+	},
+	{
+		uid: "4ad6c6c1",
+		type: "custom",
+		title: "Steel",
+		icon: "immersiveengineering:metal 1 8"
+	},
+	{
+		uid: "78b5202d",
+		type: "custom",
+		title: "Slag",
+		icon: "immersiveengineering:material 1 7"
+	}]
 }

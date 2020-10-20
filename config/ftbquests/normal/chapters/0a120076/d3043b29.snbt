@@ -1,0 +1,7 @@
+{
+	title: "Steam Turbine",
+	icon: "immersivetech:metal_multiblock 1 3",
+	x: 3.0d,
+	y: 1.0d,
+	hide: true
+}

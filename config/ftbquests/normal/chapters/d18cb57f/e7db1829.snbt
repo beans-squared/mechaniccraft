@@ -1,0 +1,17 @@
+{
+	title: "Maintenence Kit",
+	icon: "immersiveengineering:maintenance_kit",
+	x: -4.0d,
+	y: 2.5d,
+	description: "Repair and modify your tools on the go.",
+	dependencies: [
+		"01d09417"
+	],
+	hide: true,
+	rewards: [{
+		uid: "d8831230",
+		type: "custom",
+		title: "Maintenence Kit",
+		icon: "immersiveengineering:maintenance_kit"
+	}]
+}

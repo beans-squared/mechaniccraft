@@ -2,7 +2,7 @@
 	title: "Tabletop Engineering",
 	icon: "immersiveengineering:wooden_device0 1 2",
 	x: 4.0d,
-	y: 2.5d,
+	y: 3.5d,
 	description: "Solutions for the design and blueprinting of machines.",
 	dependencies: [
 		"36f96602"

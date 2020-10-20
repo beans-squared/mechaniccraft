@@ -1,0 +1,7 @@
+{
+	title: "Distiller",
+	icon: "immersivetech:metal_multiblock",
+	x: 0.0d,
+	y: 1.0d,
+	hide: true
+}

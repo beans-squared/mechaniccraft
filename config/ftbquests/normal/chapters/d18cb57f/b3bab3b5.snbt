@@ -1,5 +1,6 @@
 {
 	title: "Crushing Table",
+	icon: "magneticraft:crushing_table",
 	x: 0.0d,
 	y: -0.5d,
 	description: "Used to crush stuff, of course.",
@@ -7,16 +8,6 @@
 		"7188cf38"
 	],
 	hide: true,
-	tasks: [{
-		uid: "4241b798",
-		type: "item",
-		title: "Craft: Crushing Table",
-		items: [{
-			item: "magneticraft:crushing_table"
-		}],
-		consume_items: false,
-		only_from_crafting: true
-	}],
 	rewards: [{
 		uid: "adca062a",
 		type: "custom",

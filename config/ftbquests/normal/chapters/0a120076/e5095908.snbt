@@ -1,0 +1,12 @@
+{
+	title: "Scanner",
+	icon: {
+		id: "scannable:scanner",
+		tag: {
+			energy: 50000
+		}
+	},
+	x: 4.0d,
+	y: 0.0d,
+	hide: true
+}

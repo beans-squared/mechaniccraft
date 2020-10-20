@@ -1,0 +1,7 @@
+{
+	title: "Capacitor Backpack",
+	icon: "immersiveengineering:powerpack",
+	x: 11.0d,
+	y: -1.0d,
+	hide: true
+}

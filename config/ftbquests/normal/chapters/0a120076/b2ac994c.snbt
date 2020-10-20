@@ -1,0 +1,7 @@
+{
+	title: "Diesel Generator",
+	icon: "immersiveengineering:metal_multiblock 1 10",
+	x: 1.0d,
+	y: 0.0d,
+	hide: true
+}

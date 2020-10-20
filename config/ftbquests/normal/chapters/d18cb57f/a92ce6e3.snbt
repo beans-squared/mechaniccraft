@@ -8,15 +8,6 @@
 		"c47862e1"
 	],
 	hide: true,
-	tasks: [{
-		uid: "c9b4bb58",
-		type: "observation",
-		title: "Scan: Furnace",
-		icon: "minecraft:furnace",
-		match_type: "block_id",
-		match: "minecraft:furnace",
-		timer: 160L
-	}],
 	rewards: [{
 		uid: "c521f8aa",
 		type: "custom",

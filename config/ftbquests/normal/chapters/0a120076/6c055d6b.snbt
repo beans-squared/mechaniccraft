@@ -1,0 +1,15 @@
+{
+	title: "Railgun'",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersiveengineering:railgun"
+	},
+	x: 10.0d,
+	y: 0.0d,
+	hide: true
+}

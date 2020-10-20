@@ -1,0 +1,17 @@
+{
+	title: "Treated Wood",
+	icon: "immersiveengineering:treated_wood",
+	x: 4.0d,
+	y: 2.5d,
+	description: "Chemically treated to be weather resistant.",
+	dependencies: [
+		"36f96602"
+	],
+	hide: true,
+	rewards: [{
+		uid: "f28a1842",
+		type: "custom",
+		title: "Treated Wood",
+		icon: "immersiveengineering:treated_wood"
+	}]
+}

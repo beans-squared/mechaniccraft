@@ -1,0 +1,18 @@
+{
+	title: "Balloons",
+	icon: "immersiveengineering:cloth_device 1 1",
+	x: 4.0d,
+	y: 0.5d,
+	description: "Good at parties.",
+	dependencies: [
+		"10a50de9",
+		"f346b195"
+	],
+	hide: true,
+	rewards: [{
+		uid: "32d8fbc4",
+		type: "custom",
+		title: "Balloon",
+		icon: "immersiveengineering:cloth_device 1 1"
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Asphalt Concrete",
+	icon: "immersivepetroleum:stone_decoration",
+	x: 16.0d,
+	y: 0.0d,
+	hide: true
+}

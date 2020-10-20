@@ -1,11 +1,11 @@
 {
 	title: "Water Wheel",
 	icon: "immersiveengineering:wooden_device1",
-	x: -2.0d,
+	x: 2.0d,
 	y: 1.5d,
-	description: "Harnesses the natural energy of flowing water sources.",
+	description: "Harness the natural energy of the elements in the world.",
 	dependencies: [
-		"dcdfc5f6"
+		"10a50de9"
 	],
 	hide: true,
 	rewards: [{

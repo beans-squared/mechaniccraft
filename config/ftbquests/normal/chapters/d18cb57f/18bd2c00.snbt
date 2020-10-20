@@ -1,0 +1,35 @@
+{
+	title: "Optics",
+	icon: "immersiveengineering:metal_device1 1 4",
+	x: -6.0d,
+	y: 3.5d,
+	description: "Lighting solutions for your factory/home/<insertotherapplicationhere>!",
+	dependencies: [
+		"b346677e"
+	],
+	hide: true,
+	rewards: [{
+		uid: "36b0ad61",
+		type: "custom",
+		title: "Lantern",
+		icon: "immersiveengineering:metal_decoration2 1 4"
+	},
+	{
+		uid: "d04dc47d",
+		type: "custom",
+		title: "Powered Lantern",
+		icon: "immersiveengineering:metal_device1 1 4"
+	},
+	{
+		uid: "0eebde4d",
+		type: "custom",
+		title: "Floodlight",
+		icon: "immersiveengineering:metal_device1 1 9"
+	},
+	{
+		uid: "e6a48e26",
+		type: "custom",
+		title: "Flashbulb",
+		icon: "immersiveengineering:toolupgrade 1 10"
+	}]
+}

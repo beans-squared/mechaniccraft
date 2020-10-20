@@ -1,0 +1,17 @@
+{
+	title: "Concrete",
+	icon: "immersiveengineering:stone_decoration 1 5",
+	x: 6.0d,
+	y: 4.5d,
+	description: "A hard composite cement-based material useful in many structural applications.",
+	dependencies: [
+		"95f0dd87"
+	],
+	hide: true,
+	rewards: [{
+		uid: "f3029aa7",
+		type: "custom",
+		title: "Concrete",
+		icon: "immersiveengineering:stone_decoration 1 5"
+	}]
+}
