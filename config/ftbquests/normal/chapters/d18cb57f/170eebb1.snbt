@@ -1,11 +1,11 @@
 {
 	title: "Small Boiler",
 	icon: "magneticraft:steam_boiler",
-	x: 1.0d,
-	y: 5.5d,
+	x: 3.0d,
+	y: -6.5d,
 	description: "Heats up water, turning it into steam.",
 	dependencies: [
-		"c47862e1"
+		"2b623de9"
 	],
 	hide: true,
 	rewards: [{

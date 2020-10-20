@@ -1,0 +1,35 @@
+{
+	title: "Treated Storage",
+	icon: "immersiveengineering:wooden_device0",
+	x: 10.0d,
+	y: -0.5d,
+	description: "Solid and liquid storage solutions.",
+	dependencies: [
+		"4c8e6d49"
+	],
+	hide: true,
+	rewards: [{
+		uid: "68e64ab6",
+		type: "custom",
+		title: "Wooden Storage Crate",
+		icon: "immersiveengineering:wooden_device0"
+	},
+	{
+		uid: "b7d993fb",
+		type: "custom",
+		title: "Reinforced Storage Crate",
+		icon: "immersiveengineering:wooden_device0 1 5"
+	},
+	{
+		uid: "2564a4d8",
+		type: "custom",
+		title: "Labeled Crate",
+		icon: "engineersdecor:labeled_crate"
+	},
+	{
+		uid: "52d26de2",
+		type: "custom",
+		title: "Wooden Barrel",
+		icon: "immersiveengineering:wooden_device0 1 1"
+	}]
+}

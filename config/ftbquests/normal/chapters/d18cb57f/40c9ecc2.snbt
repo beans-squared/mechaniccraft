@@ -1,0 +1,22 @@
+{
+	title: "Woodworking",
+	icon: "magneticraft:box",
+	x: 4.0d,
+	y: -0.5d,
+	dependencies: [
+		"50327a19"
+	],
+	hide: true,
+	rewards: [{
+		uid: "ac6a59ce",
+		type: "custom",
+		title: "Wooden Box",
+		icon: "magneticraft:box"
+	},
+	{
+		uid: "93c0d958",
+		type: "custom",
+		title: "Wooden Feeding Trough",
+		icon: "magneticraft:feeding_trough"
+	}]
+}

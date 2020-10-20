@@ -1,8 +1,8 @@
 {
 	title: "Coke Oven",
 	icon: "immersiveengineering:stone_device",
-	x: 2.0d,
-	y: 3.5d,
+	x: 4.0d,
+	y: -1.5d,
 	description: "Processes coal into coal coke.",
 	dependencies: [
 		"c47862e1"

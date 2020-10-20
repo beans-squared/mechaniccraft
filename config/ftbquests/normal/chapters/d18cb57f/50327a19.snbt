@@ -1,0 +1,10 @@
+{
+	title: "Basic Science",
+	icon: "contenttweaker:red_science_pack",
+	x: 0.0d,
+	y: -2.5d,
+	dependencies: [
+		"7188cf38"
+	],
+	hide: true
+}

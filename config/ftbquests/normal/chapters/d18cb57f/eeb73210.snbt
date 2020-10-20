@@ -1,0 +1,35 @@
+{
+	title: "Basic Weather Monitoring",
+	icon: "weather2:tornado_sensor",
+	x: -2.0d,
+	y: -4.5d,
+	description: "Measure wind speed, wind direction, and if wind is dangerous.",
+	dependencies: [
+		"50327a19"
+	],
+	hide: true,
+	rewards: [{
+		uid: "135cd2a5",
+		type: "custom",
+		title: "Wind Vane",
+		icon: "weather2:wind_vane"
+	},
+	{
+		uid: "757eac74",
+		type: "custom",
+		title: "Anemometer",
+		icon: "weather2:anemometer"
+	},
+	{
+		uid: "167aff84",
+		type: "custom",
+		title: "Severe Weather Sensor",
+		icon: "weather2:tornado_sensor"
+	},
+	{
+		uid: "29f2a6e6",
+		type: "custom",
+		title: "Thermometer",
+		icon: "toughasnails:thermometer"
+	}]
+}

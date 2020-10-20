@@ -1,8 +1,8 @@
 {
 	title: "Crude Blast Furnace",
 	icon: "immersiveengineering:stone_device 1 1",
-	x: 4.0d,
-	y: 4.5d,
+	x: 6.0d,
+	y: -1.5d,
 	description: "Processes iron into steel.",
 	dependencies: [
 		"36f96602"

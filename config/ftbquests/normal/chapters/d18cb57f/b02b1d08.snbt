@@ -1,8 +1,8 @@
 {
 	title: "Electric Furnace",
 	icon: "magneticraft:electric_furnace",
-	x: -1.0d,
-	y: 7.5d,
+	x: 6.0d,
+	y: -2.5d,
 	description: "Smelts items using electricity.",
 	dependencies: [
 		"a92ce6e3"

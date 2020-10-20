@@ -1,0 +1,23 @@
+{
+	title: "Temperature Regulation",
+	icon: "toughasnails:temperature_coil 1 1",
+	x: -4.0d,
+	y: -5.5d,
+	description: "Heat or cool your house.",
+	dependencies: [
+		"eeb73210"
+	],
+	hide: true,
+	rewards: [{
+		uid: "98a33708",
+		type: "custom",
+		title: "Cooling Coil",
+		icon: "toughasnails:temperature_coil"
+	},
+	{
+		uid: "22ea1e7e",
+		type: "custom",
+		title: "Heating Coil",
+		icon: "toughasnails:temperature_coil 1 1"
+	}]
+}

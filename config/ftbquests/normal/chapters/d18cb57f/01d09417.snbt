@@ -2,10 +2,10 @@
 	title: "Engineer's Tools",
 	icon: "immersiveengineering:tool",
 	x: -2.0d,
-	y: 1.5d,
+	y: -2.5d,
 	description: "Tools to aid in the construction and maintenence of machines.",
 	dependencies: [
-		"dcdfc5f6"
+		"50327a19"
 	],
 	hide: true,
 	rewards: [{

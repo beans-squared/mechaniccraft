@@ -1,0 +1,23 @@
+{
+	title: "Trapping",
+	icon: "harvestcraft:groundtrap",
+	x: 2.0d,
+	y: 1.5d,
+	description: "Bait animals into traps for easy food.",
+	dependencies: [
+		"c9030cbb"
+	],
+	hide: true,
+	rewards: [{
+		uid: "5782a615",
+		type: "custom",
+		title: "Ground Trap",
+		icon: "harvestcraft:groundtrap"
+	},
+	{
+		uid: "faee1cfd",
+		type: "custom",
+		title: "Water Trap",
+		icon: "harvestcraft:watertrap"
+	}]
+}

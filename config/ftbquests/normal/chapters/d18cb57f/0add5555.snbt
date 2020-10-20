@@ -1,8 +1,8 @@
 {
 	title: "Turntable",
 	icon: "immersiveengineering:wooden_device0 1 6",
-	x: -4.0d,
-	y: 4.5d,
+	x: -3.0d,
+	y: -7.5d,
 	description: "Rotates things attached to it.",
 	dependencies: [
 		"48d7c1cf"

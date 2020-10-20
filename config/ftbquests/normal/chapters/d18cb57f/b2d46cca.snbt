@@ -2,7 +2,7 @@
 	title: "Razor Wire",
 	icon: "immersiveengineering:metal_decoration2 1 5",
 	x: -6.0d,
-	y: 0.5d,
+	y: -3.5d,
 	description: "Applies damage to anything stupid enough to try and bypass it.",
 	dependencies: [
 		"8eb0187c"

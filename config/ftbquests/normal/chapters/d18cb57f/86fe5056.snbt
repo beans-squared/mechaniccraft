@@ -10,7 +10,7 @@
 		id: "immersiveengineering:shield"
 	},
 	x: -6.0d,
-	y: 1.5d,
+	y: -2.5d,
 	description: "Durable, upgradable steel shield.",
 	dependencies: [
 		"8eb0187c"

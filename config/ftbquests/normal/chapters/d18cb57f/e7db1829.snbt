@@ -2,7 +2,7 @@
 	title: "Maintenence Kit",
 	icon: "immersiveengineering:maintenance_kit",
 	x: -4.0d,
-	y: 2.5d,
+	y: -1.5d,
 	description: "Repair and modify your tools on the go.",
 	dependencies: [
 		"01d09417"

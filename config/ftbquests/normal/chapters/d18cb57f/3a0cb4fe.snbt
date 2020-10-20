@@ -1,0 +1,17 @@
+{
+	title: "Backpack",
+	icon: "travelersbackpack:travelers_backpack",
+	x: -4.0d,
+	y: 0.5d,
+	description: "Carry items, tools, and fluids with you. Even comes with integrated crafting!",
+	dependencies: [
+		"01d09417"
+	],
+	hide: true,
+	rewards: [{
+		uid: "2d64a2f2",
+		type: "custom",
+		title: "Traveler's Backpack",
+		icon: "travelersbackpack:travelers_backpack"
+	}]
+}

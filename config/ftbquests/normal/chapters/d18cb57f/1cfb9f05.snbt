@@ -1,11 +1,17 @@
 {
 	title: "Jump Cushion",
 	icon: "immersiveengineering:cloth_device",
-	x: 4.0d,
-	y: -0.5d,
+	x: -2.0d,
+	y: 1.5d,
 	description: "Thick padded fabric good at breaking falls.",
 	dependencies: [
 		"f346b195"
 	],
-	hide: true
+	hide: true,
+	rewards: [{
+		uid: "08acacb2",
+		type: "custom",
+		title: "Jump Cushion",
+		icon: "immersiveengineering:cloth_device"
+	}]
 }

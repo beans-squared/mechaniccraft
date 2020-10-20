@@ -1,8 +1,8 @@
 {
 	title: "Mineral Melting Furnace",
 	icon: "engineersdecor:small_mineral_smelter",
-	x: -2.0d,
-	y: 11.5d,
+	x: 10.0d,
+	y: -4.5d,
 	description: "Melts cobblestone down into magma blocks or lava.",
 	dependencies: [
 		"bdaae45b"

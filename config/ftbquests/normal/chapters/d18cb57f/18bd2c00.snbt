@@ -2,7 +2,7 @@
 	title: "Optics",
 	icon: "immersiveengineering:metal_device1 1 4",
 	x: -6.0d,
-	y: 3.5d,
+	y: -0.5d,
 	description: "Lighting solutions for your factory/home/<insertotherapplicationhere>!",
 	dependencies: [
 		"b346677e"

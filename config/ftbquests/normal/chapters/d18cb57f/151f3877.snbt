@@ -1,0 +1,17 @@
+{
+	title: "Strip Curtain",
+	icon: "immersiveengineering:cloth_device 1 2",
+	x: -3.0d,
+	y: 1.5d,
+	description: "Blocks views and emits a redstone signal when passed through.",
+	dependencies: [
+		"f346b195"
+	],
+	hide: true,
+	rewards: [{
+		uid: "debb294f",
+		type: "custom",
+		title: "Strip Curtain",
+		icon: "immersiveengineering:cloth_device 1 2"
+	}]
+}

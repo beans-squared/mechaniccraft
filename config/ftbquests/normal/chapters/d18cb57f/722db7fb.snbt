@@ -1,0 +1,28 @@
+{
+	title: "Chiseling",
+	icon: "chisel:chisel_iron",
+	x: 2.0d,
+	y: -4.5d,
+	description: "Change the texture of blocks to better suit your liking.",
+	dependencies: [
+		"50327a19"
+	],
+	hide: true,
+	rewards: [{
+		uid: "1bf64f13",
+		type: "custom",
+		title: "Chisel",
+		icon: "chisel:chisel_iron"
+	},
+	{
+		uid: "0ce4d2ad",
+		type: "custom",
+		title: "Diamond Chisel",
+		icon: {
+			id: "chisel:chisel_diamond",
+			tag: {
+				chiseldata: {}
+			}
+		}
+	}]
+}

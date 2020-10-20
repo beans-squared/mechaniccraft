@@ -1,0 +1,22 @@
+{
+	title: "Post Processing",
+	icon: "harvestcraft:grinder",
+	x: 1.0d,
+	y: 1.5d,
+	dependencies: [
+		"c9030cbb"
+	],
+	hide: true,
+	rewards: [{
+		uid: "8b2f8696",
+		type: "custom",
+		title: "Culinary Grinder",
+		icon: "harvestcraft:grinder"
+	},
+	{
+		uid: "86092dda",
+		type: "custom",
+		title: "Presser",
+		icon: "harvestcraft:presser"
+	}]
+}

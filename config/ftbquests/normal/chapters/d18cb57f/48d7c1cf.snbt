@@ -1,30 +1,18 @@
 {
-	title: "Conveyor Belts",
+	title: "More Conveyor Belts",
 	icon: {
 		id: "immersiveengineering:conveyor",
 		tag: {
-			conveyorType: "immersiveengineering:conveyor"
+			conveyorType: "immersiveengineering:splitter"
 		}
 	},
-	x: -2.0d,
-	y: 3.5d,
-	description: "Transport items.",
+	x: -1.0d,
+	y: -6.5d,
 	dependencies: [
-		"dcdfc5f6"
+		"fb48a7f6"
 	],
 	hide: true,
 	rewards: [{
-		uid: "92fb0d81",
-		type: "custom",
-		title: "Conveyor Belt",
-		icon: {
-			id: "immersiveengineering:conveyor",
-			tag: {
-				conveyorType: "immersiveengineering:conveyor"
-			}
-		}
-	},
-	{
 		uid: "d77f9130",
 		type: "custom",
 		title: "Dropping Conveyor Belt",

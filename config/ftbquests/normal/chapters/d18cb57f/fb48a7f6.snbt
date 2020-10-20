@@ -1,0 +1,32 @@
+{
+	title: "Logistics",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: 0.0d,
+	y: -4.5d,
+	dependencies: [
+		"50327a19"
+	],
+	hide: true,
+	rewards: [{
+		uid: "ea69dd88",
+		type: "custom",
+		title: "Conveyor Belts",
+		icon: {
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}
+	},
+	{
+		uid: "d25519c7",
+		type: "custom",
+		title: "Fluid Pipes",
+		icon: "immersiveengineering:metal_device1 1 6"
+	}]
+}

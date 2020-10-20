@@ -2,7 +2,7 @@
 	title: "Basic Electrical Wiring",
 	icon: "immersiveengineering:wirecoil",
 	x: -4.0d,
-	y: 3.5d,
+	y: -0.5d,
 	description: "Framework for transmitting electricity.",
 	dependencies: [
 		"01d09417"

@@ -2,7 +2,7 @@
 	title: "Metalworking",
 	icon: "immersiveengineering:metal_decoration1 1 1",
 	x: -4.0d,
-	y: 1.5d,
+	y: -2.5d,
 	description: "Various applications of various metals in various industrial settings.",
 	dependencies: [
 		"01d09417"

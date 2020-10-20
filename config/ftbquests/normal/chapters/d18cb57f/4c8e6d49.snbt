@@ -1,8 +1,8 @@
 {
-	title: "Woodworking",
+	title: "Woodworking II",
 	icon: "immersiveengineering:wooden_decoration 1 1",
-	x: 6.0d,
-	y: 2.5d,
+	x: 8.0d,
+	y: -0.5d,
 	description: "Various applications of treated wood in industrial settings.",
 	dependencies: [
 		"10a50de9"
@@ -37,24 +37,6 @@
 		type: "custom",
 		title: "Treated Wood Ladder",
 		icon: "engineersdecor:treated_wood_ladder"
-	},
-	{
-		uid: "940a2607",
-		type: "custom",
-		title: "Wooden Barrel",
-		icon: "immersiveengineering:wooden_device0 1 1"
-	},
-	{
-		uid: "fd8c8291",
-		type: "custom",
-		title: "Wooden Storage Crate",
-		icon: "immersiveengineering:wooden_device0"
-	},
-	{
-		uid: "f64fd1ee",
-		type: "custom",
-		title: "Labeled Crate",
-		icon: "engineersdecor:labeled_crate"
 	},
 	{
 		uid: "ee612803",

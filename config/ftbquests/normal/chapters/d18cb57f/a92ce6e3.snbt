@@ -1,8 +1,8 @@
 {
 	title: "Brick Furnace",
 	icon: "magneticraft:brick_furnace",
-	x: -1.0d,
-	y: 5.5d,
+	x: 4.0d,
+	y: -2.5d,
 	description: "Faster than a stone furnace.",
 	dependencies: [
 		"c47862e1"

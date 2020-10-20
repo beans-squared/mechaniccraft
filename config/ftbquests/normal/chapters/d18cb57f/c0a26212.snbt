@@ -1,0 +1,23 @@
+{
+	title: "Water Filtration",
+	icon: "harvestcraft:waterfilter",
+	x: 3.0d,
+	y: 1.5d,
+	description: "Get freshwater and salt from not freshwater.",
+	dependencies: [
+		"c9030cbb"
+	],
+	hide: true,
+	rewards: [{
+		uid: "6901b2a9",
+		type: "custom",
+		title: "Water Filter",
+		icon: "harvestcraft:waterfilter"
+	},
+	{
+		uid: "b0df8a1b",
+		type: "custom",
+		title: "Woven Cotton",
+		icon: "harvestcraft:wovencottonitem"
+	}]
+}

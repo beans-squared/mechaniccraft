@@ -1,11 +1,11 @@
 {
-	title: "Crushing Table",
+	title: "Basic Ore Processing",
 	icon: "magneticraft:crushing_table",
 	x: 0.0d,
 	y: -0.5d,
-	description: "Used to crush stuff, of course.",
+	description: "Simple methods of increasing ore output.",
 	dependencies: [
-		"7188cf38"
+		"50327a19"
 	],
 	hide: true,
 	rewards: [{
@@ -25,5 +25,17 @@
 		type: "custom",
 		title: "Steel Mallet",
 		icon: "magneticraft:steel_hammer"
+	},
+	{
+		uid: "825d58d7",
+		type: "custom",
+		title: "Crushing Table",
+		icon: "magneticraft:crushing_table"
+	},
+	{
+		uid: "ee74eb29",
+		type: "custom",
+		title: "Sluice Box",
+		icon: "magneticraft:sluice_box"
 	}]
 }

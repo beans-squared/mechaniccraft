@@ -1,8 +1,8 @@
 {
 	title: "Heat Pipe",
 	icon: "magneticraft:heat_pipe",
-	x: 2.0d,
-	y: 4.5d,
+	x: 4.0d,
+	y: -5.5d,
 	description: "Transports heat.",
 	dependencies: [
 		"c47862e1"

@@ -1,8 +1,8 @@
 {
 	title: "Engineering Components",
 	icon: "immersiveengineering:metal_decoration0 1 3",
-	x: 6.0d,
-	y: 3.5d,
+	x: 8.0d,
+	y: 1.5d,
 	description: "Various blocks used in the construction of multiblock machines.",
 	dependencies: [
 		"c12d9b03"

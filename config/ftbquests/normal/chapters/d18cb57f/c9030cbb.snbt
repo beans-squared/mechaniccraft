@@ -1,0 +1,17 @@
+{
+	title: "Groundwater Extraction",
+	icon: "harvestcraft:well",
+	x: 2.0d,
+	y: -0.5d,
+	description: "Get water manually from anywhere.",
+	dependencies: [
+		"50327a19"
+	],
+	hide: true,
+	rewards: [{
+		uid: "3db2f2e6",
+		type: "custom",
+		title: "Well",
+		icon: "harvestcraft:well"
+	}]
+}

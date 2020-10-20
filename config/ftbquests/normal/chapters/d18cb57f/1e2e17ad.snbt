@@ -1,11 +1,11 @@
 {
 	title: "External Heater",
 	icon: "immersiveengineering:metal_device1 1 1",
-	x: -2.0d,
-	y: 7.5d,
+	x: 4.0d,
+	y: -4.5d,
 	description: "Heat up stone furnaces using electricity.",
 	dependencies: [
-		"af526547"
+		"c47862e1"
 	],
 	hide: true
 }

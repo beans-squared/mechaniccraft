@@ -1,0 +1,17 @@
+{
+	title: "Solar Energy",
+	icon: "engineersdecor:small_solar_panel",
+	x: -8.0d,
+	y: -0.5d,
+	description: "Generate electricity from the sun.",
+	dependencies: [
+		"18bd2c00"
+	],
+	hide: true,
+	rewards: [{
+		uid: "03d9a296",
+		type: "custom",
+		title: "Small Solar Panel",
+		icon: "engineersdecor:small_solar_panel"
+	}]
+}

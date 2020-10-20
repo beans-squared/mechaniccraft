@@ -1,11 +1,11 @@
 {
-	title: "Item Router",
+	title: "Material Routing",
 	icon: "immersiveengineering:wooden_device0 1 3",
-	x: -4.0d,
-	y: 5.5d,
-	description: "Redirects incoming items based on user configuration.",
+	x: 0.0d,
+	y: -6.5d,
+	description: "Redirect incoming items or fluids to user-defined routes or locations.",
 	dependencies: [
-		"48d7c1cf"
+		"fb48a7f6"
 	],
 	hide: true,
 	rewards: [{
@@ -13,5 +13,11 @@
 		type: "custom",
 		title: "Item Router",
 		icon: "immersiveengineering:wooden_device0 1 3"
+	},
+	{
+		uid: "1690be30",
+		type: "custom",
+		title: "Fluid Router",
+		icon: "immersiveengineering:wooden_device0 1 7"
 	}]
 }

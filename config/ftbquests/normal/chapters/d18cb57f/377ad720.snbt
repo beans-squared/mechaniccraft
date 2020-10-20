@@ -1,8 +1,8 @@
 {
 	title: "Water Wheel",
 	icon: "immersiveengineering:wooden_device1",
-	x: 2.0d,
-	y: 1.5d,
+	x: 8.0d,
+	y: 0.5d,
 	description: "Harness the natural energy of the elements in the world.",
 	dependencies: [
 		"10a50de9"
