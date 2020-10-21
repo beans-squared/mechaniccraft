@@ -8,6 +8,14 @@
 		"01d09417"
 	],
 	hide: true,
+	tasks: [{
+		uid: "bb06ef06",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
 	rewards: [{
 		uid: "d8831230",
 		type: "custom",

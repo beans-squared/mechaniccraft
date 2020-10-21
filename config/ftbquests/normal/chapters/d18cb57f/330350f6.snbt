@@ -8,6 +8,14 @@
 		"c9030cbb"
 	],
 	hide: true,
+	tasks: [{
+		uid: "3c461a14",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 10L
+	}],
 	rewards: [{
 		uid: "5782a615",
 		type: "custom",

@@ -3,6 +3,7 @@
 	icon: "tconstruct:smeltery_controller",
 	x: 0.0d,
 	y: 13.5d,
+	shape: "hexagon",
 	description: "A complex multiblock structure for the management of molten metal and hot materials.",
 	dependencies: [
 		"c99527e9",

@@ -12,6 +12,14 @@
 		"50327a19"
 	],
 	hide: true,
+	tasks: [{
+		uid: "3c669ac5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 5L
+	}],
 	rewards: [{
 		uid: "ea69dd88",
 		type: "custom",

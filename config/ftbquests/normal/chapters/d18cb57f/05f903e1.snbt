@@ -8,6 +8,14 @@
 		"4c8e6d49"
 	],
 	hide: true,
+	tasks: [{
+		uid: "89c095c6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 20L
+	}],
 	rewards: [{
 		uid: "68e64ab6",
 		type: "custom",

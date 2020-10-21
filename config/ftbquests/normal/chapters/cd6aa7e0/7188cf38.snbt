@@ -3,7 +3,7 @@
 	icon: "tconstruct:tooltables 1 3",
 	x: -1.0d,
 	y: 5.5d,
-	shape: "rsquare",
+	shape: "hexagon",
 	description: "Assemble tools from various parts.",
 	dependencies: [
 		"37b3f0e8"
