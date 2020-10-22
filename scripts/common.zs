@@ -1,8 +1,5 @@
-#################################################
-#												#
-# Common Shared Code for Mod Scripts			#
-#												#
-#################################################
+# Common Shared Code for Mod Scripts
+
 
 import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
