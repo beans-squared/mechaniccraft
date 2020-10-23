@@ -39,5 +39,11 @@
 		type: "custom",
 		title: "Thermometer",
 		icon: "toughasnails:thermometer"
+	},
+	{
+		uid: "beec7caa",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:basic_weather_monitoring"
 	}]
 }

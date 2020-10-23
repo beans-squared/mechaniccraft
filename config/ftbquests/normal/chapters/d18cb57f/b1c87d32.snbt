@@ -27,5 +27,11 @@
 		type: "custom",
 		title: "Fluid Router",
 		icon: "immersiveengineering:wooden_device0 1 7"
+	},
+	{
+		uid: "5dabbe7e",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:material_routing"
 	}]
 }

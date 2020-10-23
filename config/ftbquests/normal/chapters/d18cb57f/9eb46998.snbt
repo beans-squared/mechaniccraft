@@ -87,5 +87,20 @@
 		type: "custom",
 		title: "Support Machine Block",
 		icon: "magneticraft:multiblock_column"
+	},
+	{
+		uid: "37217454",
+		type: "custom",
+		title: "Fluid Tank Machine Block",
+		icon: {
+			id: "magneticraft:small_tank",
+			tag: {}
+		}
+	},
+	{
+		uid: "a49f3426",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:engineering_components"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Turntable",
 		icon: "immersiveengineering:wooden_device0 1 6"
+	},
+	{
+		uid: "2176fccc",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:turntable"
 	}]
 }

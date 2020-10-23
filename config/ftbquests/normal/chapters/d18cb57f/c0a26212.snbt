@@ -27,5 +27,11 @@
 		type: "custom",
 		title: "Woven Cotton",
 		icon: "harvestcraft:wovencottonitem"
+	},
+	{
+		uid: "43659cd6",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:water_filtration"
 	}]
 }

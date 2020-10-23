@@ -32,5 +32,11 @@
 				chiseldata: {}
 			}
 		}
+	},
+	{
+		uid: "4f296f3d",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:chiseling"
 	}]
 }

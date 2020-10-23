@@ -36,5 +36,11 @@
 		type: "custom",
 		title: "Fluid Pipes",
 		icon: "immersiveengineering:metal_device1 1 6"
+	},
+	{
+		uid: "54ec9df6",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:logistics"
 	}]
 }

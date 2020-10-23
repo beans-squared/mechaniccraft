@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Mineral Melting Furnace",
 		icon: "engineersdecor:small_mineral_smelter"
+	},
+	{
+		uid: "b8d263aa",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:mineralmeltingfurnace"
 	}]
 }

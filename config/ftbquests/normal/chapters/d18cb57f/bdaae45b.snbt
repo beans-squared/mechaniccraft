@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Feedthrough Furnace",
 		icon: "engineersdecor:small_electrical_furnace"
+	},
+	{
+		uid: "85f7ef52",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:feedthroughfurnace"
 	}]
 }

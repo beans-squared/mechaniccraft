@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Concrete",
 		icon: "immersiveengineering:stone_decoration 1 5"
+	},
+	{
+		uid: "b4dd1e80",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:concrete"
 	}]
 }

@@ -57,5 +57,17 @@
 		type: "custom",
 		title: "Metal Barrels",
 		icon: "immersiveengineering:metal_device0 1 4"
+	},
+	{
+		uid: "262f1d9a",
+		type: "custom",
+		title: "Open Metal Barrel",
+		icon: "immersivetech:metal_barrel 1 1"
+	},
+	{
+		uid: "2fbc83ef",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:metalworking"
 	}]
 }

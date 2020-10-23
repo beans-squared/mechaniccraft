@@ -69,5 +69,11 @@
 		type: "custom",
 		title: "Elevated Conveyor Belt",
 		icon: "magneticraft:conveyor_belt"
+	},
+	{
+		uid: "0fc42e4b",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:more_conveyor_belts"
 	}]
 }

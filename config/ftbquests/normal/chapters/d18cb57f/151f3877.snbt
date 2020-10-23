@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Strip Curtain",
 		icon: "immersiveengineering:cloth_device 1 2"
+	},
+	{
+		uid: "d2485a17",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:strip_curtain"
 	}]
 }

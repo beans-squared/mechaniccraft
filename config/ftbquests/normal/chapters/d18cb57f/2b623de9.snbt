@@ -27,5 +27,11 @@
 		type: "custom",
 		title: "Fluid Pump",
 		icon: "immersiveengineering:metal_device0 1 5"
+	},
+	{
+		uid: "573f6080",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:pumps"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Small Steam Engine",
 		icon: "magneticraft:steam_engine"
+	},
+	{
+		uid: "f8c45f48",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:small_steam_engine"
 	}]
 }

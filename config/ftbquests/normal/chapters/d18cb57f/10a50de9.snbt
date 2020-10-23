@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Treated Wood",
 		icon: "immersiveengineering:treated_wood"
+	},
+	{
+		uid: "1e809732",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:treated_wood"
 	}]
 }

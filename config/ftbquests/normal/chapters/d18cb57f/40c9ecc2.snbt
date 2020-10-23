@@ -26,5 +26,11 @@
 		type: "custom",
 		title: "Wooden Feeding Trough",
 		icon: "magneticraft:feeding_trough"
+	},
+	{
+		uid: "3af9e45d",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:woodworking"
 	}]
 }

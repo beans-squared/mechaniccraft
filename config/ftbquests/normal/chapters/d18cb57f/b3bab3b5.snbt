@@ -45,5 +45,11 @@
 		type: "custom",
 		title: "Sluice Box",
 		icon: "magneticraft:sluice_box"
+	},
+	{
+		uid: "badef0ce",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:basic_ore_processing"
 	}]
 }

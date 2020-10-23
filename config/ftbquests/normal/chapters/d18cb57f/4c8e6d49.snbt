@@ -57,5 +57,11 @@
 		type: "custom",
 		title: "Treated Wood Trapdoor",
 		icon: "engineersdoors:trapdoor_treated"
+	},
+	{
+		uid: "8439d132",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:woodworking_ii"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Laboratory Furnace",
 		icon: "engineersdecor:small_lab_furnace"
+	},
+	{
+		uid: "5be43c78",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:laboratoryfurnace"
 	}]
 }

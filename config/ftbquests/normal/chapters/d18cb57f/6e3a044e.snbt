@@ -50,5 +50,11 @@
 		type: "custom",
 		title: "Small Waste Incinerator",
 		icon: "engineersdecor:small_waste_incinerator"
+	},
+	{
+		uid: "899c7a69",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:logistics_ii"
 	}]
 }

@@ -61,5 +61,11 @@
 			},
 			id: "immersiveengineering:toolbox"
 		}
+	},
+	{
+		uid: "08d9b8ea",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:engineers_tools"
 	}]
 }

@@ -23,5 +23,11 @@
 		type: "custom",
 		title: "Combustion Chamber",
 		icon: "magneticraft:combustion_chamber"
+	},
+	{
+		uid: "8ebf505b",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:combustion_chamber"
 	}]
 }

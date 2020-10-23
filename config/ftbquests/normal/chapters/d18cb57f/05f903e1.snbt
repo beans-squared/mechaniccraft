@@ -39,5 +39,11 @@
 		type: "custom",
 		title: "Wooden Barrel",
 		icon: "immersiveengineering:wooden_device0 1 1"
+	},
+	{
+		uid: "49dd9bca",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:treated_storage"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Jerrycan",
 		icon: "immersiveengineering:jerrycan"
+	},
+	{
+		uid: "866ccb72",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:jerrycan"
 	}]
 }

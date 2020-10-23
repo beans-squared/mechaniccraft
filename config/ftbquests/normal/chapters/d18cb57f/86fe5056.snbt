@@ -37,5 +37,11 @@
 			},
 			id: "immersiveengineering:shield"
 		}
+	},
+	{
+		uid: "0a97feec",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:heavy_plated_shield"
 	}]
 }

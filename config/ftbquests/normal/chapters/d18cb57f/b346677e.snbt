@@ -63,5 +63,11 @@
 		type: "custom",
 		title: "Current Transformer",
 		icon: "immersiveengineering:connector 1 11"
+	},
+	{
+		uid: "db0c20a1",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:basic_electrical_wiring"
 	}]
 }

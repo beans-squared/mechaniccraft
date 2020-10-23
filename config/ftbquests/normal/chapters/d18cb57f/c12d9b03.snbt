@@ -27,5 +27,11 @@
 		type: "custom",
 		title: "Engineer's Workbench",
 		icon: "immersiveengineering:wooden_device0 1 2"
+	},
+	{
+		uid: "b2b3416f",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:tabletop_engineering"
 	}]
 }

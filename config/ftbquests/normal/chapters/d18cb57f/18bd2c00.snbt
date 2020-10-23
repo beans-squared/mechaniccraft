@@ -39,5 +39,11 @@
 		type: "custom",
 		title: "Flashbulb",
 		icon: "immersiveengineering:toolupgrade 1 10"
+	},
+	{
+		uid: "a8ae8f4b",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:optics"
 	}]
 }

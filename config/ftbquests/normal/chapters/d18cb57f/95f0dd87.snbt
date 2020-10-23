@@ -33,5 +33,11 @@
 		type: "custom",
 		title: "Slag",
 		icon: "immersiveengineering:material 1 7"
+	},
+	{
+		uid: "834ff9b2",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:crudeblastfurnace"
 	}]
 }

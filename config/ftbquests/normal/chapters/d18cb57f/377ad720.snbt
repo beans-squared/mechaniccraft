@@ -1,5 +1,5 @@
 {
-	title: "Water Wheel",
+	title: "Kinetic Energy",
 	icon: "immersiveengineering:wooden_device1",
 	x: 8.0d,
 	y: 0.5d,
@@ -33,5 +33,11 @@
 		type: "custom",
 		title: "Kinetic Dynamo",
 		icon: "immersiveengineering:metal_device1 1 2"
+	},
+	{
+		uid: "00cc1d49",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:kinetic_energy"
 	}]
 }

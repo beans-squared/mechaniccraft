@@ -26,5 +26,11 @@
 		type: "custom",
 		title: "Presser",
 		icon: "harvestcraft:presser"
+	},
+	{
+		uid: "c3e43791",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:post_processing"
 	}]
 }

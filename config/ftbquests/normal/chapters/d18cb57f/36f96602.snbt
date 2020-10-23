@@ -39,5 +39,11 @@
 				Amount: 1000
 			}
 		}
+	},
+	{
+		uid: "9433c260",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:cokeoven"
 	}]
 }

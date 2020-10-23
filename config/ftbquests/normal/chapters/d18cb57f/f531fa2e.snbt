@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Ear Defenders",
 		icon: "immersiveengineering:earmuffs"
+	},
+	{
+		uid: "c8f08b57",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:ear_defenders"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Small Solar Panel",
 		icon: "engineersdecor:small_solar_panel"
+	},
+	{
+		uid: "c8f10851",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:solar_energy"
 	}]
 }

@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Heat Pipe",
 		icon: "magneticraft:heat_pipe"
+	},
+	{
+		uid: "0611b39e",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:heatpipe"
 	}]
 }

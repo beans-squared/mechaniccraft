@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Small Boiler",
 		icon: "magneticraft:steam_boiler"
+	},
+	{
+		uid: "a52f74a1",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:small_boiler"
 	}]
 }

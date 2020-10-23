@@ -29,5 +29,11 @@
 		type: "custom",
 		title: "Basic Science Pack",
 		icon: "contenttweaker:red_science_pack"
+	},
+	{
+		uid: "020895eb",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:basic_science"
 	}]
 }

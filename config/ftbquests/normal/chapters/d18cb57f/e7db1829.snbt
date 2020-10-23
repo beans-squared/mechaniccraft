@@ -21,5 +21,11 @@
 		type: "custom",
 		title: "Maintenence Kit",
 		icon: "immersiveengineering:maintenance_kit"
+	},
+	{
+		uid: "c07fbc17",
+		type: "gamestage",
+		auto: "invisible",
+		stage: "ch2:maintenence_kit"
 	}]
 }
