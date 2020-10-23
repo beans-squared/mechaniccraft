@@ -26,7 +26,7 @@
 			id: "tconstruct:tooltables",
 			tag: {
 				textureBlock: {
-					id: "ore:plankWood",
+					id: "minecraft:planks",
 					Count: 1b,
 					Damage: 0s
 				}
@@ -34,6 +34,7 @@
 			Damage: 1s
 		}],
 		consume_items: false,
-		only_from_crafting: true
+		ignore_nbt: 1b,
+		only_from_crafting: false
 	}]
 }
