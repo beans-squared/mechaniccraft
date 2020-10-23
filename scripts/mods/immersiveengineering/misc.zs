@@ -1,9 +1,3 @@
-#################################################
-#												#
-# MISC changes for Immersive Engineering		#
-#												#
-#################################################
-
 // renames circuit board
 <immersiveengineering:material:27>.displayName = "Crude Circuit Board";
 
@@ -12,3 +6,6 @@
 <immersiveengineering:steel_armor_chest>.displayName = "Steel Plate Chestplate";
 <immersiveengineering:steel_armor_legs>.displayName = "Steel Plate Leggings";
 <immersiveengineering:steel_armor_feet>.displayName = "Steel Plate Boots";
+
+// rename small fluid tank
+<magneticraft:small_tank>.displayName = "Fluid Tank Machine Block";
