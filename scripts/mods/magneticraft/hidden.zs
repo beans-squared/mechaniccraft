@@ -18,8 +18,6 @@ val items = [
 	<magneticraft:wind_turbine>,
 	<magneticraft:electric_cable>,
 	<magneticraft:copper_coil>.withTag({}),
-	<magneticraft:battery_item_low>.withTag({}),
-	<magneticraft:battery_item_medium>.withTag({}),
 	<magneticraft:rf_transformer>,
 	<magneticraft:connector>,
 	<magneticraft:electric_pole>,
