@@ -7,6 +7,6 @@ replaceRecipe("industrialrenewal:solar_panel", "solar_panel", <industrialrenewal
 
 // Solar Panel Frame
 replaceRecipe("industrialrenewal:solar_panel_frame", "solar_panel_frame", <industrialrenewal:solar_panel_frame>,
-    [[<ore:stickIron>, <immersiveengineering:material:20>, <ore:stickIron>],
-    [<ore:stickIron>, <industrialrenewal:battery>, <ore:stickIron>],
+    [[<ore:stickIron>, <ore:stickIron>, <ore:stickIron>],
+    [<ore:stickIron>, <industrialrenewal:battery>,<immersiveengineering:material:20>],
     [<ore:stickIron>, <immersiveengineering:material:20>, <ore:stickIron>]]);
