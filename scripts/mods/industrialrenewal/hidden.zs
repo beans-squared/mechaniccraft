@@ -8,7 +8,10 @@ val items = [
     <industrialrenewal:stick_steel>,
     <industrialrenewal:safety_helmet>,
     <industrialrenewal:safety_belt>,
-    <industrialrenewal:orevein_hematite>
+    <industrialrenewal:orevein_hematite>,
+    <industrialrenewal:coil_hv>,
+    <industrialrenewal:isolator_hv>,
+    <industrialrenewal:transformer_hv>
 ] as IItemStack[];
 
 removeAll(items);
