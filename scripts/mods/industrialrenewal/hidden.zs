@@ -11,7 +11,8 @@ val items = [
     <industrialrenewal:orevein_hematite>,
     <industrialrenewal:coil_hv>,
     <industrialrenewal:isolator_hv>,
-    <industrialrenewal:transformer_hv>
+    <industrialrenewal:transformer_hv>,
+    <industrialrenewal:chunk_loader>
 ] as IItemStack[];
 
 removeAll(items);
