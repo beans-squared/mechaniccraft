@@ -10,3 +10,9 @@ replaceRecipe("industrialrenewal:solar_panel_frame", "solar_panel_frame", <indus
     [[<ore:stickIron>, <ore:stickIron>, <ore:stickIron>],
     [<ore:stickIron>, <industrialrenewal:battery>,<immersiveengineering:material:20>],
     [<ore:stickIron>, <immersiveengineering:material:20>, <ore:stickIron>]]);
+
+// Battery
+replaceRecipe("industrialrenewal:battery", "battery", <industrialrenewal:battery> * 3,
+    [[<immersiveengineering:metal:20>, null, <immersiveengineering:metal:20>],
+    [<immersiveengineering:metal:39>, <minecraft:redstone>, <immersiveengineering:metal:39>],
+    [<immersiveengineering:metal:39>, <minecraft:redstone>, <immersiveengineering:metal:39>]]);
