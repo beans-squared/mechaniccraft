@@ -35,12 +35,5 @@
       "properties": {}
     },
     "temperature": 12.5
-  },
-  {
-    "state": {
-      "block": "quark:blaze_rod",
-      "properties": {}
-    },
-    "temperature": 8.0
   }
 ]
