@@ -4,7 +4,8 @@ backups/
 cache/
 downloads/
 journeymap/
-local/
+local/client
+local/ftbutilites/players.txt
 logs/
 minemenu/
 mineraltracker/
@@ -31,8 +32,6 @@ dumps/
 /config.json
 
 *.log
-
-!local/ftbutilities/ranks.txt
 
 config/InvTweaks.cfg
 config/jei/worldSettings.cfg
