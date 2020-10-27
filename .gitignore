@@ -32,6 +32,8 @@ dumps/
 
 *.log
 
+!local/ftbutilities/ranks.txt
+
 config/InvTweaks.cfg
 config/jei/worldSettings.cfg
 local/ftbutilities/backups.json
