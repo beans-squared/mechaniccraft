@@ -1,0 +1,10 @@
+{
+	title: "Low Voltage Artitecture",
+	icon: "immersiveengineering:wirecoil",
+	description: [
+		"Good for small outposts and lighting systems."
+	],
+	always_invisible: false,
+	group: -319896258,
+	default_quest_shape: ""
+}

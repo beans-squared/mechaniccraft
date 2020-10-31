@@ -1,0 +1,11 @@
+{
+	x: 12.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20b83e29",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_multiblock 1 4"
+		}]
+	}]
+}

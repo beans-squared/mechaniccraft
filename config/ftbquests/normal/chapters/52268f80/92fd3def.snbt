@@ -1,0 +1,11 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "c8602783",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:electric_pump"
+		}]
+	}]
+}

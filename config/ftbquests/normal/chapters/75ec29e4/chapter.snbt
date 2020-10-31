@@ -1,0 +1,10 @@
+{
+	title: "High Voltage Artitecture",
+	icon: "immersiveengineering:wirecoil 1 2",
+	description: [
+		"Excellent for high-output generators and accidentally killing yourself on."
+	],
+	always_invisible: false,
+	group: -319896258,
+	default_quest_shape: ""
+}

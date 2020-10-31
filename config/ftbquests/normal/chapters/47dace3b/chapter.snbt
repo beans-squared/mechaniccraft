@@ -1,0 +1,10 @@
+{
+	title: "Alternating Flux Artitecture",
+	icon: "alternatingflux:wirecoil",
+	description: [
+		"The #1 choice for transporting energy over long distances."
+	],
+	always_invisible: false,
+	group: -319896258,
+	default_quest_shape: ""
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "e858685e",
+		type: "item",
+		items: [{
+			id: "magneticraft:battery_item_medium",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

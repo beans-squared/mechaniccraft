@@ -1,0 +1,10 @@
+{
+	title: "Energy Systems",
+	icon: "immersiveengineering:material 1 20",
+	description: [
+		"Energy production, storage and transport."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
