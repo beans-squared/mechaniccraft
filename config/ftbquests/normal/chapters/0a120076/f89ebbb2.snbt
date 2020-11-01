@@ -1,8 +1,0 @@
-{
-	title: "Improved Blast Furnace",
-	icon: "immersiveengineering:stone_device 1 2",
-	x: -1.0d,
-	y: 0.0d,
-	description: "Faster than the older model.",
-	hide: true
-}

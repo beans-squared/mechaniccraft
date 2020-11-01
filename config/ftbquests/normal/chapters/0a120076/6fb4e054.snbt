@@ -1,7 +1,0 @@
-{
-	title: "Cooling Tower",
-	icon: "immersivetech:metal_multiblock 1 14",
-	x: 5.0d,
-	y: 1.0d,
-	hide: true
-}

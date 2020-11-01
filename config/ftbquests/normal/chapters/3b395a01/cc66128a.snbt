@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "64a93316",
+		type: "item",
+		items: [{
+			item: "toughasnails:campfire"
+		}]
+	}]
+}

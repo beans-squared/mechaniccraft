@@ -1,0 +1,7 @@
+{
+	title: "Pre-Industrialization",
+	icon: "magneticraft:brick_furnace",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

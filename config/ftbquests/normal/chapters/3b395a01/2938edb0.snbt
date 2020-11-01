@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d5a9b4f9",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

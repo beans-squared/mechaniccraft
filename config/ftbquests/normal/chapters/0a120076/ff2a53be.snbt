@@ -1,7 +1,0 @@
-{
-	title: "Fluid Valve",
-	icon: "immersivetech:valve",
-	x: 6.0d,
-	y: 1.0d,
-	hide: true
-}
