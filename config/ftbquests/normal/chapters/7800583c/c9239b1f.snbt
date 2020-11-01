@@ -1,0 +1,12 @@
+{
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "790c7894",
+		type: "item",
+		items: [{
+			item: "comforts:hammock 1 14"
+		}],
+		ignore_nbt: 1b
+	}]
+}

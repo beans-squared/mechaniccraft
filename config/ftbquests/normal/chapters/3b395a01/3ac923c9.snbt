@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e5d72a65",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

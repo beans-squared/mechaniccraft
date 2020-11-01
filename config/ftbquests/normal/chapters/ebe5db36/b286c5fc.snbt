@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "2942bbfc",
+		type: "item",
+		items: [{
+			item: "alternatingflux:wirecoil"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a4f8d03f",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:fence_big_wire"
+		}]
+	}]
+}

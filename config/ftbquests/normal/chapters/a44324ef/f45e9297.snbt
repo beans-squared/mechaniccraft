@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "41fda3c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:chemthrower"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

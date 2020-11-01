@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c2b07fc9",
+		type: "item",
+		items: [{
+			item: "magneticraft:fabricator"
+		}]
+	}]
+}

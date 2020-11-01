@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b99630e0",
+		type: "item",
+		items: [{
+			item: "chisel:offsettool"
+		}]
+	}]
+}

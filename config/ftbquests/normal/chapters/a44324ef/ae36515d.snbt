@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "afe09b02",
+		type: "item",
+		items: [{
+			item: "engineersdecor:panzerglass_block"
+		}]
+	}]
+}

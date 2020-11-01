@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "1880ef3a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 27"
+		}]
+	}]
+}

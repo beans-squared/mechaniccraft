@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "608f9637",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}]
+	}]
+}

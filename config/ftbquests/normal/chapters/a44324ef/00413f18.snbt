@@ -1,0 +1,11 @@
+{
+	x: -5.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "c54f01f7",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:dam_intake"
+		}]
+	}]
+}

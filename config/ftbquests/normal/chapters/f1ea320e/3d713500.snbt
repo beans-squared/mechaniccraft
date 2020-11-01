@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "5e598e62",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:lathe"
+		}]
+	}]
+}

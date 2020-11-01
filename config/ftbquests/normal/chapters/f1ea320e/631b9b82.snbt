@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "afd42a8c",
+		type: "item",
+		items: [{
+			id: "chisel:chisel_diamond",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

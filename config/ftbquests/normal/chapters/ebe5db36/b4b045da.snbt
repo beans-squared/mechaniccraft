@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "acba1c3c",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_tower"
+		}]
+	}]
+}

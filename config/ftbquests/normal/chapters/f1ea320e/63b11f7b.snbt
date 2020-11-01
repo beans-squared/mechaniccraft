@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "5d90abe6",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:portable_generator"
+		}]
+	}]
+}

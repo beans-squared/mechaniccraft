@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "7160095a",
+		type: "item",
+		items: [{
+			item: "magneticraft:gasification_unit"
+		}]
+	}]
+}

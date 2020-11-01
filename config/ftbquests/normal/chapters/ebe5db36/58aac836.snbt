@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "ae9049fa",
+		type: "item",
+		items: [{
+			id: "tanaddons:portable_temp_regulator",
+			tag: {
+				ForgeEnergy: 0,
+				TimeStart: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

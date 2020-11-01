@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "ef1890d8",
+		type: "item",
+		items: [{
+			item: "realistictorches:matchbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

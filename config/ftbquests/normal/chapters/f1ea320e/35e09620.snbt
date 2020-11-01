@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "15526cf1",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "d454d2e8",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:dam_generator"
+		}]
+	}]
+}

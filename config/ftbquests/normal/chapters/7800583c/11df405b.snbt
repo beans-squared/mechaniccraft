@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "98d54ac5",
+		type: "item",
+		items: [{
+			item: "magneticraft:box"
+		}]
+	}]
+}

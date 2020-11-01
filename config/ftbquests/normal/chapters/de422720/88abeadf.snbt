@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "d0f5c41e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:constructor"
+		}]
+	}]
+}

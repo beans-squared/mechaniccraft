@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "bada268b",
+		type: "item",
+		items: [{
+			item: "engineersdecor:gas_concrete"
+		}]
+	}]
+}

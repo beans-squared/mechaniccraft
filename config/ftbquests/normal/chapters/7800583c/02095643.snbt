@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "3526f4ac",
+		type: "item",
+		items: [{
+			item: "harvestcraft:presser"
+		}]
+	}]
+}

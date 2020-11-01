@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "7a3cdb26",
+		type: "item",
+		items: [{
+			item: "projecttable:project_table"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "c2a444d4",
+		type: "item",
+		items: [{
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "45fbd1d7",
+		type: "item",
+		items: [{
+			item: "magneticraft:shelving_unit"
+		}]
+	}]
+}

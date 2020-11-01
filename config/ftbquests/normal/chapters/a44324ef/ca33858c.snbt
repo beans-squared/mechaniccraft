@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "60741d1a",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:dam_turbine"
+		}]
+	}]
+}

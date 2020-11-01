@@ -1,0 +1,11 @@
+{
+	x: -6.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6a6c32d8",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_manipulator"
+		}]
+	}]
+}

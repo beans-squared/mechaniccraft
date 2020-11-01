@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "d98bf304",
+		type: "item",
+		items: [{
+			id: "scannable:scanner",
+			tag: {
+				energy: 50000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

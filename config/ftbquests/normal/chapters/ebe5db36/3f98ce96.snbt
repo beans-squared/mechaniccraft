@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "cd3886f1",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_combustion_chamber"
+		}]
+	}]
+}

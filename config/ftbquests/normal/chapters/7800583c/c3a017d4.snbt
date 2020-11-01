@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "f3145dd3",
+		type: "item",
+		items: [{
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}

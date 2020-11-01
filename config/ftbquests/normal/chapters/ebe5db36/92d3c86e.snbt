@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d0967a0d",
+		type: "item",
+		items: [{
+			item: "alternatingflux:connector 1 1"
+		}]
+	}]
+}
