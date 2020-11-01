@@ -1,24 +1,4 @@
-CHANGELOG for MechanicCraft 0.7.0 (10.31.2020)
+CHANGELOG for MechanicCraft 0.7.1 (10.31.2020)
 
-- Added Hardcore Darkness
-- Added Realistic Torches
-- Replaces Ambience mod with updated fork called Ambience - Extras
-  - Better transitions between songs, more tracks
-- Added more loading screen tips
-- Modified recipes for Industrial Renewal's solar panel and frame
-- Removed Ghost's Explosives
-- Un-removed Magneticraft batteries
-- Added sand processing recipes for quartz to sieve and crushing table
-- Removed some redundant items from Industrial Renewal
-  - Notably it's HV wire artitecture, which is more complicated than IE's, as well as the Chunk Loader
-- Added the Project Table
-  - Allows crafting of recipes in a Factorio-style way: if you have enough ingredients, it's a simple as clicking a button
-  - Currently only used for the crafting recipe of the battery bank, but will be expanded upon in the future
-- Added TipTheScales
-- Changed the starting gear to be a bit less OP
-- Added Triumph
-- Added Better Advancements
-- Removed a bunch of Quark stuff
-- Removed some coremods no longer needed
-- Re-added a license to the project because that somehow got deleted a while back
-- Fixed the changelong on the main screen
+- Fixed error on Seared Bricks quest
+- Fixed script errors on world load
