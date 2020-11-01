@@ -9,13 +9,14 @@
 	],
 	hide: true,
 	tasks: [{
-		uid: "39d8ec32",
-		type: "observation",
-		title: "Scan: Bricks",
+		uid: "42bb204d",
+		type: "item",
+		title: "Craft: Bricks",
 		icon: "minecraft:brick_block",
-		match_type: "block_id",
-		match: "minecraft:brick_block",
-		timer: 60L
+		items: [{
+			item: "minecraft:brick_block"
+		}],
+		consume_items: false
 	}],
 	rewards: [{
 		uid: "88b5efc8",
