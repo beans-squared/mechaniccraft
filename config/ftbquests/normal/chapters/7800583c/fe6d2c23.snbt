@@ -1,0 +1,81 @@
+{
+	title: "Smeltery",
+	x: 1.5d,
+	y: -1.0d,
+	description: "Manage your metals like a pro.",
+	text: [
+		"The controller acts as the master of the entire multiblock. Used to interface with the structure itself.",
+		"",
+		"Seared bricks form the main structure itself. Consult 'Materials and You' for a diagram for the basic shape.",
+		"",
+		"You'll need a fuel storage device, such as a seared tank, gauge or window, to hold the lava which fuels the smeltery.",
+		"",
+		"The drain is used with seared faucets to pour out molten metals into casting basins or tables, to form metal tool parts."
+	],
+	dependencies: [
+		"681c9738"
+	],
+	min_width: 500,
+	tasks: [{
+		uid: "6cd4f015",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "880ab769",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "53ac2f3a",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		},
+		{
+			item: "tconstruct:seared_tank 1 1"
+		},
+		{
+			item: "tconstruct:seared_tank 1 2"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "8795b718",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "994952be",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "7061a90f",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "dc7741a6",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}],
+		consume_items: false
+	}]
+}

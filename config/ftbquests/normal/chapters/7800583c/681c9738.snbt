@@ -1,0 +1,59 @@
+{
+	title: "Metallurgy",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "copper",
+			Amount: 1000
+		}
+	},
+	x: 0.5d,
+	y: -2.5d,
+	description: "Manipulation of metallic substances to create useful items.",
+	text: [
+		"This research unlocks:",
+		"- Smeltery, a multiblock structure used to melt down and alloy metals to create tool parts and alloys.",
+		"- Tool Forge, an advanced version of the tool station that allows creation of more tool and weapon types.",
+		"- Armor Forge, an advanced version of the armor station."
+	],
+	dependencies: [
+		"d1a458d0",
+		"a99cfd4f"
+	],
+	rewards: [{
+		uid: "ec6eb8b6",
+		type: "custom",
+		title: "Smeltery",
+		icon: "tconstruct:smeltery_controller"
+	},
+	{
+		uid: "96cdd312",
+		type: "custom",
+		title: "Tool Forge",
+		icon: {
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}
+	},
+	{
+		uid: "a74a7e28",
+		type: "custom",
+		title: "Armor Forge",
+		icon: {
+			id: "conarm:armorforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}
+	}]
+}

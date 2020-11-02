@@ -1,12 +1,24 @@
 {
+	title: "Lazy Bum",
 	x: 4.0d,
-	y: 1.0d,
+	y: 2.0d,
+	description: "Use a hammock to sleep during the day.",
 	tasks: [{
 		uid: "790c7894",
 		type: "item",
 		items: [{
 			item: "comforts:hammock 1 14"
 		}],
+		consume_items: false,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "8b96a87f",
+		type: "item",
+		items: [{
+			item: "comforts:rope"
+		}],
+		count: 2L,
+		consume_items: false
 	}]
 }

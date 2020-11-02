@@ -1,12 +1,21 @@
 {
-	x: 3.0d,
-	y: 1.0d,
+	title: "Playing with Fire",
+	x: 2.5d,
+	y: 0.5d,
+	description: "Use to light your very sad unlit torches.",
+	text: [
+		"Any torches you craft using coal or charcoal will now be unlit by default. You'll need to craft them together with a matchbox to light them.",
+		"",
+		"Alternatively, you can use a flint and steel to re-light them once they've been placed or once they've burnt out."
+	],
+	min_width: 500,
 	tasks: [{
 		uid: "ef1890d8",
 		type: "item",
 		items: [{
 			item: "realistictorches:matchbox"
 		}],
+		consume_items: false,
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}]

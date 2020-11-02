@@ -1,11 +1,16 @@
 {
-	x: 0.0d,
+	x: -2.5d,
 	y: 0.0d,
+	description: "Faster than the stone version!",
+	dependencies: [
+		"bb841113"
+	],
 	tasks: [{
 		uid: "e7d9ac46",
 		type: "item",
 		items: [{
 			item: "magneticraft:brick_furnace"
-		}]
+		}],
+		consume_items: false
 	}]
 }
