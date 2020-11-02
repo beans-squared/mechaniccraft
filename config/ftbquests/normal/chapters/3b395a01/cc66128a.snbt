@@ -1,11 +1,14 @@
 {
+	title: "Caveman's Grill",
 	x: 0.0d,
 	y: 0.0d,
+	description: "Build a campfire to cook meat and stay warm.",
 	tasks: [{
 		uid: "64a93316",
 		type: "item",
 		items: [{
 			item: "toughasnails:campfire"
-		}]
+		}],
+		consume_items: false
 	}]
 }

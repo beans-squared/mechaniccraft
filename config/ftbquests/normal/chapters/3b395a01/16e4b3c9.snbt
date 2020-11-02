@@ -1,6 +1,11 @@
 {
-	x: 2.0d,
-	y: 1.0d,
+	title: "Part Building",
+	x: 1.0d,
+	y: 1.5d,
+	description: "Use patterns to make tool parts.",
+	dependencies: [
+		"cc66128a"
+	],
 	tasks: [{
 		uid: "95b9d658",
 		type: "item",
@@ -14,6 +19,8 @@
 				}
 			},
 			Damage: 2s
-		}]
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
 	}]
 }

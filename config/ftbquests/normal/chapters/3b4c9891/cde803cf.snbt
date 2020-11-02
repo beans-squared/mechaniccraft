@@ -1,0 +1,19 @@
+{
+	title: "Goal Quests",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "circle",
+	description: "Learn about goal quests.",
+	text: [
+		"Goal quests indicate a certain machine or tool you can work towards. You gain no rewards for completing these besides personal satisfaction, and these will typically be gated behind one or more research type quests. Required items will not be consume",
+		"",
+		"Goal quests will always be circle-shaped."
+	],
+	size: 2.0d,
+	min_width: 500,
+	tasks: [{
+		uid: "4a2c4657",
+		type: "checkmark",
+		title: "Confirm you have read below."
+	}]
+}

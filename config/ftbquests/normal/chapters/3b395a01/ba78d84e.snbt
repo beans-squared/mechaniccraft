@@ -1,0 +1,17 @@
+{
+	title: "Cold and Slimy",
+	x: -1.5d,
+	y: -1.5d,
+	description: "Used to make jellied slime armor.",
+	dependencies: [
+		"34cd9efb"
+	],
+	tasks: [{
+		uid: "c58b2219",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime"
+		}],
+		consume_items: false
+	}]
+}

@@ -1,11 +1,16 @@
 {
-	x: 4.0d,
-	y: 1.0d,
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"e942d4c3",
+		"16e4b3c9"
+	],
 	tasks: [{
 		uid: "cb81b8ce",
 		type: "item",
 		items: [{
 			item: "conarm:armorstation"
-		}]
+		}],
+		consume_items: false
 	}]
 }

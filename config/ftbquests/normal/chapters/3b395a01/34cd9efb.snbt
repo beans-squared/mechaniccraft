@@ -1,0 +1,17 @@
+{
+	title: "Cold, Hard Water",
+	x: 0.0d,
+	y: -1.5d,
+	description: "Get ice cubes by breaking ice.",
+	dependencies: [
+		"cc66128a"
+	],
+	tasks: [{
+		uid: "c9082243",
+		type: "item",
+		items: [{
+			item: "toughasnails:ice_cube"
+		}],
+		consume_items: false
+	}]
+}

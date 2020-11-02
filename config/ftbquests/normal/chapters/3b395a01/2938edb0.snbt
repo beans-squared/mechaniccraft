@@ -1,12 +1,48 @@
 {
-	x: 0.0d,
-	y: 1.0d,
+	title: "Bundled In Tight",
+	x: 1.5d,
+	y: -3.0d,
+	description: "Complete a full set of Wool armor.",
+	dependencies: [
+		"48c80f31"
+	],
 	tasks: [{
-		uid: "d5a9b4f9",
+		uid: "c7aa43ef",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_helmet"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b4b3f297",
 		type: "item",
 		items: [{
 			item: "toughasnails:wool_chestplate"
 		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "840d7527",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_leggings"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2cee6bc6",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_boots"
+		}],
+		consume_items: false,
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}]
