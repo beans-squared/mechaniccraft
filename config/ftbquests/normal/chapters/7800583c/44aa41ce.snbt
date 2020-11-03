@@ -1,11 +1,16 @@
 {
-	x: -6.0d,
-	y: 2.0d,
+	x: -8.5d,
+	y: 1.5d,
+	description: "Gonna need a stepstool.",
+	dependencies: [
+		"9cdc6bff"
+	],
 	tasks: [{
 		uid: "79eda08b",
 		type: "item",
 		items: [{
 			item: "cookingforblockheads:cabinet"
-		}]
+		}],
+		consume_items: false
 	}]
 }

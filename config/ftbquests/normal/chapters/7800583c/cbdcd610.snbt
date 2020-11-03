@@ -1,11 +1,13 @@
 {
 	x: 2.5d,
 	y: 4.5d,
+	description: "Make bulk crafting a bit easier.",
 	tasks: [{
 		uid: "c2b07fc9",
 		type: "item",
 		items: [{
 			item: "magneticraft:fabricator"
-		}]
+		}],
+		consume_items: false
 	}]
 }

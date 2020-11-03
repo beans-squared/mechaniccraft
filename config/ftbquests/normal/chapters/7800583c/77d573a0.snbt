@@ -1,11 +1,16 @@
 {
-	x: -5.0d,
-	y: 4.5d,
+	x: -8.5d,
+	y: -3.5d,
+	description: "Keep bees and collect their sweet products!",
+	dependencies: [
+		"65b88568"
+	],
 	tasks: [{
 		uid: "3095bf7a",
 		type: "item",
 		items: [{
 			item: "harvestcraft:apiary"
-		}]
+		}],
+		consume_items: false
 	}]
 }

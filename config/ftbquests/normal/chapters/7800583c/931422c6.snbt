@@ -1,11 +1,20 @@
 {
-	x: -7.0d,
-	y: 4.5d,
+	title: "Traps",
+	x: -7.5d,
+	y: -3.5d,
+	description: "Get animal products easy.",
+	dependencies: [
+		"65b88568"
+	],
 	tasks: [{
 		uid: "a50d82a8",
 		type: "item",
 		items: [{
 			item: "harvestcraft:groundtrap"
-		}]
+		},
+		{
+			item: "harvestcraft:watertrap"
+		}],
+		consume_items: false
 	}]
 }

@@ -1,5 +1,4 @@
 {
-	title: "Caveman hate rock!",
 	x: 1.0d,
 	y: 0.5d,
 	description: "Smash stuff into bits.",
@@ -8,7 +7,7 @@
 		"",
 		"Here, you can crush ores into rocky chunks, which is the beginning step to duplicating your ore output. You can also create metal plates here."
 	],
-	min_width: 500,
+	min_width: 300,
 	tasks: [{
 		uid: "460a9233",
 		type: "item",

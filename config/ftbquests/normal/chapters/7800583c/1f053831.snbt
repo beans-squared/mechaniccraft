@@ -1,11 +1,16 @@
 {
 	x: -2.0d,
 	y: 1.5d,
+	description: "Utilize hemp fibers to create versatile, durable fabric!",
+	text: [
+		"If you haven't already found some, you can get hemp seeds by breaking grass."
+	],
 	tasks: [{
-		uid: "f37ba44a",
+		uid: "5ef4459d",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:material 1 5"
-		}]
+		}],
+		consume_items: false
 	}]
 }

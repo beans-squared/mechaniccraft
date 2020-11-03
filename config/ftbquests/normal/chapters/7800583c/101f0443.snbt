@@ -1,11 +1,44 @@
 {
+	title: "Blueprinting",
+	icon: {
+		id: "immersiveengineering:blueprint",
+		tag: {
+			blueprint: "components"
+		}
+	},
 	x: 1.5d,
 	y: 4.5d,
+	shape: "gear",
+	description: "Design blueprints for advanced crafting components!",
+	text: [
+		"This research unlocks:",
+		"- Blueprints, which are schematics for the crafting of advanced machine components at an Engineer's Workbench.",
+		"- The Project Table, where you can create blueprints and science packs."
+	],
+	min_width: 300,
 	tasks: [{
-		uid: "7a3cdb26",
+		uid: "8d9c0646",
 		type: "item",
 		items: [{
-			item: "projecttable:project_table"
-		}]
+			item: "contenttweaker:red_science_pack"
+		}],
+		count: 25L
+	}],
+	rewards: [{
+		uid: "2c144a5c",
+		type: "custom",
+		title: "Project Table",
+		icon: "projecttable:project_table"
+	},
+	{
+		uid: "8ffb91ad",
+		type: "custom",
+		title: "Blueprints",
+		icon: {
+			id: "immersiveengineering:blueprint",
+			tag: {
+				blueprint: "components"
+			}
+		}
 	}]
 }

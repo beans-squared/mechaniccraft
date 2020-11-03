@@ -1,5 +1,4 @@
 {
-	title: "Playing with Fire",
 	x: 2.5d,
 	y: 0.5d,
 	description: "Use to light your very sad unlit torches.",
@@ -8,7 +7,7 @@
 		"",
 		"Alternatively, you can use a flint and steel to re-light them once they've been placed or once they've burnt out."
 	],
-	min_width: 500,
+	min_width: 300,
 	tasks: [{
 		uid: "ef1890d8",
 		type: "item",

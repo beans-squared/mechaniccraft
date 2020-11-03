@@ -1,11 +1,16 @@
 {
-	x: -7.0d,
-	y: 3.0d,
+	x: -7.5d,
+	y: 0.0d,
+	description: "Essential for any full-featured kitchen.",
+	dependencies: [
+		"65b88568"
+	],
 	tasks: [{
 		uid: "283f8313",
 		type: "item",
 		items: [{
 			item: "cookingforblockheads:cooking_table"
-		}]
+		}],
+		consume_items: false
 	}]
 }

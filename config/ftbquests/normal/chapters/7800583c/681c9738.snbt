@@ -9,6 +9,7 @@
 	},
 	x: 0.5d,
 	y: -2.5d,
+	shape: "gear",
 	description: "Manipulation of metallic substances to create useful items.",
 	text: [
 		"This research unlocks:",
@@ -20,6 +21,7 @@
 		"d1a458d0",
 		"a99cfd4f"
 	],
+	min_width: 300,
 	rewards: [{
 		uid: "ec6eb8b6",
 		type: "custom",

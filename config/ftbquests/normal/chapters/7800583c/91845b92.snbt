@@ -1,11 +1,13 @@
 {
-	x: 2.5d,
-	y: -2.5d,
+	x: 4.0d,
+	y: -1.0d,
+	description: "Works like the bamboo version!",
 	tasks: [{
 		uid: "cdd0b11b",
 		type: "item",
 		items: [{
 			item: "industrialrenewal:scaffold"
-		}]
+		}],
+		consume_items: false
 	}]
 }

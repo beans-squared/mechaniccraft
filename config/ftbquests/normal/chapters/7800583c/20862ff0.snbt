@@ -1,11 +1,16 @@
 {
 	x: -1.5d,
 	y: 3.0d,
+	description: "A interesting description.",
+	dependencies: [
+		"1f053831"
+	],
 	tasks: [{
 		uid: "e6ad420e",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:cloth_device 1 2"
-		}]
+		}],
+		consume_items: false
 	}]
 }

@@ -1,12 +1,14 @@
 {
-	x: 4.5d,
+	x: 2.5d,
 	y: -2.5d,
+	description: "Spice up the textures of your builds.",
 	tasks: [{
 		uid: "3984cce0",
 		type: "item",
 		items: [{
 			item: "chisel:chisel_iron"
 		}],
+		consume_items: false,
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}]

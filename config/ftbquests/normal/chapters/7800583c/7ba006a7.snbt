@@ -1,11 +1,16 @@
 {
-	x: -7.0d,
-	y: -1.0d,
+	x: -5.5d,
+	y: 1.5d,
+	description: "A proper place to cook your steak.",
+	dependencies: [
+		"9cdc6bff"
+	],
 	tasks: [{
 		uid: "ccedb5b8",
 		type: "item",
 		items: [{
 			item: "cookingforblockheads:oven"
-		}]
+		}],
+		consume_items: false
 	}]
 }

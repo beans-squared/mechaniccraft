@@ -1,11 +1,17 @@
 {
-	x: -2.0d,
-	y: 4.5d,
+	x: -5.5d,
+	y: -2.5d,
+	description: "Get clean water from not-clean water sources.",
+	dependencies: [
+		"65b88568",
+		"48c80f31"
+	],
 	tasks: [{
 		uid: "565d0eb6",
 		type: "item",
 		items: [{
 			item: "harvestcraft:waterfilter"
-		}]
+		}],
+		consume_items: false
 	}]
 }

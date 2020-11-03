@@ -1,11 +1,16 @@
 {
-	x: -6.0d,
-	y: 0.0d,
+	x: -9.5d,
+	y: 0.5d,
+	description: "Supplies your kitchen with some sweet H2O.",
+	dependencies: [
+		"9cdc6bff"
+	],
 	tasks: [{
 		uid: "df15416b",
 		type: "item",
 		items: [{
 			item: "cookingforblockheads:sink"
-		}]
+		}],
+		consume_items: false
 	}]
 }

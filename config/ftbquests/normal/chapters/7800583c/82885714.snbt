@@ -1,15 +1,15 @@
 {
 	x: -9.5d,
-	y: -2.5d,
-	description: "Easy-feeding of farm animals.",
+	y: -1.5d,
+	description: "Purchase new crops with emeralds!",
 	dependencies: [
 		"65b88568"
 	],
 	tasks: [{
-		uid: "13b41094",
+		uid: "a9622787",
 		type: "item",
 		items: [{
-			item: "magneticraft:feeding_trough"
+			item: "harvestcraft:market"
 		}],
 		consume_items: false
 	}]

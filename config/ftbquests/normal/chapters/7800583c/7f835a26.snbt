@@ -1,5 +1,4 @@
 {
-	title: "Water + Rock = Profit",
 	x: 1.0d,
 	y: 2.0d,
 	description: "Filter rocky ore chunks.",

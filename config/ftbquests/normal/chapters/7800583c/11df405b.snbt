@@ -1,5 +1,4 @@
 {
-	title: "Just a Box",
 	x: 2.5d,
 	y: 2.0d,
 	description: "Store items...in a box!",

@@ -1,11 +1,16 @@
 {
-	x: -1.0d,
-	y: 4.5d,
+	x: -5.5d,
+	y: -3.5d,
+	description: "Get double the the output for some food recipes!",
+	dependencies: [
+		"65b88568"
+	],
 	tasks: [{
 		uid: "5585515a",
 		type: "item",
 		items: [{
 			item: "harvestcraft:grinder"
-		}]
+		}],
+		consume_items: false
 	}]
 }

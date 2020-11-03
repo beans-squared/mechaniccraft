@@ -1,11 +1,16 @@
 {
-	x: -6.0d,
-	y: 1.0d,
+	x: -7.5d,
+	y: 1.5d,
+	description: "Cooking at 90 degrees.",
+	dependencies: [
+		"9cdc6bff"
+	],
 	tasks: [{
 		uid: "48f04f30",
 		type: "item",
 		items: [{
 			item: "cookingforblockheads:corner"
-		}]
+		}],
+		consume_items: false
 	}]
 }
