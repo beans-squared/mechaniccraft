@@ -1,11 +1,16 @@
 {
-	x: 3.0d,
-	y: 1.0d,
+	title: "Coke Oven",
+	icon: "immersiveengineering:stone_device",
+	x: -1.5d,
+	y: -2.0d,
+	description: "Enrich coal into a more efficient fuel.",
 	tasks: [{
-		uid: "b9d209df",
+		uid: "b74ea8c1",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:stone_decoration"
-		}]
+		}],
+		count: 27L,
+		consume_items: false
 	}]
 }

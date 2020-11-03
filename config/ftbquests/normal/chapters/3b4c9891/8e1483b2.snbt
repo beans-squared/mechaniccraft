@@ -1,6 +1,6 @@
 {
 	title: "Research Quests",
-	x: 4.0d,
+	x: 7.0d,
 	y: 0.0d,
 	shape: "gear",
 	description: "Learn about research quests.",
@@ -10,7 +10,7 @@
 		"Research quests will always be gear-shaped."
 	],
 	size: 2.0d,
-	min_width: 500,
+	min_width: 300,
 	tasks: [{
 		uid: "05b32cfc",
 		type: "checkmark",

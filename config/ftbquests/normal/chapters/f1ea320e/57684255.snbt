@@ -1,11 +1,18 @@
 {
-	x: -1.0d,
-	y: 2.0d,
+	title: "Crude Blast Furnace",
+	icon: "immersiveengineering:stone_device 1 1",
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"ef129390"
+	],
 	tasks: [{
 		uid: "a208ca19",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:stone_decoration 1 1"
-		}]
+		}],
+		count: 27L,
+		consume_items: false
 	}]
 }

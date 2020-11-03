@@ -10,7 +10,7 @@
 		"Goal quests will always be circle-shaped."
 	],
 	size: 2.0d,
-	min_width: 500,
+	min_width: 300,
 	tasks: [{
 		uid: "4a2c4657",
 		type: "checkmark",

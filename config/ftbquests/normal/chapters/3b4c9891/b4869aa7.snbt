@@ -1,0 +1,19 @@
+{
+	title: "Keystone Quests",
+	x: 3.5d,
+	y: 0.0d,
+	shape: "square",
+	description: "Learn about keystone quests.",
+	text: [
+		"Keystone quests are the same as goal quests, except they are needed for the unlocking of one or more research quests.",
+		"",
+		"Keystone quests are square-shaped."
+	],
+	size: 2.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "6a34adb3",
+		type: "checkmark",
+		title: "Confirm you have read below."
+	}]
+}

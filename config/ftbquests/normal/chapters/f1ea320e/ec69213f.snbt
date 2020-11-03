@@ -1,0 +1,8 @@
+{
+	title: "Metalworking",
+	icon: "industrialrenewal:lathe",
+	x: 8.0d,
+	y: 0.5d,
+	shape: "gear",
+	description: "Create complex metal parts and constructions."
+}

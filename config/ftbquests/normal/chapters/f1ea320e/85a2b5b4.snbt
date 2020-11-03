@@ -1,0 +1,12 @@
+{
+	title: "Logistics",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:conveyor"
+		}
+	},
+	x: -9.5d,
+	y: -5.5d,
+	shape: "gear"
+}

@@ -1,11 +1,19 @@
 {
-	x: 3.0d,
-	y: 2.0d,
+	title: "Alloy Kiln",
+	icon: "immersiveengineering:stone_device 1 7",
+	x: 0.0d,
+	y: -1.0d,
+	description: "Combine metals to form useful alloys.",
+	dependencies: [
+		"ef129390"
+	],
 	tasks: [{
 		uid: "b860056d",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:stone_decoration 1 10"
-		}]
+		}],
+		count: 8L,
+		consume_items: false
 	}]
 }
