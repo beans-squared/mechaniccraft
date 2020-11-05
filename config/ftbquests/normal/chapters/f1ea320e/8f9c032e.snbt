@@ -1,11 +1,19 @@
 {
+	title: "Concrete Decor",
 	x: 1.5d,
-	y: -1.5d,
+	y: -1.0d,
+	dependencies: [
+		"19634049"
+	],
 	tasks: [{
 		uid: "30e7a4e3",
 		type: "item",
 		items: [{
 			item: "engineersdoors:door_concrete"
-		}]
+		},
+		{
+			item: "engineersdoors:trapdoor_concrete"
+		}],
+		consume_items: false
 	}]
 }

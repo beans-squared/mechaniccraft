@@ -1,0 +1,50 @@
+{
+	title: "Wooden Decor",
+	x: 8.0d,
+	y: -3.0d,
+	dependencies: [
+		"8f0f5a0a"
+	],
+	tasks: [{
+		uid: "71934ed8",
+		type: "item",
+		title: "Wooden Decorative Item",
+		items: [{
+			item: "engineersdecor:treated_wood_ladder"
+		},
+		{
+			item: "engineersdecor:treated_wood_pole"
+		},
+		{
+			item: "engineersdecor:treated_wood_table"
+		},
+		{
+			item: "engineersdecor:treated_wood_stool"
+		},
+		{
+			item: "engineersdecor:treated_wood_window"
+		},
+		{
+			item: "engineersdecor:treated_wood_windowsill"
+		},
+		{
+			item: "engineersdecor:treated_wood_broad_windowsill"
+		},
+		{
+			item: "engineersdecor:treated_wood_pole_support"
+		},
+		{
+			item: "engineersdecor:treated_wood_pole_head"
+		},
+		{
+			item: "engineersdecor:treated_wood_side_table"
+		},
+		{
+			item: "engineersdecor:halfslab_treated_wood"
+		},
+		{
+			item: "engineersdoors:door_treated"
+		}],
+		consume_items: false
+	}]
+}

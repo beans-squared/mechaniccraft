@@ -1,6 +1,6 @@
 {
-	x: 2.5d,
-	y: -2.5d,
+	x: 3.0d,
+	y: -2.0d,
 	tasks: [{
 		uid: "afd42a8c",
 		type: "item",
@@ -10,6 +10,7 @@
 				chiseldata: {}
 			}
 		}],
+		consume_items: false,
 		ignore_damage: true,
 		ignore_nbt: 1b
 	}]

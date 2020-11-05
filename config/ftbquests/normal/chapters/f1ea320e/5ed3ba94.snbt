@@ -1,0 +1,41 @@
+{
+	title: "Wooden Utility",
+	x: 8.0d,
+	y: -5.0d,
+	dependencies: [
+		"8f0f5a0a"
+	],
+	tasks: [{
+		uid: "7dfd45a1",
+		type: "item",
+		title: "Wooden Utility Item",
+		items: [{
+			item: "immersiveengineering:wooden_device0 1 4"
+		},
+		{
+			item: "immersiveengineering:wooden_device0 1 1"
+		},
+		{
+			item: "immersiveengineering:wooden_device0"
+		},
+		{
+			item: "immersiveengineering:wooden_device0"
+		},
+		{
+			item: "engineersdecor:labeled_crate"
+		},
+		{
+			item: "engineersdecor:treated_wood_crafting_table"
+		},
+		{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:toolbox"
+		}],
+		consume_items: false
+	}]
+}

@@ -1,11 +1,38 @@
 {
+	title: "Concrete",
 	x: 1.5d,
-	y: -2.5d,
+	y: -3.0d,
 	tasks: [{
 		uid: "ace5aa7b",
 		type: "item",
+		title: "Concrete Decorative Items",
 		items: [{
 			item: "immersiveengineering:stone_decoration 1 5"
-		}]
+		},
+		{
+			item: "engineersdecor:rebar_concrete"
+		},
+		{
+			item: "engineersdecor:gas_concrete"
+		},
+		{
+			item: "immersiveengineering:stone_decoration 1 7"
+		},
+		{
+			item: "immersiveengineering:stone_decoration_stairs_concrete"
+		},
+		{
+			item: "immersiveengineering:stone_decoration_slab 1 5"
+		},
+		{
+			item: "immersiveengineering:stone_decoration 1 6"
+		},
+		{
+			item: "immersiveengineering:stone_decoration_stairs_concrete_tile"
+		},
+		{
+			item: "immersiveengineering:stone_decoration_slab 1 6"
+		}],
+		consume_items: false
 	}]
 }
