@@ -1,7 +1,0 @@
-{
-	title: "Chemical Energy",
-	icon: "industrialrenewal:battery",
-	x: -5.5d,
-	y: 2.0d,
-	shape: "gear"
-}

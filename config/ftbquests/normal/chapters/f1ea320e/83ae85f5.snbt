@@ -1,7 +1,0 @@
-{
-	title: "Electric Heating",
-	icon: "cookingforblockheads:heating_unit",
-	x: 3.0d,
-	y: -5.5d,
-	shape: "gear"
-}

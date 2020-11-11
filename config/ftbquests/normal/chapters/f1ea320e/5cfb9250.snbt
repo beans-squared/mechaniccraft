@@ -1,7 +1,0 @@
-{
-	title: "Motor",
-	icon: "magneticraft:crafting 1 2",
-	x: 1.5d,
-	y: 1.0d,
-	shape: "gear"
-}

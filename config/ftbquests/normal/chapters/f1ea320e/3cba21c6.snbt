@@ -1,7 +1,0 @@
-{
-	title: "Automation",
-	icon: "magneticraft:inserter",
-	x: -10.5d,
-	y: -5.5d,
-	shape: "gear"
-}
