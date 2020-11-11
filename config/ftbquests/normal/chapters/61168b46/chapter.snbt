@@ -1,0 +1,13 @@
+{
+	title: "Advanced Logistics",
+	icon: {
+		id: "refinedstorage:controller",
+		tag: {
+			Energy: 32000
+		},
+		Damage: 1s
+	},
+	always_invisible: false,
+	group: 1431572721,
+	default_quest_shape: ""
+}

@@ -1,0 +1,7 @@
+{
+	title: "Temperature",
+	icon: "toughasnails:thermometer",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

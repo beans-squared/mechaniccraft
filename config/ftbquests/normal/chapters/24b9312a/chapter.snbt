@@ -1,0 +1,7 @@
+{
+	title: "Intermediate Agriculture",
+	icon: "minecraft:stone_hoe",
+	always_invisible: false,
+	group: -930657415,
+	default_quest_shape: ""
+}

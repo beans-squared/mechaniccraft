@@ -1,0 +1,7 @@
+{
+	title: "Basic Logistics",
+	icon: "magneticraft:box",
+	always_invisible: false,
+	group: 1431572721,
+	default_quest_shape: ""
+}

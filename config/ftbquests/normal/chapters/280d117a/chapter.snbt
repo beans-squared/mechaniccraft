@@ -1,0 +1,7 @@
+{
+	title: "Advanced Power",
+	icon: "immersiveengineering:wirecoil 1 2",
+	always_invisible: false,
+	group: 956711401,
+	default_quest_shape: ""
+}

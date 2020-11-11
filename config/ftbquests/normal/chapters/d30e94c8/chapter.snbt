@@ -1,0 +1,7 @@
+{
+	title: "Basic Industry",
+	icon: "magneticraft:crushing_table",
+	always_invisible: false,
+	group: 1723497104,
+	default_quest_shape: ""
+}

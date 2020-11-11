@@ -1,0 +1,7 @@
+{
+	title: "Intermediate Logistics",
+	icon: "immersiveengineering:wooden_device0 1 5",
+	always_invisible: false,
+	group: 1431572721,
+	default_quest_shape: ""
+}
