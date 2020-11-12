@@ -1,0 +1,13 @@
+{
+	x: 2.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "c500e02c",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:oil_can"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "20354cbe",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:block_hazard"
+		}]
+	}]
+}

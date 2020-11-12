@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "84db1c23",
+		type: "item",
+		items: [{
+			item: "magneticraft:brick_furnace"
+		}]
+	}]
+}

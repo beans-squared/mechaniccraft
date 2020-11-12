@@ -1,0 +1,11 @@
+{
+	x: 5.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "d08406ea",
+		type: "item",
+		items: [{
+			item: "magneticraft:container"
+		}]
+	}]
+}

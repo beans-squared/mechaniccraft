@@ -1,7 +1,0 @@
-{
-	title: "Automatic Lubricator",
-	icon: "immersivepetroleum:metal_device",
-	x: 17.0d,
-	y: 0.0d,
-	hide: true
-}

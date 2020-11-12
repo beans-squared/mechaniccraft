@@ -1,0 +1,12 @@
+{
+	x: -11.0d,
+	y: -9.5d,
+	tasks: [{
+		uid: "19f46ae1",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_crafting_monitor 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

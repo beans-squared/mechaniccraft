@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "7a2a1bd2",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:aisle_hazard"
+		}]
+	}]
+}

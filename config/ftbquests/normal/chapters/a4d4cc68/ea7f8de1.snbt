@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "b9e8cd5d",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_mirror"
+		}]
+	}]
+}

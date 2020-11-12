@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "37500583",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 21,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:revolver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

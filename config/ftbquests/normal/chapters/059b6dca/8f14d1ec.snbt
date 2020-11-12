@@ -1,0 +1,11 @@
+{
+	x: -8.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "8db8bf3f",
+		type: "item",
+		items: [{
+			item: "refinedstorage:cable"
+		}]
+	}]
+}

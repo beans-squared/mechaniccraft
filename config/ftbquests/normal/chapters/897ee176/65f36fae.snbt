@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "fec16822",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_panel"
+		}]
+	}]
+}

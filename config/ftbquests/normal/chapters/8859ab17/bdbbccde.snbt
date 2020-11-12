@@ -1,0 +1,11 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "df3a0b6a",
+		type: "item",
+		items: [{
+			item: "buildinggadgets:templatemanager"
+		}]
+	}]
+}

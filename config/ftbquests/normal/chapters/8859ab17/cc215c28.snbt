@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "e88ec6e6",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:radiation_hazard"
+		}]
+	}]
+}

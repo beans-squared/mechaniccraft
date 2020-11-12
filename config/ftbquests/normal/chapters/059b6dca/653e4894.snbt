@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b595a595",
+		type: "item",
+		items: [{
+			item: "engineersdecor:straight_pipe_valve"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "cdcb5e46",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:simulation_chamber"
+		}]
+	}]
+}

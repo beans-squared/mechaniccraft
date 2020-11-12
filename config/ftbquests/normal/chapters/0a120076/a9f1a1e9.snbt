@@ -1,7 +1,0 @@
-{
-	title: "Steel Tank",
-	icon: "immersivetech:metal_multiblock 1 12",
-	x: 9.0d,
-	y: 1.0d,
-	hide: true
-}

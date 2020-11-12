@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -8.5d,
+	tasks: [{
+		uid: "e961ef01",
+		type: "item",
+		items: [{
+			item: "magneticraft:hydraulic_press"
+		}]
+	}]
+}

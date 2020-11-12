@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f8ca881f",
+		type: "item",
+		items: [{
+			item: "engineersdecor:slag_brick_block"
+		}]
+	}]
+}

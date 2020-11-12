@@ -1,7 +1,0 @@
-{
-	title: "Bottling Machine",
-	icon: "immersiveengineering:metal_multiblock 1 6",
-	x: 8.0d,
-	y: 0.0d,
-	hide: true
-}

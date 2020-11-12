@@ -1,0 +1,11 @@
+{
+	x: -5.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "5e78339c",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:safety_hazard"
+		}]
+	}]
+}

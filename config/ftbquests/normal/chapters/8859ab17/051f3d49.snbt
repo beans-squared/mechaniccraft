@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "c12f66e6",
+		type: "item",
+		items: [{
+			id: "buildinggadgets:copypastetool",
+			tag: {
+				mode: "Copy"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

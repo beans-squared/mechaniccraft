@@ -1,7 +1,0 @@
-{
-	title: "Lightning Rod",
-	icon: "immersiveengineering:metal_multiblock 1 14",
-	x: 2.0d,
-	y: -1.0d,
-	hide: true
-}

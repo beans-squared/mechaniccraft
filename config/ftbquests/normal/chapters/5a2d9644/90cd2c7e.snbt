@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d4e7f9be",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundtrap"
+		}]
+	}]
+}
