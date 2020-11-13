@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2c5394be",
+		type: "item",
+		items: [{
+			item: "ambience:alarm_white"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Presser",
+	x: -2.0d,
+	y: 4.5d,
+	description: "Pressing matters.",
+	text: [
+		"Processes several food ingredients, yielding valuable secondary products."
+	],
+	dependencies: [
+		"1fd9f997"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "26f150c0",
+		type: "item",
+		title: "Craft a Presser",
+		items: [{
+			item: "harvestcraft:presser"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

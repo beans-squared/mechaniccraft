@@ -1,0 +1,23 @@
+{
+	title: "Well",
+	x: -3.5d,
+	y: 2.5d,
+	description: "Well, well, well...",
+	text: [
+		"Well?"
+	],
+	dependencies: [
+		"90cd2c7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "36d5e221",
+		type: "item",
+		title: "Craft a Well",
+		items: [{
+			item: "harvestcraft:well"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

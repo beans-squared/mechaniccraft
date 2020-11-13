@@ -1,0 +1,38 @@
+{
+	title: "Hazards",
+	x: -3.0d,
+	y: -2.0d,
+	description: "Know thine work environment.",
+	text: [
+		"Several types of hazard indicating blocks."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c2893222",
+		type: "item",
+		title: "Craft any kind of hazard block",
+		items: [{
+			item: "industrialrenewal:block_hazard"
+		},
+		{
+			item: "industrialrenewal:aisle_hazard"
+		},
+		{
+			item: "industrialrenewal:caution_hazard"
+		},
+		{
+			item: "industrialrenewal:defective_hazard"
+		},
+		{
+			item: "industrialrenewal:fire_hazard"
+		},
+		{
+			item: "industrialrenewal:radiation_hazard"
+		},
+		{
+			item: "industrialrenewal:safety_hazard"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Garden Cloche",
+	x: 0.0d,
+	y: 0.0d,
+	description: "Agriculture for Blockheads",
+	text: [
+		"Allows growing of crops in an isolated, regulated environment, allowing vastly increased growth rate in any climate."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "988d19e4",
+		type: "item",
+		title: "Craft a Garden Cloche",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 13"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Kitchen Floor",
+	x: 0.0d,
+	y: -4.5d,
+	description: "Mama mia.",
+	text: [
+		"Legend says cooking in a kitchen with a checkered floor makes the food taste better."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "11a3ab4b",
+		type: "item",
+		title: "Craft Kitchen Floor",
+		items: [{
+			item: "cookingforblockheads:kitchen_floor"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Water Filter",
+	x: -3.5d,
+	y: 4.5d,
+	description: "The freshest of freshwater.",
+	text: [
+		"Generates salt and fresh water over time when provided with woven fabric."
+	],
+	dependencies: [
+		"90cd2c7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d137d543",
+		type: "item",
+		title: "Craft a Water Filter",
+		items: [{
+			item: "harvestcraft:waterfilter"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

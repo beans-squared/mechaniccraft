@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: -3.5d,
+	tasks: [{
+		uid: "f8db14cf",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:platform"
+		}]
+	}]
+}

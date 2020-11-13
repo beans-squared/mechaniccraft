@@ -1,0 +1,25 @@
+{
+	title: "Kitchen Sink",
+	x: 0.0d,
+	y: -0.5d,
+	description: "Don't let the dishes pile up.",
+	text: [
+		"Provides water to recipes that require it.",
+		"",
+		"Note that water must be piped into the sink for it to work."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6ff89724",
+		type: "item",
+		title: "Craft a Kitchen Sink",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}
