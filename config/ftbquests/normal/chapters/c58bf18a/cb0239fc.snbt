@@ -1,11 +1,59 @@
 {
-	x: 2.5d,
-	y: 2.0d,
+	title: "Alarms",
+	x: -5.5d,
+	y: 0.0d,
+	description: "The reaction's gone critical!",
+	text: [
+		"Customizable alarms that play sounds and flash when they recieve a redstone signal."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "2c5394be",
 		type: "item",
+		title: "Craft an Alarm",
 		items: [{
 			item: "ambience:alarm_white"
-		}]
+		},
+		{
+			item: "ambience:alarm_red"
+		},
+		{
+			item: "ambience:alarm_orange"
+		},
+		{
+			item: "ambience:alarm_yellow"
+		},
+		{
+			item: "ambience:alarm_lime"
+		},
+		{
+			item: "ambience:alarm_green"
+		},
+		{
+			item: "ambience:alarm_lightblue"
+		},
+		{
+			item: "ambience:alarm_cyan"
+		},
+		{
+			item: "ambience:alarm_blue"
+		},
+		{
+			item: "ambience:alarm_purple"
+		},
+		{
+			item: "ambience:alarm_magenta"
+		},
+		{
+			item: "ambience:alarm_pink"
+		},
+		{
+			item: "ambience:alarm_brown"
+		},
+		{
+			item: "industrialrenewal:alarm"
+		}],
+		consume_items: false,
+		only_from_crafting: true
 	}]
 }

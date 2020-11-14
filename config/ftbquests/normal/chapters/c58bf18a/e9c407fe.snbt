@@ -1,7 +1,7 @@
 {
 	title: "Concrete",
 	x: -5.5d,
-	y: -4.5d,
+	y: -4.0d,
 	description: "Hard as a rock.",
 	text: [
 		"Strong bulding material."

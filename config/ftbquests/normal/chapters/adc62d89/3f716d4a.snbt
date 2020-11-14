@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "ed2adad0",
+		type: "item",
+		items: [{
+			item: "weather2:weather_deflector"
+		}]
+	}]
+}

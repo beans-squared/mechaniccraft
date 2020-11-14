@@ -1,7 +1,7 @@
 {
 	title: "Gas Concrete",
 	x: -3.5d,
-	y: -4.5d,
+	y: -4.0d,
 	description: "Gas, gas!",
 	text: [
 		"Cheaper, but less sturdy than standard concrete."

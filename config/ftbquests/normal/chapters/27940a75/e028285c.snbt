@@ -1,0 +1,11 @@
+{
+	x: -7.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "62cb69ef",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_lab_furnace"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f82947fc",
+		type: "item",
+		items: [{
+			item: "toughasnails:temperature_coil 1 1"
+		}]
+	}]
+}

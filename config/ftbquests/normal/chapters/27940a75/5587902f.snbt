@@ -1,0 +1,11 @@
+{
+	x: -7.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "9681729c",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_electrical_furnace"
+		}]
+	}]
+}

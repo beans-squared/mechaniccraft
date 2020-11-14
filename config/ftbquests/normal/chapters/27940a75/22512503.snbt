@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "ca2cb920",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:cloth_device"
+		}]
+	}]
+}

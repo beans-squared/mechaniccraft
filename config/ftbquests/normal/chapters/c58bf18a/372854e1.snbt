@@ -1,6 +1,6 @@
 {
 	title: "Hazards",
-	x: -3.0d,
+	x: -3.5d,
 	y: -2.0d,
 	description: "Know thine work environment.",
 	text: [

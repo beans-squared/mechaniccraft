@@ -1,6 +1,6 @@
 {
 	title: "Hazard Sign",
-	x: -3.0d,
+	x: -3.5d,
 	y: 0.0d,
 	description: "No running in the factory!",
 	text: [
