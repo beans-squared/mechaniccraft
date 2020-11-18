@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "e7988cd5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:powerpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

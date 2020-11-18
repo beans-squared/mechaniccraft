@@ -1,0 +1,20 @@
+{
+	title: "Panzer Glass",
+	x: -1.5d,
+	y: 0.0d,
+	description: "This stuff is bulletproof, right?",
+	text: [
+		"Blast-resistant glass."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fc2a84e3",
+		type: "item",
+		title: "Craft Panzer Glass",
+		items: [{
+			item: "engineersdecor:panzerglass_block"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

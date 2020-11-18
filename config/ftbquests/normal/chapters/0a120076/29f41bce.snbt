@@ -1,7 +1,0 @@
-{
-	title: "Load Controller",
-	icon: "immersivetech:valve 1 1",
-	x: 7.0d,
-	y: 1.0d,
-	hide: true
-}

@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "73b3cf08",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:faraday_suit_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

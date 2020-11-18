@@ -1,4 +1,2 @@
-CHANGELOG for MechanicCraft 0.7.1 (10.31.2020)
+CHANGELOG for MechanicCraft 0.8.0 (x.x.2020)
 
-- Fixed error on Seared Bricks quest
-- Fixed script errors on world load

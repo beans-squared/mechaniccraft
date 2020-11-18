@@ -1,0 +1,23 @@
+{
+	title: "Cooking for Blockheads I",
+	x: -5.0d,
+	y: -2.5d,
+	description: "View cooking recipes.",
+	text: [
+		"A cookbook which allows you to view foods that you can make with the ingredients in your inventory.",
+		"",
+		"You can find different crops by breaking gardens, which are special bushes you can find in the world."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a0ecc7d1",
+		type: "item",
+		title: "Craft Cooking for Blockheads I",
+		items: [{
+			item: "cookingforblockheads:recipe_book 1 1"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Culinary Grinder",
+	x: -0.5d,
+	y: 4.5d,
+	description: "This really grinds my bacon.",
+	text: [
+		"Processes some food items, increasing their overall yield, including flour from wheat and meat from animals."
+	],
+	dependencies: [
+		"86a78f77"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "43be6291",
+		type: "item",
+		title: "Craft a Culinary Grinder",
+		items: [{
+			item: "harvestcraft:grinder"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

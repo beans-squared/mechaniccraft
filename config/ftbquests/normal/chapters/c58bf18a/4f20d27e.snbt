@@ -1,0 +1,32 @@
+{
+	title: "Electric Fence",
+	x: -1.5d,
+	y: -2.0d,
+	description: "2, Boogaloo?",
+	text: [
+		"Decorative fences that apply an electric shock to anything stupid enough to get too close."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "51680159",
+		type: "item",
+		title: "Craft Electric Fence",
+		items: [{
+			item: "industrialrenewal:electric_fence"
+		},
+		{
+			item: "industrialrenewal:electric_gate"
+		},
+		{
+			item: "industrialrenewal:fence_big_column"
+		},
+		{
+			item: "industrialrenewal:fence_big_corner"
+		},
+		{
+			item: "industrialrenewal:fence_big_wire"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

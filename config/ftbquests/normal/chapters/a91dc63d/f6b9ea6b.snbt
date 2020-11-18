@@ -1,0 +1,24 @@
+{
+	title: "Heating Unit",
+	x: 3.5d,
+	y: -1.5d,
+	description: "Now we're cooking with electricity!",
+	text: [
+		"Allows the oven to cook food using FE."
+	],
+	dependencies: [
+		"778006cc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ca16ede6",
+		type: "item",
+		title: "Craft a Heating Unit",
+		items: [{
+			item: "cookingforblockheads:heating_unit"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

@@ -1,7 +1,0 @@
-{
-	title: "Alternator",
-	icon: "immersivetech:metal_multiblock 1 5",
-	x: 2.0d,
-	y: 1.0d,
-	hide: true
-}

@@ -1,0 +1,25 @@
+{
+	title: "iChisel",
+	x: 1.0d,
+	y: -2.0d,
+	description: "Making everything digital for no reason.",
+	text: [
+		"Advanced chisel with many advanced-looking advanced capabilites."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e2cdb733",
+		type: "item",
+		title: "Craft an iChisel",
+		items: [{
+			id: "chisel:chisel_hitech",
+			tag: {
+				chiseldata: {}
+			}
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

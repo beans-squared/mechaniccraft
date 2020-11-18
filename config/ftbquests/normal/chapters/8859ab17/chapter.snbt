@@ -1,0 +1,7 @@
+{
+	title: "Construction",
+	icon: "literalascension:minecraft/oak_stepladder",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

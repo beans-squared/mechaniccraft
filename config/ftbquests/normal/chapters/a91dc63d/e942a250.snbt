@@ -1,0 +1,23 @@
+{
+	title: "Kitchen Counter",
+	x: 1.0d,
+	y: -2.5d,
+	description: "Store your acorns for winter. Or your tomato sauce.",
+	text: [
+		"Simple storage solution for your food items or ingredients. Can be accessed by a cooking table."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ca8747af",
+		type: "item",
+		title: "Craft a Kitchen Counter",
+		items: [{
+			item: "cookingforblockheads:counter"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

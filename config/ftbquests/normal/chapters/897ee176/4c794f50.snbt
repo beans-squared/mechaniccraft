@@ -1,0 +1,11 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7d98df43",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	}]
+}

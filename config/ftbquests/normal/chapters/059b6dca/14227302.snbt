@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "df9b803a",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}]
+	}]
+}

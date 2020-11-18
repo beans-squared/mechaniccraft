@@ -1,0 +1,116 @@
+{
+	title: "Steel Decor",
+	x: -1.5d,
+	y: -4.0d,
+	description: "The comforting feel of cold, hard steel.",
+	text: [
+		"Decorative steel items."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "13e99185",
+		type: "item",
+		title: "Craft any decorative metal item",
+		items: [{
+			item: "engineersdecor:steel_table"
+		},
+		{
+			item: "engineersdecor:steel_framed_window"
+		},
+		{
+			item: "engineersdecor:thin_steel_pole"
+		},
+		{
+			item: "engineersdecor:thick_steel_pole"
+		},
+		{
+			item: "engineersdecor:thin_steel_pole_head"
+		},
+		{
+			item: "engineersdecor:thick_steel_pole_head"
+		},
+		{
+			item: "engineersdecor:steel_double_t_support"
+		},
+		{
+			item: "engineersdecor:steel_floor_grating"
+		},
+		{
+			item: "engineersdecor:steel_mesh_fence"
+		},
+		{
+			item: "engineersdecor:steel_mesh_fence_gate"
+		},
+		{
+			item: "engineersdecor:halfslab_sheetmetal_steel"
+		},
+		{
+			item: "immersiveengineering:sheetmetal 1 8"
+		},
+		{
+			item: "immersiveengineering:metal_decoration1"
+		},
+		{
+			item: "immersiveengineering:metal_decoration2"
+		},
+		{
+			item: "immersiveengineering:metal_decoration2 1 1"
+		},
+		{
+			item: "engineersdoors:door_steel"
+		},
+		{
+			item: "engineersdoors:door_steel_ornate"
+		},
+		{
+			item: "engineersdoors:door_steel_reinforced"
+		},
+		{
+			item: "engineersdoors:fencegate_steel"
+		},
+		{
+			item: "engineersdoors:trapdoor_steel"
+		},
+		{
+			item: "industrialrenewal:catwalk_steel"
+		},
+		{
+			item: "industrialrenewal:handrail_steel"
+		},
+		{
+			item: "industrialrenewal:catwalk_stair_steel"
+		},
+		{
+			item: "industrialrenewal:catwalk_ladder_steel"
+		},
+		{
+			item: "industrialrenewal:catwalk_steel_pillar"
+		},
+		{
+			item: "industrialrenewal:catwalk_column_steel"
+		},
+		{
+			item: "industrialrenewal:brace_steel"
+		},
+		{
+			item: "engineersdecor:metal_rung_ladder"
+		},
+		{
+			item: "engineersdecor:metal_rung_steps"
+		},
+		{
+			item: "immersiveengineering:metal_ladder"
+		},
+		{
+			item: "industrialrenewal:cable_tray"
+		},
+		{
+			item: "industrialrenewal:industrial_floor"
+		},
+		{
+			item: "industrialrenewal:platform"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

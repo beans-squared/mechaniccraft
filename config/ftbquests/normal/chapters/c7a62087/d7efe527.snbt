@@ -1,0 +1,17 @@
+{
+	title: "Wiki",
+	icon: "ftbquests:book",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Visit the modpack wiki on GitHub",
+	custom_click: "https://github.com/beans-squared/MechanicCraft/wiki",
+	size: 2.0d,
+	tasks: [{
+		uid: "eb55c8a8",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_monitor"
+		}]
+	}]
+}

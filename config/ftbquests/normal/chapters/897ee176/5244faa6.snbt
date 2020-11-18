@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c7b8341d",
+		type: "item",
+		items: [{
+			item: "alternatingflux:wirecoil"
+		}]
+	}]
+}

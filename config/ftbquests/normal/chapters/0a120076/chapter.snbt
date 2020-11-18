@@ -1,7 +1,0 @@
-{
-	title: "Chapter 3 - Industrialization",
-	icon: "immersiveengineering:metal_multiblock 1 2",
-	always_invisible: true,
-	group: 0,
-	default_quest_shape: ""
-}
