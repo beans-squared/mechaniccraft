@@ -1,9 +1,16 @@
 {
-	x: -2.0d,
-	y: -1.0d,
+	title: "Building Gadget",
+	x: -1.0d,
+	y: -3.5d,
+	description: "Block placing made easy.",
+	text: [
+		"An extraordinarily useful tool for construction of creations. Features multiple modes and settings to facilitate building."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "e8c77e61",
 		type: "item",
+		title: "Craft a Building Gadget",
 		items: [{
 			id: "buildinggadgets:buildingtool",
 			tag: {
@@ -12,7 +19,9 @@
 				}
 			}
 		}],
+		consume_items: false,
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: true
 	}]
 }

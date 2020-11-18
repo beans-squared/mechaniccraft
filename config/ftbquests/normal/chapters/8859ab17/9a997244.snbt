@@ -1,9 +1,16 @@
 {
-	x: -3.0d,
-	y: 0.0d,
+	title: "Destruction Gadget",
+	x: 3.0d,
+	y: -3.5d,
+	description: "Mass destruction at the push of a button.",
+	text: [
+		"Removes blocks from existance. Useful for removing mountains that are in the way and not getting loads of useless cobblestone in the process."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "9774dc9b",
 		type: "item",
+		title: "Craft a Destruction Gadget",
 		items: [{
 			id: "buildinggadgets:destructiontool",
 			tag: {
@@ -11,7 +18,9 @@
 				fuzzy: 1b
 			}
 		}],
+		consume_items: false,
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: true
 	}]
 }

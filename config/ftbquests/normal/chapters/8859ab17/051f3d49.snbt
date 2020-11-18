@@ -1,16 +1,25 @@
 {
-	x: -3.0d,
-	y: -1.0d,
+	title: "Copy-Paste Gadget",
+	x: -1.0d,
+	y: -2.0d,
+	description: "Only has the CTRL, C and V keys.",
+	text: [
+		"Copies structures from one spot to another."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "c12f66e6",
 		type: "item",
+		title: "Craft a Copy-Paste Gadget",
 		items: [{
 			id: "buildinggadgets:copypastetool",
 			tag: {
 				mode: "Copy"
 			}
 		}],
+		consume_items: false,
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: true
 	}]
 }

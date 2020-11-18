@@ -1,11 +1,11 @@
 {
-	x: -6.5d,
-	y: 1.5d,
+	x: -1.0d,
+	y: -0.5d,
 	tasks: [{
-		uid: "873de69f",
+		uid: "6808bb02",
 		type: "item",
 		items: [{
-			item: "deepmoblearning:deep_learner"
+			item: "drones:drone_constructor"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

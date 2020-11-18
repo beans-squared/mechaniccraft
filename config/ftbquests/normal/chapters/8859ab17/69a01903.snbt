@@ -1,9 +1,16 @@
 {
-	x: -2.0d,
-	y: 0.0d,
+	title: "Exchanging Gadget",
+	x: 3.0d,
+	y: -2.0d,
+	description: "an interesting subtitle",
+	text: [
+		"an interesting description"
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "b367fbde",
 		type: "item",
+		title: "Craft an Exchanging Gadget",
 		items: [{
 			id: "buildinggadgets:exchangertool",
 			tag: {
@@ -12,7 +19,9 @@
 				}
 			}
 		}],
+		consume_items: false,
 		ignore_damage: true,
-		ignore_nbt: 1b
+		ignore_nbt: 1b,
+		only_from_crafting: true
 	}]
 }
