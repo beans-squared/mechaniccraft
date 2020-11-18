@@ -37,3 +37,5 @@ config/ichunutil.cfg
 config/InvTweaksRules.txt
 config/InvTweaksTree.txt
 config/splash.properties
+
+config_new_temp.json
