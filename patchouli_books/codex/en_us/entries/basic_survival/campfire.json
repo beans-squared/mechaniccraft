@@ -1,0 +1,16 @@
+{
+	"name": "Campfire",
+	"icon": "toughasnails:campfire",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "toughasnails:campfire",
+			"text": "Organized fire useful for providing light, warmth and a place to prepare food."
+		},
+		{
+			"type": "text",
+			"text": "Campfires are one of the easiest sources of heat to create in the early game, and will stay lit for at least one night long."
+		}
+	]
+}
