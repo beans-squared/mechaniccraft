@@ -1,7 +1,0 @@
-{
-	title: "Charging Station",
-	icon: "immersiveengineering:metal_device1 1 5",
-	x: 5.0d,
-	y: -1.0d,
-	hide: true
-}

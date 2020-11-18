@@ -1,0 +1,20 @@
+{
+	title: "Concrete",
+	x: -5.5d,
+	y: -4.0d,
+	description: "Hard as a rock.",
+	text: [
+		"Strong bulding material."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2bdfbdcb",
+		type: "item",
+		title: "Craft Concrete",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 5"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

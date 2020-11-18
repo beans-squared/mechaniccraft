@@ -1,0 +1,25 @@
+{
+	title: "Fridge",
+	x: 1.5d,
+	y: -0.5d,
+	description: "Welcome to the Chill Zone.",
+	text: [
+		"Functions similarly to a cabinet or counter. Can be supplied with upgrades that enhance its functionality.",
+		"",
+		"You can create a 2 block tall fridge by stacking two fridges on top of each other."
+	],
+	dependencies: [
+		"cffa8fae"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "625b4355",
+		type: "item",
+		title: "Craft a Fridge",
+		items: [{
+			item: "cookingforblockheads:fridge"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

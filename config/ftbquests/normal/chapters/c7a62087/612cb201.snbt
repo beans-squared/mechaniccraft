@@ -1,0 +1,17 @@
+{
+	title: "Discord",
+	icon: "rs_ctr:signal_probe",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Join the Mechanic's Guild Discord",
+	custom_click: "https://discord.gg/zGAvPU3",
+	size: 2.0d,
+	tasks: [{
+		uid: "b4e1426b",
+		type: "item",
+		items: [{
+			item: "minecraft:stone"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e7ac7fd4",
+		type: "item",
+		items: [{
+			item: "magneticraft:inserter"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 7.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "03f81d92",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:dam_outflow"
+		}]
+	}]
+}

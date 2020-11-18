@@ -1,0 +1,23 @@
+{
+	title: "Spice Rack",
+	x: 1.0d,
+	y: 0.5d,
+	description: "Where's the cumin?",
+	text: [
+		"Stores spices for cooking recipes."
+	],
+	dependencies: [
+		"6474a425"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "17d4d3ea",
+		type: "item",
+		title: "Craft a Spice Rack",
+		items: [{
+			item: "cookingforblockheads:spice_rack"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

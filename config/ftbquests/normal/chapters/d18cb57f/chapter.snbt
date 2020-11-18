@@ -1,7 +1,0 @@
-{
-	title: "Chapter 2 - Small Scale Engineering",
-	icon: "magneticraft:crushing_table",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

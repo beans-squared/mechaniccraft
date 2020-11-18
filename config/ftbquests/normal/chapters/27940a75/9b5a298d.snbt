@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "a1c6576a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_device 1 2"
+		}]
+	}]
+}

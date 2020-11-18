@@ -1,7 +1,0 @@
-{
-	title: "Chapter 1 - A New Beginning",
-	icon: "tconstruct:tooltables",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "fe3d5256",
+		type: "item",
+		items: [{
+			item: "industrialrenewal:solar_panel"
+		}]
+	}]
+}

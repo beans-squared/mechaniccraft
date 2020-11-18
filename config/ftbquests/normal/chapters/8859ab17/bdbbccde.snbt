@@ -1,0 +1,19 @@
+{
+	title: "Template Manager",
+	x: 1.0d,
+	y: -3.5d,
+	description: "Your personal schematic library.",
+	text: [
+		"Manages templates."
+	],
+	tasks: [{
+		uid: "df3a0b6a",
+		type: "item",
+		title: "Craft a Template Manager",
+		items: [{
+			item: "buildinggadgets:templatemanager"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

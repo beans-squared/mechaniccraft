@@ -1,0 +1,17 @@
+{
+	title: "CurseForge",
+	icon: "minecraft:anvil",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	description: "Visit the project page on CurseForge",
+	custom_click: "https://www.curseforge.com/minecraft/modpacks/mechanic-craft",
+	size: 2.0d,
+	tasks: [{
+		uid: "9d9dcfd0",
+		type: "item",
+		items: [{
+			item: "minecraft:anvil"
+		}]
+	}]
+}

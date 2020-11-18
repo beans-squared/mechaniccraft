@@ -1,0 +1,22 @@
+{
+	title: "Cow in a Jar",
+	x: 1.0d,
+	y: -5.5d,
+	description: "PETA would not approve.",
+	text: [
+		"Provides a constant supply of milk."
+	],
+	dependencies: [
+		"25a48ef9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bbce8932",
+		type: "item",
+		title: "Stuff a cow into a jar",
+		items: [{
+			item: "cookingforblockheads:cow_jar"
+		}],
+		consume_items: false
+	}]
+}

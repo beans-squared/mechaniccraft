@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "d88c2aae",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}]
+	}]
+}

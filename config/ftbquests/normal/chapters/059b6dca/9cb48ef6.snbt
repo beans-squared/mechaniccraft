@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "1ae70899",
+		type: "item",
+		items: [{
+			item: "engineersdecor:factory_placer"
+		}]
+	}]
+}

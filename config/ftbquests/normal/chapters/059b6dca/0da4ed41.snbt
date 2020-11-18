@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "b0a65f0f",
+		type: "item",
+		items: [{
+			item: "engineersdecor:passive_fluid_accumulator"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Coal",
+	"icon": "minecraft:coal_ore",
+	"category": "patchouli:ores",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "minecraft:coal_ore",
+			"text": "Coal is a combustible black rock, comprised of primarily carbon. It's created by dead plant matter decaying into peat and being subjected to immense heat and pressure in the Earth's crust over millions of years."
+		},
+		{
+			"type": "text",
+			"text": "Coal ore can be found at any y-level below 127, and appears as stone with black flecks in it. Harvesting this ore with a wooden pickaxe or better will yield a piece of coal, which can be used as a combustible fuel."
+		}
+	]
+}
