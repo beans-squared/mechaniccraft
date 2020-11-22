@@ -1,0 +1,11 @@
+{
+	x: 2.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "441e2958",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_monitor"
+		}]
+	}]
+}

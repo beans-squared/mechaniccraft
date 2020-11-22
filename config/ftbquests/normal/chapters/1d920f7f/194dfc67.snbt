@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a5d11204",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_housing"
+		}]
+	}]
+}

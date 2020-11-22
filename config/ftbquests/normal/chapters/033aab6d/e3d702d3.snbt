@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "61434e0b",
+		type: "item",
+		items: [{
+			id: "immersivepetroleum:schematic",
+			tag: {
+				multiblock: "IP:Pumpjack"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

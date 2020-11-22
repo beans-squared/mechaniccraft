@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	dependencies: [
+		"dec646ea"
+	],
+	tasks: [{
+		uid: "03f69ff5",
+		type: "item",
+		items: [{
+			item: "immersivetech:metal_multiblock 1 5"
+		}]
+	}]
+}

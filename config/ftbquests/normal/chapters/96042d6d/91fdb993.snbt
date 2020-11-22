@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	dependencies: [
+		"78547bef"
+	],
+	tasks: [{
+		uid: "7b4b325f",
+		type: "item",
+		items: [{
+			item: "magneticraft:pneumatic_tube"
+		}]
+	}]
+}

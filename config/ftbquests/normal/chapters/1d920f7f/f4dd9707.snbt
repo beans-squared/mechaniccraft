@@ -1,12 +1,11 @@
 {
-	x: 6.0d,
-	y: 1.0d,
+	x: -4.5d,
+	y: 0.5d,
 	tasks: [{
-		uid: "ab032cf7",
+		uid: "c536fea7",
 		type: "item",
 		items: [{
-			id: "magneticraft:battery_item_low",
-			tag: {}
+			item: "refinedstorage:network_card"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

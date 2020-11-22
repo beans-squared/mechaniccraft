@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "781792ae",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 1"
+		}]
+	}]
+}

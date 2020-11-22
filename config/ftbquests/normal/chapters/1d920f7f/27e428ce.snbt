@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "b134e334",
+		type: "item",
+		items: [{
+			item: "refinedstorage:security_manager"
+		}]
+	}]
+}

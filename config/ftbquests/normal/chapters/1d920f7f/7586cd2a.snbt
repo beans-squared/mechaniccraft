@@ -1,0 +1,11 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "da6d863c",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_receiver"
+		}]
+	}]
+}

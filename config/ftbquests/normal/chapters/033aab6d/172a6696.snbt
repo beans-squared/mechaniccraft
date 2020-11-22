@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: 0.5d,
+	dependencies: [
+		"f792ebee"
+	],
+	tasks: [{
+		uid: "6b7feb95",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_combustion_chamber"
+		}]
+	}]
+}

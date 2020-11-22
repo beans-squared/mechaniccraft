@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	dependencies: [
+		"9cb6ba24"
+	],
+	tasks: [{
+		uid: "2b598b31",
+		type: "item",
+		items: [{
+			item: "magneticraft:steam_engine"
+		}]
+	}]
+}

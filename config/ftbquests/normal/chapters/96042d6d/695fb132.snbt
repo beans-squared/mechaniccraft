@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	dependencies: [
+		"9cb48ef6"
+	],
+	tasks: [{
+		uid: "a9b3a32a",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_waste_incinerator"
+		}]
+	}]
+}

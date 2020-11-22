@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "301d9d4e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:external_storage"
+		}]
+	}]
+}

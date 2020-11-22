@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 3.5d,
+	dependencies: [
+		"9cb6ba24"
+	],
+	tasks: [{
+		uid: "fe353590",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_steam_boiler"
+		}]
+	}]
+}
