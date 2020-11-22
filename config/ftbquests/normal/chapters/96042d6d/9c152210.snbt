@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -1.5d,
+	dependencies: [
+		"56207fa5"
+	],
+	tasks: [{
+		uid: "91e39b7d",
+		type: "item",
+		items: [{
+			item: "magneticraft:insulated_heat_pipe"
+		}]
+	}]
+}
