@@ -1,11 +1,22 @@
 {
-	x: -4.5d,
-	y: -0.5d,
+	x: 10.5d,
+	y: -4.5d,
+	dependencies: [
+		"829194de"
+	],
 	tasks: [{
 		uid: "a50fe60f",
 		type: "item",
 		items: [{
 			item: "refinedstorage:wireless_grid 1 1"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e323c4e3",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_fluid_grid 1 1"
 		}],
 		ignore_nbt: 1b
 	}]

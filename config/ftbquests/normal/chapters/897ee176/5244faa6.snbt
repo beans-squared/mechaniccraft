@@ -1,11 +1,28 @@
 {
-	x: 1.0d,
-	y: 0.0d,
+	x: 1.5d,
+	y: -3.5d,
+	dependencies: [
+		"4c794f50"
+	],
 	tasks: [{
 		uid: "c7b8341d",
 		type: "item",
 		items: [{
 			item: "alternatingflux:wirecoil"
+		}]
+	},
+	{
+		uid: "e743d27a",
+		type: "item",
+		items: [{
+			item: "alternatingflux:connector"
+		}]
+	},
+	{
+		uid: "cdc13e5c",
+		type: "item",
+		items: [{
+			item: "alternatingflux:connector 1 1"
 		}]
 	}]
 }

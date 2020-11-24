@@ -1,11 +1,21 @@
 {
-	x: -3.5d,
-	y: 2.5d,
+	x: 16.5d,
+	y: -1.5d,
+	dependencies: [
+		"fb5215c5"
+	],
 	tasks: [{
 		uid: "28ab9ff1",
 		type: "item",
 		items: [{
 			item: "refinedstorage:interface"
+		}]
+	},
+	{
+		uid: "387cf6e5",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_interface"
 		}]
 	}]
 }

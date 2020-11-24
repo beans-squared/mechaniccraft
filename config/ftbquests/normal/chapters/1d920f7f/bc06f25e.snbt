@@ -1,11 +1,21 @@
 {
-	x: -4.5d,
-	y: 2.5d,
+	x: 12.0d,
+	y: -3.0d,
+	dependencies: [
+		"829194de"
+	],
 	tasks: [{
 		uid: "2502ed72",
 		type: "item",
 		items: [{
 			item: "refinedstorage:network_transmitter"
+		}]
+	},
+	{
+		uid: "2ccd7274",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_receiver"
 		}]
 	}]
 }

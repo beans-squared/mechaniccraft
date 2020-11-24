@@ -1,11 +1,35 @@
 {
-	x: -2.0d,
-	y: 0.0d,
+	x: -1.5d,
+	y: -3.5d,
+	dependencies: [
+		"d0608754"
+	],
 	tasks: [{
 		uid: "7d98df43",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:wirecoil 1 2"
+		}]
+	},
+	{
+		uid: "751744fb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 4"
+		}]
+	},
+	{
+		uid: "ade7f820",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 5"
+		}]
+	},
+	{
+		uid: "0cb2e013",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 8"
 		}]
 	}]
 }

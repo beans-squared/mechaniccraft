@@ -1,11 +1,21 @@
 {
-	x: 3.5d,
-	y: 2.5d,
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"0e0d616a"
+	],
 	tasks: [{
 		uid: "937cc874",
 		type: "item",
 		items: [{
 			item: "refinedstorage:grid"
+		}]
+	},
+	{
+		uid: "34bea29d",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 3"
 		}]
 	}]
 }
