@@ -1,0 +1,16 @@
+{
+	x: -11.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "1b0967a6",
+		type: "item",
+		items: [{
+			item: "engineersdecor:treated_wood_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "39543dfa",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

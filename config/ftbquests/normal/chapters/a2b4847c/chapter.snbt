@@ -1,0 +1,10 @@
+{
+	title: "Ore Processing",
+	icon: "magneticraft:sluice_box",
+	description: [
+		"Smashing everything into tiny bits and then frying them in industrial ovens."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

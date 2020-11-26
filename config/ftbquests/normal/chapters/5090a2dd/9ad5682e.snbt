@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -3.0d,
+	dependencies: [
+		"5fee0ff9"
+	],
+	tasks: [{
+		uid: "20c3d020",
+		type: "observation",
+		title: "Assembler",
+		icon: "immersiveengineering:metal_multiblock 1 4",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:assembler",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "46a4cefc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

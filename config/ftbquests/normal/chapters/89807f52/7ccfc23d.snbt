@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "e320aa1d",
+		type: "item",
+		items: [{
+			item: "toughasnails:temperature_coil"
+		}]
+	}],
+	rewards: [{
+		uid: "bee53b88",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

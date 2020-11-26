@@ -1,0 +1,21 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "96967e0c",
+		type: "item",
+		items: [{
+			id: "scannable:scanner",
+			tag: {
+				energy: 50000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4fd6fc1f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

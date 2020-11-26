@@ -1,0 +1,16 @@
+{
+	x: -5.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "62051113",
+		type: "item",
+		items: [{
+			item: "magneticraft:heat_pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "c0716b50",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

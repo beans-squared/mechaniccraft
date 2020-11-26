@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	dependencies: [
+		"78547bef"
+	],
+	tasks: [{
+		uid: "7b4b325f",
+		type: "item",
+		items: [{
+			item: "magneticraft:pneumatic_tube"
+		}]
+	}],
+	rewards: [{
+		uid: "f3e61155",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -2.5d,
+	dependencies: [
+		"a902760a"
+	],
+	tasks: [{
+		uid: "cf583e6f",
+		type: "item",
+		items: [{
+			item: "magneticraft:shelving_unit"
+		}]
+	}],
+	rewards: [{
+		uid: "585598eb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

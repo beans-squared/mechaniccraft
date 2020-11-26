@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	dependencies: [
+		"7be424d9"
+	],
+	tasks: [{
+		uid: "987115af",
+		type: "observation",
+		title: "Crusher",
+		icon: "immersiveengineering:metal_multiblock 1 1",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:crusher",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ba67d4ef",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

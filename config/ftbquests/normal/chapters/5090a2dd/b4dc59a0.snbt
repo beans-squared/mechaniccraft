@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"81687f60"
+	],
+	tasks: [{
+		uid: "fe2a1773",
+		type: "observation",
+		title: "Bottling Machine",
+		icon: "immersiveengineering:metal_multiblock 1 6",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:bottlingmachine",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "3112f409",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

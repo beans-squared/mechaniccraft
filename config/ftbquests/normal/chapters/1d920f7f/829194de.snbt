@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: -3.0d,
+	dependencies: [
+		"8f14d1ec"
+	],
+	tasks: [{
+		uid: "09f219f7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_transmitter"
+		}]
+	}],
+	rewards: [{
+		uid: "6ba9eb44",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

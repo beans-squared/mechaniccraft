@@ -1,0 +1,26 @@
+{
+	x: -5.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "df9b803a",
+		type: "item",
+		items: [{
+			id: "immersiveengineering:conveyor",
+			tag: {
+				conveyorType: "immersiveengineering:conveyor"
+			}
+		}]
+	},
+	{
+		uid: "7b764d83",
+		type: "item",
+		items: [{
+			item: "magneticraft:conveyor_belt"
+		}]
+	}],
+	rewards: [{
+		uid: "3122a687",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

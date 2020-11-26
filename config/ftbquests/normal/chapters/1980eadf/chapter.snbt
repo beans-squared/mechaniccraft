@@ -1,0 +1,18 @@
+{
+	title: "Transportation",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				Size: 1,
+				Items: []
+			}
+		},
+		id: "immersivepetroleum:speedboat"
+	},
+	description: [
+		"Getting from A to B."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

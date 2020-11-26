@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b8ac92cb",
+		type: "item",
+		title: "Craft: Small Tree Cutter",
+		items: [{
+			item: "engineersdecor:small_tree_cutter"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "16871f6c",
+		type: "ftbmoney:money",
+		ftb_money: 25L,
+		random_bonus: 5
+	}]
+}

@@ -1,6 +1,9 @@
 {
 	title: "Logistics",
 	icon: "magneticraft:box",
+	description: [
+		"Move and store stuff real good."
+	],
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -1,0 +1,25 @@
+{
+	title: "Slag Bricks",
+	x: 3.0d,
+	y: 2.5d,
+	description: "At least it's cheap.",
+	text: [
+		"Bricks created from slag byproduct."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f8ca881f",
+		type: "item",
+		title: "Craft Slag Bricks",
+		items: [{
+			item: "engineersdecor:slag_brick_block"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "8541307d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

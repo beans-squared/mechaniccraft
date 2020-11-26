@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	dependencies: [
+		"9ad5682e"
+	],
+	tasks: [{
+		uid: "0affe391",
+		type: "observation",
+		title: "Mixer",
+		icon: "immersiveengineering:metal_multiblock 1 15",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:mixer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e52a8644",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

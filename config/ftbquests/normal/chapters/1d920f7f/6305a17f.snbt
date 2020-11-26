@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	dependencies: [
+		"427e6b6b"
+	],
+	tasks: [{
+		uid: "4cb26ae6",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_manipulator"
+		}]
+	}],
+	rewards: [{
+		uid: "94074d6c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

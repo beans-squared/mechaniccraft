@@ -1,0 +1,16 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "dcde980b",
+		type: "item",
+		items: [{
+			item: "magneticraft:airlock"
+		}]
+	}],
+	rewards: [{
+		uid: "e9653321",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

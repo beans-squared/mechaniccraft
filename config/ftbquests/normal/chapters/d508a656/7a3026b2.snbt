@@ -1,0 +1,24 @@
+{
+	x: 2.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "f3e779a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:toolbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fc2b957d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

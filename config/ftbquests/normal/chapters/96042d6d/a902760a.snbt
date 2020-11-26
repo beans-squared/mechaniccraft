@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -4.0d,
+	dependencies: [
+		"d5e02294"
+	],
+	tasks: [{
+		uid: "5789ba74",
+		type: "item",
+		items: [{
+			item: "engineersdecor:labeled_crate"
+		}]
+	}],
+	rewards: [{
+		uid: "3db87890",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

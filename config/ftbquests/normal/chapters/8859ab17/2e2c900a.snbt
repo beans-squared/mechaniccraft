@@ -1,0 +1,38 @@
+{
+	title: "Carving Tool",
+	x: 5.0d,
+	y: 4.5d,
+	description: "Just a little bit out of the wall...",
+	text: [
+		"Allows carving of handholds into rock faces, creating climable surfaces in natural terrain."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "46d079b7",
+		type: "item",
+		title: "Craft any kind of Carving Tool",
+		items: [{
+			item: "literalascension:wood_carving_tool"
+		},
+		{
+			item: "literalascension:stone_carving_tool"
+		},
+		{
+			item: "literalascension:iron_carving_tool"
+		},
+		{
+			item: "literalascension:diamond_carving_tool"
+		},
+		{
+			item: "literalascension:gold_carving_tool"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "c37bf0b8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

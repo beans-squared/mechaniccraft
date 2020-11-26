@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: 5.0d,
+	dependencies: [
+		"f2fec35e",
+		"ce50fb8e"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "c59abc3a",
+		type: "observation",
+		title: "Steam Turbine",
+		icon: "immersivetech:metal_multiblock 1 3",
+		match_type: "block_entity_id",
+		match: "immersivetech:steamturbinemaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b5f75410",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

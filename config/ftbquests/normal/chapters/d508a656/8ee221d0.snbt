@@ -1,0 +1,27 @@
+{
+	x: -0.5d,
+	y: 2.5d,
+	dependencies: [
+		"a1ea94bc"
+	],
+	tasks: [{
+		uid: "a9cef055",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:railgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7d1c8032",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

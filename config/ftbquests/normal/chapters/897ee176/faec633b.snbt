@@ -1,11 +1,41 @@
 {
-	x: 0.0d,
-	y: 0.0d,
+	x: -7.5d,
+	y: -3.5d,
 	tasks: [{
 		uid: "5aa3b16d",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:wirecoil"
-		}]
+		}],
+		consume_items: false
+	},
+	{
+		uid: "35992033",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "deafbabb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 1"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "2b65fd6d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 11"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "066e58ae",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

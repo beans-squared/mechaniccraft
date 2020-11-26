@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	dependencies: [
+		"e3d702d3"
+	],
+	tasks: [{
+		uid: "509afd12",
+		type: "observation",
+		title: "Distillation Tower",
+		icon: "immersivepetroleum:schematic",
+		match_type: "block_entity_id",
+		match: "immersivepetroleum:distillationtower",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "1ec54c76",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

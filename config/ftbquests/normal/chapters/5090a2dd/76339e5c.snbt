@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "5838ecb6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_multiblock 1 11"
+		}]
+	}],
+	rewards: [{
+		uid: "32fdef59",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

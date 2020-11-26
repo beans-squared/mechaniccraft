@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: 3.0d,
+	dependencies: [
+		"4f9cba82"
+	],
+	tasks: [{
+		uid: "69e44933",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "9ee42d0c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

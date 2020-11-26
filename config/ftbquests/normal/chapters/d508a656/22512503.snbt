@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: -2.5d,
+	tasks: [{
+		uid: "ca2cb920",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:cloth_device"
+		}]
+	}],
+	rewards: [{
+		uid: "942ea67b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

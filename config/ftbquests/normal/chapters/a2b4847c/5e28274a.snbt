@@ -1,0 +1,20 @@
+{
+	title: "Coke Oven",
+	icon: "immersiveengineering:stone_device",
+	x: -7.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "82e897a3",
+		type: "observation",
+		title: "Coke Oven",
+		icon: "immersiveengineering:stone_device",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:cokeoven",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ea5862ef",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	dependencies: [
+		"10f64a88"
+	],
+	tasks: [{
+		uid: "3dc4ec82",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_electric_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "f2680a45",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

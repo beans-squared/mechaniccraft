@@ -1,6 +1,11 @@
 {
 	title: "Landing Zone",
-	icon: "immersiveengineering:mold 1 1",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "mechaniccraft:icons/icon.png"
+		}
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

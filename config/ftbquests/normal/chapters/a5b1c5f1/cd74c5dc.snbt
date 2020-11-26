@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -0.5d,
+	dependencies: [
+		"ffbc9542"
+	],
+	tasks: [{
+		uid: "c49351e5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "91601f2e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

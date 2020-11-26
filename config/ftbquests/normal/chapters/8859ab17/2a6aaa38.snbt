@@ -21,5 +21,10 @@
 		ignore_damage: true,
 		ignore_nbt: 1b,
 		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "ed863dea",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

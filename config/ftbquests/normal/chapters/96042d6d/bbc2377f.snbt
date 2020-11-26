@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 4.0d,
+	dependencies: [
+		"fd12d57f"
+	],
+	tasks: [{
+		uid: "ba2b2544",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_fluid_funnel"
+		}]
+	}],
+	rewards: [{
+		uid: "1eb775cf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

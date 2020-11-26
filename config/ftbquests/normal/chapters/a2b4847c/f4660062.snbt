@@ -1,0 +1,23 @@
+{
+	title: "Blast Furnace",
+	icon: "immersiveengineering:stone_device 1 1",
+	x: -4.0d,
+	y: 2.0d,
+	dependencies: [
+		"5e28274a"
+	],
+	tasks: [{
+		uid: "716b1968",
+		type: "observation",
+		title: "Crude Blast Furnace",
+		icon: "immersiveengineering:stone_device 1 1",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:blastfurnace",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "988f3995",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

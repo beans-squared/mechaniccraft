@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	dependencies: [
+		"15bb8c2d"
+	],
+	tasks: [{
+		uid: "d71335a9",
+		type: "item",
+		items: [{
+			item: "magneticraft:fabricator"
+		}]
+	}],
+	rewards: [{
+		uid: "6e1946b5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

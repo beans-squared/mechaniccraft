@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 1.5d,
+	dependencies: [
+		"81217159"
+	],
+	tasks: [{
+		uid: "a34b7596",
+		type: "observation",
+		title: "Arc Furnace",
+		icon: "immersiveengineering:metal_multiblock 1 13",
+		match_type: "block_entity_id",
+		match: "immersivenengineering:arcfurnace",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "964955c4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

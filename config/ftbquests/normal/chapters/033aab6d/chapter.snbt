@@ -1,0 +1,7 @@
+{
+	title: "Fossil Fuel Energy",
+	icon: "immersivepetroleum:metal_device 1 1",
+	always_invisible: false,
+	group: -1988173450,
+	default_quest_shape: ""
+}

@@ -1,0 +1,10 @@
+{
+	title: "Temperature Regulation",
+	icon: "toughasnails:temperature_coil 1 1",
+	description: [
+		"Fight the cold. Or the hot."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

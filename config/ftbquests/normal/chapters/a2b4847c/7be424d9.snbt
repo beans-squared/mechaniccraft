@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	dependencies: [
+		"a5c8c94b"
+	],
+	tasks: [{
+		uid: "62da81ec",
+		type: "item",
+		items: [{
+			item: "magneticraft:sieve"
+		}]
+	}],
+	rewards: [{
+		uid: "9ae00ed8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

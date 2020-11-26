@@ -1,0 +1,19 @@
+{
+	x: 18.0d,
+	y: 3.0d,
+	dependencies: [
+		"207871d1"
+	],
+	tasks: [{
+		uid: "53dc7fd7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafter_manager"
+		}]
+	}],
+	rewards: [{
+		uid: "1aaa0e22",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

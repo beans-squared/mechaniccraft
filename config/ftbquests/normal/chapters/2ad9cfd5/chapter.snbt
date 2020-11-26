@@ -1,0 +1,10 @@
+{
+	title: "Weather Monitoring",
+	icon: "weather2:weather_item",
+	description: [
+		"Is that a...twister?"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

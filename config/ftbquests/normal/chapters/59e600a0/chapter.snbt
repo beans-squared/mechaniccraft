@@ -1,6 +1,6 @@
 {
-	title: "Basic Power",
-	icon: "immersiveengineering:wirecoil",
+	title: "Renewable Energy",
+	icon: "engineersdecor:small_solar_panel",
 	always_invisible: false,
 	group: -1988173450,
 	default_quest_shape: ""

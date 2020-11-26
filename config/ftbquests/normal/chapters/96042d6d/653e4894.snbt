@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 2.5d,
+	dependencies: [
+		"fd12d57f"
+	],
+	tasks: [{
+		uid: "b595a595",
+		type: "item",
+		items: [{
+			item: "engineersdecor:straight_pipe_valve"
+		}]
+	}],
+	rewards: [{
+		uid: "f0e72051",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

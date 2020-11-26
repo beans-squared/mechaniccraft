@@ -1,6 +1,9 @@
 {
 	title: "Agriculture",
 	icon: "harvestcraft:quinoaitem",
+	description: [
+		"Excersize your green thumb."
+	],
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: "rsquare"

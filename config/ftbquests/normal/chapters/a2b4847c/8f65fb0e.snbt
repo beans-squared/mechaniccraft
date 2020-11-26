@@ -1,0 +1,19 @@
+{
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"314dba2e"
+	],
+	tasks: [{
+		uid: "0a9ad278",
+		type: "item",
+		items: [{
+			item: "magneticraft:sluice_box"
+		}]
+	}],
+	rewards: [{
+		uid: "98050fe3",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

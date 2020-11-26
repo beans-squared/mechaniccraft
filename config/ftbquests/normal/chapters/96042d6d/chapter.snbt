@@ -1,0 +1,7 @@
+{
+	title: "Physical Logistics",
+	icon: "magneticraft:inserter",
+	always_invisible: false,
+	group: 94072266,
+	default_quest_shape: ""
+}

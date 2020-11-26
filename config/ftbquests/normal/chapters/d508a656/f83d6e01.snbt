@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "73b3cf08",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:faraday_suit_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "12500f24",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

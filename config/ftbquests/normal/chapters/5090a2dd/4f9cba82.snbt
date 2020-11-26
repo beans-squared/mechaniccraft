@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: 3.0d,
+	dependencies: [
+		"c984737f"
+	],
+	tasks: [{
+		uid: "cdcb5e46",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:simulation_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "e2e88179",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "5319b58f",
+		type: "item",
+		items: [{
+			item: "weather2:anemometer"
+		}]
+	}],
+	rewards: [{
+		uid: "2cb7f775",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: 2.0d,
+	dependencies: [
+		"f792ebee"
+	],
+	tasks: [{
+		uid: "722e75f9",
+		type: "item",
+		items: [{
+			item: "magneticraft:steam_boiler"
+		}]
+	}],
+	rewards: [{
+		uid: "0767a89e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

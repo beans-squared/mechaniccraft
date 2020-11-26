@@ -1,0 +1,18 @@
+{
+	x: -11.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "3f5c22d6",
+		type: "observation",
+		title: "Metal Press",
+		icon: "immersiveengineering:metal_multiblock",
+		match_type: "block_entity_id",
+		match: "immersivengineering:metalpress",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "70726f98",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

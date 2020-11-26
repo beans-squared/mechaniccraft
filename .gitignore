@@ -4,8 +4,7 @@ backups/
 cache/
 downloads/
 journeymap/
-local/client
-local/ftbutilites/players.txt
+local/
 logs/
 minemenu/
 mineraltracker/
@@ -34,10 +33,11 @@ dumps/
 
 config/InvTweaks.cfg
 config/jei/worldSettings.cfg
-local/ftbutilities/backups.json
-local/ftbutilities/backups.json
-local/ftbutilities/players.txt
 config/ichunutil.cfg
 config/InvTweaksRules.txt
 config/InvTweaksTree.txt
 config/splash.properties
+
+config_new_temp.json
+
+background.jpeg

@@ -1,13 +1,22 @@
 {
-	x: 0.0d,
-	y: 4.0d,
+	x: -4.5d,
+	y: -6.5d,
+	dependencies: [
+		"35fcdef6"
+	],
 	tasks: [{
 		uid: "e7988cd5",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:powerpack"
 		}],
+		consume_items: false,
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1f46826c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

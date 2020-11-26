@@ -1,0 +1,26 @@
+{
+	x: 19.5d,
+	y: -1.5d,
+	dependencies: [
+		"f956a1a2"
+	],
+	tasks: [{
+		uid: "604162c2",
+		type: "item",
+		items: [{
+			item: "refinedstorage:constructor"
+		}]
+	},
+	{
+		uid: "f6eb3586",
+		type: "item",
+		items: [{
+			item: "refinedstorage:destructor"
+		}]
+	}],
+	rewards: [{
+		uid: "68cb2ce0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

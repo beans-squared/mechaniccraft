@@ -1,0 +1,25 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"b2a91cbc"
+	],
+	tasks: [{
+		uid: "46bc5205",
+		type: "item",
+		items: [{
+			id: "tanaddons:portable_temp_regulator",
+			tag: {
+				ForgeEnergy: 400000,
+				TimeStart: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "02c39c17",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}
