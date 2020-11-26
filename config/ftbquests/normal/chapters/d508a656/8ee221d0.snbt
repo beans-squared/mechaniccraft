@@ -1,0 +1,19 @@
+{
+	x: -3.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "a9cef055",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:railgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

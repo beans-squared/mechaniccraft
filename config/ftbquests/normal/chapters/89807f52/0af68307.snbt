@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"a32f6b33"
+	],
+	tasks: [{
+		uid: "deafe62e",
+		type: "item",
+		items: [{
+			item: "toughasnails:fruit_juice"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"98b6ffb8"
+	],
+	tasks: [{
+		uid: "35d27cc6",
+		type: "item",
+		items: [{
+			item: "weather2:tornado_siren"
+		}]
+	}]
+}

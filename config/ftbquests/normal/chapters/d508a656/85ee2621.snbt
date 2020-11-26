@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "dcde980b",
+		type: "item",
+		items: [{
+			item: "magneticraft:airlock"
+		}]
+	}]
+}

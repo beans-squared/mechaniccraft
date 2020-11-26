@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	dependencies: [
+		"d965e323"
+	],
+	tasks: [{
+		uid: "d66f42e4",
+		type: "item",
+		items: [{
+			item: "vc:item_airship_ignition"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -10.0d,
+	y: 4.5d,
+	dependencies: [
+		"c984737f"
+	],
+	tasks: [{
+		uid: "7f91e583",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:trial_keystone"
+		}]
+	}]
+}

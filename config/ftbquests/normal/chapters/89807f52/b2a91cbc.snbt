@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"8bc26b6b",
+		"8ea1c020"
+	],
+	tasks: [{
+		uid: "1f0fbd0a",
+		type: "item",
+		items: [{
+			item: "tanaddons:temp_regulator"
+		}]
+	}]
+}

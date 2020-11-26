@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"7ccfc23d"
+	],
+	tasks: [{
+		uid: "2df73b40",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	dependencies: [
+		"ba1621d7",
+		"72782293"
+	],
+	tasks: [{
+		uid: "a9042b70",
+		type: "item",
+		items: [{
+			item: "weather2:tornado_sensor"
+		}]
+	}]
+}

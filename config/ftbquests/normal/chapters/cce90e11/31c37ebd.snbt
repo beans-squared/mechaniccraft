@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b8ac92cb",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_tree_cutter"
+		}]
+	}]
+}

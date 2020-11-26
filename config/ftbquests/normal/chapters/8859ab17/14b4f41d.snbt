@@ -1,0 +1,20 @@
+{
+	title: "Hempcrete",
+	x: 4.5d,
+	y: 1.5d,
+	description: "Concrete but not really.",
+	text: [
+		"Special kind of hard material created using hemp fibers."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ac3da211",
+		type: "item",
+		title: "Craft Hempcrete",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 4"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

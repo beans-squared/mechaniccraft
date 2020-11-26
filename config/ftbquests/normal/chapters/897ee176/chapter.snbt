@@ -1,6 +1,9 @@
 {
 	title: "Energy Systems",
 	icon: "immersiveengineering:wirecoil",
+	description: [
+		"Is this wire live?"
+	],
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

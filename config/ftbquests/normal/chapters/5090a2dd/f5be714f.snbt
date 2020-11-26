@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: -5.0d,
+	dependencies: [
+		"698e7363"
+	],
+	tasks: [{
+		uid: "2895f9d8",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:metal_device"
+		}]
+	}]
+}

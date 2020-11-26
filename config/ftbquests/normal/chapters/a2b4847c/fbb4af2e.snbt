@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"077d05dd"
+	],
+	tasks: [{
+		uid: "6bec24c3",
+		type: "item",
+		items: [{
+			item: "magneticraft:electric_furnace"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Clinker Bricks",
+	x: 2.5d,
+	y: -0.5d,
+	description: "A better kind of brick.",
+	text: [
+		"A darker, cheaper variant of standard brick."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3cd0c1a2",
+		type: "item",
+		title: "Craft Clinker Bricks",
+		items: [{
+			item: "engineersdecor:clinker_brick_block"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}

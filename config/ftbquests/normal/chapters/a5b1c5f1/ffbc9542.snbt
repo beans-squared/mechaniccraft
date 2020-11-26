@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: -0.5d,
+	dependencies: [
+		"91901f5f"
+	],
+	tasks: [{
+		uid: "3389363f",
+		type: "item",
+		items: [{
+			item: "realistictorches:matchbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

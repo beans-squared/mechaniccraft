@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 3.5d,
+	dependencies: [
+		"5e28274a"
+	],
+	tasks: [{
+		uid: "4db2870d",
+		type: "item",
+		items: [{
+			item: "immersivetech:stone_multiblock"
+		}]
+	}]
+}

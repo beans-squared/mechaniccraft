@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"fbb4af2e"
+	],
+	tasks: [{
+		uid: "9681729c",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_electrical_furnace"
+		}]
+	}]
+}

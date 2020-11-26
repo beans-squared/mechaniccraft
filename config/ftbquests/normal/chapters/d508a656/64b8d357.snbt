@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "e87a872d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:shield"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

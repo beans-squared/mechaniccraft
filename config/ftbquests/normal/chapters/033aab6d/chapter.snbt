@@ -1,12 +1,6 @@
 {
 	title: "Fossil Fuel Energy",
-	icon: {
-		id: "forge:bucketfilled",
-		tag: {
-			FluidName: "oil",
-			Amount: 1000
-		}
-	},
+	icon: "immersivepetroleum:metal_device 1 1",
 	always_invisible: false,
 	group: -1988173450,
 	default_quest_shape: ""

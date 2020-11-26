@@ -1,0 +1,15 @@
+{
+	x: -2.5d,
+	y: 3.5d,
+	dependencies: [
+		"f4660062",
+		"30d22515"
+	],
+	tasks: [{
+		uid: "a1c6576a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_device 1 2"
+		}]
+	}]
+}

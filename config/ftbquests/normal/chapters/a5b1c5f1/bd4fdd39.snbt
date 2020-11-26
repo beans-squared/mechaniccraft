@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	dependencies: [
+		"cd74c5dc"
+	],
+	tasks: [{
+		uid: "0364a67d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 9"
+		}]
+	}]
+}

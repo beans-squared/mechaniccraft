@@ -1,0 +1,10 @@
+{
+	title: "Manufacturing",
+	icon: "immersiveengineering:metal_multiblock 1 4",
+	description: [
+		"Making this from that and that from this."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

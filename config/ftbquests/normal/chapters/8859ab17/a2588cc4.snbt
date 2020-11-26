@@ -1,0 +1,23 @@
+{
+	title: "Rebar Concrete",
+	x: -4.0d,
+	y: -0.5d,
+	description: "Certified bomb-proof. Probably.",
+	text: [
+		"Expensive concrete variant with high blast resistance."
+	],
+	dependencies: [
+		"e9c407fe"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e31dd09f",
+		type: "item",
+		title: "Craft Rebar Concrete",
+		items: [{
+			item: "engineersdecor:rebar_concrete"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}]
+}
