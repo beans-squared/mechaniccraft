@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:box"
 		}]
+	}],
+	rewards: [{
+		uid: "17a293f6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -5,10 +5,17 @@
 		"dec646ea"
 	],
 	tasks: [{
-		uid: "03f69ff5",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock 1 5"
-		}]
+		uid: "74bb1f6f",
+		type: "observation",
+		title: "Alternator",
+		icon: "immersivetech:metal_multiblock 1 5",
+		match_type: "block_entity_id",
+		match: "immersivetech:alternatormaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "97f61560",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

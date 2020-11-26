@@ -7,5 +7,10 @@
 		items: [{
 			item: "immersiveengineering:connector 1 13"
 		}]
+	}],
+	rewards: [{
+		uid: "30f5f2c7",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

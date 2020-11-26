@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearning:extraction_chamber"
 		}]
+	}],
+	rewards: [{
+		uid: "9ee42d0c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -8,5 +8,10 @@
 			item: "travelersbackpack:travelers_backpack"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7a22133e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

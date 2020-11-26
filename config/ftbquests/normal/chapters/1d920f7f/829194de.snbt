@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:wireless_transmitter"
 		}]
+	}],
+	rewards: [{
+		uid: "6ba9eb44",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

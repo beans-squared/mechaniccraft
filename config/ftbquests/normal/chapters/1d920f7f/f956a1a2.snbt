@@ -17,5 +17,10 @@
 		items: [{
 			item: "refinedstorage:fluid_interface"
 		}]
+	}],
+	rewards: [{
+		uid: "6fd2a60b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -19,5 +19,10 @@
 		}],
 		consume_items: false,
 		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "b120dd79",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

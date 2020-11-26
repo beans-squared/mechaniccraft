@@ -17,5 +17,10 @@
 		items: [{
 			item: "magneticraft:conveyor_belt"
 		}]
+	}],
+	rewards: [{
+		uid: "3122a687",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

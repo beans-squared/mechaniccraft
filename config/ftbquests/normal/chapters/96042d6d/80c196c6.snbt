@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:inserter"
 		}]
+	}],
+	rewards: [{
+		uid: "0781adde",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

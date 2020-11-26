@@ -7,5 +7,10 @@
 		items: [{
 			item: "weather2:wind_vane"
 		}]
+	}],
+	rewards: [{
+		uid: "5838dc1e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

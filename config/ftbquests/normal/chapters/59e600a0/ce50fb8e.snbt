@@ -5,10 +5,17 @@
 		"a00a2bb6"
 	],
 	tasks: [{
-		uid: "f77dec80",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock 1 1"
-		}]
+		uid: "91b47859",
+		type: "observation",
+		title: "Solar Tower",
+		icon: "immersivetech:metal_multiblock 1 1",
+		match_type: "block_entity_id",
+		match: "immersivetech:solartowermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e7aab22b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:crafting_monitor"
 		}]
+	}],
+	rewards: [{
+		uid: "fe5f6d3d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

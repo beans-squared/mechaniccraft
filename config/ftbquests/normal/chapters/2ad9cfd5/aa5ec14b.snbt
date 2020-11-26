@@ -10,5 +10,10 @@
 		items: [{
 			item: "weather2:weather_machine"
 		}]
+	}],
+	rewards: [{
+		uid: "1baa3c20",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

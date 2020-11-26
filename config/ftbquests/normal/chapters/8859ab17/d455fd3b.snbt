@@ -20,5 +20,10 @@
 		consume_items: false,
 		ignore_nbt: 1b,
 		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "66e23d92",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

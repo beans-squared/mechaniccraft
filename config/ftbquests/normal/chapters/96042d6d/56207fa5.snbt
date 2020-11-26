@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:heat_pipe"
 		}]
+	}],
+	rewards: [{
+		uid: "c0716b50",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

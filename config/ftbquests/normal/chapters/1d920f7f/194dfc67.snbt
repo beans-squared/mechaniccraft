@@ -19,5 +19,10 @@
 		{
 			item: "refinedstorage:fluid_storage"
 		}]
+	}],
+	rewards: [{
+		uid: "27c5915b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

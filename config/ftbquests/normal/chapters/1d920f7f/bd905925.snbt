@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:grid 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "71469452",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

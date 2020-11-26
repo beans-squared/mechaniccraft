@@ -2,10 +2,17 @@
 	x: -8.0d,
 	y: -5.0d,
 	tasks: [{
-		uid: "ffd18069",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:metal_multiblock 1 8"
-		}]
+		uid: "3975afc4",
+		type: "observation",
+		title: "Fermenter",
+		icon: "immersiveengineering:metal_multiblock 1 8",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:fermenter",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "78a07820",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

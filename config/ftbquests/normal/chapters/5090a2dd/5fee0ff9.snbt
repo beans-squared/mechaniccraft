@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:fabricator"
 		}]
+	}],
+	rewards: [{
+		uid: "6e1946b5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

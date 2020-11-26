@@ -17,5 +17,10 @@
 		items: [{
 			item: "refinedstorage:destructor"
 		}]
+	}],
+	rewards: [{
+		uid: "68cb2ce0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

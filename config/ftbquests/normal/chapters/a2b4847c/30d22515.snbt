@@ -5,10 +5,17 @@
 		"5e28274a"
 	],
 	tasks: [{
-		uid: "4db2870d",
-		type: "item",
-		items: [{
-			item: "immersivetech:stone_multiblock"
-		}]
+		uid: "3ee6fc9c",
+		type: "observation",
+		title: "Advanced Coke Oven",
+		icon: "immersivetech:stone_multiblock",
+		match_type: "block_entity_id",
+		match: "immersivetech:cokeovenadvancedmaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "5c2a085e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:crafter"
 		}]
+	}],
+	rewards: [{
+		uid: "14b86143",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

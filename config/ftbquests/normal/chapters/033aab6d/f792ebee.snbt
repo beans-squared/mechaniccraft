@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:combustion_chamber"
 		}]
+	}],
+	rewards: [{
+		uid: "1e6e0957",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

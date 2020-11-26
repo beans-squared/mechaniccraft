@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:small_waste_incinerator"
 		}]
+	}],
+	rewards: [{
+		uid: "4e6e276c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

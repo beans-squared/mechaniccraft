@@ -7,5 +7,10 @@
 		items: [{
 			item: "engineersdecor:small_solar_panel"
 		}]
+	}],
+	rewards: [{
+		uid: "2bab5597",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:small_mineral_smelter"
 		}]
+	}],
+	rewards: [{
+		uid: "39a2588a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:insulated_heat_pipe"
 		}]
+	}],
+	rewards: [{
+		uid: "88dc8bb6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

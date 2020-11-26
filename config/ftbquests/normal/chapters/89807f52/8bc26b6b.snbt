@@ -10,5 +10,10 @@
 		items: [{
 			item: "toughasnails:temperature_coil 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "ff1184c1",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

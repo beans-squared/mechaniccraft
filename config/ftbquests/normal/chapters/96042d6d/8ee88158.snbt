@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:factory_dropper"
 		}]
+	}],
+	rewards: [{
+		uid: "5b6f2525",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -7,5 +7,10 @@
 		items: [{
 			item: "weather2:anemometer"
 		}]
+	}],
+	rewards: [{
+		uid: "2cb7f775",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

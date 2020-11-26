@@ -16,5 +16,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "02c39c17",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

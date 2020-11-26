@@ -17,5 +17,10 @@
 		items: [{
 			item: "refinedstorage:network_receiver"
 		}]
+	}],
+	rewards: [{
+		uid: "c7342be1",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:airlock"
 		}]
+	}],
+	rewards: [{
+		uid: "e9653321",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

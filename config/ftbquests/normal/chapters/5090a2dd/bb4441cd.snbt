@@ -7,5 +7,10 @@
 		items: [{
 			item: "immersiveengineering:wirecoil 1 5"
 		}]
+	}],
+	rewards: [{
+		uid: "9047ca3b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

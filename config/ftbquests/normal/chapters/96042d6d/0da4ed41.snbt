@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:passive_fluid_accumulator"
 		}]
+	}],
+	rewards: [{
+		uid: "4c46cba3",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

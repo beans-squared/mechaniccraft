@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:gasification_unit"
 		}]
+	}],
+	rewards: [{
+		uid: "94d31e2b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

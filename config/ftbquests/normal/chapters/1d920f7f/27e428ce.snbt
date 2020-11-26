@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:security_manager"
 		}]
+	}],
+	rewards: [{
+		uid: "9cee931e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

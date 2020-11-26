@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:shelving_unit"
 		}]
+	}],
+	rewards: [{
+		uid: "585598eb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

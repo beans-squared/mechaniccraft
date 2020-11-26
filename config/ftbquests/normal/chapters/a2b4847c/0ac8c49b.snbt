@@ -1,11 +1,20 @@
 {
+	title: "Alloy Kiln",
+	icon: "immersiveengineering:stone_device 1 7",
 	x: -7.0d,
 	y: 5.0d,
 	tasks: [{
-		uid: "19a23840",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:stone_decoration 1 10"
-		}]
+		uid: "bf49c35c",
+		type: "observation",
+		title: "Alloy Kiln",
+		icon: "immersiveengineering:stone_device 1 7",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:alloyklin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9760b923",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

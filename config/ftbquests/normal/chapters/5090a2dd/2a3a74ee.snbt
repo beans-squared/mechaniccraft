@@ -5,10 +5,17 @@
 		"9ad5682e"
 	],
 	tasks: [{
-		uid: "bf5b3366",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:metal_multiblock 1 15"
-		}]
+		uid: "0affe391",
+		type: "observation",
+		title: "Mixer",
+		icon: "immersiveengineering:metal_multiblock 1 15",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:mixer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e52a8644",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

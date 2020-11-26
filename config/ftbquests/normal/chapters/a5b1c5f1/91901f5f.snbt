@@ -7,5 +7,10 @@
 		items: [{
 			item: "realistictorches:torch_unlit"
 		}]
+	}],
+	rewards: [{
+		uid: "3f0d83ff",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

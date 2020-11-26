@@ -8,7 +8,7 @@
 		}
 	},
 	default_reward_team: false,
-	default_consume_items: true,
+	default_consume_items: false,
 	default_autoclaim_rewards: "enabled",
 	default_quest_shape: "rsquare",
 	default_quest_disable_jei: false,

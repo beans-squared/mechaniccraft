@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:electric_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "db731fb9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

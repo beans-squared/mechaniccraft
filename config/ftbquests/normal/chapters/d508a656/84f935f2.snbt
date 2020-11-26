@@ -9,5 +9,10 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed4ec2ab",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

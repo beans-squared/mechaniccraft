@@ -17,5 +17,10 @@
 		items: [{
 			item: "refinedstorage:importer"
 		}]
+	}],
+	rewards: [{
+		uid: "2d055cb4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

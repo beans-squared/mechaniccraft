@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:steam_engine"
 		}]
+	}],
+	rewards: [{
+		uid: "4bbb5789",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

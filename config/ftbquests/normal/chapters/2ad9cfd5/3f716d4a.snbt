@@ -10,5 +10,10 @@
 		items: [{
 			item: "weather2:weather_deflector"
 		}]
+	}],
+	rewards: [{
+		uid: "414197f6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

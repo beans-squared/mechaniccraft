@@ -6,10 +6,17 @@
 		"771261d6"
 	],
 	tasks: [{
-		uid: "e017127d",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock 1 4"
-		}]
+		uid: "b10b768a",
+		type: "observation",
+		title: "Boiler",
+		icon: "immersivetech:metal_multiblock 1 4",
+		match_type: "block_entity_id",
+		match: "immersivetech:boilermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "bf2b10b8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

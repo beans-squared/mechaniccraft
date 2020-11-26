@@ -10,5 +10,10 @@
 		items: [{
 			item: "immersivepetroleum:metal_device"
 		}]
+	}],
+	rewards: [{
+		uid: "a14dacd8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

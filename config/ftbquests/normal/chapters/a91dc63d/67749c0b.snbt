@@ -18,5 +18,10 @@
 			item: "cookingforblockheads:cow_jar"
 		}],
 		consume_items: false
+	}],
+	rewards: [{
+		uid: "0559726a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -11,5 +11,10 @@
 			item: "refinedstorage:wireless_crafting_monitor 1 1"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d310fa6b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

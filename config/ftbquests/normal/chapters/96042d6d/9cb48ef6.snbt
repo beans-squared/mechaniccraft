@@ -17,5 +17,10 @@
 		items: [{
 			item: "engineersdecor:small_block_breaker"
 		}]
+	}],
+	rewards: [{
+		uid: "f3e8086f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

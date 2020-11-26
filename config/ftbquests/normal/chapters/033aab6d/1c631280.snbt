@@ -5,10 +5,17 @@
 		"a51f1d13"
 	],
 	tasks: [{
-		uid: "fdba55af",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:metal_multiblock 1 10"
-		}]
+		uid: "4f91bf19",
+		type: "observation",
+		title: "Diesel Generator",
+		icon: "immersiveengineering:metal_multiblock 1 10",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:dieselgenerator",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "58a3dbbc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

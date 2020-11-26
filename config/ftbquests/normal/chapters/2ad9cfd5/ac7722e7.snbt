@@ -10,5 +10,10 @@
 		items: [{
 			item: "weather2:tornado_siren"
 		}]
+	}],
+	rewards: [{
+		uid: "2aecbb31",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

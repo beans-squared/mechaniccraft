@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:sieve"
 		}]
+	}],
+	rewards: [{
+		uid: "9ae00ed8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

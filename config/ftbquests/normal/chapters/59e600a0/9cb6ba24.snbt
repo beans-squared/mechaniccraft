@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:steam_boiler"
 		}]
+	}],
+	rewards: [{
+		uid: "0767a89e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:straight_pipe_valve"
 		}]
+	}],
+	rewards: [{
+		uid: "f0e72051",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

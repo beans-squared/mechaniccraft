@@ -5,10 +5,17 @@
 		"dfdc35ba"
 	],
 	tasks: [{
-		uid: "88df1fb1",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock 1 12"
-		}]
+		uid: "abceaf19",
+		type: "observation",
+		title: "Steel Tank",
+		icon: "immersivetech:metal_multiblock 1 12",
+		match_type: "block_entity_id",
+		match: "immersivetech:steelsheetmetaltankmaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "33f95ae8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

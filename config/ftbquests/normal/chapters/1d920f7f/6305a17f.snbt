@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:disk_manipulator"
 		}]
+	}],
+	rewards: [{
+		uid: "94074d6c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

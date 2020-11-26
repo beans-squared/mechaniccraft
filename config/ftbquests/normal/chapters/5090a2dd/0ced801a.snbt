@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:electric_heater"
 		}]
+	}],
+	rewards: [{
+		uid: "a72c421d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

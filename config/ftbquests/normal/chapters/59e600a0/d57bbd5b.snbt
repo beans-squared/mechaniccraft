@@ -5,10 +5,17 @@
 		"a2c70689"
 	],
 	tasks: [{
-		uid: "d663a64d",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock 1 14"
-		}]
+		uid: "e5dfe2d4",
+		type: "observation",
+		title: "Cooling Tower",
+		icon: "immersivetech:metal_multiblock 1 14",
+		match_type: "block_entity_id",
+		match: "immersivetech:coolingtowermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "fc28f75f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

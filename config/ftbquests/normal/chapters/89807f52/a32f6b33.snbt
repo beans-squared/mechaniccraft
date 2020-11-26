@@ -7,5 +7,10 @@
 		items: [{
 			item: "toughasnails:purified_water_bottle"
 		}]
+	}],
+	rewards: [{
+		uid: "03a6d404",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

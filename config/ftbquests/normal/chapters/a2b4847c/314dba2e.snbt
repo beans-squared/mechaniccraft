@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:crushing_table"
 		}]
+	}],
+	rewards: [{
+		uid: "71744ee4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "refinedstorage:external_storage"
 		}]
+	}],
+	rewards: [{
+		uid: "13ee137d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

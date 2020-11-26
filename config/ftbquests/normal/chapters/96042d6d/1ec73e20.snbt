@@ -17,5 +17,10 @@
 		items: [{
 			item: "immersivetech:metal_barrel 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "db1119d9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

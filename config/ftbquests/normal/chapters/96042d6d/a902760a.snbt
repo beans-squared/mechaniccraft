@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:labeled_crate"
 		}]
+	}],
+	rewards: [{
+		uid: "3db87890",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:small_electrical_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "8adf57b2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

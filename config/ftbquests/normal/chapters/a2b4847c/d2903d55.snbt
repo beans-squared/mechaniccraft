@@ -7,5 +7,10 @@
 		items: [{
 			item: "magneticraft:brick_furnace"
 		}]
+	}],
+	rewards: [{
+		uid: "64bba135",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

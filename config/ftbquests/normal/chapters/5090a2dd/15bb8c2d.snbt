@@ -7,5 +7,10 @@
 		items: [{
 			item: "engineersdecor:treated_wood_crafting_table"
 		}]
+	}],
+	rewards: [{
+		uid: "39543dfa",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

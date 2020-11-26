@@ -9,27 +9,36 @@
 		type: "item",
 		items: [{
 			item: "immersiveengineering:wirecoil 1 2"
-		}]
+		}],
+		consume_items: false
 	},
 	{
 		uid: "751744fb",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:connector 1 4"
-		}]
+		}],
+		consume_items: false
 	},
 	{
 		uid: "ade7f820",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:connector 1 5"
-		}]
+		}],
+		consume_items: false
 	},
 	{
 		uid: "0cb2e013",
 		type: "item",
 		items: [{
 			item: "immersiveengineering:connector 1 8"
-		}]
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "0d699ea8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

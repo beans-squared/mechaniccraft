@@ -5,10 +5,17 @@
 		"1c631280"
 	],
 	tasks: [{
-		uid: "98d711e3",
-		type: "item",
-		items: [{
-			item: "immersivetech:metal_multiblock1"
-		}]
+		uid: "04c45edc",
+		type: "observation",
+		title: "Gas Turbine",
+		icon: "immersivetech:metal_multiblock1",
+		match_type: "block_entity_id",
+		match: "immersivetech:gasturbinemaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "46e07b54",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

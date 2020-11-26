@@ -10,5 +10,10 @@
 		items: [{
 			item: "magneticraft:grinder"
 		}]
+	}],
+	rewards: [{
+		uid: "7423aedf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

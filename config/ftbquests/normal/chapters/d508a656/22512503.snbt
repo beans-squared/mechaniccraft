@@ -7,5 +7,10 @@
 		items: [{
 			item: "immersiveengineering:cloth_device"
 		}]
+	}],
+	rewards: [{
+		uid: "942ea67b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

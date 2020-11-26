@@ -7,5 +7,10 @@
 		items: [{
 			item: "immersiveengineering:wooden_device1 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "438a9c87",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

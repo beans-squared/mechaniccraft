@@ -5,10 +5,17 @@
 		"81217159"
 	],
 	tasks: [{
-		uid: "e8c49deb",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:metal_multiblock 1 13"
-		}]
+		uid: "a34b7596",
+		type: "observation",
+		title: "Arc Furnace",
+		icon: "immersiveengineering:metal_multiblock 1 13",
+		match_type: "block_entity_id",
+		match: "immersivenengineering:arcfurnace",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "964955c4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

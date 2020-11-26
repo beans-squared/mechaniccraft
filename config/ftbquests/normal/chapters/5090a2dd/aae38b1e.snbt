@@ -10,5 +10,10 @@
 		items: [{
 			item: "deepmoblearning:trial_keystone"
 		}]
+	}],
+	rewards: [{
+		uid: "e89f2e8e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

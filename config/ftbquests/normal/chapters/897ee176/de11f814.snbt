@@ -9,6 +9,12 @@
 		type: "item",
 		items: [{
 			item: "immersiveengineering:connector 1 9"
-		}]
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "b3dfc8b6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

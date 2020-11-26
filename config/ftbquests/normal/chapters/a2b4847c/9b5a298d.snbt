@@ -6,10 +6,17 @@
 		"30d22515"
 	],
 	tasks: [{
-		uid: "a1c6576a",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:stone_device 1 2"
-		}]
+		uid: "6c5054b3",
+		type: "observation",
+		title: "Improved Blast Furnace",
+		icon: "immersiveengineering:stone_device 1 2",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:blastfurnaceadvanced",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "315651ff",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

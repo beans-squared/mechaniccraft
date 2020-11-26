@@ -10,5 +10,10 @@
 		items: [{
 			item: "engineersdecor:factory_hopper"
 		}]
+	}],
+	rewards: [{
+		uid: "575ebd29",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

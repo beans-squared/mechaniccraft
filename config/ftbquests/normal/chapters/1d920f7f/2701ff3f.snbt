@@ -17,5 +17,10 @@
 		items: [{
 			item: "refinedstorage:writer"
 		}]
+	}],
+	rewards: [{
+		uid: "b3629b9c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

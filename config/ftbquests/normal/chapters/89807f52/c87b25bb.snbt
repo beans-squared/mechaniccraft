@@ -7,5 +7,10 @@
 		items: [{
 			item: "toughasnails:campfire"
 		}]
+	}],
+	rewards: [{
+		uid: "25d0e559",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

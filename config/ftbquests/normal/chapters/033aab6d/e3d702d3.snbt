@@ -2,15 +2,17 @@
 	x: -5.5d,
 	y: -1.0d,
 	tasks: [{
-		uid: "61434e0b",
-		type: "item",
-		items: [{
-			id: "immersivepetroleum:schematic",
-			tag: {
-				multiblock: "IP:Pumpjack"
-			}
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
+		uid: "98045b46",
+		type: "observation",
+		title: "Pumpjack",
+		icon: "immersivepetroleum:schematic",
+		match_type: "block_entity_id",
+		match: "immersivepetroleum:pumpjack",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9ba1349f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }

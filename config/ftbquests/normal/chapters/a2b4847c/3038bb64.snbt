@@ -5,10 +5,17 @@
 		"7be424d9"
 	],
 	tasks: [{
-		uid: "ab1d4dd1",
-		type: "item",
-		items: [{
-			item: "immersiveengineering:metal_multiblock 1 1"
-		}]
+		uid: "987115af",
+		type: "observation",
+		title: "Crusher",
+		icon: "immersiveengineering:metal_multiblock 1 1",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:crusher",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ba67d4ef",
+		type: "ftbmoney:money",
+		ftb_money: 25L
 	}]
 }
