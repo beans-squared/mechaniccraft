@@ -1,7 +1,7 @@
 {
 	title: "Stepladders",
-	x: 6.5d,
-	y: 3.5d,
+	x: 7.0d,
+	y: 4.5d,
 	description: "Time to change the lightbulb.",
 	text: [
 		"Stepladders. You can climb on them. Ain't that cool?"

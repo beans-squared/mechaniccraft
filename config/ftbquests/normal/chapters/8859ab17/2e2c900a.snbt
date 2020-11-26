@@ -1,7 +1,7 @@
 {
 	title: "Carving Tool",
-	x: 4.5d,
-	y: 3.5d,
+	x: 5.0d,
+	y: 4.5d,
 	description: "Just a little bit out of the wall...",
 	text: [
 		"Allows carving of handholds into rock faces, creating climable surfaces in natural terrain."

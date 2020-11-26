@@ -1,7 +1,7 @@
 {
 	title: "Slag Bricks",
-	x: 2.5d,
-	y: 1.5d,
+	x: 3.0d,
+	y: 2.5d,
 	description: "At least it's cheap.",
 	text: [
 		"Bricks created from slag byproduct."

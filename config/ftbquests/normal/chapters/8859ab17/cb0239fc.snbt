@@ -1,7 +1,7 @@
 {
 	title: "Alarms",
-	x: -5.5d,
-	y: 2.5d,
+	x: 1.0d,
+	y: 4.5d,
 	description: "The reaction's gone critical!",
 	text: [
 		"Customizable alarms that play sounds and flash when they recieve a redstone signal."

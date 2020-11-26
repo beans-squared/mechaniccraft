@@ -1,7 +1,7 @@
 {
 	title: "Chisel",
-	x: 2.5d,
-	y: 3.5d,
+	x: 3.0d,
+	y: 4.5d,
 	description: "Find the perfect texture.",
 	text: [
 		"A powerful tool that allows you to create texture variants for many kinds of blocks."

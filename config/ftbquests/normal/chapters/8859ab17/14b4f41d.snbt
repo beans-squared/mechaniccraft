@@ -1,7 +1,7 @@
 {
 	title: "Hempcrete",
-	x: 4.5d,
-	y: 1.5d,
+	x: 5.0d,
+	y: 2.5d,
 	description: "Concrete but not really.",
 	text: [
 		"Special kind of hard material created using hemp fibers."

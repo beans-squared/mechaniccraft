@@ -1,7 +1,7 @@
 {
 	title: "Treated Decor",
-	x: 6.5d,
-	y: 1.5d,
+	x: 7.0d,
+	y: 2.5d,
 	description: "Tables, stools and support beams, oh my!",
 	text: [
 		"Several different decorative items made from treated wood."

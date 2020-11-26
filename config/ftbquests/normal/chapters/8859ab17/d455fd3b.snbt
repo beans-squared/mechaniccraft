@@ -1,6 +1,6 @@
 {
 	title: "Diamond Chisel",
-	x: 0.5d,
+	x: 1.0d,
 	y: 2.5d,
 	description: "The MK2: New and Improved",
 	text: [

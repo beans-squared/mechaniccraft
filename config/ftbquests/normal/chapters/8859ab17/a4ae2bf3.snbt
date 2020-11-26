@@ -1,6 +1,6 @@
 {
 	title: "Ender Offset Wand",
-	x: 0.5d,
+	x: 1.0d,
 	y: 0.5d,
 	description: "Move dat texture up!",
 	text: [

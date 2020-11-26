@@ -4,8 +4,11 @@
 	tasks: [{
 		uid: "0423e0f5",
 		type: "item",
+		title: "Craft a Small Milking Machine",
 		items: [{
 			item: "engineersdecor:small_milking_machine"
-		}]
+		}],
+		consume_items: false,
+		only_from_crafting: true
 	}]
 }

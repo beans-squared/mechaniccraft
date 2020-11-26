@@ -1,6 +1,6 @@
 {
 	title: "Panzer Glass",
-	x: -1.5d,
+	x: -1.0d,
 	y: 2.5d,
 	description: "This stuff is bulletproof, right?",
 	text: [
