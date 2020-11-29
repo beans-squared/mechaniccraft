@@ -1,6 +1,10 @@
 {
 	x: -8.0d,
 	y: 5.0d,
+	text: [
+		"Distills water. Distilled water has better efficiency in steam production."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "a44722e7",
 		type: "observation",

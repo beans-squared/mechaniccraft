@@ -1,9 +1,14 @@
 {
+	title: "Redstone Breaker",
 	x: -3.0d,
 	y: -2.0d,
+	text: [
+		"Shuts off power flow through a line. Accepts HV cabling."
+	],
 	dependencies: [
 		"de11f814"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "baaaea5a",
 		type: "item",

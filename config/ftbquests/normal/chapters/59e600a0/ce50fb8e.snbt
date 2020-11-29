@@ -1,9 +1,13 @@
 {
 	x: -5.0d,
 	y: 5.0d,
+	text: [
+		"Uses the sun to turn water into steam."
+	],
 	dependencies: [
 		"a00a2bb6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "91b47859",
 		type: "observation",

@@ -1,6 +1,10 @@
 {
 	x: -2.0d,
 	y: 2.0d,
+	text: [
+		"Generates power in sunlight."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "ccfe218f",
 		type: "item",

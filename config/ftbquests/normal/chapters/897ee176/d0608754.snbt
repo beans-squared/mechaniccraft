@@ -1,9 +1,20 @@
 {
+	title: "Medium Voltage Wiring",
 	x: -4.5d,
 	y: -3.5d,
+	text: [
+		"Transfers power.",
+		"",
+		"The transformer allows the changing of a low voltage line into a medium voltage line, or vice versa.",
+		"",
+		"Wire coils can transfer up to 8192 FE/t per line. Connectors can transfer up to 1024 FE/t.",
+		"",
+		"Medium voltage coils have a power loss ratio of 2.5%."
+	],
 	dependencies: [
 		"faec633b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "75ad74e6",
 		type: "item",

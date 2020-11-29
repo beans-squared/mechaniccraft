@@ -1,9 +1,14 @@
 {
+	title: "Breaker Switch",
 	x: -6.0d,
 	y: -2.0d,
+	text: [
+		"Allows the shutoff of power to a line."
+	],
 	dependencies: [
 		"faec633b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "ab08758f",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Capacitor Backpack",
 	x: -4.5d,
 	y: -6.5d,
+	text: [
+		"Stores up to 100,000 FE usable by various powered handheld devices, such as a railgun."
+	],
 	dependencies: [
 		"35fcdef6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "e7988cd5",
 		type: "item",

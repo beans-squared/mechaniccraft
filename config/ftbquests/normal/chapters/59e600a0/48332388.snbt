@@ -1,9 +1,13 @@
 {
 	x: -2.0d,
 	y: -0.5d,
+	text: [
+		"Harnesses the rotational power of a turbine to generate power."
+	],
 	dependencies: [
 		"dec646ea"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "74bb1f6f",
 		type: "observation",

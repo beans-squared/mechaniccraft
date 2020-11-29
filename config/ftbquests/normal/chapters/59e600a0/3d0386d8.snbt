@@ -1,6 +1,10 @@
 {
 	x: -3.5d,
 	y: -5.5d,
+	text: [
+		"Captures and stores the power of a lightning strike."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "e4cbe1ff",
 		type: "observation",

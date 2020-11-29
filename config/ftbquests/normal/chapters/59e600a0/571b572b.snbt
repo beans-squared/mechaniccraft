@@ -1,6 +1,10 @@
 {
 	x: -3.5d,
 	y: -2.5d,
+	text: [
+		"Generates power using the temperature difference between a hot and cold material."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "7bfec2a6",
 		type: "item",
