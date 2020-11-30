@@ -1,9 +1,14 @@
 {
+	title: "Long Distance Networks",
 	x: 12.0d,
 	y: -3.0d,
+	text: [
+		"Transmits a network signal vast distances, including across dimensions."
+	],
 	dependencies: [
 		"829194de"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "2502ed72",
 		type: "item",

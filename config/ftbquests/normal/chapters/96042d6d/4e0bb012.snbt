@@ -1,9 +1,14 @@
 {
+	title: "Item Router",
 	x: -1.0d,
 	y: 2.5d,
+	text: [
+		"Directs incoming items to a designated route."
+	],
 	dependencies: [
 		"80c196c6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "d0305d20",
 		type: "item",

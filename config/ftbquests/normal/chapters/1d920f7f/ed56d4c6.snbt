@@ -1,9 +1,14 @@
 {
+	title: "Grid",
 	x: 9.0d,
 	y: 0.0d,
+	text: [
+		"Used to store and retrieve items from a network."
+	],
 	dependencies: [
 		"0e0d616a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "937cc874",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Crafter",
 	x: 10.5d,
 	y: 4.5d,
+	text: [
+		"Autocrafts items using patterns."
+	],
 	dependencies: [
 		"6305a17f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "bb9ec0a1",
 		type: "item",

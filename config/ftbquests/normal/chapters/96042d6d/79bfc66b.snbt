@@ -1,9 +1,14 @@
 {
+	title: "Tank",
 	x: 0.5d,
 	y: -6.0d,
+	text: [
+		"Stores a large amount of fluid."
+	],
 	dependencies: [
 		"1ec73e20"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "db1716fe",
 		type: "observation",

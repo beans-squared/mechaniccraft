@@ -1,9 +1,14 @@
 {
+	title: "Reinforced Storage Crate",
 	x: 3.5d,
 	y: -4.0d,
+	text: [
+		"Stores items. Explosion-proof."
+	],
 	dependencies: [
 		"a902760a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "67261fbd",
 		type: "item",

@@ -1,6 +1,15 @@
 {
+	title: "Unlit Torch",
 	x: -4.0d,
 	y: -0.5d,
+	text: [
+		"Crafted using the standard torch crafting recipe.",
+		"",
+		"Torches come unlit by default and must be lit using a matchbox or flint and steel.",
+		"",
+		"Torches last roughly 3 minecraft days (or one IRL hour)."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "0444e00c",
 		type: "item",

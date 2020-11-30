@@ -1,9 +1,14 @@
 {
+	title: "Cable",
 	x: 7.5d,
 	y: -1.5d,
+	text: [
+		"Connects network devices."
+	],
 	dependencies: [
 		"0e0d616a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "8db8bf3f",
 		type: "item",

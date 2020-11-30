@@ -1,9 +1,14 @@
 {
+	title: "Matchbox",
 	x: -1.0d,
 	y: -0.5d,
+	text: [
+		"Used to light torches in the crafting interface."
+	],
 	dependencies: [
 		"91901f5f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "3389363f",
 		type: "item",

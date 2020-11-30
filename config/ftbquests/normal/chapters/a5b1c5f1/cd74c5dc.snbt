@@ -1,9 +1,14 @@
 {
+	title: "Powered Lantern",
 	x: 2.0d,
 	y: -0.5d,
+	text: [
+		"Provides light. Also prevents mob spawns in a 32m radius."
+	],
 	dependencies: [
 		"ffbc9542"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "c49351e5",
 		type: "item",

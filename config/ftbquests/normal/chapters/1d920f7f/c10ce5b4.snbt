@@ -1,9 +1,14 @@
 {
+	title: "Wireless Crafting Grid",
 	x: 13.5d,
 	y: -4.5d,
+	text: [
+		"Wireless verison of a crafting grid."
+	],
 	dependencies: [
 		"d49de1b9"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "05cc9b40",
 		type: "item",

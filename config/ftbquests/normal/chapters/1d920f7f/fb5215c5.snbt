@@ -1,9 +1,14 @@
 {
+	title: "Import and Export",
 	x: 13.5d,
 	y: -1.5d,
+	text: [
+		"Adds or removes items from a network."
+	],
 	dependencies: [
 		"2cf4646e"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "c2d33261",
 		type: "item",

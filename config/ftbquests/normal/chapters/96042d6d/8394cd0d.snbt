@@ -1,9 +1,14 @@
 {
+	title: "Silo",
 	x: 5.0d,
 	y: -2.5d,
+	text: [
+		"Stores a lot of one item."
+	],
 	dependencies: [
 		"3b28c1db"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "36229d73",
 		type: "observation",

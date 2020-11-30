@@ -1,9 +1,14 @@
 {
+	title: "Construction and Destruction",
 	x: 19.5d,
 	y: -1.5d,
+	text: [
+		"Place and harvest blocks to and from a network."
+	],
 	dependencies: [
 		"f956a1a2"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "604162c2",
 		type: "item",

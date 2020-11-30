@@ -1,9 +1,14 @@
 {
+	title: "Steel Metal Barrel",
 	x: 3.5d,
 	y: -6.0d,
+	text: [
+		"Stores twice the fluid amount as a metal barrel."
+	],
 	dependencies: [
 		"79bfc66b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "59e0b916",
 		type: "item",

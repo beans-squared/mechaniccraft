@@ -1,9 +1,14 @@
 {
+	title: "Diesel Generator",
 	x: 0.0d,
 	y: -2.5d,
+	text: [
+		"Burns liquid fuels to generate power."
+	],
 	dependencies: [
 		"a51f1d13"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "4f91bf19",
 		type: "observation",

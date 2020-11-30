@@ -1,9 +1,14 @@
 {
+	title: "Passive Fluid Accumulator",
 	x: 9.5d,
 	y: 4.0d,
+	text: [
+		"Extracts fluids from adjacent containers. Useful for unifying multiple outputs into one input."
+	],
 	dependencies: [
 		"330b0d14"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "b0a65f0f",
 		type: "item",

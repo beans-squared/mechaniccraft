@@ -1,9 +1,14 @@
 {
+	title: "Fluid Pump",
 	x: 6.5d,
 	y: 4.0d,
+	text: [
+		"Moves fluids through pipes at an accelerated rate. Can also extract fluids from in-world."
+	],
 	dependencies: [
 		"bbc2377f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "99b7d341",
 		type: "item",
