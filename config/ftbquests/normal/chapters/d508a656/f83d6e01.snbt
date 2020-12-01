@@ -1,6 +1,11 @@
 {
+	title: "Faraday Suit",
 	x: -3.5d,
 	y: 0.0d,
+	text: [
+		"Provides protection from electrical hazards such as low power tesla coils and uninsulated wiring."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "73b3cf08",
 		type: "item",

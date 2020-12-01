@@ -1,6 +1,11 @@
 {
+	title: "Heavy Plated Shield",
 	x: -6.5d,
 	y: 2.5d,
+	text: [
+		"Shield with better durability and space for upgrades."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "e87a872d",
 		type: "item",

@@ -1,6 +1,11 @@
 {
+	title: "Maintenence Kit",
 	x: 5.5d,
 	y: -2.5d,
+	text: [
+		"Allows modification of tools on the go."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "33531ce4",
 		type: "item",

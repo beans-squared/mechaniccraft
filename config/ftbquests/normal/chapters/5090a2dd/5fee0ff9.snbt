@@ -1,9 +1,14 @@
 {
+	title: "Fabricator",
 	x: -8.5d,
 	y: -3.0d,
+	text: [
+		"Helps simplify crafting by drawing items from adjacent inventories."
+	],
 	dependencies: [
 		"15bb8c2d"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "d71335a9",
 		type: "item",

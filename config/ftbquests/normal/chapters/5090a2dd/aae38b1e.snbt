@@ -1,9 +1,14 @@
 {
+	title: "Trial Keystone",
 	x: -10.0d,
 	y: 4.5d,
+	text: [
+		"Runs \"trials\" using an attuned trial key."
+	],
 	dependencies: [
 		"c984737f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "7f91e583",
 		type: "item",

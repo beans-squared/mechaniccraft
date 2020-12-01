@@ -1,9 +1,14 @@
 {
+	title: "Simulation Chamber",
 	x: -8.5d,
 	y: 3.0d,
+	text: [
+		"Reads data on a data model and runs simulations, producing dimensional matter with a chance of pristine matter."
+	],
 	dependencies: [
 		"c984737f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "cdcb5e46",
 		type: "item",

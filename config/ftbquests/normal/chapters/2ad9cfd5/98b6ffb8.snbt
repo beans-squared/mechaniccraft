@@ -1,10 +1,15 @@
 {
+	title: "Weather Sensor",
 	x: -1.0d,
 	y: 0.0d,
+	text: [
+		"Determine if da wind is angry."
+	],
 	dependencies: [
 		"ba1621d7",
 		"72782293"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a9042b70",
 		type: "item",

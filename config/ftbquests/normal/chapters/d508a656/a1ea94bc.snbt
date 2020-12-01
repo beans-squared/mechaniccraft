@@ -1,9 +1,14 @@
 {
+	title: "Revolver",
 	x: -3.5d,
 	y: 2.5d,
+	text: [
+		"Fires deadly cartridges."
+	],
 	dependencies: [
 		"64b8d357"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "37500583",
 		type: "item",

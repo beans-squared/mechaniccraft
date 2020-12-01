@@ -1,9 +1,14 @@
 {
+	title: "Hydraulic Press",
 	x: -8.5d,
 	y: 1.0d,
+	text: [
+		"Shapes metal into strong durable plates."
+	],
 	dependencies: [
 		"fd0fed02"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "e961ef01",
 		type: "item",

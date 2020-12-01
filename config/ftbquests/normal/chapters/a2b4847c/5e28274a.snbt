@@ -3,6 +3,10 @@
 	icon: "immersiveengineering:stone_device",
 	x: -7.0d,
 	y: 2.0d,
+	text: [
+		"Enriches coal into coal coke."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "82e897a3",
 		type: "observation",

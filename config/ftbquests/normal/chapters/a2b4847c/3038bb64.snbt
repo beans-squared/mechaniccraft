@@ -1,9 +1,14 @@
 {
+	title: "Crusher",
 	x: 5.0d,
 	y: -2.0d,
+	text: [
+		"Crushes stuff. Including living stuff. But you shouldn't do that because then everyone thinks you're some sort of psycho."
+	],
 	dependencies: [
 		"7be424d9"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "987115af",
 		type: "observation",

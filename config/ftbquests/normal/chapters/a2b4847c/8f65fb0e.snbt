@@ -1,9 +1,14 @@
 {
+	title: "Sluice Box",
 	x: -4.0d,
 	y: -2.0d,
+	text: [
+		"Filters rocky ore chunks, producing clean chunks and various bonus dusts."
+	],
 	dependencies: [
 		"314dba2e"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "0a9ad278",
 		type: "item",

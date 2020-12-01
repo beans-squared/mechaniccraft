@@ -1,9 +1,14 @@
 {
+	title: "Woolen Clothing",
 	x: -3.0d,
 	y: -1.0d,
+	text: [
+		"Provides insulation against the cold."
+	],
 	dependencies: [
 		"c87b25bb"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "c9d15be1",
 		type: "item",

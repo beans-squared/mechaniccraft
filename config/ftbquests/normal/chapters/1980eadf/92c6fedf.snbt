@@ -1,6 +1,11 @@
 {
+	title: "Climing Rope",
 	x: -3.5d,
 	y: -0.5d,
+	text: [
+		"The poor man's ladder."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "10dad9a0",
 		type: "item",

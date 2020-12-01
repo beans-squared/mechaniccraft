@@ -1,6 +1,11 @@
 {
+	title: "Crushing Table",
 	x: -7.0d,
 	y: -2.0d,
+	text: [
+		"Used to crush ores and form metal plates using a big mashy thing."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "386c48c4",
 		type: "item",

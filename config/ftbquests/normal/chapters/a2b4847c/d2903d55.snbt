@@ -1,6 +1,11 @@
 {
+	title: "Brick Furnace",
 	x: -7.0d,
 	y: 0.0d,
+	text: [
+		"Faster than a stone furnace, but requires heat from a combustion chamber."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "b13c0fc5",
 		type: "item",

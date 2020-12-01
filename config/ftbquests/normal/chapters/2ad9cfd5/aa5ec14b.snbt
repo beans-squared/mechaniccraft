@@ -1,9 +1,14 @@
 {
+	title: "Weather Machine",
 	x: 11.0d,
 	y: 0.0d,
+	text: [
+		"Now you can always be in the middle of a hurricane! Because that's some people's thing, I guess?"
+	],
 	dependencies: [
 		"3f716d4a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "9478f92d",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Sieve",
 	x: 2.0d,
 	y: -2.0d,
+	text: [
+		"Filters rocky ore chunks."
+	],
 	dependencies: [
 		"a5c8c94b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "62da81ec",
 		type: "item",

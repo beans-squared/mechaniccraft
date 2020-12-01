@@ -1,9 +1,14 @@
 {
+	title: "Severe Weather Siren",
 	x: 2.0d,
 	y: 0.0d,
+	text: [
+		"WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+	],
 	dependencies: [
 		"98b6ffb8"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "35d27cc6",
 		type: "item",
