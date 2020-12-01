@@ -1,9 +1,14 @@
 {
+	title: "Steel Tank",
 	x: 6.5d,
 	y: -6.0d,
+	text: [
+		"Stores twice the fluid amount as the tank."
+	],
 	dependencies: [
 		"dfdc35ba"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "abceaf19",
 		type: "observation",

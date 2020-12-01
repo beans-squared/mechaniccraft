@@ -1,9 +1,14 @@
 {
+	title: "Blast Furnace Preheater",
 	x: -1.0d,
 	y: 5.0d,
+	text: [
+		"Speeds up the improved blast furnace."
+	],
 	dependencies: [
 		"9b5a298d"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "8185ce3d",
 		type: "item",

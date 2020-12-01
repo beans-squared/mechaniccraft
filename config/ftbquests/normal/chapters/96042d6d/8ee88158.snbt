@@ -1,9 +1,14 @@
 {
+	title: "Factory Dropper",
 	x: -1.0d,
 	y: -0.5d,
+	text: [
+		"Enhanced dropper with toggleable functionality."
+	],
 	dependencies: [
 		"78547bef"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "500f99f4",
 		type: "item",

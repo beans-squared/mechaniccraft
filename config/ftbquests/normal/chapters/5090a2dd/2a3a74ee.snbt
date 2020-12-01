@@ -1,9 +1,15 @@
 {
+	title: "Mixer",
 	x: -2.5d,
 	y: -3.0d,
+	description: "Industrial-grade soup.",
+	text: [
+		"Combines fluids."
+	],
 	dependencies: [
 		"9ad5682e"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "0affe391",
 		type: "observation",

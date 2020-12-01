@@ -1,6 +1,11 @@
 {
+	title: "Fermenter",
 	x: -8.0d,
 	y: -5.0d,
+	text: [
+		"Processes organic plant matter into ethanol."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "3975afc4",
 		type: "observation",

@@ -1,9 +1,13 @@
 {
 	x: -6.0d,
 	y: -5.0d,
+	text: [
+		"Stores up to 100,000 FE for later use. Can output up to 256 FE/t."
+	],
 	dependencies: [
 		"faec633b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "1395e44c",
 		type: "item",

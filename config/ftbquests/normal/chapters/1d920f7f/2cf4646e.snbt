@@ -1,9 +1,14 @@
 {
+	title: "External Storage",
 	x: 10.5d,
 	y: -1.5d,
+	text: [
+		"Allows the addtion of external inventories like chests to a network."
+	],
 	dependencies: [
 		"8f14d1ec"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "301d9d4e",
 		type: "item",

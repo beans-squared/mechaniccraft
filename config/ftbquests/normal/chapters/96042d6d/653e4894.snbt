@@ -1,9 +1,14 @@
 {
+	title: "Valves",
 	x: 5.0d,
 	y: 2.5d,
+	text: [
+		"Provides additional control over fluid flow."
+	],
 	dependencies: [
 		"fd12d57f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "b595a595",
 		type: "item",

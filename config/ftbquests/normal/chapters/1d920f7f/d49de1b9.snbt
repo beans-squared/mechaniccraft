@@ -1,9 +1,14 @@
 {
+	title: "Wireless Grid",
 	x: 10.5d,
 	y: -4.5d,
+	text: [
+		"Can access a network using a wireless signal."
+	],
 	dependencies: [
 		"829194de"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a50fe60f",
 		type: "item",

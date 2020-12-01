@@ -1,6 +1,12 @@
 {
 	x: -8.0d,
 	y: 0.5d,
+	text: [
+		"Generates rotational power based on water flow.",
+		"",
+		"Up to three wheels can be stacked in succession to increase production."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "7150c9b8",
 		type: "item",

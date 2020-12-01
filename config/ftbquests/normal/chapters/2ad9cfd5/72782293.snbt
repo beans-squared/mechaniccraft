@@ -1,6 +1,11 @@
 {
+	title: "Anemometer",
 	x: -4.0d,
 	y: -1.0d,
+	text: [
+		"Measure how fast da wind go."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "5319b58f",
 		type: "item",

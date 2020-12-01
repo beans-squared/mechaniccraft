@@ -1,6 +1,12 @@
 {
 	x: -8.0d,
 	y: -1.5d,
+	text: [
+		"Generates rotational power based on wind speed.",
+		"",
+		"Can be upgraded with sails to increase production."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "447d32ed",
 		type: "item",

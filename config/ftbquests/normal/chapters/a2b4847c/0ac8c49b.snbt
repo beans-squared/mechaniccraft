@@ -3,6 +3,10 @@
 	icon: "immersiveengineering:stone_device 1 7",
 	x: -7.0d,
 	y: 5.0d,
+	text: [
+		"Alloys two metals together. Ain't that neat."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "bf49c35c",
 		type: "observation",

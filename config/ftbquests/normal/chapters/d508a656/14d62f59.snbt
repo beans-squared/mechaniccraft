@@ -1,9 +1,14 @@
 {
+	title: "Chemical Thrower",
 	x: 2.5d,
 	y: 2.5d,
+	text: [
+		"Does anyone actually use anything other than napalm in this thing?"
+	],
 	dependencies: [
 		"8ee221d0"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "1f5994f1",
 		type: "item",

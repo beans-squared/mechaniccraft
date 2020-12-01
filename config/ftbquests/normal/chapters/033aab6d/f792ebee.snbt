@@ -1,6 +1,11 @@
 {
+	title: "Combustion Chamber",
 	x: -4.5d,
 	y: 0.5d,
+	text: [
+		"Burns solid fuels like coal to generate heat."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "f30dac49",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Fluid Router",
 	x: 8.0d,
 	y: 2.5d,
+	text: [
+		"Redirect fluids to designated routes."
+	],
 	dependencies: [
 		"653e4894"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "6e4b7a31",
 		type: "item",

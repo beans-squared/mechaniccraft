@@ -1,6 +1,9 @@
 {
 	x: -3.5d,
 	y: 0.5d,
+	text: [
+		"Generates heat using the sun."
+	],
 	dependencies: [
 		"83125264"
 	],

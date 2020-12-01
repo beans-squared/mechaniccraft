@@ -1,9 +1,14 @@
 {
+	title: "Gun Turret",
 	x: -2.0d,
 	y: 4.0d,
+	text: [
+		"Automatically tracks and fires at incoming targets in range."
+	],
 	dependencies: [
 		"a1ea94bc"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "1e076276",
 		type: "item",

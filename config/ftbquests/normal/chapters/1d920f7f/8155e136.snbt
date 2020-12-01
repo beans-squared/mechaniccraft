@@ -1,9 +1,14 @@
 {
+	title: "Storage Monitor",
 	x: 12.0d,
 	y: 3.0d,
+	text: [
+		"Displays the qualitity of a defined item in a network. Able to extract and insert said item directly."
+	],
 	dependencies: [
 		"6305a17f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "441e2958",
 		type: "item",

@@ -1,6 +1,11 @@
 {
+	title: "Scanner",
 	x: 5.5d,
 	y: 0.0d,
+	text: [
+		"Reads the surrounding landscape and sends back location data based on installed modules."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "96967e0c",
 		type: "item",

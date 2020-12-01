@@ -1,9 +1,14 @@
 {
+	title: "Manual Redstone Siren",
 	x: 3.5d,
 	y: 1.5d,
+	text: [
+		"Perfect for tricking others into thinking they're about to get sucked up and blown out to sea."
+	],
 	dependencies: [
 		"ac7722e7"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "c461119a",
 		type: "item",

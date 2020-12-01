@@ -1,9 +1,14 @@
 {
+	title: "Engineer's Skyhook",
 	x: -0.5d,
 	y: -0.5d,
+	text: [
+		"Allows fast transport along suspended wires."
+	],
 	dependencies: [
 		"92c6fedf"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "da21f9f9",
 		type: "item",

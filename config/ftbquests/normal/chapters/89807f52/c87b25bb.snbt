@@ -1,6 +1,11 @@
 {
+	title: "Campfire",
 	x: -6.0d,
 	y: -1.0d,
+	text: [
+		"Provides light, warmth and a place to cook your food. What's not to like?"
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "8d72e883",
 		type: "item",

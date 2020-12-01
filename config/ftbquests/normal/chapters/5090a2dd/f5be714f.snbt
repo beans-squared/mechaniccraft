@@ -1,9 +1,14 @@
 {
+	title: "Automatic Lubricator",
 	x: -8.5d,
 	y: -5.0d,
+	text: [
+		"Keeps a machine running smoothly."
+	],
 	dependencies: [
 		"698e7363"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "2895f9d8",
 		type: "item",

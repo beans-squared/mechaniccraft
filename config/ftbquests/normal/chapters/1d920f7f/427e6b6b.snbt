@@ -1,9 +1,14 @@
 {
+	title: "Disk Drive",
 	x: 7.5d,
 	y: 1.5d,
+	text: [
+		"Stores storage disks."
+	],
 	dependencies: [
 		"0e0d616a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "46fccccd",
 		type: "item",

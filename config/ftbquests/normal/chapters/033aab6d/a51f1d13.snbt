@@ -1,9 +1,14 @@
 {
+	title: "Portable Generator",
 	x: -2.0d,
 	y: -2.5d,
+	text: [
+		"Burns gasoline to generate power."
+	],
 	dependencies: [
 		"771261d6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "3fd4b18f",
 		type: "item",

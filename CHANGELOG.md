@@ -1,3 +1,27 @@
+## CHANGELOG for MechanicCraft 0.10.0 (12.01.2020)
+
+**This update should be compatabile with existing worlds, but you never know. Always make backups!**
+
+### Updated Mods:
+
+- Mineral Tracker
+  - Bugfixes
+- Random Patches
+  - Bugfixes, default config changes
+- UniDict
+  - Combatability update
+
+## Removed Mods:
+
+- Triumph
+  - Not using for now, might in the future
+
+## Other Changes:
+
+- Polished quests up a bit
+
+---
+
 ## CHANGELOG for MechanicCraft 0.9.0 (11.26.2020)
 
 **This update should be compatabile with existing worlds, but you never know. Always make backups!**

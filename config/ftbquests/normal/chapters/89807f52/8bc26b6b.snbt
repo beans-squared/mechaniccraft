@@ -1,9 +1,14 @@
 {
+	title: "Heating Coil",
 	x: 0.0d,
 	y: -1.0d,
+	text: [
+		"Provides heating to a wide indoor area."
+	],
 	dependencies: [
 		"e5ba87d9"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "f82947fc",
 		type: "item",

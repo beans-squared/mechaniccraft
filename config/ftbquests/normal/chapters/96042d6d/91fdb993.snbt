@@ -1,9 +1,14 @@
 {
+	title: "Pneumatic Tube",
 	x: 0.5d,
 	y: 1.0d,
+	text: [
+		"Transfers items."
+	],
 	dependencies: [
 		"78547bef"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "7b4b325f",
 		type: "item",

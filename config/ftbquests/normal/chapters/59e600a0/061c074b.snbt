@@ -1,9 +1,13 @@
 {
 	x: -3.5d,
 	y: 3.5d,
+	text: [
+		"Uses steam to generate power."
+	],
 	dependencies: [
 		"5ae92e16"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "d58fb888",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Factory Hopper",
 	x: -2.5d,
 	y: 1.0d,
+	text: [
+		"Enhanced hopper with various toggleable settings."
+	],
 	dependencies: [
 		"14227302"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "bad4f285",
 		type: "item",

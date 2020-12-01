@@ -1,6 +1,11 @@
 {
+	title: "Engineer's Toolbox",
 	x: 2.5d,
 	y: -2.5d,
+	text: [
+		"Stores various tools, foods, wiring and misc items."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "f3e779a9",
 		type: "item",

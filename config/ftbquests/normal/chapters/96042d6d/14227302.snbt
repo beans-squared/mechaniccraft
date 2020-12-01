@@ -1,6 +1,11 @@
 {
+	title: "Conveyor Belts",
 	x: -5.5d,
 	y: 1.0d,
+	text: [
+		"Transfers items."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "df9b803a",
 		type: "item",

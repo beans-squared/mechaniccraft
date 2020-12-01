@@ -1,9 +1,14 @@
 {
+	title: "Juices",
 	x: -3.0d,
 	y: -3.0d,
+	text: [
+		"Most juices slake more thirst than plain water."
+	],
 	dependencies: [
 		"a32f6b33"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "deafe62e",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Crafting Monitor",
 	x: 15.0d,
 	y: 3.0d,
+	text: [
+		"Displays all autocrafting operations in a network."
+	],
 	dependencies: [
 		"8155e136"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "f2bbb0d6",
 		type: "item",

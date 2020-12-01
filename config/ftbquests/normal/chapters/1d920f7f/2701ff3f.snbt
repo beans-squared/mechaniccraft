@@ -1,9 +1,14 @@
 {
+	title: "Reading and Writing",
 	x: 22.5d,
 	y: -1.5d,
+	text: [
+		"Transport items, fluids, redstone signals or power though a network."
+	],
 	dependencies: [
 		"ff4675fb"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "ddfa8aea",
 		type: "item",

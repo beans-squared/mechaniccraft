@@ -1,9 +1,14 @@
 {
+	title: "Automatic Engineer's Workbench",
 	x: -7.0d,
 	y: -1.5d,
+	text: [
+		"Automates production of machine components."
+	],
 	dependencies: [
 		"d11fb09b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "180ef05f",
 		type: "observation",

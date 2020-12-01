@@ -1,9 +1,14 @@
 {
+	title: "Wooden Storage Crate",
 	x: -2.5d,
 	y: -4.0d,
+	text: [
+		"Stores items."
+	],
 	dependencies: [
 		"8fd37d3b"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "91a491f4",
 		type: "item",

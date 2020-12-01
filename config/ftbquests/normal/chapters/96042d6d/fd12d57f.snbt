@@ -1,6 +1,11 @@
 {
+	title: "Fluid Pipe",
 	x: 2.0d,
 	y: 2.5d,
+	text: [
+		"Transports fluids."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "59986c3e",
 		type: "item",

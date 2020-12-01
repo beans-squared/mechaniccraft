@@ -1,9 +1,14 @@
 {
+	title: "Jellied Slime Armor",
 	x: 0.0d,
 	y: 1.0d,
+	text: [
+		"Provides cooling in hot environments."
+	],
 	dependencies: [
 		"7ccfc23d"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "2df73b40",
 		type: "item",

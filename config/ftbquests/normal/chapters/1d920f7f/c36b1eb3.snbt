@@ -1,9 +1,14 @@
 {
+	title: "Crafting Grid",
 	x: 12.0d,
 	y: 0.0d,
+	text: [
+		"Grid with an integrated crafting interface, allowing the pulling of items directly from a network."
+	],
 	dependencies: [
 		"ed56d4c6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "781792ae",
 		type: "item",

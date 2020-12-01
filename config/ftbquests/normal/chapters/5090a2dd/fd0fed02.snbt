@@ -1,6 +1,11 @@
 {
+	title: "Metal Press",
 	x: -11.5d,
 	y: 1.0d,
+	text: [
+		"Shapes metal into various shapes."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "3f5c22d6",
 		type: "observation",

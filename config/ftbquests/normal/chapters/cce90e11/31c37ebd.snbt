@@ -1,6 +1,12 @@
 {
+	title: "Small Tree Cutter",
 	x: -2.5d,
 	y: 0.0d,
+	description: "Chop chop.",
+	text: [
+		"Cuts down trees in front of it. Functions without power, but will operate faster if so. Does not collect drops from trees."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "b8ac92cb",
 		type: "item",

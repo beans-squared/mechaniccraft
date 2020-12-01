@@ -1,9 +1,14 @@
 {
+	title: "Motorboat",
 	x: 1.0d,
 	y: 1.0d,
+	text: [
+		"Provides fast, stylish water transport."
+	],
 	dependencies: [
 		"d965e323"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "6a48f0e1",
 		type: "item",

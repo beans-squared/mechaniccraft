@@ -1,9 +1,14 @@
 {
+	title: "Industrial Electric Furnace",
 	x: 3.5d,
 	y: 1.5d,
+	text: [
+		"Extremely fast furnace."
+	],
 	dependencies: [
 		"10f64a88"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "3dc4ec82",
 		type: "item",

@@ -1,9 +1,14 @@
 {
+	title: "Arc Furnace",
 	x: 6.5d,
 	y: 1.5d,
+	text: [
+		"Melt fast. Skate fast. Eat...grass."
+	],
 	dependencies: [
 		"81217159"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a34b7596",
 		type: "observation",

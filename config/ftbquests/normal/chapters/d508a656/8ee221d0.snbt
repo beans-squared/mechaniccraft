@@ -1,9 +1,14 @@
 {
+	title: "Railgun",
 	x: -0.5d,
 	y: 2.5d,
+	text: [
+		"Fires highly accurate projectiles at high speeds which have a tendency to cause massive damage upon contact with enemies."
+	],
 	dependencies: [
 		"a1ea94bc"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a9cef055",
 		type: "item",

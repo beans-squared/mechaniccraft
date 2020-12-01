@@ -1,9 +1,14 @@
 {
+	title: "Small Waste Incinerator",
 	x: 5.0d,
 	y: -0.5d,
+	text: [
+		"Deletes items. Provides a queue system to help prevent accidental deletion of items."
+	],
 	dependencies: [
 		"9cb48ef6"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a9b3a32a",
 		type: "item",

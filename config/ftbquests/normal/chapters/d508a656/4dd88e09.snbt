@@ -1,9 +1,14 @@
 {
+	title: "Drones",
 	x: 5.5d,
 	y: 2.5d,
+	text: [
+		"Summons a small drone that attacks nearby enemies."
+	],
 	dependencies: [
 		"14d62f59"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "6808bb02",
 		type: "item",

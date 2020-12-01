@@ -1,9 +1,14 @@
 {
+	title: "Portable Temperature Regulator",
 	x: 6.0d,
 	y: 0.0d,
+	text: [
+		"Maintains a comfortable body temperature."
+	],
 	dependencies: [
 		"b2a91cbc"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "46bc5205",
 		type: "item",

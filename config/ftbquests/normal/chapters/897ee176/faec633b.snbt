@@ -1,6 +1,21 @@
 {
+	title: "Low Voltage Wiring",
 	x: -7.5d,
 	y: -3.5d,
+	text: [
+		"Transfers power from one location to another.",
+		"",
+		"Connectors are used to connect to machines for power input and output.",
+		"",
+		"Relays allow continuation of power lines past their maximum length, as well as splitting or merging multiple lines.",
+		"",
+		"The current generator measures the rate of power flow though a line. Accepts wire connections directly without the use of connectors.",
+		"",
+		"Wire coils can transfer up to 2048 FE/t per line. Connectors can transfer a maximum of 256 FE/t.",
+		"",
+		"Low voltage wiring has a power loss of 5% for every 16m of distance."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "5aa3b16d",
 		type: "item",

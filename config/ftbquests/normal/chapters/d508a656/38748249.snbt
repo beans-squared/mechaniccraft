@@ -1,6 +1,11 @@
 {
+	title: "Ear Defenders",
 	x: 2.5d,
 	y: 0.0d,
+	text: [
+		"Reduces the sound from machines. Customizable and configurable."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "d61cd776",
 		type: "item",

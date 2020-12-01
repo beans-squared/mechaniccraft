@@ -1,9 +1,14 @@
 {
+	title: "Wireless Crafing Monitor",
 	x: 16.5d,
 	y: -4.5d,
+	text: [
+		"Wireless version of the crafting monitor."
+	],
 	dependencies: [
 		"c10ce5b4"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "19f46ae1",
 		type: "item",

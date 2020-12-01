@@ -1,6 +1,11 @@
 {
+	title: "Cooling Coil",
 	x: -3.0d,
 	y: 1.0d,
+	text: [
+		"Provides cooling to a wide indoor area."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "e320aa1d",
 		type: "item",

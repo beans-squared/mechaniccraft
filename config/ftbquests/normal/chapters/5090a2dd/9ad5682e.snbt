@@ -1,9 +1,14 @@
 {
+	title: "Assembler",
 	x: -5.5d,
 	y: -3.0d,
+	text: [
+		"Autocraft items."
+	],
 	dependencies: [
 		"5fee0ff9"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "20c3d020",
 		type: "observation",

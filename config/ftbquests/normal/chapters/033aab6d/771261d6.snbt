@@ -1,9 +1,14 @@
 {
+	title: "Distillation Tower",
 	x: -3.5d,
 	y: -1.0d,
+	text: [
+		"Breaks down crude oil into several different useful products."
+	],
 	dependencies: [
 		"e3d702d3"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "509afd12",
 		type: "observation",

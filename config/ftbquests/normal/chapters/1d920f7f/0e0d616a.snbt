@@ -1,6 +1,11 @@
 {
+	title: "Controller",
 	x: 6.0d,
 	y: 0.0d,
+	text: [
+		"The heart of a storage network. Manages all connected devices and accepts power."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "852d61b7",
 		type: "item",

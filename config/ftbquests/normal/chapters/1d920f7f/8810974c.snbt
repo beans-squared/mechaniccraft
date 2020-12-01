@@ -1,9 +1,14 @@
 {
+	title: "Crafter Manager",
 	x: 18.0d,
 	y: 3.0d,
+	text: [
+		"Allows management of all autocrafting in a network."
+	],
 	dependencies: [
 		"207871d1"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "53dc7fd7",
 		type: "item",

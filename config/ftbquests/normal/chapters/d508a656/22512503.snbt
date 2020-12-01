@@ -1,6 +1,11 @@
 {
+	title: "Jump Cusion",
 	x: -6.5d,
 	y: -2.5d,
+	text: [
+		"Breaks a fall. Like a slime block but without the bouncy part."
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "ca2cb920",
 		type: "item",

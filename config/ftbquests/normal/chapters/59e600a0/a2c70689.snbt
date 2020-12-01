@@ -1,11 +1,17 @@
 {
 	x: -2.0d,
 	y: 5.0d,
+	text: [
+		"Uses steam to generate rotational energy that can be harnessed by an alternator.",
+		"",
+		"Outputs a percentage of exhaust steam, which can be recycled in a cooling tower."
+	],
 	dependencies: [
 		"f2fec35e",
 		"ce50fb8e"
 	],
 	dependency_requirement: "one_completed",
+	min_width: 300,
 	tasks: [{
 		uid: "c59abc3a",
 		type: "observation",

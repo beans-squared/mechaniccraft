@@ -1,9 +1,14 @@
 {
+	title: "Bottling Machine",
 	x: -4.0d,
 	y: -1.5d,
+	text: [
+		"Fills fluid containers."
+	],
 	dependencies: [
 		"81687f60"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "fe2a1773",
 		type: "observation",

@@ -1,9 +1,14 @@
 {
+	title: "Security Manager",
 	x: 12.0d,
 	y: 6.0d,
+	text: [
+		"Restricts access to a network."
+	],
 	dependencies: [
 		"0275f405"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "b134e334",
 		type: "item",

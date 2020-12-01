@@ -3,9 +3,15 @@
 	icon: "immersiveengineering:stone_device 1 1",
 	x: -4.0d,
 	y: 2.0d,
+	text: [
+		"Turns iron into steel using coal coke.",
+		"",
+		"(Or charcoal, if you really want to)."
+	],
 	dependencies: [
 		"5e28274a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "716b1968",
 		type: "observation",
