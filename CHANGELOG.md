@@ -1,3 +1,44 @@
+## CHANGELOG for MechanicCraft 0.11.0 (12.06.2020)
+
+**This update is compatable with existing worlds, however I recommend starting a new one to ensure you get to experience all the new features!**
+
+### Added mods:
+- Mekanism
+  - Offers an alernative technology "route"
+- Emerging Technology
+  - Technological solution for farming
+- Gauges and Switches
+  - Monitor and control your machines with all the redstone devices you need
+- Robotic Parts
+  - Replace your body parts with cybernetic augmentations - become more powerful! But at what cost?
+- RS: Requesify
+  - Upgrate and simply keeping items in stock in your storage networks
+- Superior Shields
+  - Tiered rechargeable shielding to protect against damage
+- Moving Elevators
+  - Move vertically with style
+- Primitive Mobs
+  - New enemies to fight, and animals to exploit - I mean, farm!
+- Minecraft Comes Alive
+  - Give a village a visit - you might see some new faces!
+- Lost Cities
+  - Find abandoned cities with loot and monsters! I recommend choosing the 'rare cities' profile
+- Lost Souls
+  - Find "haunted" buildings - clear them out to gain access
+
+## Updated mods:
+- Ambience
+  - Bugfixes
+- Scannable
+  - Bugfixes
+- UniDict
+  - Bugfixes, additional compat support
+
+## Bugfixes:
+- Fixed the window title and icon
+
+---
+
 ## CHANGELOG for MechanicCraft 0.10.0 (12.01.2020)
 
 **This update should be compatabile with existing worlds, but you never know. Always make backups!**
