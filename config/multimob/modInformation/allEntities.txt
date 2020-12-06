@@ -81,10 +81,10 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
-quark:seat
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
+quark:seat
 buildinggadgets:blockbuildentity
 buildinggadgets:constructionblockentity
 clumps:xp_orb_big
