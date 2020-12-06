@@ -164,6 +164,8 @@ immersiveengineering:explosive
 immersiveengineering:fluorescenttube
 coroutil:bat_smart
 creativecore:sit
+mca:entityvillagermca
+mca:grimreapermca
 p455w0rdslib:sitting_entity
 weather2:weather_hail
 weather2:moving_block
