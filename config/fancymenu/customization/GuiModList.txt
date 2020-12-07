@@ -1,0 +1,12 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraftforge.fml.client.GuiModList
+  renderorder = foreground
+}
+
+customization {
+  path = resources/mechaniccraft/backgrounds/city.png
+  action = texturizebackground
+}
+

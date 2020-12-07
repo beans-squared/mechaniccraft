@@ -20,18 +20,18 @@ B:legacybuttonids = 'false';
 
 ##[mainmenu]
 
-S:copyrightposition = 'bottom-right';
+S:copyrightposition = 'bottom-centered';
 B:hidebranding = 'true';
-B:hidelogo = 'false';
+B:hidelogo = 'true';
 B:showmainmenufooter = 'false';
-B:hiderealmsnotifications = 'false';
+B:hiderealmsnotifications = 'true';
 B:hideforgenotifications = 'false';
 
 
 ##[mainmenu_splash]
 
 I:splashrotation = '-20';
-B:hidesplashtext = 'false';
+B:hidesplashtext = 'true';
 I:splashoffsetx = '0';
 I:splashoffsety = '0';
 

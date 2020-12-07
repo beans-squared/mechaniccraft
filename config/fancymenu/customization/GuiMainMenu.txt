@@ -6,53 +6,86 @@ customization-meta {
 }
 
 customization {
-  path = resources/mechaniccraft/backgrounds/placeholder.png
+  path = resources/mechaniccraft/menu/menu.png
   action = texturizebackground
 }
 
 customization {
   identifier = %id=400322%
   orientation = mid-centered
-  x = -301
+  x = -323
   action = movebutton
-  y = 13
+  y = -270
 }
 
 customization {
   identifier = %id=400322%
-  width = 180
+  width = 100
   action = resizebutton
-  height = 20
+  height = 33
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button.png
 }
 
 customization {
   identifier = %id=400382%
   orientation = mid-centered
-  x = -301
+  x = -223
   action = movebutton
-  y = 57
+  y = -270
 }
 
 customization {
   identifier = %id=400382%
-  width = 140
+  width = 100
   action = resizebutton
-  height = 20
+  height = 33
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button.png
 }
 
 customization {
   identifier = %id=502382%
   orientation = mid-centered
-  x = -301
+  x = -423
   action = movebutton
-  y = 123
+  y = 236
 }
 
 customization {
   identifier = %id=502382%
-  width = 80
+  width = 100
   action = resizebutton
-  height = 20
+  height = 35
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button.png
 }
 
 customization {
@@ -61,31 +94,53 @@ customization {
 }
 
 customization {
-  identifier = %id=902326%
-  action = hidebutton
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -423
+  action = movebutton
+  y = -270
 }
 
 customization {
   identifier = %id=400298%
-  orientation = mid-centered
-  x = -301
-  action = movebutton
-  y = -9
-}
-
-customization {
-  identifier = %id=400346%
-  orientation = mid-centered
-  x = -301
-  action = movebutton
-  y = 35
-}
-
-customization {
-  identifier = %id=400346%
-  width = 160
+  width = 100
   action = resizebutton
-  height = 20
+  height = 33
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = -270
+}
+
+customization {
+  identifier = %id=400346%
+  width = 100
+  action = resizebutton
+  height = 33
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = Mod Options
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button.png
 }
 
 customization {
@@ -96,24 +151,53 @@ customization {
 customization {
   orientation = mid-centered
   buttonaction = opencustomgui
-  x = -301
-  width = 120
+  x = 280
+  width = 100
   action = addbutton
-  y = 79
-  label = Changelog
+  y = 236
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
+  label = What's New?
+  backgroundnormal = resources/mechaniccraft/menu/button.png
   value = com.edwardsoftware.test
-  height = 20
+  height = 35
 }
 
 customization {
   orientation = mid-centered
   buttonaction = openlink
-  x = -301
+  x = 380
   width = 100
   action = addbutton
-  y = 101
+  y = 236
+  backgroundhovered = resources/mechaniccraft/menu/button_hover.png
   label = Report Bug
+  backgroundnormal = resources/mechaniccraft/menu/button.png
   value = https://github.com/beans-squared/MechanicCraft/issues
-  height = 20
+  height = 35
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -423
+  width = 74
+  action = addbutton
+  y = 12
+  backgroundhovered = resources/mechaniccraft/menu/button1.png
+  label = Resume
+  backgroundnormal = resources/mechaniccraft/menu/button1.png
+  value = 
+  height = 26
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  centered = false
+  x = -417
+  action = addtext
+  y = -53
+  scale = 8.0
+  value = MechanicCraft
 }
 
