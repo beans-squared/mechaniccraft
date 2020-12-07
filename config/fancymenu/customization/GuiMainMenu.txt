@@ -1,0 +1,119 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = resources/mechaniccraft/backgrounds/placeholder.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -301
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=400322%
+  width = 180
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -301
+  action = movebutton
+  y = 57
+}
+
+customization {
+  identifier = %id=400382%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -301
+  action = movebutton
+  y = 123
+}
+
+customization {
+  identifier = %id=502382%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=902326%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -301
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -301
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=400346%
+  width = 160
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opencustomgui
+  x = -301
+  width = 120
+  action = addbutton
+  y = 79
+  label = Changelog
+  value = com.edwardsoftware.test
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -301
+  width = 100
+  action = addbutton
+  y = 101
+  label = Report Bug
+  value = https://github.com/beans-squared/MechanicCraft/issues
+  height = 20
+}
+
