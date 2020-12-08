@@ -1,3 +1,0 @@
-identifier = com.edwardsoftware.test
-title = Issue Reporter
-allowesc = true
