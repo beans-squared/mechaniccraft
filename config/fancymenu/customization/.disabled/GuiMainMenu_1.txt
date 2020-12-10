@@ -1,0 +1,226 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = resources/mechaniccraft/menu/mainmenu/mainmenu2.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 1
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 689
+  action = movebutton
+  y = -527
+}
+
+customization {
+  identifier = %id=400322%
+  width = 200
+  action = resizebutton
+  height = 76
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 1241
+  action = movebutton
+  y = -529
+}
+
+customization {
+  identifier = %id=400382%
+  width = 200
+  action = resizebutton
+  height = 75
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-left
+  x = 424
+  action = movebutton
+  y = -526
+}
+
+customization {
+  identifier = %id=400298%
+  width = 201
+  action = resizebutton
+  height = 74
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-left
+  x = 958
+  action = movebutton
+  y = -1068
+}
+
+customization {
+  identifier = %id=400346%
+  width = 203
+  action = resizebutton
+  height = 74
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-left
+  buttonaction = openlink
+  x = 347
+  width = 300
+  action = addbutton
+  y = -221
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  description = Report bugs and make suggestions
+  label = Issue Tracker
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+  value = https://github.com/beans-squared/MechanicCraft/issues
+  height = 71
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  multiline = true
+  x = -1218
+  action = addwebtext
+  y = -219
+  scale = 2.0
+  url = https://raw.githubusercontent.com/beans-squared/MechanicCraft/v0.12.0/NEWS.md
+}
+
+customization {
+  orientation = top-left
+  buttonaction = quitgame
+  x = 1442
+  width = 93
+  action = addbutton
+  y = 1
+  backgroundhovered = resources/mechaniccraft/menu/button2_hover.png
+  label = 
+  backgroundnormal = resources/mechaniccraft/menu/button2.png
+  value = 
+  height = 94
+}
+
+customization {
+  orientation = mid-left
+  buttonaction = openlink
+  x = 349
+  width = 297
+  action = addbutton
+  y = -145
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  description = Opens the changelog on Github
+  label = Patch Notes
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+  value = https://github.com/beans-squared/MechanicCraft/blob/main/CHANGELOG.md
+  height = 71
+}
+
+customization {
+  orientation = mid-left
+  buttonaction = openlink
+  x = 350
+  width = 293
+  action = addbutton
+  y = -68
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  description = Chat with other mechanics!
+  label = Discord
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+  value = https://discord.gg/zGAvPU3
+  height = 69
+}
+
+customization {
+  path = resources/mechaniccraft/menu/img_external.png
+  orientation = top-left
+  x = 599
+  width = 16
+  action = addtexture
+  y = 423
+  height = 16
+}
+
+customization {
+  path = resources/mechaniccraft/menu/img_external.png
+  orientation = top-left
+  x = 599
+  width = 16
+  action = addtexture
+  y = 347
+  height = 16
+}
+
+customization {
+  path = resources/mechaniccraft/menu/img_external.png
+  orientation = top-left
+  x = 598
+  width = 16
+  action = addtexture
+  y = 497
+  height = 16
+}
+

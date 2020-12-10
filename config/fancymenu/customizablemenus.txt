@@ -1,0 +1,26 @@
+type = customizablemenus
+
+net.minecraft.client.gui.GuiWorldSelection {
+}
+
+net.minecraft.client.gui.GuiMultiplayer {
+}
+
+net.minecraftforge.fml.client.GuiModList {
+}
+
+com.blamejared.tipthescales.client.GuiNewVideoSettings {
+}
+
+net.minecraft.client.gui.GuiScreenOptionsSounds {
+}
+
+net.minecraft.client.gui.GuiCustomizeSkin {
+}
+
+net.minecraft.client.gui.ScreenChatOptions {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+

@@ -1,3 +1,37 @@
+## CHANGELOG for MechanicCraft 0.12.0 (12.09.2020)
+
+**Update is compatable with existing worlds, but always make backups. You never know!**
+
+### New features:
+
+- A new customized main menu!
+  - Currently a prototype, and will be finalized over time. Be sure to send feedback on the issue tracker! (Which now has a fancy menu on the main menu!!)
+  - If the menu looks completely jank, press CTRL + C, and turn customization off in the top right. This will disable the custom menu.
+
+### Added mods:
+- Fancy Menu
+  - The main menu is now all **_FANCY_**.
+- Better with Mods
+  - Yes, it's back. No, I am not turning this pack into Sevtech.
+- The Beneath
+  - Dangerous mining dimension, currently inaccessable in survival. This will be added in a future update.
+
+### Removed mods:
+- MPUtils
+  - Not needed anymore. In-game changelog is expected to return at a later date, do not fret!
+
+### Other changes:
+- Disabled the lost cities dimension
+  - Cities will still generate in the overworld
+- The default profile selected when creating a lost cities world is now "rarecities"
+- Disabled some primitive mobs
+  - In-line with planned lore
+- Disabled MCA's update checking
+- Disabled Mekanism copper ore generation
+- Removed old unused files
+
+---
+
 ## CHANGELOG for MechanicCraft 0.11.0 (12.06.2020)
 
 **This update is compatable with existing worlds, however I recommend starting a new one to ensure you get to experience all the new features!**
