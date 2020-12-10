@@ -12,7 +12,7 @@ customization {
 
 customization {
   action = setscale
-  scale = 2
+  scale = 1
 }
 
 customization {
@@ -22,17 +22,17 @@ customization {
 
 customization {
   identifier = %id=400322%
-  orientation = top-centered
-  x = -138
+  orientation = mid-left
+  x = 689
   action = movebutton
-  y = 3
+  y = -527
 }
 
 customization {
   identifier = %id=400322%
-  width = 120
+  width = 200
   action = resizebutton
-  height = 42
+  height = 76
 }
 
 customization {
@@ -44,17 +44,17 @@ customization {
 
 customization {
   identifier = %id=400382%
-  orientation = top-centered
-  x = 119
+  orientation = mid-left
+  x = 1241
   action = movebutton
-  y = 3
+  y = -529
 }
 
 customization {
   identifier = %id=400382%
-  width = 120
+  width = 200
   action = resizebutton
-  height = 42
+  height = 75
 }
 
 customization {
@@ -77,17 +77,17 @@ customization {
 
 customization {
   identifier = %id=400298%
-  orientation = top-centered
-  x = -267
+  orientation = mid-left
+  x = 424
   action = movebutton
-  y = 3
+  y = -526
 }
 
 customization {
   identifier = %id=400298%
-  width = 120
+  width = 201
   action = resizebutton
-  height = 42
+  height = 74
 }
 
 customization {
@@ -99,17 +99,17 @@ customization {
 
 customization {
   identifier = %id=400346%
-  orientation = top-centered
-  x = -9
+  orientation = bottom-left
+  x = 958
   action = movebutton
-  y = 3
+  y = -1068
 }
 
 customization {
   identifier = %id=400346%
-  width = 120
+  width = 203
   action = resizebutton
-  height = 42
+  height = 74
 }
 
 customization {
@@ -127,100 +127,100 @@ customization {
 customization {
   orientation = mid-left
   buttonaction = openlink
-  x = 174
-  width = 144
+  x = 347
+  width = 300
   action = addbutton
-  y = -107
+  y = -221
   backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
   description = Report bugs and make suggestions
   label = Issue Tracker
   backgroundnormal = resources/mechaniccraft/menu/button3.png
   value = https://github.com/beans-squared/MechanicCraft/issues
-  height = 30
+  height = 71
 }
 
 customization {
   orientation = mid-right
   shadow = false
   multiline = true
-  x = -606
+  x = -1218
   action = addwebtext
-  y = -107
-  scale = 0.9
+  y = -219
+  scale = 2.0
   url = https://raw.githubusercontent.com/beans-squared/MechanicCraft/v0.12.0/NEWS.md
 }
 
 customization {
-  orientation = top-right
+  orientation = top-left
   buttonaction = quitgame
-  x = -241
-  width = 50
+  x = 1442
+  width = 93
   action = addbutton
-  y = 0
+  y = 1
   backgroundhovered = resources/mechaniccraft/menu/button2_hover.png
   label = 
   backgroundnormal = resources/mechaniccraft/menu/button2.png
   value = 
-  height = 47
+  height = 94
 }
 
 customization {
   orientation = mid-left
   buttonaction = openlink
-  x = 174
-  width = 144
+  x = 349
+  width = 297
   action = addbutton
-  y = -72
+  y = -145
   backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
   description = Opens the changelog on Github
   label = Patch Notes
   backgroundnormal = resources/mechaniccraft/menu/button3.png
   value = https://github.com/beans-squared/MechanicCraft/blob/main/CHANGELOG.md
-  height = 30
+  height = 71
 }
 
 customization {
   orientation = mid-left
   buttonaction = openlink
-  x = 174
-  width = 144
+  x = 350
+  width = 293
   action = addbutton
-  y = -36
+  y = -68
   backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
   description = Chat with other mechanics!
   label = Discord
   backgroundnormal = resources/mechaniccraft/menu/button3.png
   value = https://discord.gg/zGAvPU3
-  height = 30
+  height = 69
 }
 
 customization {
   path = resources/mechaniccraft/menu/img_external.png
   orientation = top-left
-  x = 292
+  x = 599
   width = 16
   action = addtexture
-  y = 205
+  y = 423
   height = 16
 }
 
 customization {
   path = resources/mechaniccraft/menu/img_external.png
   orientation = top-left
-  x = 292
+  x = 599
   width = 16
   action = addtexture
-  y = 169
+  y = 347
   height = 16
 }
 
 customization {
   path = resources/mechaniccraft/menu/img_external.png
   orientation = top-left
-  x = 292
+  x = 598
   width = 16
   action = addtexture
-  y = 240
+  y = 497
   height = 16
 }
 
