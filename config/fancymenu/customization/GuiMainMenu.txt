@@ -140,17 +140,6 @@ customization {
 }
 
 customization {
-  orientation = mid-right
-  shadow = false
-  multiline = true
-  x = -606
-  action = addwebtext
-  y = -107
-  scale = 0.9
-  url = https://raw.githubusercontent.com/beans-squared/MechanicCraft/v0.12.0/NEWS.md
-}
-
-customization {
   orientation = top-right
   buttonaction = quitgame
   x = -241
@@ -222,5 +211,16 @@ customization {
   action = addtexture
   y = 240
   height = 16
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  multiline = true
+  x = -129
+  action = addwebtext
+  y = -109
+  scale = 1.0
+  url = https://raw.githubusercontent.com/beans-squared/MechanicCraft/main/NEWS.md
 }
 
