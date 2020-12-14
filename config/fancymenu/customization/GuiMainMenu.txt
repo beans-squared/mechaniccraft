@@ -224,3 +224,18 @@ customization {
   url = https://raw.githubusercontent.com/beans-squared/MechanicCraft/main/NEWS.md
 }
 
+customization {
+  orientation = mid-left
+  buttonaction = runscript
+  x = 174
+  width = 144
+  action = addbutton
+  y = 1
+  backgroundhovered = resources/mechaniccraft/menu/button3_hover.png
+  description = This will freeze the game until the download is complete!
+  label = Install custom music
+  backgroundnormal = resources/mechaniccraft/menu/button3.png
+  value = downloadmusic
+  height = 30
+}
+

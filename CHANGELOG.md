@@ -1,3 +1,44 @@
+## CHANGELOG for MechanicCraft 0.13.0 (12.14.2020)
+
+**This update is NOT compatible with exisiting worlds. Best to start fresh!**
+
+## New features:
+- Added a soundtracks download button to the main menu
+  - The pack no longer comes shipped with the music files by default. This is to reduce download times for those who don't care about the soundtrack.
+
+## Mods added:
+- In Control
+  - The plan is to have mobs spawn in specific places in the world, to give locations a more unique place
+- Vanilla Vistas
+  - OTG present that adds realistic-looking landscapes without adding additional blocks and items. Lemme know what you think!
+- Techguns
+  - Pew pew. Will likely replace Tinker's Armory, at least in part
+
+## Mods updated:
+- FoamFix
+  - Bugfixes, code cleanup
+- Forge Endertech
+  - Bugfixes
+- FTB Quests
+  - Better filters functionality, Reskillable integration, bugfixes
+- Mineral Tracker
+  - Bugfixes
+- Random Patches
+  - Ice and Fire integration
+- Random Tweaks
+  - Bugfixes
+
+## Mods removed:
+- Lost Cities
+  - Decided that having cities doesn't fit the narrative I'm going for
+- Lost Souls
+  - No cities, so no point
+
+## Other changes:
+- Hid unneeeded items from Better with Mods, Techguns
+
+---
+
 ## CHANGELOG for MechanicCraft 0.12.0 (12.09.2020)
 
 **Update is compatable with existing worlds, but always make backups. You never know!**

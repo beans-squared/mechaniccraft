@@ -1,20 +1,27 @@
-#### Welcome to MechanicCraft News! (12.09.2020)
+#### News for MechanicCraft 0.13.0 (12.14.2020)
 ------------------------------------------------------------------------
 
-Here, you will blog-style news with a short summary of some of the most 
-important updates from the latest version. Be sure to check back here 
-when you update your client,as there may be some important and 
-interesting updates posted here!
+Sorry for the extra day delay, turns out Linux is a pain to deal with. 
+Anyways, here's the new stuff you might actually care about:
 
-Right, here's some of the major changes for 0.12.0:
+- Techguns
+	Bringing the bang. Techguns is a weapons mod with a full technology
+tree, sporting numerous types of guns, armor and ammo. This mod will likely
+fill the mid to late game weapons and armor niche. 
 
-- As you may have noticed, there's a brand new custom main menu! It's
-currently a prototype, so make sure to let me know what you think of it
-by creating a new issue on GitHub (or in the disscussions because 
-apparently that's new)
+- Vanilla Vistas hello, bye Lost Cities
+	New terrain generation! Large rolling hills, long detailed terrain that
+should inspire a bit of awe. I'll try to limit changes to terrain and world
+generation for a while, as I understand these can be kind of frustrating for
+players to have to deal with.
 
-- Better With Mods is back! I just couldn't live without it, apparently.
-Fear not, I'm not turning this into a mega-grindy slog like SevTech. BWM
-will have its purposes in the main gameplay.
+- Download Soundtracks Button
+	See the new button on the left? MechanicCraft no longer ships with the
+soundtracks themselves, to reduce filesize and download times. Clicking this
+new button will download the soundtracks to the correct folder in your game.
+This process runs on the main game thread, which means the game will freeze
+until the download is complete. There's no way around this, I'm afraid, so
+set aside 5 minutes or so for the download to do its thing!
 
-Hope you enjoy the latest new stuff!
+As always, feel free to leave feedback using the issue tracker or my Discord
+(both linked on the left).
