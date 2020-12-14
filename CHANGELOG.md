@@ -14,6 +14,20 @@
 - Techguns
   - Pew pew. Will likely replace Tinker's Armory, at least in part
 
+## Mods updated:
+- FoamFix
+  - Bugfixes, code cleanup
+- Forge Endertech
+  - Bugfixes
+- FTB Quests
+  - Better filters functionality, Reskillable integration, bugfixes
+- Mineral Tracker
+  - Bugfixes
+- Random Patches
+  - Ice and Fire integration
+- Random Tweaks
+  - Bugfixes
+
 ## Mods removed:
 - Lost Cities
   - Decided that having cities doesn't fit the narrative I'm going for
