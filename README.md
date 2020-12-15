@@ -1,6 +1,9 @@
-# :wrench: MechanicCraft | ![Discord](https://img.shields.io/discord/764169561003130881?color=%237289DA&logo=discord&style=for-the-badge) 
+# :wrench: MechanicCraft
+![Discord](https://img.shields.io/discord/764169561003130881?color=%237289DA&logo=discord&style=for-the-badge) 
 
-## :books: Overview | [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
+## :books: Overview
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
+
 MechanicCraft is a medium-sized modpack for Minecraft 1.12.2 with the objective to find ways of utilizing various technologies to aid you in surviving, thriving and conquering after crash-landing on an unknown distant world. Will you overcome the challenges of surviving on an alien world, or will you allow yourself to succumb to one of the many dangers that lurk around every corner, under every rock, and in every cave, biome and landscape you explore?
 
 [ insert cool looking image here ]
@@ -9,7 +12,9 @@ MechanicCraft is primarily a tech modpack, featuring many popular and tried-and-
 
 [ insert another cool pic here ]
 
-## :sparkles: Features | [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+## :sparkles: Features
+[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+
 MechanicCraft is currently in **public beta**. This means that the modpack is stable enough to be played, but is not completely finished and may be missing simple features that are currently in active development, or are planned for later implementation. Here is a list of the (mostly) complete features:
 - feature 1
 - feature 2
@@ -22,7 +27,9 @@ Features that are planned or very unfinished:
 
 Learn more about planned features on the [development board](https://app.gitkraken.com/glo/board/X5DcSWf3FQApxuCO).
 
-## :arrow_down: Downloads | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/beans-squared/MechanicCraft?style=for-the-badge)
+## :arrow_down: Downloads
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/beans-squared/MechanicCraft?style=for-the-badge)
+
 The primary distribution medium for MechanicCraft is on CurseForge, which you can access here:
 https://www.curseforge.com/minecraft/modpacks/mechanic-craft
 
@@ -31,7 +38,9 @@ https://github.com/beans-squared/MechanicCraft/releases
 
 These are the only official release channels for MechanicCraft. If you find MechanicCraft anywhere else besides these two locations, it is not an official version and may contain malware. Do not use these versions.
 
-## :pencil: Licensing | ![GitHub](https://img.shields.io/github/license/beans-squared/MechanicCraft?color=%2329cc00&style=for-the-badge)
+## :pencil: Licensing
+![GitHub](https://img.shields.io/github/license/beans-squared/MechanicCraft?color=%2329cc00&style=for-the-badge)
+
 MechanicCraft is licensed under the **GNU General Public License v3.0**. This means you are allowed to create spin-off versions of MechanicCraft, and upload them to CurseForge. There are only a few conditions:
 - You must make the source code publicly available on a site like GitHub
 - You must indicate in some way that the modpack is a modification of the original
@@ -39,7 +48,9 @@ MechanicCraft is licensed under the **GNU General Public License v3.0**. This me
 
 Other than that, go nuts. Just remember to respect the licenses of the individual mods used in the modpack as well.
 
-## :construction: Contributions | ![GitHub last commit](https://img.shields.io/github/last-commit/beans-squared/MechanicCraft?style=for-the-badge)
+## :construction: Contributions
+![GitHub last commit](https://img.shields.io/github/last-commit/beans-squared/MechanicCraft?style=for-the-badge)
+
 Anyone is welcome to suggest changes using the issue tracker, or the disscussions. If you wish to take this a step further, you can also clone the repository and open a pull request to submit your changes. To do this follow these steps:
 1. Create an empty instance in a CurseForge-capable launcher of your choice using Forge for 1.12.2.
 2. Download the source code by clicking "Clone" and navigating to "Download ZIP".
@@ -50,7 +61,9 @@ Anyone is welcome to suggest changes using the issue tracker, or the disscussion
 
 If you need ideas on what you can do, check the [development board](https://app.gitkraken.com/glo/board/X5DcSWf3FQApxuCO).
 
-## :whale: Supporting | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## :whale: Supporting
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 MechanicCraft is currently in active development under the creative direction of the Guildmasters, a development team currently only comprised of a single member, beansquared. beansquared is a full time university student studying computer science in the United States. As such, any monetary contributions you feel are appropriate to make will be greatly appreciated and will make beansquared very happy. beansquared will now stop talking in the third person because that's kind of weird.
 
 - [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=39PQ8D4A6ALEE&item_name=MechanicCraft+%28from+GitHub%29&currency_code=USD)
