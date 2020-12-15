@@ -16,14 +16,20 @@ MechanicCraft is primarily a tech modpack, featuring many popular and tried-and-
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 MechanicCraft is currently in **public beta**. This means that the modpack is stable enough to be played, but is not completely finished and may be missing simple features that are currently in active development, or are planned for later implementation. Here is a list of the (mostly) complete features:
-- feature 1
-- feature 2
-- etc
+- Core gameplay mods (the mods that will form the majority of the gameplay)
+- Decent performace (there are lots of performance improvements, I don't have specific numbers but I will at some point)
+- Quality of life (things like mouse tweaks, improved keybindings, etc)
+- Cool stuff (things like the custom main menu)
 
 Features that are planned or very unfinished:
-- feature 3
-- feature 4
-- etc
+- More cool stuff (better menus, Mo Bends, etc)
+- More quality of life
+- Better integration between mods using custom crafting recipes and processing recipes
+- Quests desgined to guide the player on the correct path towards technological innovation
+- Custom mob spawns to make various world locations more unique and interesting
+- Starting area: crashed spaceship with various starting items
+- End-game goal
+- Story elements: dialouge, tutorials, in-world structures and events
 
 Learn more about planned features on the [development board](https://app.gitkraken.com/glo/board/X5DcSWf3FQApxuCO).
 
@@ -37,6 +43,13 @@ Releases are also available on GitHub around the same time as CurseForge. Check 
 https://github.com/beans-squared/MechanicCraft/releases
 
 These are the only official release channels for MechanicCraft. If you find MechanicCraft anywhere else besides these two locations, it is not an official version and may contain malware. Do not use these versions.
+
+## :boom: Server Hosting
+![BisectHostingLogo](https://imgur.com/4ctPCc9)
+
+Tons of modpacks can be enjoyed in multiplayer, and luckily, setting up a server for you and a few friends is super easy. BisectHosting offers high quality affordable servers at tons of locations around the globe. Be sure to use my special code **beansquared to get 25% off** your first month of hosting.
+
+Get yourself an easy MechanicCraft server today: https://www.bisecthosting.com/beansquared
 
 ## :pencil: Licensing
 ![GitHub](https://img.shields.io/github/license/beans-squared/MechanicCraft?color=%2329cc00&style=for-the-badge)
