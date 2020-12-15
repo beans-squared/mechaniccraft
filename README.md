@@ -45,7 +45,7 @@ https://github.com/beans-squared/MechanicCraft/releases
 These are the only official release channels for MechanicCraft. If you find MechanicCraft anywhere else besides these two locations, it is not an official version and may contain malware. Do not use these versions.
 
 ## :boom: Server Hosting
-![BisectHostingLogo](https://imgur.com/4ctPCc9)
+![](https://imgur.com/v5g2MtE.png)
 
 Tons of modpacks can be enjoyed in multiplayer, and luckily, setting up a server for you and a few friends is super easy. BisectHosting offers high quality affordable servers at tons of locations around the globe. Be sure to use my special code **beansquared to get 25% off** your first month of hosting.
 
