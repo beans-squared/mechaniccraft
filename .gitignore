@@ -47,5 +47,5 @@ config/multimob/modInformation/
 ambience_music/music/
 mods/OpenTerrainGenerator/
 mods/1.12.2/
-mods/fancymenu
-mods/memory_repo
+mods/fancymenu/
+mods/memory_repo/
