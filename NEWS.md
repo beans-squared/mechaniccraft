@@ -1,27 +1,23 @@
-#### News for MechanicCraft 0.13.0 (12.14.2020)
+#### News for MechanicCraft 0.14.0 (12.18.2020)
 ------------------------------------------------------------------------
 
-Sorry for the extra day delay, turns out Linux is a pain to deal with. 
-Anyways, here's the new stuff you might actually care about:
+Welcome back to another random update with no real theme!
 
-- Techguns
-	Bringing the bang. Techguns is a weapons mod with a full technology
-tree, sporting numerous types of guns, armor and ammo. This mod will likely
-fill the mid to late game weapons and armor niche. 
+Uh, new stuff:
 
-- Vanilla Vistas hello, bye Lost Cities
-	New terrain generation! Large rolling hills, long detailed terrain that
-should inspire a bit of awe. I'll try to limit changes to terrain and world
-generation for a while, as I understand these can be kind of frustrating for
-players to have to deal with.
+- Added Genetics Reborn
+	This might end up being a complement for Robotic Parts, or a complete 
+	alternative, since they do similar things. We'll have to see.
+- Added Security Craft
+	Secure all the things!
+- Time Speed Mod
+	Double-length days are back! But so are the double-length nights - be ready!
+- The IE Crusher can now give 2 dusts per metal chunk processed - 4x ore processing!
 
-- Download Soundtracks Button
-	See the new button on the left? MechanicCraft no longer ships with the
-soundtracks themselves, to reduce filesize and download times. Clicking this
-new button will download the soundtracks to the correct folder in your game.
-This process runs on the main game thread, which means the game will freeze
-until the download is complete. There's no way around this, I'm afraid, so
-set aside 5 minutes or so for the download to do its thing!
+Fixed some bugs
+Fixed some annoying stuff
+Fixed uh idk
 
-As always, feel free to leave feedback using the issue tracker or my Discord
-(both linked on the left).
+Writing news is hard.
+
+Anyways feel free to leave thoughts on the issue tracker or in my discord!

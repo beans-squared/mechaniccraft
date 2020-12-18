@@ -1,3 +1,34 @@
+## CHANGELOG for MechanicCraft 0.14.0 (12.18.2020)
+
+**This update is comatible with existing worlds, but make backups just in case!**
+
+## Mods added:
+- Genetics Reborn
+  - Provides similar benefits to cyberware when installed
+- Security Craft
+  - The ultimate security suite. Make sure no one enters unauthorized.
+- Вращение Земли Майнкрафтская
+  - Google Translate says this means "Earth Rotation Minecraft". Anyway, it increases day length (much like Extended Days did) and some other sky effects.
+
+## Mods updated:
+- FancyMenu
+  - Bugfixes
+- Konkrete
+  - Bugfixes
+
+## Other changes:
+- Re-enabled some tool materials
+  - Refined Iron, Refined Glowstone, Rubber, Refined Obsidian
+- The IE Crusher can now process metal chunks produced in the sieve into dust (4x ore processing time!)
+- Removed the zombie gargle sound when they spot you
+  - No more GGLLLGLGLLGLGGGUUUAUHHHH!!! every 5 seconds
+- Tweaked some mob spawning rules
+
+## Bugfixes:
+- Fixed spastic FOV changes when moving though tall grass and plants
+
+---
+
 ## CHANGELOG for MechanicCraft 0.13.0 (12.14.2020)
 
 **This update is NOT compatible with exisiting worlds. Best to start fresh!**
