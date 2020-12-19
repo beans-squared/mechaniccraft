@@ -1,3 +1,16 @@
+## CHANGELOG for MechanicCraft 0.14.1 (12.19.2020)
+
+## New features:
+- Server packs are back!
+  - Now that I believe that I've reached a state where I think I have most if not all the mods I need for this pack, I can now include server pack releases with every version. Download the server packs alongside the standard client pack.
+  - Public MechanicCraft server sometime in the future? Maybe! We shall see...
+
+## Mods removed:
+- The Comically Large Spoon
+  - Sadly this mod crashes serverside, so it must go. MechanicCraft will never be the same without it...
+
+---
+
 ## CHANGELOG for MechanicCraft 0.14.0 (12.18.2020)
 
 **This update is comatible with existing worlds, but make backups just in case!**
