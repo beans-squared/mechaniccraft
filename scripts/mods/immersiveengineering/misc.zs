@@ -9,3 +9,5 @@
 
 // rename small fluid tank
 <magneticraft:small_tank>.displayName = "Fluid Tank Machine Block";
+
+<immersiveengineering:pickaxe_steel>.displayName = "Basic Steel Pickaxe";
