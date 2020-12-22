@@ -1,0 +1,15 @@
+{
+	"name": "Survival Checklist",
+	"icon": "minecraft:stone",
+	"category": "patchouli:survival_package",
+	"pages": [
+		{
+			"type": "text",
+			"text": "1. Administer first aid, if needed $(br2) 2. Take inventory of all your available resources, and decide on rations $(br2) 3. Visual survey the area for threats and resources $(br2) 4. Construct a basic crafting workstation for fabrication of survival equipment"
+		},
+		{
+			"type": "text",
+			"text": "5. Craft basic tools and weapons using the created workbench, to aid in survival $(br2) 6. Find or construct basic shelter for yourself $(br2) 7. Maintain physical and mental health until rescue $(br2) Note: this information is meant as a general guide, and direct guidence from your PDA should always be heeded first and foremost."
+		}
+	]
+}
