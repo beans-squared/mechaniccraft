@@ -1,0 +1,16 @@
+{
+	"name": "Magma Shards",
+	"icon": "toughasnails:magma_shard",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "toughasnails:magma_shard",
+			"text": "Superheated chunks of rocks used to craft various heating devices."
+		},
+		{
+			"type": "text",
+			"text": "As magma blocks are almost exclusively found in the Nether, it may be difficult to find magma shards in the overworld. To obtain them, mine some magma blocks - just be sure to handle with care, as to not burn yourself!"
+		}
+	]
+}

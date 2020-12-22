@@ -1,0 +1,16 @@
+{
+	"name": "Hot/Cold Drinks",
+	"icon": "extratan:filled_flask",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "extratan:filled_flask",
+			"text": "Drink that quickly lowers or raises a player's body temperature."
+		},
+		{
+			"type": "text",
+			"text": "interesting text"
+		}
+	]
+}

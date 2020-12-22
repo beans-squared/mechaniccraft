@@ -1,0 +1,16 @@
+{
+	"name": "Long-Term Regulation",
+	"icon": "toughasnails:temperature_coil:1",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "toughasnails:cooling_coil",
+			"recipe2": "toughasnails:heating_coil"
+		},
+		{
+			"type": "text",
+			"text": "These redstone-powered devices are useful for increasing the temperature of indoors areas, making them useful long-term heating or cooling solutions for buildings. Heating and cooling coils are particularly useful for smaller, more basic shelters due to their low cost and high effectiveness over a small roofed area."
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Ice Cubes",
+	"icon": "toughasnails:ice_cube",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "toughasnails:ice_cube",
+			"text": "Small chunks of ice used in crafting various cooling devices and gear."
+		},
+		{
+			"type": "text",
+			"text": "These small frozen water pieces can be obtained by breaking blocks of ice from frozen bodies of water. As ice is plentiful in winter and not so much in summer, it is reconmmended to stock up on ice before the rivers and lakes thaw out. Otherwise, it may be a swelteringly hot summer for you."
+		}
+	]
+}

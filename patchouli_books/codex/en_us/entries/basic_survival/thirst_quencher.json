@@ -1,0 +1,16 @@
+{
+	"name": "Thirst Quencher",
+	"icon": "tanaddons:thirst_quencher",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "tanaddons:recipes2",
+			"text": "Device that automatically keeps a player's thirst topped up."
+		},
+		{
+			"type": "text",
+			"text": "interesting text"
+		}
+	]
+}
