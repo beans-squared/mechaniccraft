@@ -1,0 +1,19 @@
+{
+	"name": "Start Here",
+	"icon": "minecraft:stone",
+	"category": "patchouli:survival_package",
+	"pages": [
+		{
+			"type": "text",
+			"text": "If you are reading this, then your PDA has detected the occurance of a catastrophic event such as warp drive engine failure, life support failure or other grave emergency. This PDA has now booted into emergency mode, and your personal files have been encrypted for later retrieval by a licensed engineer."
+		},
+		{
+			"type": "text",
+			"text": "Emergency Mode has one directive: to keep you alive on a hostile alien planet. If this is not possible, it will then alert rescue teams as to the location of your remains. Features include: $(br) $(li) Full monitoring of vital signs and transmission of pertinent survival information to your HUD, provided by your optical  A.C.C.E.S.S. implant."
+		},
+		{
+			"type": "text",
+			"text": "$(li) Blueprints for easy crafting and fabrication of survival equipment $(br) $(li) Onboard camera, microphone and L.E.A.R.N. scanning technology for aquisition of new technology"
+		}
+	]
+}

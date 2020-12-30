@@ -1,0 +1,19 @@
+{
+	"name": "Blaze",
+	"icon": "minecraft:blaze_rod",
+	"category": "patchouli:indigenous",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A unique creature composed of spinning superheated rods and open flame, found most commonly in Nether Fortresses. $(br2)1. Superheated Rods $(br)Main body is composed of several rods that rapidly spin around the core of the blaze."
+		},
+		{
+			"type": "entity",
+			"entity": "minecraft:blaze"
+		},
+		{
+			"type": "text",
+			"text": "2. Flight $(br)An unknown mechanism or biological process allows the blaze to levitate above the ground. $(br2)3. Fireballs $(br)The blaze is capable of firing a volley of fireballs at a target up to 48 meters away, causing extreme incendiary damange to its target. $(br2)Assessment: Rods essential for advanced crafting"
+		}
+	]
+}

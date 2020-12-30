@@ -1,0 +1,16 @@
+{
+	"name": "Temperature Regulator",
+	"icon": "tanaddons:temp_regulator",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "tanaddons:recipes0",
+			"text": "Device that maintains a comfortable air temperature in a radius around it."
+		},
+		{
+			"type": "text",
+			"text": "interesting text"
+		}
+	]
+}

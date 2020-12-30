@@ -9,9 +9,6 @@ net.minecraft.client.gui.GuiMultiplayer {
 net.minecraftforge.fml.client.GuiModList {
 }
 
-com.blamejared.tipthescales.client.GuiNewVideoSettings {
-}
-
 net.minecraft.client.gui.GuiScreenOptionsSounds {
 }
 

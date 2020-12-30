@@ -1,0 +1,19 @@
+{
+	"name": "Body Temperature",
+	"icon": "toughasnails:tan_icon",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "text",
+			"text": "The fact that you're alive to read this means you've likely landed on a planet with an Earth-like atmosphere and won't burn to death the instant you leave the escape pod. To prevent yourself from overheating or freezing to death, you'll need to manage your body"
+		},
+		{
+			"type": "text",
+			"text": "temperature using a combination of clothing, temperature regulation devices and drinks. You can start by building a campfire to keep warm in colder biomes or at night. If you're in a desert or a similarly hot biome, you might want to consider moving as soon as"
+		},
+		{
+			"type": "text",
+			"text": "possible or spend as much time as possible underground, as your options will be limited."
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Canteen",
+	"icon": "toughasnails:canteen",
+	"category": "patchouli:basic_survival",
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "toughasnails:canteen",
+			"text": "Simple water container. Use a charcoal filter to purify the water inside."
+		},
+		{
+			"type": "text",
+			"text": "The canteen is an easy way to hold a good amount of water for later use. Simply use $(k:use) to scoop some water from a river or lake, and purify it using a charcoal filter in a crafting interface."
+		}
+	]
+}
