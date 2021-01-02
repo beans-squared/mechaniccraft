@@ -1,1 +1,24 @@
-[]
+[
+	{
+		"biometype": "FOREST",
+		"tempcategory": "medium",
+		"mobs": [
+			{
+				"mob": "minecraft:creeper",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		],
+		"biometype": "FOREST",
+		"tempcategory": "cold",
+		"mobs": [
+			{
+				"mob": "primitivemobs:rocket_creeper",
+				"weight": 1,
+				"groupcountmin": 1,
+				"groupcountmax": 1
+			}
+		]
+	}
+]

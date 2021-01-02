@@ -1,1 +1,20 @@
-[]
+[
+	{
+		"biometype": "FOREST",
+		"tempcategory": "medium",
+		"mob": "minecraft:creeper",
+		"maxcount": 2,
+		"minlight": 0,
+		"seesky": true,
+		"result": "allow"
+	},
+	{
+		"biometype": "FOREST",
+		"tempcategory": "cold",
+		"mob": "primitivemobs:rocket_creeper",
+		"maxcount": 1,
+		"minlight": 0,
+		"seesky": true,
+		"result": "allow"
+	}
+]
