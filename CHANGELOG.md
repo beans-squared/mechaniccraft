@@ -1,3 +1,23 @@
+## CHANGELOG for MechanicCraft 0.15.1.0 (01.05.2021)
+
+## Mods updated:
+- FTB Quests
+  - Merge pull request #511 from UeberallGebannt/1.12 - Kristi?ns Mic?tis
+  - Fix command rewards - UeberallGebannt
+- FTB Utilities
+  - Added chat.replacetabnames config - LatvianModder
+- Konkrete
+  - Removed JavaScript as engine for calculations of math expression strings
+- Immersive Technology
+  - Update ru_ru.lang - Thanks kellixon
+- Moving Elevators
+  - Transparent blocks can now be used as camouflage
+  - Fixed camouflage disappearing after reloading a world twice
+- Random Tweaks
+  - Fixed parrot feeding
+
+---
+
 ## CHANGELOG for MechanicCraft 0.14.1 (12.19.2020)
 
 ## New features:
