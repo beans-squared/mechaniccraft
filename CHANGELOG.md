@@ -1,3 +1,23 @@
+## CHANGELOG for MechanicCraft 0.15.2.0 (01.09.2021)
+
+### Mods updated:
+- Immersive Technology
+  - Update chinese translation about Heat Exchanger - PilyziFox
+- Moving Elevators
+  - fixed the elevator blocks rendering oddly at far away coordinates
+- Patchouli
+  - Backport: Subcategories are now listed on the right side when there are no pages in the current category
+  - Backport: Fix >4 subcategories overlapping on the left side
+  - Force sending some advancements that Triumph prevents from being synced
+- UniDict
+  - Added IC2C Extras Integration.
+  - Added a system for overwriting mods' configs, currently supported mods are TConstruct and NuclearCraft. Each overwrite can be disabled individually in the respective UniDict config file.
+  - Fixed a bug in AE2 Grinder Integration which causes some recipes to be removed.
+  - Added support for IC2 Ore Washing Plant.
+  - Added a new option that allows the disabling of JEI hiding for specific resources.
+
+---
+
 ## CHANGELOG for MechanicCraft 0.15.1.0 (01.05.2021)
 
 ## Mods updated:
