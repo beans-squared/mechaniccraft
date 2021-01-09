@@ -1,0 +1,20 @@
+{
+	"name": "Rocket Creeper",
+	"icon": "minecraft:skull:4",
+	"category": "patchouli:indigenous",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A close cousin of the standard creeper, with blue markings and an affinity for cold climates. $(br2) 1. Explosive Fuse $(br) A cerebral-controlled explosive located in the lower midsection provides an powerful deterant to god knows what. AI still cannot determine what could have caused this evolutionary trait to"
+		},
+		{
+			"type": "entity",
+			"entity": "primitivemobs:rocket_creeper",
+			"text": "emerge, as it provides no repoductive advantage."
+		},
+		{
+			"type": "text",
+			"text": "2. Legs $(br)Four extremely short but strong legs provide the creeper with slow but nearly silent movement over any natural terrain, including leaves and twigs. Interestingly, this variant posesses increased muscle density in the legs, enabling to propel itself into the air and towards its prey. $(br2) Assessment: Avoid or eliminate from a distance"
+		}
+	]
+}
