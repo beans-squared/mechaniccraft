@@ -1,3 +1,13 @@
+## CHANGELOG for MechanicCraft 0.15.3.0 (01.12.2021)
+
+### Mods added:
+- spark
+  - Java memory and server performance profiler, use to find the cause of lag in your server
+- LagGoggles
+  - In-world lag finder, use to find laggy machines and other entities in the world
+
+---
+
 ## CHANGELOG for MechanicCraft 0.15.2.0 (01.09.2021)
 
 ### Mods updated:
