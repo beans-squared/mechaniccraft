@@ -1,3 +1,13 @@
+## CHANGELOG for MechanicCraft 0.15.4.0 (01.16.2021)
+
+### Mods updated:
+- CreativeCore
+  - Programmer stuff you probably won't get excited about
+- Let Me Sleep
+  - Bugfixes, added features that are not relevant to this pack *yawn*
+
+---
+
 ## CHANGELOG for MechanicCraft 0.15.3.0 (01.12.2021)
 
 ### Mods added:
