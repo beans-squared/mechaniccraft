@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "biometype": "FOREST",
+    "mobs": [
+      {
+        "mob": "minecraft:creeper",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+  	"biometype": "COLD",
+  	"mobs": [
+  	  {
+  		"mob": "primitivemobs:rocket_creeper",
+  		"weight": 3,
+  		"groupcountmin": 1,
+  		"groupcountmax": 2
+  	  }
+  	]
+  },
+  {
+  	"biometype": "SAVANA",
+  	"mobs": [
+  	  {
+  	  	"mob": "primitivemobs:support_creeper",
+  	  	"weight": 0.8,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 1
+  	  }
+  	]
+  },
+  {
+  	"mobs": [
+  	  {
+  	  	"mob": "minecraft:spider",
+  	  	"weight": 1,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 3
+  	  },
+  	  {
+  	  	"mob": "minecraft:cave_spider",
+  	  	"weight": 0.5,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 4
+  	  },
+  	  {
+  	  	"mob": "betterwithmods:bwm_jungle_spider",
+  	  	"weight": 0.4,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 2
+  	  },
+  	  {
+  	  	"mob": "primitivemobs:mother_spider",
+  	  	"weight": 0.7,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 1
+  	  }	
+  	]
+  },
+  {
+  	"mobs": [
+  	  {
+  	  	"mob": "minecraft:zombie",
+  	  	"weight": 1,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 10
+  	  }
+  	]
+  },
+  {
+  	"biometype": "NETHER",
+  	"mobs": [
+  	  {
+  	  	"mob": "primitivemobs:flame_spewer",
+  	  	"weight": 1,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 3
+  	  },
+  	  {
+  	  	"mob": "primitivemobs:festive_creeper",
+  	  	"weight": 0.8,
+  	  	"groupcountmin": 1,
+  	  	"groupcountmax": 3
+  	  }
+  	]
+  }
+]
