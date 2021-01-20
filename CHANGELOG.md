@@ -1,3 +1,81 @@
+## CHANGELOG for MechanicCraft 0.15.5.0 (01.20.2021)
+
+### Mods updated:
+- CreativeCore
+  - Added getTempWorld to TileEntityCreative
+  - Added isAnisotropicFiltering to OptifineHelper
+  - Fixed PacketHandler crash if player chunk entry is null
+  - Added vertical lines to GuiTimeline
+  - Fixed tab button rendering issue
+- Konkrete
+  - Added: Support for MC 1.16.5
+  - Added: 'ignoreLeftMouseDownClickBlock' to AdvancedButton to set if the button should still be clickable when another button is already getting clicked
+  - Added: 'enableRightclick' to AdvancedButton to enable rightlicking as alternative click action
+  - Added: 'labelScale' to AdvancedButton to set the text scale of the button label
+  - Added: setParentButton() to PopupMenu to set the parent button that was used to open the menu
+  - Added: 'menuScale' to PopupMenu to set the scale of the menu
+  - Added: closeChilds() to PopupMenu to close all child menus
+  - Added: setAutoAlignment() to PopupMenu to enable/disable auto-alignment
+  - Other: Improved autoclosing of PopupMenu
+  - Other: Bug fixes and improvements
+- Moving Elevators
+  - Rendering performance improvements
+- FancyMenu
+  - Lifted minimum required Konkrete version to v1.1.2
+  - Added: Support for MC 1.16.5
+  - Added: Config option 'splashcolor' to set the color of the main menu splash text
+  - Added: Config option 'splashtextfile' to set a custom TXT splash text file (value = path to file) (One splash text per line)
+  - Added: Config option 'splashorientation' to set the orientation of the main menu splash text
+  - Added: Config option 'splashx' to set the X position of the main menu splash text (Only affects the text when it has a valid orientation)
+  - Added: Config option 'splashy' to set the Y position of the main menu splash text (Only affects the text when it has a valid orientation)
+  - Added: Config option 'popupmenuscale' to set the scale of the popup menus in the layout editor
+  - Added: Config option 'playbackgroundsoundsinworld' to set if background menu sounds added by FancyMenu should be played when a world is loaded (default = false)
+  - Added: Config option 'stopworldmusicwhencustomizable' to set if the world music (when a world is loaded) should stop when opening a customizable menu (default = false)
+  - Added: Config option 'showloadingscreenanimation' to enable or disable the chunk loading animation you see in the world loading screen (Only MC 1.15+)
+  - Added: Config option 'showloadingscreenpercent' to enable or disable the loading percent text you see in the world loading screen (Only MC 1.15+)
+  - Added: Panorama properties variable 'speed' to slow down or speed up the rotation speed of the panorama (default = 1.0)
+  - Added: Panorama properties variable 'fov' to customize the field of view of the panorama (default = 85.0)
+  - Added: Panorama properties variable 'angle' to customize the vertical angle of the panorama (default = 25.0)
+  - Added: Re-ordering of objects in the layout editor (BETA!)
+    - Rightclick an object to move it one layer up or down
+  - Added: Customization action 'setbackgroundslideshow' to set a slideshow as menu background
+  - Added: Customization action 'addslideshow' to add a slideshow to a menu
+  - Added: Customization action 'addshape' to add basic shapes to menus
+    - Customizable hex color (+ opacity via hex)
+    - Currently only one shape (rectangle), more will follow
+  - Added: Customization action 'setcloseaudio' to set an audio that will be played when the menu is getting closed
+  - Added: Customization action 'setopenaudio' to set an audio that will be played when the menu is getting opened
+  - Added: Customization action 'setbuttondescription' to set a button description to a vanilla button (as for custom buttons)
+  - Added: Customization action "addentity" to add a player entity to the menu (EXPERIMENTAL!)
+    - Customizable skin and cape textures (auto-loads skins and capes of existing players by playername)
+    - Toggleable crouching, slim skin layout, name visibility and more
+    - Customizable head and body rotation (or auto-rotation to follow the mouse cursor)
+  - Added: "Open In Text Editor" button to layout entries in the "Manage Layouts" menu of the Customization Helper
+  - Added: Multi-Selection support for the layout editor (BETA!)
+    - CTRL + Leftclick to select multiple objects
+    - Currently supports basic actions like move (arrow keys), delete and stretch for all objects and object-specific actions for buttons
+  - Added: Ingame Settings for the layout editor to set the popup menu scale and toggle vanilla button move warnings
+  - Added: "Miscellaneous" tab to the customization helper
+    - "Open Main Menu" to open the main menu (useful to leave a GUI that can't be closed)
+    - "Open Loading Screen" to open a dead instance of the world loading screen, to be able to customize it (Only MC 1.15+)
+    - "Open Message Screen" to open an instance of the message screen you see before the world loading screen or when leaving a world, to be able to customize it (Only MC 1.15+)
+  - Changed: Vanilla buttons in the layout editor will now render behind all objects if rendering order is set to 'foreground' and above all objects if it is set to 'background'
+  - Changed: When switching to a different type of menu background (animation, panorama, image) in the layout editor, all other background types will now be resetted
+  - Changed: Customization Helper buttons can now be rightclicked as alternative click action
+  - Removed: Config option 'splashoffsetx' (kinda replaced by 'splashorientation' set to "original" + changing 'splashx')
+  - Removed: Config option 'splashoffsety' (kinda replaced by 'splashorientation' set to "original" + changing 'splashy')
+  - Fixed: Invalid standard cursor error in MC 1.16 when opening the layout editor (OMG he finally did it!)
+  - Fixed: Customization Helper buttons not clickable when overlapping another customized vanilla or custom button
+  - Fixed: NullPointerException when pressing ESC in the button description input popup in the layout editor
+  - Fixed: Customization Helper popup menus opening with wrong alignment when too long or wide for the window
+  - Other: Updated German localization
+  - Other: Added new/more button descriptions for layout editor and customization helper buttons
+  - KNOWN ISSUE: Text doesn't render when player entity is rendered behind it in MC 1.15+ (Still trying to figure out how to fix this..)
+  - KNOWN ISSUE: Player entity is always rendered on top of all menu elements in MC 1.12 (Well..you know..trying to fix it..BUT HOW)
+  - KNOWN ISSUE: Old Pre-1.8 skins don't work for player entities (Support for old skins will be added later)
+
+---
+
 ## CHANGELOG for MechanicCraft 0.15.4.0 (01.16.2021)
 
 ### Mods updated:

@@ -1,6 +1,8 @@
-#### News for MechanicCraft 0.15.4.0 (01.16.2021)
+#### News for MechanicCraft 0.15.5.0 (01.20.2021)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Updated mods:
 - CreativeCore
-- Let Me Sleep
+- Konkrete
+- Moving Elevators
+- FancyMenu
