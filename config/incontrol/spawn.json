@@ -62,7 +62,56 @@
   	"result": "allow"
   },
   {
-  	"_comment": "Denies all other spawns not matching a defined condition",
+    "biometype": "NETHER",
+    "mob": "minecraft:zombie_pigman",
+    "maxcount": 16,
+    "result": "allow"
+  },
+  {
+    "biometype": "NETHER",
+    "mob": "minecraft:blaze",
+    "maxcount": 2,
+    "result": "allow"
+  },
+  {
+    "biometype": "OCEAN",
+    "mob": "minecraft:guardian",
+    "maxcount": 3,
+    "result": "allow"
+  },
+  {
+    "biometype": "OCEAN",
+    "mob": "minecraft:squid",
+    "maxcount": 12,
+    "result": "allow"
+  },
+  {
+    "structure": "Monument",
+    "mob": "minecraft:guardian",
+    "maxcount": 20,
+    "result": "allow"
+  },
+  {
+    "structure": "Fortress",
+    "mob": "minecraft:wither_skeleton",
+    "maxcount": 8,
+    "result": "allow"
+  },
+  {
+    "structure": "Fortress",
+    "mob": "minecraft:blaze",
+    "maxcount": 12,
+    "result": "allow"
+  },
+  {
+    "structure": "Fortress",
+    "mob": "primitivemobs:blazing_juggernaut",
+    "maxcount": 2,
+    "result": "allow"
+  },
+  {
+  	"_comment": "Denies all other hostile spawns not matching a defined condition",
+    "hostile": true,
   	"result": "deny"
   }
 ]

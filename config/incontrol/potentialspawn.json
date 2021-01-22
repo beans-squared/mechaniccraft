@@ -84,7 +84,70 @@
   	  	"weight": 0.8,
   	  	"groupcountmin": 1,
   	  	"groupcountmax": 3
-  	  }
+  	  },
+      {
+        "mob": "minecraft:zombie_pigman",
+        "weight": 2,
+        "groupcountmin": 2,
+        "groupcountmax": 8
+      },
+      {
+        "mob": "minecraft:blaze",
+        "weight": 0.1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
   	]
+  },
+  {
+    "biometype": "OCEAN",
+    "mobs": [
+      {
+        "mob": "minecraft:guardian",
+        "weight": 0.4,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+      {
+        "mob": "minecraft:squid",
+        "weight": 1,
+        "groupcountmin": 2,
+        "groupcountmax": 6
+      }
+    ]
+  },
+  {
+    "structure": "Monument",
+    "mobs": [
+      {
+        "mob": "minecraft:guardian",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "structure": "Fortress",
+    "mobs": [
+      {
+        "mob": "minecraft:wither_skeleton",
+        "weight": 0.6,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "minecraft:blaze",
+        "weight": 0.8,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+      {
+        "mob": "primitivemobs:blazing_juggernaut",
+        "weight": 0.2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
   }
 ]
