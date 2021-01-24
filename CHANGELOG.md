@@ -1,3 +1,16 @@
+## CHANGELOG for MechanicCraft 0.15.6.0 (01.24.2021)
+
+### Mods updated:
+- Corpse Complex
+  - Added difficulty-based kept and dropped durability loss configuration options
+- FancyMenu
+  - Fixed: Customized vanilla buttons in the layout editor disappearing in some situations
+  - Fixed: Arrow keys not working for moving objects in the layout editor
+  - Fixed: DELETE key not working for deleting objects in the layout editor
+  - Fixed: Using undo/redo for force-GUI-scaling actions breaks the GUI scale in the layout editor
+
+---
+
 ## CHANGELOG for MechanicCraft 0.15.5.0 (01.20.2021)
 
 ### Mods updated:
