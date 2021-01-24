@@ -1,8 +1,6 @@
-#### News for MechanicCraft 0.15.5.0 (01.20.2021)
+#### News for MechanicCraft 0.15.6.0 (01.24.2021)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Updated mods:
-- CreativeCore
-- Konkrete
-- Moving Elevators
-- FancyMenu
+- Corpse Complex
+- Fancy Menu
