@@ -1,0 +1,20 @@
+{
+	title: "5. Max wishes luck",
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"21f60e16"
+	],
+	tasks: [{
+		uid: "47a25086",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 850
+	}],
+	rewards: [{
+		uid: "478c4cb8",
+		type: "command",
+		auto: "invisible",
+		command: "/tellraw @p [\"\",{\"text\":\"<\"},{\"text\":\"M.A.X.\",\"color\":\"blue\"},{\"text\":\"> \"},{\"text\":\"I will contact you with additional information as it becomes available to me. Best of luck to you!\"}]"
+	}]
+}

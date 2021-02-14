@@ -1,0 +1,20 @@
+{
+	title: "3. Max starts env scan",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"88167084"
+	],
+	tasks: [{
+		uid: "805786a6",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 550
+	}],
+	rewards: [{
+		uid: "99f8c89c",
+		type: "command",
+		auto: "invisible",
+		command: "/tellraw @p [\"\",{\"text\":\"<\"},{\"text\":\"M.A.X.\",\"color\":\"blue\"},{\"text\":\"> \"},{\"text\":\"I am starting a background scan of your surrounding environment.\"}]"
+	}]
+}
