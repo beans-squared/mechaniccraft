@@ -26,3 +26,4 @@ downloadfile:https://dl.dropboxusercontent.com/s/qyneozpfgwimjle/SummontheRawk.m
 downloadfile:https://dl.dropboxusercontent.com/s/j6v473gw4glj8ik/Supernatural.mp3?dl=1;ambience_music/music/Supernatural.mp3
 downloadfile:https://dl.dropboxusercontent.com/s/z6g1rbjt3v0c2sw/TheHive.mp3?dl=1;ambience_music/music/TheHive.mp3
 downloadfile:https://dl.dropboxusercontent.com/s/nsu21po2oezexv5/VillageConsort.mp3?dl=1;ambience_music/music/VillageConsort.mp3
+downloadfile:https://dl.dropboxusercontent.com/s/glk3do9gf71fo07/ambience.properties?dl=1;ambience_music/ambience.properties
