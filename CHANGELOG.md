@@ -1,3 +1,12 @@
+## CHANGELOG for MechanicCraft 0.16.0.1 (02.14.2021)
+
+**This update is backwards compatible with 0.16.0.0**
+
+### Bugfixes:
+- Fixed a issue with the latest.log filesize if the game run for long periods of time
+
+---
+
 ## CHANGELOG for MechanicCraft 0.16.0.0 (02.06.2021)
 
 **This update should be compatable with existing worlds, but you never know! Always make backups!**
