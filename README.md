@@ -1,5 +1,5 @@
 # :wrench: MechanicCraft
-![Discord](https://img.shields.io/discord/764169561003130881?color=%237289DA&logo=discord&style=for-the-badge) 
+![Discord](https://img.shields.io/discord/764169561003130881?color=%237289DA&logo=discord&style=for-the-badge)
 
 ## :books: Overview
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)](https://forthebadge.com)
@@ -66,11 +66,12 @@ Other than that, go nuts. Just remember to respect the licenses of the individua
 
 Anyone is welcome to suggest changes using the issue tracker, or the disscussions. If you wish to take this a step further, you can also clone the repository and open a pull request to submit your changes. To do this follow these steps:
 1. Create an empty instance in a CurseForge-capable launcher of your choice using Forge for 1.12.2.
-2. Download the source code by clicking "Clone" and navigating to "Download ZIP".
-3. Extract these files to the instance's folder
-4. Initialize a new repository in the instance folder
-5. Add the MechanicCraft repository as a remote
-6. Make your changes and open a pull request when ready
+2. Fork the repository to your own account
+3. Download the source code by clicking "Clone" and navigating to "Download ZIP".
+4. Extract these files to the instance's folder
+5. Initialize a new repository in the instance folder
+6. Add your fork of the MechanicCraft repository as a remote
+7. Make your changes and open a pull request to the official repo when ready
 
 If you need ideas on what you can do, check the [development board](https://app.gitkraken.com/glo/board/X5DcSWf3FQApxuCO).
 
