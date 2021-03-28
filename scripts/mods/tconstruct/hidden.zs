@@ -1,9 +1,3 @@
-#################################################
-#												#
-# Removed items for Tinkers Construct			#
-#												#
-#################################################
-
 import scripts.common.removeAll;
 import mods.tconstruct.Drying.removeRecipe;
 import crafttweaker.item.IItemStack;
@@ -15,6 +9,7 @@ val items = [
 	<tconstruct:slimesling:2>,
 	<tconstruct:slimesling:3>,
 	<tconstruct:slimesling:4>,
+	<tconstruct:seared_furnace_controller>
 ] as IItemStack[];
 
 removeAll(items);
