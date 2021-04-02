@@ -1,3 +1,47 @@
+## CHANGELOG for MechanicCraft 0.16.1.0 (04.02.2021)
+
+It's been too long...so it's about time I had something to show for.
+
+This update does not require a world reset. Servers will need to update to the latest version.
+
+### New Features:
+- Added a popup window on pack startup that notifies you if the modpack has an update (PackUpdater)
+- Improved Discord rich presence information (Simple Discord RPC)
+- Started work on initial scripting for the main storyline
+  - Current availability is some opening voicelines when starting a new world
+- Fixed an exploit using water bottles to obtain water from a single water source (Thirsty Bottles)
+- Tweaked respawn mechanics
+  - Player now respawns with full hunger
+  - Player retains saturation level on death
+  - Beds no longer set spawn point
+  - Player spawns with full thirst
+- Nerfed sawdust to paper crafting recipe
+- Fixed some script errors by removing unused files
+- Removed the cardboard box
+- Downgraded vanilla's animal models (may return in the future)
+- Added special high quality animations to the player and various entities (Mo Bends, Better Animations Collections 2, Spiders 2.0)
+- Added a custom loading screen animations (Custom Loading Screen)
+  - These are still placeholder for now
+- Added ambient firefly, ember and faerie visual effects (Lumen)
+- Various vanilla tile entities have visual upgrades/improvements (Visuals)
+- Removed redundant mod (Equal Dragons)
+- Added special visual effects to the player's HUD when performing various actions/taking damage (EnhancedVisuals)
+  - These include things like blurring when submerging, ear ringing after an explosion, etc
+- Snowfall cover now recalculates in unloaded chunks based on season (Serene Tweaks)
+- Sounds played in enclosed spaces (such as caves) now have reverb and echo (Sound Filters)
+- Improved various parts of vanilla's damage and combat mechanics (Better Hurt Timer)
+  - It's a lot to pack into a changelog, see the mod's description page for more information
+- Blazes no longer spawn naturally in the nether
+  - This confines them to nether fortresses only again
+- Improved cave generation (YUNG's Better Caves)
+- Renamed the Small Mineral Melting Furnace to Mineral Melter
+- Removed the seared furnace from TConstruct
+- Removed the blast furnace from Techguns
+- Cleaned up some file
+- Renamed the vanilla furnace to crude furnace
+
+If you have any questions, comments or concerns about this update or this pack in general, I'm always around to talk in my Discord (https://discord.gg/zGAvPU3)
+
 ## CHANGELOG for MechanicCraft 0.16.0.1 (02.14.2021)
 
 **This update is backwards compatible with 0.16.0.0**
