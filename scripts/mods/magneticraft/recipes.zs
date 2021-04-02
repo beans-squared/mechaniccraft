@@ -1,9 +1,3 @@
-#################################################
-#												#
-# Recipe changes for items for Magneticraft		#
-#												#
-#################################################
-
 import scripts.common.replaceRecipe;
 
 // Iron Mesh
@@ -49,7 +43,7 @@ replaceRecipe("magneticraft:multiblock_parts_copper_coil", "copper_coil_machine_
 	[<ore:plateIron>, <immersiveengineering:wirecoil>, <ore:plateIron>]]);
 
 // Support Column
-replaceRecipe("magneticraft:multiblock_column_axis_y", "support_column", <magneticraft:multiblock_column> * 4, 
+replaceRecipe("magneticraft:multiblock_column_axis_y", "support_column", <magneticraft:multiblock_column> * 4,
 	[[<ore:plateLead>, <ore:plateIron>, <ore:plateLead>],
 	[<ore:plateLead>, <ore:stone>, <ore:plateLead>],
 	[<ore:plateLead>, <ore:plateIron>, <ore:plateLead>]]);
@@ -67,44 +61,44 @@ replaceRecipe("magneticraft:conveyor_belt_north", "elevated_conveyor_belt", <mag
 	[<ore:stickIron>, null, <ore:stickIron>]]);
 
 // Motor
-replaceRecipe("magneticraft:crafting_motor", "crafting_motor", <magneticraft:crafting:2> * 4, 
-	[[<ore:ingotLead>, <ore:ingotLead>, null], 
-	[<immersiveengineering:wirecoil>, <ore:dustRedstone>, <ore:ingotIron>], 
+replaceRecipe("magneticraft:crafting_motor", "crafting_motor", <magneticraft:crafting:2> * 4,
+	[[<ore:ingotLead>, <ore:ingotLead>, null],
+	[<immersiveengineering:wirecoil>, <ore:dustRedstone>, <ore:ingotIron>],
 	[<ore:ingotLead>, <ore:ingotLead>, null]]);
 
 // Brick Furnace
-replaceRecipe("magneticraft:brick_furnace_off_north", "brick_furnace", <magneticraft:brick_furnace>, 
-	[[<minecraft:brick_block>, <minecraft:brick_block>, <minecraft:brick_block>], 
-	[<minecraft:brick_block>, null, <minecraft:brick_block>], 
+replaceRecipe("magneticraft:brick_furnace_off_north", "brick_furnace", <magneticraft:brick_furnace>,
+	[[<minecraft:brick_block>, <minecraft:brick_block>, <minecraft:brick_block>],
+	[<minecraft:brick_block>, null, <minecraft:brick_block>],
 	[<minecraft:brick_block>, <ore:plateCopper>, <minecraft:brick_block>]]);
 
 // Electric Furnace
-replaceRecipe("magneticraft:electric_furnace_off_north", "electric_furnace", <magneticraft:electric_furnace>, 
-	[[<immersiveengineering:wirecoil>, <magneticraft:brick_furnace>, <immersiveengineering:wirecoil>], 
+replaceRecipe("magneticraft:electric_furnace_off_north", "electric_furnace", <magneticraft:electric_furnace>,
+	[[<immersiveengineering:wirecoil>, <magneticraft:brick_furnace>, <immersiveengineering:wirecoil>],
 	[<ore:ingotCopper>, <ore:ingotCopper>, <ore:ingotCopper>]]);
 
-# Small Steam Engine
+// Small Steam Engine
 recipes.removeByRecipeName("magneticraft:steam_engine_inactive_north");
 recipes.addShapeless("magneticraft_steam_engine_inactive_north", <magneticraft:steam_engine>, [<minecraft:paper>, <ore:plateIron>]);
 
-# Small Steam Turbine
+// Small Steam Turbine
 recipes.removeByRecipeName("magneticraft:steam_turbine_inactive_north");
 recipes.addShapeless("magneticraft_steam_turbine_inactive_north", <magneticraft:steam_turbine>, [<minecraft:paper>, <ore:plateGold>]);
 
 // Combustion Chamber
-replaceRecipe("magneticraft:combustion_chamber_north", "combustion_chamber", <magneticraft:combustion_chamber>, 
-	[[<ore:ingotBrick>, <ore:plateIron>, <ore:ingotBrick>], 
-	[<ore:ingotBrick>, null, <ore:ingotIron>], 
+replaceRecipe("magneticraft:combustion_chamber_north", "combustion_chamber", <magneticraft:combustion_chamber>,
+	[[<ore:ingotBrick>, <ore:plateIron>, <ore:ingotBrick>],
+	[<ore:ingotBrick>, null, <ore:ingotIron>],
 	[<ore:ingotBrick>, <ore:ingotBrick>, <ore:ingotBrick>]]);
 
 // Boiler
 replaceRecipe("magneticraft:steam_boiler_normal", "boiler", <magneticraft:steam_boiler>,
-	[[<ore:ingotIron>, <ore:plateIron>, <ore:ingotIron>], 
-	[<ore:ingotIron>, null, <ore:ingotIron>], 
+	[[<ore:ingotIron>, <ore:plateIron>, <ore:ingotIron>],
+	[<ore:ingotIron>, null, <ore:ingotIron>],
 	[<ore:ingotIron>, <ore:plateIron>, <ore:ingotIron>]]);
 
 // Electric Heater
-replaceRecipe("magneticraft:electric_heater_off", "electric_heater", <magneticraft:electric_heater>, 
+replaceRecipe("magneticraft:electric_heater_off", "electric_heater", <magneticraft:electric_heater>,
 	[[<ore:ingotIron>, <ore:ingotCopper>, <ore:ingotIron>],
 	[<ore:ingotIron>, <magneticraft:multiblock_parts:2>, <ore:ingotIron>],
 	[<immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>]]);

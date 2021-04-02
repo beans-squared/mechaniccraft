@@ -57,6 +57,7 @@ var items = [
 	<techguns:itemshared:140>, // large ore drill (steel)
 	<techguns:itemshared:141>, // large ore drill (obsidian steel)
 	<techguns:itemshared:142>, // large ore drill (carbon)
+	<techguns:simplemachine:11>, // blast furnace
 ] as IItemStack[];
 
 removeAll(items);

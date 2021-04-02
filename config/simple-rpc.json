@@ -1,0 +1,78 @@
+{
+  "discordid": "726535589259902977",
+  "enabled": true,
+  "debugging": false,
+  "version": 4,
+  "init": {
+    "_comment": "This is called while MC and Forge is loading",
+    "enabled": true,
+    "state": "Game loading",
+    "description": "",
+    "largeImageKey": "logo-cold",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "main_menu": {
+    "_comment": "This is called when the player is on the main menu",
+    "enabled": true,
+    "state": "Main Menu",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "server_list": {
+    "_comment": "This is called when the player is on the multiplayer Screen",
+    "enabled": true,
+    "state": "In Multiplayer Menu",
+    "description": "Browsing server list",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "single_player": {
+    "_comment": "This is called when the player is playing in single player mode",
+    "enabled": true,
+    "state": "Playing singleplayer",
+    "description": "In %world%",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false
+  },
+  "multi_player": {
+    "_comment": "This is called when the player is playing multi-player",
+    "enabled": true,
+    "state": "Playing on %servername%",
+    "description": "Players: %players%/%maxplayers%",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false,
+    "allowJoin": false
+  },
+  "join_game": {
+    "_comment": "This is called when the player is joining a game",
+    "enabled": true,
+    "state": "Joining game",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "generic": {
+    "_comment": "This is a fallback event for when any of the above ones are disabled",
+    "state": "Playing Minecraft",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  }
+}
