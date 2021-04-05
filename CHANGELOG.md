@@ -1,3 +1,21 @@
+## CHANGELOG for MechanicCraft 0.16.1.1 (04.04.2021)
+
+This is a small patch designed to resolve some issues with the latest minor content update.
+
+**This update is compatible with existing worlds; however, any and all items/blocks from the mod Ambience Extras will vanish upon world load.**
+
+### Changes:
+- Removed Ambience Extras
+  - Mod was causing crashes for an unknown reason and has been temporarily removed until a fix is found
+- Removed Konkrete
+  - Unneeded library mod for fancy menu, which has been previously removed for reasons similar to Ambience Extras
+- The custom loading screen type will now always show one kind (sorry, no low-res panoramas or spinning cakes anymore)
+- Fixed an issue where the pack thinks that you have version 0.17.0.0, which is in fact not the case
+
+If you have any questions, comments or concerns about this update or this pack in general, I'm always around to talk in my Discord (https://discord.gg/zGAvPU3)
+
+---
+
 ## CHANGELOG for MechanicCraft 0.16.1.0 (04.02.2021)
 
 It's been too long...so it's about time I had something to show for.
@@ -41,6 +59,8 @@ This update does not require a world reset. Servers will need to update to the l
 - Renamed the vanilla furnace to crude furnace
 
 If you have any questions, comments or concerns about this update or this pack in general, I'm always around to talk in my Discord (https://discord.gg/zGAvPU3)
+
+---
 
 ## CHANGELOG for MechanicCraft 0.16.0.1 (02.14.2021)
 
