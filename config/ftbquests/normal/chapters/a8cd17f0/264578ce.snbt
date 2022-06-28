@@ -74,5 +74,13 @@
 		type: "command",
 		auto: "invisible",
 		command: "/tellraw @p [\"\",{\"text\":\"M.A.X.\",\"color\":\"dark_blue\"},{\"text\":\": You have obtained an item which requires heat processing to become useful to you. A blueprint for a crude smelting device has been added to your database.\"}]"
+	},
+	{
+		uid: "2ed7eba2",
+		type: "command",
+		team_reward: false,
+		auto: "no_toast",
+		command: "/gamestage add @p brick_furnace",
+		player_command: true
 	}]
 }
