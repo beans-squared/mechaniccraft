@@ -1,0 +1,55 @@
+[10:05:14] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:05:14] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:05:14] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[10:05:14] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[10:05:14] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at D:\Program Files\ATLauncher\runtimes\minecraft\jre-legacy\windows-x64\jre-legacy
+[10:05:14] [main/INFO]: Searching D:\Program Files\ATLauncher\instances\DEVMechanicCraft\mods for mods
+[10:05:14] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:05:14] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:05:14] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:05:14] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:05:14] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:05:15] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:05:15] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[10:05:15] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:05:15] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:05:15] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:05:15] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:05:15] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[10:05:16] [Client thread/INFO]: Setting user: beansquared
+[10:05:18] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:05:19] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 265832752 bytes (253 MB) / 536870912 bytes (512 MB) up to 6442450944 bytes (6144 MB)
+	JVM Flags: 11 total; -XX:-OmitStackTraceInFastThrow -Xms512M -Xmx6144M -XX:MetaspaceSize=256M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 516.40' Renderer: 'NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2'
+[10:05:19] [Client thread/INFO]: MinecraftForge v14.23.5.2854 Initialized
+[10:05:19] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:05:19] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[10:05:19] [Client thread/INFO]: Replaced 1227 ore ingredients
+[10:05:20] [Client thread/INFO]: Searching D:\Program Files\ATLauncher\instances\DEVMechanicCraft\mods for mods
+[10:05:21] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[10:05:21] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[10:05:21] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[10:05:21] [Client thread/INFO]: The game window is being closed by the player, exiting.
+[10:05:21] [Client thread/WARN]: Java has been asked to exit (code 0)
+[10:05:21] [Client thread/WARN]: Exit trace:
+[10:05:21] [Client thread/WARN]: 	net.minecraftforge.fml.common.LoadController.transition(LoadController.java:145)
+[10:05:21] [Client thread/WARN]: 	net.minecraftforge.fml.common.Loader.loadMods(Loader.java:615)
+[10:05:21] [Client thread/WARN]: 	net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+[10:05:21] [Client thread/WARN]: 	net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+[10:05:21] [Client thread/WARN]: 	net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+[10:05:21] [Client thread/WARN]: 	net.minecraft.client.main.Main.main(SourceFile:123)
+[10:05:21] [Client thread/WARN]: 	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[10:05:21] [Client thread/WARN]: 	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[10:05:21] [Client thread/WARN]: 	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[10:05:21] [Client thread/WARN]: 	java.lang.reflect.Method.invoke(Method.java:497)
+[10:05:21] [Client thread/WARN]: 	net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[10:05:21] [Client thread/WARN]: 	net.minecraft.launchwrapper.Launch.main(Launch.java:28)

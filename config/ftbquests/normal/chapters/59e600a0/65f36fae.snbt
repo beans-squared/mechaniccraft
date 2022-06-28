@@ -1,0 +1,23 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	text: [
+		"Generates power in sunlight."
+	],
+	dependencies: [
+		"72543df5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fec16822",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_panel"
+		}]
+	}],
+	rewards: [{
+		uid: "48d1073a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Mineral Melting Furnace",
+	x: 0.5d,
+	y: 1.5d,
+	text: [
+		"Produces magma blocks and lava from melting cobblestone."
+	],
+	dependencies: [
+		"077d05dd"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "16f537cc",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_mineral_smelter"
+		}]
+	}],
+	rewards: [{
+		uid: "39a2588a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

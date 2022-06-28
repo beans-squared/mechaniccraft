@@ -1,0 +1,29 @@
+{
+	title: "Preservation Chamber",
+	x: 4.5d,
+	y: -0.5d,
+	description: "Don't let it spoil!",
+	text: [
+		"Prevents the last item in a storage slot from being used to cook a food item.",
+		"",
+		"Useful for making sure that you always have storage space for common food ingredients like cheese, butter, and dough."
+	],
+	dependencies: [
+		"3eb6ad81"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "507bb11c",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:preservation_chamber"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f7a4711",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

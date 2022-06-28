@@ -1,0 +1,24 @@
+{
+	title: "Coke Oven Preheater",
+	x: -4.0d,
+	y: 5.0d,
+	text: [
+		"Speeds up the advanced coke oven."
+	],
+	dependencies: [
+		"30d22515"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98ef600c",
+		type: "item",
+		items: [{
+			item: "immersivetech:metal_device"
+		}]
+	}],
+	rewards: [{
+		uid: "45cbb17e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

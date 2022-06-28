@@ -1,0 +1,21 @@
+{
+	title: "2. Max greets player",
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"f427046a"
+	],
+	tasks: [{
+		uid: "438ad07a",
+		type: "stat",
+		title: "Max greets player",
+		stat: "stat.playOneMinute",
+		value: 400
+	}],
+	rewards: [{
+		uid: "b4eabe20",
+		type: "command",
+		auto: "invisible",
+		command: "/tellraw @p [\"\",{\"text\":\"<\"},{\"text\":\"M.A.X.\",\"color\":\"blue\"},{\"text\":\"> \"},{\"text\":\"Greetings, survivor. I am M.A.X., your personal onboard AI designed to help you survive the unforgiving environment of an uncharted planet.\"}]"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Wooden Box",
+	x: -5.5d,
+	y: -4.0d,
+	text: [
+		"Stores items. Slightly cheaper to craft than a chest."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "37560215",
+		type: "item",
+		items: [{
+			item: "magneticraft:box"
+		}]
+	}],
+	rewards: [{
+		uid: "17a293f6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

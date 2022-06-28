@@ -1,0 +1,27 @@
+{
+	title: "Improved Blast Furnace",
+	x: -2.5d,
+	y: 3.5d,
+	text: [
+		"Features similar upgrades as the advanced coke oven."
+	],
+	dependencies: [
+		"f4660062",
+		"30d22515"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6c5054b3",
+		type: "observation",
+		title: "Improved Blast Furnace",
+		icon: "immersiveengineering:stone_device 1 2",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:blastfurnaceadvanced",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "315651ff",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

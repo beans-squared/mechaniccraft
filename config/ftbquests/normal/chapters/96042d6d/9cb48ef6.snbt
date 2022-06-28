@@ -1,0 +1,31 @@
+{
+	title: "Factory Block Manipulation",
+	x: 2.0d,
+	y: -0.5d,
+	text: [
+		"Harvests and places blocks."
+	],
+	dependencies: [
+		"8ee88158"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1ae70899",
+		type: "item",
+		items: [{
+			item: "engineersdecor:factory_placer"
+		}]
+	},
+	{
+		uid: "d0efeaff",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_block_breaker"
+		}]
+	}],
+	rewards: [{
+		uid: "f3e8086f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Loot Fabricator",
+	x: -5.5d,
+	y: 3.0d,
+	text: [
+		"Consumes pristine matter to create monster loot."
+	],
+	dependencies: [
+		"4f9cba82"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "69e44933",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "9ee42d0c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

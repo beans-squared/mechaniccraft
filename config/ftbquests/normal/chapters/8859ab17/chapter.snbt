@@ -1,0 +1,10 @@
+{
+	title: "Construction",
+	icon: "immersiveengineering:tool",
+	description: [
+		"Pick the right material for the job."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,26 @@
+{
+	title: "Automatic Engineer's Workbench",
+	x: -7.0d,
+	y: -1.5d,
+	text: [
+		"Automates production of machine components."
+	],
+	dependencies: [
+		"d11fb09b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "180ef05f",
+		type: "observation",
+		title: "Automated Engineer's Workbench",
+		icon: "immersiveengineering:metal_multiblock 1 5",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:autoworkbench",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "44035674",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

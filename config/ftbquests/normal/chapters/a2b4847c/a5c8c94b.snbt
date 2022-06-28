@@ -1,0 +1,24 @@
+{
+	title: "Grinder",
+	x: -1.0d,
+	y: -2.0d,
+	text: [
+		"Grinds down ores into rocky chunks."
+	],
+	dependencies: [
+		"8f65fb0e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98218db3",
+		type: "item",
+		items: [{
+			item: "magneticraft:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "7423aedf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

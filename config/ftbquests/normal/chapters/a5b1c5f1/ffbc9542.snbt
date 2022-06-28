@@ -1,0 +1,26 @@
+{
+	title: "Matchbox",
+	x: -1.0d,
+	y: -0.5d,
+	text: [
+		"Used to light torches in the crafting interface."
+	],
+	dependencies: [
+		"91901f5f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3389363f",
+		type: "item",
+		items: [{
+			item: "realistictorches:matchbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "508a1d23",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

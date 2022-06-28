@@ -1,0 +1,24 @@
+{
+	title: "Laboratory Furnace",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		"Faster than a stone furnace. Features internal hopper slots, and can be sped up using external heaters."
+	],
+	dependencies: [
+		"d2903d55"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "62cb69ef",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_lab_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "e4f51dff",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

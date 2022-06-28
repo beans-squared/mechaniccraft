@@ -1,0 +1,23 @@
+{
+	title: "Lubricant Can",
+	x: -11.5d,
+	y: -5.0d,
+	text: [
+		"Applies lubricant (plant oil or manufactured lubricant) to machines."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c500e02c",
+		type: "item",
+		items: [{
+			item: "immersivepetroleum:oil_can"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "30cfdfce",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

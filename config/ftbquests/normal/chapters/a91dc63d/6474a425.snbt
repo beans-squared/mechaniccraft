@@ -1,0 +1,28 @@
+{
+	title: "Fruit Basket",
+	x: -0.5d,
+	y: 0.5d,
+	description: "A basket case.",
+	text: [
+		"Stores fruit for cooking recipes."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4ed9aaf0",
+		type: "item",
+		title: "Craft a Fruit Basket",
+		items: [{
+			item: "cookingforblockheads:fruit_basket"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "e59c112a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

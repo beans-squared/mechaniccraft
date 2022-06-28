@@ -1,0 +1,23 @@
+{
+	x: -6.5d,
+	y: 3.5d,
+	text: [
+		"Uses heat to generate steam."
+	],
+	dependencies: [
+		"9cb6ba24"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fe353590",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_steam_boiler"
+		}]
+	}],
+	rewards: [{
+		uid: "f50b2f0e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

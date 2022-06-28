@@ -1,0 +1,24 @@
+{
+	title: "Weather Deflector",
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		"Make sure it's always 72 and sunny."
+	],
+	dependencies: [
+		"49aaa2eb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ed2adad0",
+		type: "item",
+		items: [{
+			item: "weather2:weather_deflector"
+		}]
+	}],
+	rewards: [{
+		uid: "414197f6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

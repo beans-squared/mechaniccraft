@@ -1,0 +1,7 @@
+{
+	title: "Meal Preparation",
+	icon: "cookingforblockheads:oven",
+	always_invisible: false,
+	group: 1512937028,
+	default_quest_shape: "rsquare"
+}

@@ -1,0 +1,26 @@
+{
+	title: "Advanced Coke Oven",
+	x: -5.5d,
+	y: 3.5d,
+	text: [
+		"Coke oven with input-output and the ability to attach preheaters to speed up the coke-ifying process."
+	],
+	dependencies: [
+		"5e28274a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3ee6fc9c",
+		type: "observation",
+		title: "Advanced Coke Oven",
+		icon: "immersivetech:stone_multiblock",
+		match_type: "block_entity_id",
+		match: "immersivetech:cokeovenadvancedmaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "5c2a085e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Kitchen Corner",
+	x: 0.5d,
+	y: -3.5d,
+	description: "Cooking at 90 degrees.",
+	text: [
+		"It's a corner. That's about it."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "446ce1ce",
+		type: "item",
+		title: "Craft a Kitchen Corner",
+		items: [{
+			item: "cookingforblockheads:corner"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "f455c7da",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

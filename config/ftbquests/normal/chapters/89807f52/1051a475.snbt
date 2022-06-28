@@ -1,0 +1,31 @@
+{
+	title: "Thirst Quencher",
+	x: 0.0d,
+	y: -3.0d,
+	text: [
+		"Automatically slakes thrist."
+	],
+	dependencies: [
+		"0af68307"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d8a073a2",
+		type: "item",
+		items: [{
+			id: "tanaddons:thirst_quencher",
+			tag: {
+				FluidStored: 16000,
+				ForgeEnergy: 400000,
+				TimeStart: 100
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5d84d74c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

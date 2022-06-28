@@ -1,0 +1,32 @@
+{
+	title: "Railgun",
+	x: -0.5d,
+	y: 2.5d,
+	text: [
+		"Fires highly accurate projectiles at high speeds which have a tendency to cause massive damage upon contact with enemies."
+	],
+	dependencies: [
+		"a1ea94bc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a9cef055",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:railgun"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7d1c8032",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Deep Learner",
+	x: -11.5d,
+	y: 3.0d,
+	text: [
+		"Tracks kills and records them to an appropriate installed data model."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "873de69f",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "caea52b5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -3.5d,
+	y: -5.5d,
+	text: [
+		"Captures and stores the power of a lightning strike."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e4cbe1ff",
+		type: "observation",
+		title: "Lightning Rod",
+		icon: "immersiveengineering:metal_multiblock 1 14",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:lightningrod",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "a12b819c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

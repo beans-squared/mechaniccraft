@@ -1,0 +1,28 @@
+{
+	title: "Cooking Table",
+	x: -1.0d,
+	y: -2.5d,
+	description: "Prepare food like a proffessional chef.",
+	text: [
+		"Provides similar functionality as the cookbook, but is able to access all ingredients stored in a multiblock kitchen, including items in cabinets, refridgerators, fruit bowls, etc."
+	],
+	dependencies: [
+		"65f3c95f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cf742c71",
+		type: "item",
+		title: "Craft a Cooking Table",
+		items: [{
+			item: "cookingforblockheads:cooking_table"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "e34d1009",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

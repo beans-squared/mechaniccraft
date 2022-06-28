@@ -1,0 +1,23 @@
+{
+	title: "Jerrycan",
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"Carries a large amount of fluid. Can pick up but not place fluids in-world."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2a9e73d0",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:jerrycan"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ed4ec2ab",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

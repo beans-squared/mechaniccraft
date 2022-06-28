@@ -1,0 +1,33 @@
+{
+	title: "Network Storage",
+	x: 10.5d,
+	y: 1.5d,
+	text: [
+		"Stores items in a network."
+	],
+	dependencies: [
+		"427e6b6b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a5d11204",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_disk"
+		},
+		{
+			item: "refinedstorage:storage"
+		},
+		{
+			item: "refinedstorage:fluid_storage_disk"
+		},
+		{
+			item: "refinedstorage:fluid_storage"
+		}]
+	}],
+	rewards: [{
+		uid: "27c5915b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

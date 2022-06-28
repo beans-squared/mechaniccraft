@@ -1,0 +1,29 @@
+{
+	title: "Traps",
+	x: -5.0d,
+	y: 3.5d,
+	description: "I'm a trapper!",
+	text: [
+		"Generates animal products when provided with bait.",
+		"",
+		"Disclaimer: does not actually trap animals."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d4e7f9be",
+		type: "item",
+		title: "Craft any kind of trap",
+		items: [{
+			item: "harvestcraft:groundtrap"
+		},
+		{
+			item: "harvestcraft:watertrap"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "cd884878",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

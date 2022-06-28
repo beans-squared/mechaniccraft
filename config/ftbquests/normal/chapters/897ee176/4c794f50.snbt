@@ -1,0 +1,55 @@
+{
+	title: "High Voltage Wiring",
+	x: -1.5d,
+	y: -3.5d,
+	text: [
+		"Transfers power.",
+		"",
+		"The HV transformer allows the changing of a high voltage line into a lower voltage (LV or MV) or vice versa.",
+		"",
+		"High voltage coils have a maximum transfer rate of 32768 FE/t per line. Connectors can transfer up to 4096 FE/t.",
+		"",
+		"High voltage coils have a power loss ratio of 2.5%."
+	],
+	dependencies: [
+		"d0608754"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7d98df43",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 2"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "751744fb",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 4"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "ade7f820",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 5"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "0cb2e013",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 8"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "0d699ea8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

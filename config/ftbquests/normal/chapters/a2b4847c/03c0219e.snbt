@@ -1,0 +1,24 @@
+{
+	title: "Blast Furnace Preheater",
+	x: -1.0d,
+	y: 5.0d,
+	text: [
+		"Speeds up the improved blast furnace."
+	],
+	dependencies: [
+		"9b5a298d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8185ce3d",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1"
+		}]
+	}],
+	rewards: [{
+		uid: "db19cad7",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

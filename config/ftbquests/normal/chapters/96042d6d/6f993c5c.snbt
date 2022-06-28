@@ -1,0 +1,24 @@
+{
+	title: "Shipping Container",
+	x: 8.0d,
+	y: -2.5d,
+	text: [
+		"Stores a lot of one item."
+	],
+	dependencies: [
+		"8394cd0d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d08406ea",
+		type: "item",
+		items: [{
+			item: "magneticraft:container"
+		}]
+	}],
+	rewards: [{
+		uid: "704a5cdc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

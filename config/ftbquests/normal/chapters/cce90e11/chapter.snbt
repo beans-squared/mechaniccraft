@@ -1,0 +1,7 @@
+{
+	title: "Farming",
+	icon: "harvestcraft:spiceleafseeditem",
+	always_invisible: false,
+	group: 1512937028,
+	default_quest_shape: "rsquare"
+}

@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: 5.0d,
+	text: [
+		"Distills water. Distilled water has better efficiency in steam production."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a44722e7",
+		type: "observation",
+		title: "Distiller",
+		icon: "immersivetech:metal_multiblock",
+		match_type: "block_entity_id",
+		match: "immersivetech:distillermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "82d6755c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

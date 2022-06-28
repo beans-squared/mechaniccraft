@@ -1,0 +1,24 @@
+{
+	title: "Wireless Transmitter",
+	x: 9.0d,
+	y: -3.0d,
+	text: [
+		"Transmits a wireless network signal for use by wireless grids."
+	],
+	dependencies: [
+		"8f14d1ec"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "09f219f7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_transmitter"
+		}]
+	}],
+	rewards: [{
+		uid: "6ba9eb44",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

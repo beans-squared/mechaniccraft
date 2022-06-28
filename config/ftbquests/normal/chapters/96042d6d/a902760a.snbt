@@ -1,0 +1,24 @@
+{
+	title: "Labeled Crate",
+	x: 0.5d,
+	y: -4.0d,
+	text: [
+		"Stores items. Features a built-in item frame for visual categorization."
+	],
+	dependencies: [
+		"d5e02294"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5789ba74",
+		type: "item",
+		items: [{
+			item: "engineersdecor:labeled_crate"
+		}]
+	}],
+	rewards: [{
+		uid: "3db87890",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,97 @@
+{
+  "discordid": 726535589259902977,
+  "enabled": true,
+  "debugging": false,
+  "version": 5,
+  "init": {
+    "enabled": true,
+    "state": "Game loading",
+    "description": "",
+    "largeImageKey": "logo-cold",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "main_menu": {
+    "enabled": true,
+    "state": "Main Menu",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "server_list": {
+    "enabled": true,
+    "state": "In Multiplayer Menu",
+    "description": "Browsing server list",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "single_player": {
+    "enabled": true,
+    "state": "Playing singleplayer",
+    "description": "In %world%",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false
+  },
+  "multi_player": {
+    "enabled": true,
+    "state": "Playing on %servername%",
+    "description": "Players: %players%/%maxplayers%",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed",
+    "allowSpectate": false,
+    "allowJoin": false
+  },
+  "join_game": {
+    "enabled": true,
+    "state": "Joining game",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "generic": {
+    "state": "Playing Minecraft",
+    "description": "",
+    "largeImageKey": "logo_hot",
+    "largeImageText": "Minecraft Forge %mcver%",
+    "smallImageKey": "",
+    "smallImageText": "%mods% mods installed"
+  },
+  "world_images": {
+    "enabled": false,
+    "worlds": [
+      {
+        "worldname": "overworld",
+        "largeImageKey": "overworld",
+        "largeImageText": "In the Overworld",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      },
+      {
+        "worldname": "the_nether",
+        "largeImageKey": "nether",
+        "largeImageText": "In the Nether",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      },
+      {
+        "worldname": "the_end",
+        "largeImageKey": "end",
+        "largeImageText": "In the End",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      }
+    ]
+  }
+}

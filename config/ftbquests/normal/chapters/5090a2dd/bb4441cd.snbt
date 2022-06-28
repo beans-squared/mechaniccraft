@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "5f62691c",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wirecoil 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "9047ca3b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

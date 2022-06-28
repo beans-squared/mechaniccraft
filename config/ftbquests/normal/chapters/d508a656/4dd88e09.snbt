@@ -1,0 +1,26 @@
+{
+	title: "Drones",
+	x: 5.5d,
+	y: 2.5d,
+	text: [
+		"Summons a small drone that attacks nearby enemies."
+	],
+	dependencies: [
+		"14d62f59"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6808bb02",
+		type: "item",
+		items: [{
+			item: "drones:drone_constructor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3099b735",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

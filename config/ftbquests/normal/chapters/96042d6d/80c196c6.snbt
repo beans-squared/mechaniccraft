@@ -1,0 +1,24 @@
+{
+	title: "Inserter",
+	x: -4.0d,
+	y: 2.5d,
+	text: [
+		"Moves items from one area to another."
+	],
+	dependencies: [
+		"14227302"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e7ac7fd4",
+		type: "item",
+		items: [{
+			item: "magneticraft:inserter"
+		}]
+	}],
+	rewards: [{
+		uid: "0781adde",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

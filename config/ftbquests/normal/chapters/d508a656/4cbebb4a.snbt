@@ -1,0 +1,28 @@
+{
+	title: "Mining Drill",
+	x: -0.5d,
+	y: -2.5d,
+	text: [
+		"Digs through stone and dirt at an accelerated rate and larger working area."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "07c72699",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 5,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:drill"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4315076e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

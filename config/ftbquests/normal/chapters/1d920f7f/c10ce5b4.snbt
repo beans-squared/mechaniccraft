@@ -1,0 +1,25 @@
+{
+	title: "Wireless Crafting Grid",
+	x: 13.5d,
+	y: -4.5d,
+	text: [
+		"Wireless verison of a crafting grid."
+	],
+	dependencies: [
+		"d49de1b9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "05cc9b40",
+		type: "item",
+		items: [{
+			item: "refinedstorageaddons:wireless_crafting_grid 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "41e175d0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

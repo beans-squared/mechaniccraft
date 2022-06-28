@@ -1,0 +1,12 @@
+{
+	title: "Landing Zone",
+	icon: {
+		id: "ftbquests:custom_icon",
+		tag: {
+			icon: "mechaniccraft:icons/icon.png"
+		}
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

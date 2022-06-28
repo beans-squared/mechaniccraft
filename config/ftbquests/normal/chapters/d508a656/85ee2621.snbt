@@ -1,0 +1,21 @@
+{
+	title: "Airlock",
+	x: -3.5d,
+	y: -2.5d,
+	text: [
+		"Clears and removes water."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "dcde980b",
+		type: "item",
+		items: [{
+			item: "magneticraft:airlock"
+		}]
+	}],
+	rewards: [{
+		uid: "e9653321",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

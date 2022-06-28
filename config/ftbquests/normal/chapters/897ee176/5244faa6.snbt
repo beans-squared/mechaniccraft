@@ -1,0 +1,45 @@
+{
+	title: "Alternating Flux Wiring",
+	x: 1.5d,
+	y: -3.5d,
+	text: [
+		"Alternating Flux is a special kind of current with high voltage and low power loss over distance, with the drawback being that you cannot power machines directly using AF. Not to mention you die instantly on contact with an AF wire.",
+		"",
+		"Alternating flux coils have a maximum transfer rate of 131072 FE/t. There are no AF connectors.",
+		"",
+		"Alternating flux coils have a power loss ratio of approximately 0.2%."
+	],
+	dependencies: [
+		"4c794f50"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c7b8341d",
+		type: "item",
+		items: [{
+			item: "alternatingflux:wirecoil"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "e743d27a",
+		type: "item",
+		items: [{
+			item: "alternatingflux:connector"
+		}],
+		consume_items: false
+	},
+	{
+		uid: "cdc13e5c",
+		type: "item",
+		items: [{
+			item: "alternatingflux:connector 1 1"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "8e5effe2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

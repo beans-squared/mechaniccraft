@@ -1,0 +1,26 @@
+{
+	title: "Steel Tank",
+	x: 6.5d,
+	y: -6.0d,
+	text: [
+		"Stores twice the fluid amount as the tank."
+	],
+	dependencies: [
+		"dfdc35ba"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "abceaf19",
+		type: "observation",
+		title: "Steel Tank",
+		icon: "immersivetech:metal_multiblock 1 12",
+		match_type: "block_entity_id",
+		match: "immersivetech:steelsheetmetaltankmaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "33f95ae8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

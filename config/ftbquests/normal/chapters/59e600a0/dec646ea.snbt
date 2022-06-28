@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -0.5d,
+	text: [
+		"Harnesses the rotational power of a windmill or water wheel to generate power."
+	],
+	dependencies: [
+		"acdf3129",
+		"ff038989"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c0468cc5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "e0de2997",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Metal Barrel",
+	x: -2.5d,
+	y: -6.0d,
+	text: [
+		"Stores fluids. Able to store hot fluids like lava."
+	],
+	dependencies: [
+		"1a1802a0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bbfa5fd8",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0 1 4"
+		}]
+	},
+	{
+		uid: "814e187e",
+		type: "item",
+		items: [{
+			item: "immersivetech:metal_barrel 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "db1119d9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

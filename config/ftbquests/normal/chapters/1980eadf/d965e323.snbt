@@ -1,0 +1,32 @@
+{
+	title: "Engineer's Skyhook",
+	x: -0.5d,
+	y: -0.5d,
+	text: [
+		"Allows fast transport along suspended wires."
+	],
+	dependencies: [
+		"92c6fedf"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "da21f9f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:skyhook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9f43b56c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Tool Rack",
+	x: 2.5d,
+	y: 0.5d,
+	description: "an interesting subtitle",
+	text: [
+		"Holds cooking tools like the juicer and mixing bowl. Can be accessed by a cooking table."
+	],
+	dependencies: [
+		"f06b5070"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "15874d28",
+		type: "item",
+		title: "Craft a Tool Rack",
+		items: [{
+			item: "cookingforblockheads:tool_rack"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "ab4e63ac",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

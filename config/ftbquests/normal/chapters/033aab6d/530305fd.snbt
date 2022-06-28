@@ -1,0 +1,26 @@
+{
+	title: "Gas Turbine",
+	x: 2.0d,
+	y: -2.5d,
+	text: [
+		"Burns liquid fuels to generate rotational power. Produces COGAS as a byproduct."
+	],
+	dependencies: [
+		"1c631280"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "04c45edc",
+		type: "observation",
+		title: "Gas Turbine",
+		icon: "immersivetech:metal_multiblock1",
+		match_type: "block_entity_id",
+		match: "immersivetech:gasturbinemaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "46e07b54",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

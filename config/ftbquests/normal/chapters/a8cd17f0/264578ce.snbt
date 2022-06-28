@@ -1,0 +1,78 @@
+{
+	title: "MAX adds furnace blueprint",
+	icon: "minecraft:furnace",
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "04b36f98",
+		type: "item",
+		title: "anyCookableItem",
+		items: [{
+			item: "minecraft:porkchop"
+		},
+		{
+			item: "minecraft:fish"
+		},
+		{
+			item: "minecraft:fish 1 1"
+		},
+		{
+			item: "minecraft:beef"
+		},
+		{
+			item: "minecraft:chicken"
+		},
+		{
+			item: "minecraft:rabbit"
+		},
+		{
+			item: "minecraft:mutton"
+		},
+		{
+			item: "primitivemobs:dodo"
+		},
+		{
+			item: "harvestcraft:calamarirawitem"
+		},
+		{
+			item: "harvestcraft:turkeyrawitem"
+		},
+		{
+			item: "harvestcraft:venisonrawitem"
+		},
+		{
+			item: "harvestcraft:duckrawitem"
+		},
+		{
+			item: "minecraft:gold_ore"
+		},
+		{
+			item: "minecraft:iron_ore"
+		},
+		{
+			item: "immersiveengineering:ore"
+		},
+		{
+			item: "immersiveengineering:ore 1 1"
+		},
+		{
+			item: "immersiveengineering:ore 1 2"
+		},
+		{
+			item: "immersiveengineering:ore 1 3"
+		},
+		{
+			item: "immersiveengineering:ore 1 4"
+		},
+		{
+			item: "immersiveengineering:ore 1 5"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "61915a43",
+		type: "command",
+		auto: "invisible",
+		command: "/tellraw @p [\"\",{\"text\":\"M.A.X.\",\"color\":\"dark_blue\"},{\"text\":\": You have obtained an item which requires heat processing to become useful to you. A blueprint for a crude smelting device has been added to your database.\"}]"
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Insulated Heat Pipe",
+	x: -2.5d,
+	y: -1.5d,
+	text: [
+		"Transfers heat. Prevents burn damage on contact."
+	],
+	dependencies: [
+		"56207fa5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "91e39b7d",
+		type: "item",
+		items: [{
+			item: "magneticraft:insulated_heat_pipe"
+		}]
+	}],
+	rewards: [{
+		uid: "88dc8bb6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

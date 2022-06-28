@@ -1,0 +1,28 @@
+{
+	title: "Apiary",
+	x: -3.0d,
+	y: 3.5d,
+	description: "Don't forget your beesuit.",
+	text: [
+		"Generates bee products over time when provided with a queen bee."
+	],
+	dependencies: [
+		"90cd2c7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "61486be8",
+		type: "item",
+		title: "Craft an Apiary",
+		items: [{
+			item: "harvestcraft:apiary"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "8eda98a3",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

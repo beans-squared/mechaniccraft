@@ -1,0 +1,26 @@
+{
+	title: "Assembler",
+	x: -5.5d,
+	y: -3.0d,
+	text: [
+		"Autocraft items."
+	],
+	dependencies: [
+		"5fee0ff9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "20c3d020",
+		type: "observation",
+		title: "Assembler",
+		icon: "immersiveengineering:metal_multiblock 1 4",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:assembler",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "46a4cefc",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

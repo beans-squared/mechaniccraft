@@ -1,0 +1,20 @@
+{
+	"name": "Creeper",
+	"icon": "minecraft:skull:4",
+	"category": "patchouli:indigenous",
+	"pages": [
+		{
+			"type": "text",
+			"text": "A silent and difficult to spot quadruped found natively inhabiting grasslands and forests. $(br2) 1. Explosive Fuse $(br) A cerebral-controlled explosive located in the lower midsection provides an powerful deterant to god knows what. AI still cannot determine what could have caused this evolutionary trait to"
+		},
+		{
+			"type": "entity",
+			"entity": "minecraft:creeper",
+			"text": "emerge, as it provides no repoductive advantage."
+		},
+		{
+			"type": "text",
+			"text": "2. Legs $(br) Four extremely short but strong legs provide the creeper with slow but nearly silent movement over any natural terrain, including leaves and twigs. $(br2) Assessment: Avoid or eliminate from a distance"
+		}
+	]
+}

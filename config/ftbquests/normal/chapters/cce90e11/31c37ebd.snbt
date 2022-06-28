@@ -1,0 +1,26 @@
+{
+	title: "Small Tree Cutter",
+	x: -2.5d,
+	y: 0.0d,
+	description: "Chop chop.",
+	text: [
+		"Cuts down trees in front of it. Functions without power, but will operate faster if so. Does not collect drops from trees."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b8ac92cb",
+		type: "item",
+		title: "Craft: Small Tree Cutter",
+		items: [{
+			item: "engineersdecor:small_tree_cutter"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "16871f6c",
+		type: "ftbmoney:money",
+		ftb_money: 25L,
+		random_bonus: 5
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Industrial Combustion Chamber",
+	x: -2.5d,
+	y: 0.5d,
+	text: [
+		"Burns solid or liquid fuels to generate heat."
+	],
+	dependencies: [
+		"f792ebee"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6b7feb95",
+		type: "item",
+		items: [{
+			item: "magneticraft:big_combustion_chamber"
+		}]
+	}],
+	rewards: [{
+		uid: "efea4581",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

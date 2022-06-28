@@ -1,0 +1,21 @@
+{
+	title: "Purified Water",
+	x: -6.0d,
+	y: -3.0d,
+	text: [
+		"Clean drinking water."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "19cc63c4",
+		type: "item",
+		items: [{
+			item: "toughasnails:purified_water_bottle"
+		}]
+	}],
+	rewards: [{
+		uid: "03a6d404",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

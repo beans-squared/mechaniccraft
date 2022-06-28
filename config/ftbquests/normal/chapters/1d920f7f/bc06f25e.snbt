@@ -1,0 +1,31 @@
+{
+	title: "Long Distance Networks",
+	x: 12.0d,
+	y: -3.0d,
+	text: [
+		"Transmits a network signal vast distances, including across dimensions."
+	],
+	dependencies: [
+		"829194de"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2502ed72",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_transmitter"
+		}]
+	},
+	{
+		uid: "2ccd7274",
+		type: "item",
+		items: [{
+			item: "refinedstorage:network_receiver"
+		}]
+	}],
+	rewards: [{
+		uid: "c7342be1",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

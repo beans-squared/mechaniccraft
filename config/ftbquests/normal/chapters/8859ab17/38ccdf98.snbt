@@ -1,0 +1,28 @@
+{
+	title: "Gas Concrete",
+	x: 7.0d,
+	y: -2.0d,
+	description: "Gas, gas!",
+	text: [
+		"Cheaper, but less sturdy than standard concrete."
+	],
+	dependencies: [
+		"e9c407fe"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "dc242126",
+		type: "item",
+		title: "Craft Gas Concrete",
+		items: [{
+			item: "engineersdecor:gas_concrete"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "5f3862aa",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

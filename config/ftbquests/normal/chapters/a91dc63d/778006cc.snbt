@@ -1,0 +1,28 @@
+{
+	title: "Toaster",
+	x: 2.0d,
+	y: -1.5d,
+	description: "Ding!",
+	text: [
+		"Creates twice-baked bread."
+	],
+	dependencies: [
+		"06f0e24c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "20b9f5d3",
+		type: "item",
+		title: "Craft a Toaster",
+		items: [{
+			item: "cookingforblockheads:toaster"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "b120dd79",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Windvane",
+	x: -4.0d,
+	y: 1.0d,
+	text: [
+		"Measure where da wind go."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "869b636a",
+		type: "item",
+		items: [{
+			item: "weather2:wind_vane"
+		}]
+	}],
+	rewards: [{
+		uid: "5838dc1e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

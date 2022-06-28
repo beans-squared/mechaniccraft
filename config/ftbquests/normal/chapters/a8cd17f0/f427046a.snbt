@@ -1,0 +1,18 @@
+{
+	title: "1. Max detects vitals",
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2104d039",
+		type: "stat",
+		title: "Max detects vitals",
+		stat: "stat.playOneMinute",
+		value: 200
+	}],
+	rewards: [{
+		uid: "1de05a99",
+		type: "command",
+		auto: "invisible",
+		command: "/tellraw @p [\"\",{\"text\":\"<\"},{\"text\":\"M.A.X.\",\"color\":\"blue\"},{\"text\":\"> \"},{\"text\":\"Vital signs detected. Initializing hostile environment survival advising routine...\"}]"
+	}]
+}

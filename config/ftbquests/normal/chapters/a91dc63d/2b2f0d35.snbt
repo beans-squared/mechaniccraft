@@ -1,0 +1,28 @@
+{
+	title: "Kitchen Cabinet",
+	x: 2.5d,
+	y: -2.5d,
+	description: "Gonna need a stepladder.",
+	text: [
+		"Holds food items. Can be accessed by a cooking table."
+	],
+	dependencies: [
+		"e942a250"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3d97f7c4",
+		type: "item",
+		title: "Craft a Kitchen Cabinet",
+		items: [{
+			item: "cookingforblockheads:cabinet"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "a83d49f5",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

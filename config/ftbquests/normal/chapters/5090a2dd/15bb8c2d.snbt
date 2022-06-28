@@ -1,0 +1,21 @@
+{
+	title: "Treated Wood Crafting Table",
+	x: -11.5d,
+	y: -3.0d,
+	text: [
+		"Crafting table with some quality of life features."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1b0967a6",
+		type: "item",
+		items: [{
+			item: "engineersdecor:treated_wood_crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "39543dfa",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

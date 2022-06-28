@@ -1,0 +1,31 @@
+{
+	title: "Interfaces",
+	x: 16.5d,
+	y: -1.5d,
+	text: [
+		"Provides similar functionality as an importer/exporter."
+	],
+	dependencies: [
+		"fb5215c5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "28ab9ff1",
+		type: "item",
+		items: [{
+			item: "refinedstorage:interface"
+		}]
+	},
+	{
+		uid: "387cf6e5",
+		type: "item",
+		items: [{
+			item: "refinedstorage:fluid_interface"
+		}]
+	}],
+	rewards: [{
+		uid: "6fd2a60b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

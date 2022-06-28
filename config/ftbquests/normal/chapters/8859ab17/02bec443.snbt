@@ -1,0 +1,28 @@
+{
+	title: "Stained Clinker Bricks",
+	x: 5.0d,
+	y: 0.5d,
+	description: "It'll wash off.",
+	text: [
+		"Clinker bricks with a small texture variation."
+	],
+	dependencies: [
+		"3edb2f3b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "16757ce5",
+		type: "item",
+		title: "Craft Stained Clinker Bricks",
+		items: [{
+			item: "engineersdecor:clinker_brick_stained_block"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "7fd4e29b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

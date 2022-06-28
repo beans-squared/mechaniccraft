@@ -1,0 +1,24 @@
+{
+	title: "Small Fluid Collection Funnel",
+	x: 3.5d,
+	y: 4.0d,
+	text: [
+		"Collects water from water sources. Does not require power."
+	],
+	dependencies: [
+		"fd12d57f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ba2b2544",
+		type: "item",
+		items: [{
+			item: "engineersdecor:small_fluid_funnel"
+		}]
+	}],
+	rewards: [{
+		uid: "1eb775cf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

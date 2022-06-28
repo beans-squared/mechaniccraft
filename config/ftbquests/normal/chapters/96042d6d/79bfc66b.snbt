@@ -1,0 +1,26 @@
+{
+	title: "Tank",
+	x: 0.5d,
+	y: -6.0d,
+	text: [
+		"Stores a large amount of fluid."
+	],
+	dependencies: [
+		"1ec73e20"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "db1716fe",
+		type: "observation",
+		title: "Tank",
+		icon: "immersiveengineering:metal_multiblock 1 2",
+		match_type: "block_entity_id",
+		match: "immersiveengineering:sheetmetaltank",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "f668a439",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

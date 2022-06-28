@@ -1,0 +1,28 @@
+{
+	title: "Oven",
+	x: 0.5d,
+	y: -1.5d,
+	description: "Fahrenheit 451",
+	text: [
+		"Faster and more fuel-efficient way of cooking food items than using a stone furnace. Comes with pot and pan storage!"
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ae0c51e1",
+		type: "item",
+		title: "Craft an Oven",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "320bef9d",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

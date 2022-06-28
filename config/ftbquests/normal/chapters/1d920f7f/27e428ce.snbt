@@ -1,0 +1,24 @@
+{
+	title: "Security Manager",
+	x: 12.0d,
+	y: 6.0d,
+	text: [
+		"Restricts access to a network."
+	],
+	dependencies: [
+		"0275f405"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b134e334",
+		type: "item",
+		items: [{
+			item: "refinedstorage:security_manager"
+		}]
+	}],
+	rewards: [{
+		uid: "9cee931e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

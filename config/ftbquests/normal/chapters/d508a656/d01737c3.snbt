@@ -1,0 +1,23 @@
+{
+	title: "Maintenence Kit",
+	x: 5.5d,
+	y: -2.5d,
+	text: [
+		"Allows modification of tools on the go."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "33531ce4",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:maintenance_kit"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cf111119",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

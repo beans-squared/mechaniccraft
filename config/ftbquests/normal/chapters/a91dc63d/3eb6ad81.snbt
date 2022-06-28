@@ -1,0 +1,29 @@
+{
+	title: "Ice Unit",
+	x: 3.0d,
+	y: -0.5d,
+	description: "Subzero",
+	text: [
+		"Allows the fridge to provide snow and ice to recipes that need it."
+	],
+	dependencies: [
+		"278dfe94"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "95e25ae3",
+		type: "item",
+		title: "Craft an Ice Unit",
+		items: [{
+			item: "cookingforblockheads:ice_unit"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "53b77d2f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

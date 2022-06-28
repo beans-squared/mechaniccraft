@@ -1,0 +1,29 @@
+{
+	x: -3.5d,
+	y: 0.5d,
+	text: [
+		"Generates heat using the sun."
+	],
+	dependencies: [
+		"83125264"
+	],
+	tasks: [{
+		uid: "c8780e4b",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_tower"
+		}]
+	},
+	{
+		uid: "32b3fc0d",
+		type: "item",
+		items: [{
+			item: "magneticraft:solar_mirror"
+		}]
+	}],
+	rewards: [{
+		uid: "ebc1f414",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

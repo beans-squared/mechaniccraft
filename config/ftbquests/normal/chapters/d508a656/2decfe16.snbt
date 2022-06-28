@@ -1,0 +1,24 @@
+{
+	title: "Traveler's Backpack",
+	x: -6.5d,
+	y: 0.0d,
+	text: [
+		"Carries excess items. Features a integrated crafting table, dedicated tool slots, and deployable sleeping bag.",
+		"",
+		"Items stored in a backpack will be kept safe inside the pack on death."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0b3a293b",
+		type: "item",
+		items: [{
+			item: "travelersbackpack:travelers_backpack"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7a22133e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

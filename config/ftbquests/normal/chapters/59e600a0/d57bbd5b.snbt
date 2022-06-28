@@ -1,0 +1,25 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	text: [
+		"Recyles exhaust steam into regular steam."
+	],
+	dependencies: [
+		"a2c70689"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e5dfe2d4",
+		type: "observation",
+		title: "Cooling Tower",
+		icon: "immersivetech:metal_multiblock 1 14",
+		match_type: "block_entity_id",
+		match: "immersivetech:coolingtowermaster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "fc28f75f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Pumpjack",
+	x: -5.5d,
+	y: -1.0d,
+	text: [
+		"Large mechanical pump that extracts fluids from beneath the bedrock."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98045b46",
+		type: "observation",
+		title: "Pumpjack",
+		icon: "immersivepetroleum:schematic",
+		match_type: "block_entity_id",
+		match: "immersivepetroleum:pumpjack",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9ba1349f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

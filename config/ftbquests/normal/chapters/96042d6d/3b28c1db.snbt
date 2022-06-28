@@ -1,0 +1,24 @@
+{
+	title: "Shelving Unit",
+	x: 2.0d,
+	y: -2.5d,
+	text: [
+		"Provides storage functionality using chests. Includes a search bar and level-sorting features."
+	],
+	dependencies: [
+		"a902760a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cf583e6f",
+		type: "item",
+		items: [{
+			item: "magneticraft:shelving_unit"
+		}]
+	}],
+	rewards: [{
+		uid: "585598eb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

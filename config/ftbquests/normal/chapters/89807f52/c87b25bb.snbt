@@ -1,0 +1,21 @@
+{
+	title: "Campfire",
+	x: -6.0d,
+	y: -1.0d,
+	text: [
+		"Provides light, warmth and a place to cook your food. What's not to like?"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8d72e883",
+		type: "item",
+		items: [{
+			item: "toughasnails:campfire"
+		}]
+	}],
+	rewards: [{
+		uid: "25d0e559",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

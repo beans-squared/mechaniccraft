@@ -1,0 +1,27 @@
+{
+	title: "Capacitor Backpack",
+	x: -4.5d,
+	y: -6.5d,
+	text: [
+		"Stores up to 100,000 FE usable by various powered handheld devices, such as a railgun."
+	],
+	dependencies: [
+		"35fcdef6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e7988cd5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:powerpack"
+		}],
+		consume_items: false,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1f46826c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

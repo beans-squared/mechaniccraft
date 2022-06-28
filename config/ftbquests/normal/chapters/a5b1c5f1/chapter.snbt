@@ -1,0 +1,10 @@
+{
+	title: "Lighting",
+	icon: "immersiveengineering:metal_device1 1 4",
+	description: [
+		"Fear is what hides in the darkness..."
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

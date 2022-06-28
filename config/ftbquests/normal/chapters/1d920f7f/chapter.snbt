@@ -1,0 +1,7 @@
+{
+	title: "Digital Logistics",
+	icon: "refinedstorage:disk_drive",
+	always_invisible: false,
+	group: 94072266,
+	default_quest_shape: ""
+}

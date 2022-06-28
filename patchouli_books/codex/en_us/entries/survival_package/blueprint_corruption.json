@@ -1,0 +1,11 @@
+{
+	"name": "ERROR: DB:CORR-404",
+	"icon": "minecraft:stone",
+	"category": "patchouli:survival_package",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Damage has been detected on your PDA's hard drive and as a result, 83% of your equipment blueprints have been corrupted. Blueprints can be re-aquired by locating a functioning version of the technology, or by finding fragments of the blueprint which will be pieced together by your PDA's onboard AI."
+		}
+	]
+}

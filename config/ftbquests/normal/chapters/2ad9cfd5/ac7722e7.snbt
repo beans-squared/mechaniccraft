@@ -1,0 +1,24 @@
+{
+	title: "Severe Weather Siren",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		"WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+	],
+	dependencies: [
+		"98b6ffb8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "35d27cc6",
+		type: "item",
+		items: [{
+			item: "weather2:tornado_siren"
+		}]
+	}],
+	rewards: [{
+		uid: "2aecbb31",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: -1.5d,
+	text: [
+		"Generates rotational power based on wind speed.",
+		"",
+		"Can be upgraded with sails to increase production."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "447d32ed",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "438a9c87",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

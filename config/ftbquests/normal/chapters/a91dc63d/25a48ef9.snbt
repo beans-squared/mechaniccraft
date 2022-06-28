@@ -1,0 +1,28 @@
+{
+	title: "Milk Jar",
+	x: -0.5d,
+	y: -5.5d,
+	description: "Who stores milk in a jar??",
+	text: [
+		"Provides milk to cooking recipes."
+	],
+	dependencies: [
+		"c2aec88b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "054a246e",
+		type: "item",
+		title: "Craft a Milk Jar",
+		items: [{
+			item: "cookingforblockheads:milk_jar"
+		}],
+		consume_items: false,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "245f6cd4",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

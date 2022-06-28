@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: -5.0d,
+	text: [
+		"Stores up to 4,000,000 FE. Outputs up to 4096 FE/t."
+	],
+	dependencies: [
+		"dc7de701"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6e672bf7",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device0 1 2"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "6bee9465",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

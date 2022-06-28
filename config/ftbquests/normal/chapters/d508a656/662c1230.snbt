@@ -1,0 +1,24 @@
+{
+	title: "Chemthrower Turret",
+	x: 4.0d,
+	y: 4.0d,
+	text: [
+		"Everything is on fire now. Are you happy?"
+	],
+	dependencies: [
+		"14d62f59"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6c32ceaa",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal_device1 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "bb918cca",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

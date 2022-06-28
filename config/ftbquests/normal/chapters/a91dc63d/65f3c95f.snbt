@@ -1,0 +1,29 @@
+{
+	title: "Cooking for Blockheads II",
+	x: -3.0d,
+	y: -2.5d,
+	description: "Craft cooking recipes.",
+	text: [
+		"A more advanced cookbook that allows direct crafting of food items from ingredients in your inventory."
+	],
+	dependencies: [
+		"fbef0e6e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0dcbfddb",
+		type: "item",
+		title: "Craft Cooking for Blockheads II",
+		items: [{
+			item: "cookingforblockheads:recipe_book 1 2"
+		}],
+		consume_items: false,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "ccd06c97",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

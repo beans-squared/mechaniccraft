@@ -1,0 +1,24 @@
+{
+	title: "Pattern Grid",
+	x: 15.0d,
+	y: 0.0d,
+	text: [
+		"Grid with the ability to define patterns, which are used to facilitate autocrafting."
+	],
+	dependencies: [
+		"c36b1eb3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3c886fb9",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "71469452",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

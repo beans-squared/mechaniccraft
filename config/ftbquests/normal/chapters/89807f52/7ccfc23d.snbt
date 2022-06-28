@@ -1,0 +1,21 @@
+{
+	title: "Cooling Coil",
+	x: -3.0d,
+	y: 1.0d,
+	text: [
+		"Provides cooling to a wide indoor area."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e320aa1d",
+		type: "item",
+		items: [{
+			item: "toughasnails:temperature_coil"
+		}]
+	}],
+	rewards: [{
+		uid: "bee53b88",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

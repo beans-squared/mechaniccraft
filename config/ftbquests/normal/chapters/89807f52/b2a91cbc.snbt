@@ -1,0 +1,25 @@
+{
+	title: "Temperature Regulator",
+	x: 3.0d,
+	y: 0.0d,
+	text: [
+		"Maintains a pleasant 69 degrees at all times."
+	],
+	dependencies: [
+		"8bc26b6b",
+		"8ea1c020"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1f0fbd0a",
+		type: "item",
+		items: [{
+			item: "tanaddons:temp_regulator"
+		}]
+	}],
+	rewards: [{
+		uid: "f8ec3a3e",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

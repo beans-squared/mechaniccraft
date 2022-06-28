@@ -1,0 +1,29 @@
+{
+	title: "Heavy Plated Shield",
+	x: -6.5d,
+	y: 2.5d,
+	text: [
+		"Shield with better durability and space for upgrades."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e87a872d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 1,
+					Items: []
+				}
+			},
+			id: "immersiveengineering:shield"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7894e6b2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

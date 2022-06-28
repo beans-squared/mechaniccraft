@@ -1,0 +1,23 @@
+{
+	title: "Ear Defenders",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"Reduces the sound from machines. Customizable and configurable."
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d61cd776",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:earmuffs"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "188cc5e9",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}
