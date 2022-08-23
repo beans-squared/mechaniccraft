@@ -15,7 +15,7 @@ MechanicCraft is primarily a tech modpack, featuring many popular and tried-and-
 ## :sparkles: Features
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
-MechanicCraft is currently in **public beta**. This means that the modpack is stable enough to be played, but is not completely finished and may be missing simple features that are currently in active development, or are planned for later implementation. Here is a list of the (mostly) complete features:
+MechanicCraft is currently in **public beta**. This means that the modpack is stable enough to be played, but is not completely finished and may be missing simple features that are planned for later implementation. Here is a list of the (mostly) complete features:
 - Core gameplay mods (the mods that will form the majority of the gameplay)
 - Decent performace (there are lots of performance improvements, I don't have specific numbers but I will at some point)
 - Quality of life (things like mouse tweaks, improved keybindings, etc)
@@ -56,7 +56,7 @@ Get yourself an easy MechanicCraft server today: https://www.bisecthosting.com/b
 ## :sparkling_heart: Supporting
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-MechanicCraft is currently in active development under the creative direction of the Guildmasters, a development team currently only comprised of a single member, beansquared. beansquared is a full time university student studying computer science in the United States. As such, any monetary contributions you feel are appropriate to make will be greatly appreciated and will make beansquared very happy. beansquared will now stop talking in the third person because that's kind of weird.
+MechanicCraft is developed under the creative direction of the Guildmasters, a development team currently only comprised of a single member, beansquared. beansquared is a full time university student studying computer science in the United States. As such, any monetary contributions you feel are appropriate to make will be greatly appreciated and will make beansquared very happy. beansquared will now stop talking in the third person because that's kind of weird.
 
 - [BuyMeACoffee](https://www.buymeacoffee.com/beansquared)
 
