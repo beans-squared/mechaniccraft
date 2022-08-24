@@ -46,7 +46,3 @@ geneticsreborn:growth
 geneticsreborn:mutation
 geneticsreborn:viral
 geneticsreborn:cure
-techguns:radpotion
-techguns:radpotion_severe
-techguns:radregenerationpotion
-techguns:radresistancepotion

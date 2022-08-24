@@ -21,6 +21,8 @@ dumps/
 /.curseclient
 /concheckrmd
 /crafttweaker.log
+instance.json
+instance.png
 /knownkeys.txt
 /minecraftinstance.json
 /options.txt

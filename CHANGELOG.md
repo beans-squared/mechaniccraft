@@ -1,3 +1,32 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.17.0] - 2022-08-24
+
+This update contains potentially breaking changes. It is recommended that you back up your worlds before loading them up.
+
+### Removed
+- Mod: Вращение Земли Майнкрафтская (Accurate day/night-cycles Mod)
+- Mod: Alternating Flux
+- Mod: Born in a Barn
+- Mod: Epic Siege Mod
+- Mod: FTB Library
+- Mod: FTB Money
+- Mod: FTB Quests
+- Mod: FTB Utilities
+- Mod: Just Enough Harvestcraft
+- Mod: Macaw's Bridges
+- Mod: Macaw's Roofs
+- Mod: Macaw's Windows
+- Mod: Pam's Harvestcraft
+- Mod: Techguns
+- Mod: Viescraft: Airships
+- Mod: Visuals
+- Mod: Water Control Extreme
+
 ## CHANGELOG for MechanicCraft 0.16.1.2 (06.28.2022)
 
 Very small patch to fix a softlock in progression in the early game.

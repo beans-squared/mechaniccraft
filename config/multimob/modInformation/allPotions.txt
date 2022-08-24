@@ -62,6 +62,3 @@ betterwithmods:fortune
 betterwithmods:looting
 betterwithmods:slow_fall
 conarm:superhotpotion
-techguns:radiation
-techguns:radresistance
-techguns:radregeneration
